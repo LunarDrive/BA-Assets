@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4h3eec0bqns"
-path="res://.godot/imported/EnemyInfo_Utaha_SMG.png-1128acbc3a952142f34d013c67f35aa2.ctex"
+path="res://.godot/imported/EnemyInfo_Utaha_SMG.png-4e93c1d9e23953e921d370dadf797829.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Utaha_SMG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Utaha_SMG.png-1128acbc3a952142f34d013c67f35aa2.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Utaha_SMG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Utaha_SMG.png-4e93c1d9e23953e921d370dadf797829.ctex"]
 
 [params]
 

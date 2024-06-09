@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dndsllljfd2bo"
-path="res://.godot/imported/Imgfont_UICountdown_2nd_NinjutsuResearchClub_Kr.png-235ee7bbe614fe89debed13ff684f823.ctex"
+path="res://.godot/imported/Imgfont_UICountdown_2nd_NinjutsuResearchClub_Kr.png-f3f3cfd6f11325453d9b6cc30e6fd676.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/UICountdown_2nd/Imgfont_UICountdown_2nd_NinjutsuResearchClub_Kr.png"
-dest_files=["res://.godot/imported/Imgfont_UICountdown_2nd_NinjutsuResearchClub_Kr.png-235ee7bbe614fe89debed13ff684f823.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/UICountdown_2nd/Imgfont_UICountdown_2nd_NinjutsuResearchClub_Kr.png"
+dest_files=["res://.godot/imported/Imgfont_UICountdown_2nd_NinjutsuResearchClub_Kr.png-f3f3cfd6f11325453d9b6cc30e6fd676.ctex"]
 
 [params]
 

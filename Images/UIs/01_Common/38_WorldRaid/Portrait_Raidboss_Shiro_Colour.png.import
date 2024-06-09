@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b07wqil67dytd"
-path="res://.godot/imported/Portrait_Raidboss_Shiro_Colour.png-65bc6aa06b9dd81706511767321b6c68.ctex"
+path="res://.godot/imported/Portrait_Raidboss_Shiro_Colour.png-8a2136183b07949c36274249df9e4a06.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/38_WorldRaid/Portrait_Raidboss_Shiro_Colour.png"
-dest_files=["res://.godot/imported/Portrait_Raidboss_Shiro_Colour.png-65bc6aa06b9dd81706511767321b6c68.ctex"]
+source_file="res://assets/Images/UIs/01_Common/38_WorldRaid/Portrait_Raidboss_Shiro_Colour.png"
+dest_files=["res://.godot/imported/Portrait_Raidboss_Shiro_Colour.png-8a2136183b07949c36274249df9e4a06.ctex"]
 
 [params]
 

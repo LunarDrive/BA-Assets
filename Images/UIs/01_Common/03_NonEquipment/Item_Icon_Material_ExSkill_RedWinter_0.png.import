@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://s44us2d1fhoy"
-path="res://.godot/imported/Item_Icon_Material_ExSkill_RedWinter_0.png-8527ad5b5d03f88a2b20f6a2c3e4d962.ctex"
+path="res://.godot/imported/Item_Icon_Material_ExSkill_RedWinter_0.png-aff68ad143bf9b40b22cec8c72863811.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_RedWinter_0.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_ExSkill_RedWinter_0.png-8527ad5b5d03f88a2b20f6a2c3e4d962.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_RedWinter_0.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_ExSkill_RedWinter_0.png-aff68ad143bf9b40b22cec8c72863811.ctex"]
 
 [params]
 

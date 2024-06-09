@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctbpmmdgwvvhk"
-path="res://.godot/imported/bg_familyrestaurant.jpg-6a6e9c81fe8914b61ccfd07266a41da5.ctex"
+path="res://.godot/imported/bg_familyrestaurant.jpg-be2afd8ef681b8c9ba9c72a9903e25a5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_familyrestaurant.jpg"
-dest_files=["res://.godot/imported/bg_familyrestaurant.jpg-6a6e9c81fe8914b61ccfd07266a41da5.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_familyrestaurant.jpg"
+dest_files=["res://.godot/imported/bg_familyrestaurant.jpg-be2afd8ef681b8c9ba9c72a9903e25a5.ctex"]
 
 [params]
 

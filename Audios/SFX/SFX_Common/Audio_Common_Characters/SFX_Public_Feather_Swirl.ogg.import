@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dsi8e4flmhv2x"
-path="res://.godot/imported/SFX_Public_Feather_Swirl.ogg-e8f7b163edfe71e444c9b567c86bdacb.oggvorbisstr"
+path="res://.godot/imported/SFX_Public_Feather_Swirl.ogg-b71838dba9da1906cccfa3a2c354371c.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Public_Feather_Swirl.ogg"
-dest_files=["res://.godot/imported/SFX_Public_Feather_Swirl.ogg-e8f7b163edfe71e444c9b567c86bdacb.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Public_Feather_Swirl.ogg"
+dest_files=["res://.godot/imported/SFX_Public_Feather_Swirl.ogg-b71838dba9da1906cccfa3a2c354371c.oggvorbisstr"]
 
 [params]
 

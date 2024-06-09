@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2uxofislq1cd"
-path="res://.godot/imported/My_Seahouse_01_Freezer.png-1f21bcb61487ad5969b703bbc460789e.ctex"
+path="res://.godot/imported/My_Seahouse_01_Freezer.png-a884a8071f435c421a338fd54967b734.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Seahouse_01_Freezer.png"
-dest_files=["res://.godot/imported/My_Seahouse_01_Freezer.png-1f21bcb61487ad5969b703bbc460789e.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Seahouse_01_Freezer.png"
+dest_files=["res://.godot/imported/My_Seahouse_01_Freezer.png-a884a8071f435c421a338fd54967b734.ctex"]
 
 [params]
 

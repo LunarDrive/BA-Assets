@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3swke0x32j2x"
-path="res://.godot/imported/Skill_Portrait_Cherino.png-a6bc46a1ace2ac0fcbc2c69f3b6f8233.ctex"
+path="res://.godot/imported/Skill_Portrait_Cherino.png-9be90e393b4e9fcefd4216cdf9b91fb9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Cherino.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Cherino.png-a6bc46a1ace2ac0fcbc2c69f3b6f8233.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Cherino.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Cherino.png-9be90e393b4e9fcefd4216cdf9b91fb9.ctex"]
 
 [params]
 

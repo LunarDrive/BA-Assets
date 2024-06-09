@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kjd4c8xjk8tn"
-path="res://.godot/imported/Item_Icon_SkillBook_Selection_3.png-75b1587adc0ebcb6ca61d67a82a9e0bd.ctex"
+path="res://.godot/imported/Item_Icon_SkillBook_Selection_3.png-1436d8df8cea03917e2e1f6a037a80a1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Selection_3.png"
-dest_files=["res://.godot/imported/Item_Icon_SkillBook_Selection_3.png-75b1587adc0ebcb6ca61d67a82a9e0bd.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Selection_3.png"
+dest_files=["res://.godot/imported/Item_Icon_SkillBook_Selection_3.png-1436d8df8cea03917e2e1f6a037a80a1.ctex"]
 
 [params]
 

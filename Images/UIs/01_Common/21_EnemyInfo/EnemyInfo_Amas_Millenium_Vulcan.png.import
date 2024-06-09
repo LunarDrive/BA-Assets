@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqdb6j84up1cr"
-path="res://.godot/imported/EnemyInfo_Amas_Millenium_Vulcan.png-94630a1ce76c1e61a691eff8ec1eedec.ctex"
+path="res://.godot/imported/EnemyInfo_Amas_Millenium_Vulcan.png-c3d8b7d655ed8d76059570520763ccbf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Amas_Millenium_Vulcan.png"
-dest_files=["res://.godot/imported/EnemyInfo_Amas_Millenium_Vulcan.png-94630a1ce76c1e61a691eff8ec1eedec.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Amas_Millenium_Vulcan.png"
+dest_files=["res://.godot/imported/EnemyInfo_Amas_Millenium_Vulcan.png-c3d8b7d655ed8d76059570520763ccbf.ctex"]
 
 [params]
 

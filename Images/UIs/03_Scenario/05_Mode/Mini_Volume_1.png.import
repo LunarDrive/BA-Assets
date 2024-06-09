@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bynucru7mf07d"
-path="res://.godot/imported/Mini_Volume_1.png-3b74859d20031a48b4afbae88b25e7d5.ctex"
+path="res://.godot/imported/Mini_Volume_1.png-c4d01057a3777238e659b0fa5c24f265.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/05_Mode/Mini_Volume_1.png"
-dest_files=["res://.godot/imported/Mini_Volume_1.png-3b74859d20031a48b4afbae88b25e7d5.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/05_Mode/Mini_Volume_1.png"
+dest_files=["res://.godot/imported/Mini_Volume_1.png-c4d01057a3777238e659b0fa5c24f265.ctex"]
 
 [params]
 

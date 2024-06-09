@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5nsk7w2r68mt"
-path="res://.godot/imported/Lobbyillust_Icon_Fuuka_01.png-00b734b9ac23514eab2385f95ac24547.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Fuuka_01.png-a2004c096776d68156b17644223a28d8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Fuuka_01.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Fuuka_01.png-00b734b9ac23514eab2385f95ac24547.ctex"]
+source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Fuuka_01.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Fuuka_01.png-a2004c096776d68156b17644223a28d8.ctex"]
 
 [params]
 

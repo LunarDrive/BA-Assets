@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btpojpyqi11np"
-path="res://.godot/imported/TutorialFailureImage_Raid_Goz_01_jp.png-9e676cfa72c32af5c31768f9e5c3e1f7.ctex"
+path="res://.godot/imported/TutorialFailureImage_Raid_Goz_01_jp.png-ea5d983ff393686b3b09bc3114d51a6b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_jp.png"
-dest_files=["res://.godot/imported/TutorialFailureImage_Raid_Goz_01_jp.png-9e676cfa72c32af5c31768f9e5c3e1f7.ctex"]
+source_file="res://assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_jp.png"
+dest_files=["res://.godot/imported/TutorialFailureImage_Raid_Goz_01_jp.png-ea5d983ff393686b3b09bc3114d51a6b.ctex"]
 
 [params]
 

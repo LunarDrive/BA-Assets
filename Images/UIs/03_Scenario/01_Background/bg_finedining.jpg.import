@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dv3lgoeex6wt"
-path="res://.godot/imported/bg_finedining.jpg-02aed758e5625107b8f5021ad85b9c44.ctex"
+path="res://.godot/imported/bg_finedining.jpg-876f83e5772a52bc419354196742753e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_finedining.jpg"
-dest_files=["res://.godot/imported/bg_finedining.jpg-02aed758e5625107b8f5021ad85b9c44.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_finedining.jpg"
+dest_files=["res://.godot/imported/bg_finedining.jpg-876f83e5772a52bc419354196742753e.ctex"]
 
 [params]
 

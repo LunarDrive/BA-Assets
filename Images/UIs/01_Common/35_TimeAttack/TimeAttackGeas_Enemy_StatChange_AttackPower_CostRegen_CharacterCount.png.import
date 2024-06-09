@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chbqby1bkwmmc"
-path="res://.godot/imported/TimeAttackGeas_Enemy_StatChange_AttackPower_CostRegen_CharacterCount.png-d5f74e63c04f5f773fee7c894a195139.ctex"
+path="res://.godot/imported/TimeAttackGeas_Enemy_StatChange_AttackPower_CostRegen_CharacterCount.png-863176c378df793f011977b92195df00.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/35_TimeAttack/TimeAttackGeas_Enemy_StatChange_AttackPower_CostRegen_CharacterCount.png"
-dest_files=["res://.godot/imported/TimeAttackGeas_Enemy_StatChange_AttackPower_CostRegen_CharacterCount.png-d5f74e63c04f5f773fee7c894a195139.ctex"]
+source_file="res://assets/Images/UIs/01_Common/35_TimeAttack/TimeAttackGeas_Enemy_StatChange_AttackPower_CostRegen_CharacterCount.png"
+dest_files=["res://.godot/imported/TimeAttackGeas_Enemy_StatChange_AttackPower_CostRegen_CharacterCount.png-863176c378df793f011977b92195df00.ctex"]
 
 [params]
 

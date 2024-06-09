@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://doycyaj8ab65q"
-path="res://.godot/imported/Skill_Portrait_Juri.png-c444a8ee100331481aeda7105c65c551.ctex"
+path="res://.godot/imported/Skill_Portrait_Juri.png-af638ffbce5de7be13acfae87054c246.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Juri.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Juri.png-c444a8ee100331481aeda7105c65c551.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Juri.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Juri.png-af638ffbce5de7be13acfae87054c246.ctex"]
 
 [params]
 

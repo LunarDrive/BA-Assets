@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6g5kxdb0v65m"
-path="res://.godot/imported/BG_Sanhaijing_Collection.png-df7f203a4d6989f8e692716d35ca1f7f.ctex"
+path="res://.godot/imported/BG_Sanhaijing_Collection.png-f348c9df5818ad47e540aa0449a53e68.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/14_CharacterCollect/BG_Sanhaijing_Collection.png"
-dest_files=["res://.godot/imported/BG_Sanhaijing_Collection.png-df7f203a4d6989f8e692716d35ca1f7f.ctex"]
+source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/BG_Sanhaijing_Collection.png"
+dest_files=["res://.godot/imported/BG_Sanhaijing_Collection.png-f348c9df5818ad47e540aa0449a53e68.ctex"]
 
 [params]
 

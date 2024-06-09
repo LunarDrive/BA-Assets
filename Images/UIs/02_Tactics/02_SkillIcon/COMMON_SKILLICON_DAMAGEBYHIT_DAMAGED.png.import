@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbln1iqv3ongv"
-path="res://.godot/imported/COMMON_SKILLICON_DAMAGEBYHIT_DAMAGED.png-79ecabfb992bc5d4b1dc428a44ef8913.ctex"
+path="res://.godot/imported/COMMON_SKILLICON_DAMAGEBYHIT_DAMAGED.png-8d5ce4f1038b9f41ddc7f43baa862bf5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_DAMAGEBYHIT_DAMAGED.png"
-dest_files=["res://.godot/imported/COMMON_SKILLICON_DAMAGEBYHIT_DAMAGED.png-79ecabfb992bc5d4b1dc428a44ef8913.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_DAMAGEBYHIT_DAMAGED.png"
+dest_files=["res://.godot/imported/COMMON_SKILLICON_DAMAGEBYHIT_DAMAGED.png-8d5ce4f1038b9f41ddc7f43baa862bf5.ctex"]
 
 [params]
 

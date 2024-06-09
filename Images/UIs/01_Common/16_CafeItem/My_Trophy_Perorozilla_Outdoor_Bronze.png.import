@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwotb5tj2a2ud"
-path="res://.godot/imported/My_Trophy_Perorozilla_Outdoor_Bronze.png-e008f78d9879b3a7fb77bb13215b8e28.ctex"
+path="res://.godot/imported/My_Trophy_Perorozilla_Outdoor_Bronze.png-2786004791526182f792dde1cab5477c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Perorozilla_Outdoor_Bronze.png"
-dest_files=["res://.godot/imported/My_Trophy_Perorozilla_Outdoor_Bronze.png-e008f78d9879b3a7fb77bb13215b8e28.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Perorozilla_Outdoor_Bronze.png"
+dest_files=["res://.godot/imported/My_Trophy_Perorozilla_Outdoor_Bronze.png-2786004791526182f792dde1cab5477c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8gtfcst3s4bg"
-path="res://.godot/imported/event01_kazusa.png-98e1c4136178834a8787149bc15de40d.ctex"
+path="res://.godot/imported/event01_kazusa.png-d4f2fe1e16de3f4ec2a11c5c2e1971af.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_kazusa.png"
-dest_files=["res://.godot/imported/event01_kazusa.png-98e1c4136178834a8787149bc15de40d.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_kazusa.png"
+dest_files=["res://.godot/imported/event01_kazusa.png-d4f2fe1e16de3f4ec2a11c5c2e1971af.ctex"]
 
 [params]
 

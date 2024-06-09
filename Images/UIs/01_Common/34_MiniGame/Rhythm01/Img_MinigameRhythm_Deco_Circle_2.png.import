@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bus87fuiqiofl"
-path="res://.godot/imported/Img_MinigameRhythm_Deco_Circle_2.png-e137e3f91c87a15c761ad925a66cfad5.ctex"
+path="res://.godot/imported/Img_MinigameRhythm_Deco_Circle_2.png-52767f6f9226e5f8393c0cf99603beac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/34_MiniGame/Rhythm01/Img_MinigameRhythm_Deco_Circle_2.png"
-dest_files=["res://.godot/imported/Img_MinigameRhythm_Deco_Circle_2.png-e137e3f91c87a15c761ad925a66cfad5.ctex"]
+source_file="res://assets/Images/UIs/01_Common/34_MiniGame/Rhythm01/Img_MinigameRhythm_Deco_Circle_2.png"
+dest_files=["res://.godot/imported/Img_MinigameRhythm_Deco_Circle_2.png-52767f6f9226e5f8393c0cf99603beac.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lht5asv7yg1"
-path="res://.godot/imported/TImeAttackGeas_Enemy_DamageOverTime_DamageRatioUp_Ratio.png-8eb355350a5ff55f486ce81948374cc2.ctex"
+path="res://.godot/imported/TImeAttackGeas_Enemy_DamageOverTime_DamageRatioUp_Ratio.png-ac47789167ff14124aaeda94325d9483.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/35_TimeAttack/TImeAttackGeas_Enemy_DamageOverTime_DamageRatioUp_Ratio.png"
-dest_files=["res://.godot/imported/TImeAttackGeas_Enemy_DamageOverTime_DamageRatioUp_Ratio.png-8eb355350a5ff55f486ce81948374cc2.ctex"]
+source_file="res://assets/Images/UIs/01_Common/35_TimeAttack/TImeAttackGeas_Enemy_DamageOverTime_DamageRatioUp_Ratio.png"
+dest_files=["res://.godot/imported/TImeAttackGeas_Enemy_DamageOverTime_DamageRatioUp_Ratio.png-ac47789167ff14124aaeda94325d9483.ctex"]
 
 [params]
 

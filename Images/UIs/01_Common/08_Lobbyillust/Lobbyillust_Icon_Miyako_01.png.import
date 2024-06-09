@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctfkny0x3o8bt"
-path="res://.godot/imported/Lobbyillust_Icon_Miyako_01.png-72b3a88f815b77b579d2cb9dc0e6a28e.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Miyako_01.png-0f5f12db74869a361928c02489c64e39.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Miyako_01.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Miyako_01.png-72b3a88f815b77b579d2cb9dc0e6a28e.ctex"]
+source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Miyako_01.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Miyako_01.png-0f5f12db74869a361928c02489c64e39.ctex"]
 
 [params]
 

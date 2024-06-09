@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwe1h0mlg6pmc"
-path="res://.godot/imported/Img_UICountdown_Abydos_Line.png-2f5bcb795dd917bac34cb479d5687b1e.ctex"
+path="res://.godot/imported/Img_UICountdown_Abydos_Line.png-710a53dca79dce587ebdf211aa9b92a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/UICountdown/Img_UICountdown_Abydos_Line.png"
-dest_files=["res://.godot/imported/Img_UICountdown_Abydos_Line.png-2f5bcb795dd917bac34cb479d5687b1e.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/UICountdown/Img_UICountdown_Abydos_Line.png"
+dest_files=["res://.godot/imported/Img_UICountdown_Abydos_Line.png-710a53dca79dce587ebdf211aa9b92a9.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7l2pp5rwbsbh"
-path="res://.godot/imported/bg_emptyswimmingpool2.jpg-762c33520657fc1c60defed8486e1514.ctex"
+path="res://.godot/imported/bg_emptyswimmingpool2.jpg-02c071ae08046c72b905fe7549406a9a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_emptyswimmingpool2.jpg"
-dest_files=["res://.godot/imported/bg_emptyswimmingpool2.jpg-762c33520657fc1c60defed8486e1514.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_emptyswimmingpool2.jpg"
+dest_files=["res://.godot/imported/bg_emptyswimmingpool2.jpg-02c071ae08046c72b905fe7549406a9a.ctex"]
 
 [params]
 

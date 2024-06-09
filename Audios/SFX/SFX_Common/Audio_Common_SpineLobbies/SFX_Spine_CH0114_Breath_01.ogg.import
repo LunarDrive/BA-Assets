@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c0kjrmwoy0ky6"
-path="res://.godot/imported/SFX_Spine_CH0114_Breath_01.ogg-8cfdcaa8b6ee78daf45cf77cf8622b9e.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_CH0114_Breath_01.ogg-74eceb24360f547032880c02ae1fcf6e.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_CH0114_Breath_01.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_CH0114_Breath_01.ogg-8cfdcaa8b6ee78daf45cf77cf8622b9e.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_CH0114_Breath_01.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_CH0114_Breath_01.ogg-74eceb24360f547032880c02ae1fcf6e.oggvorbisstr"]
 
 [params]
 

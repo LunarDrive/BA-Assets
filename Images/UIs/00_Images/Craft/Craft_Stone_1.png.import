@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4iyws2w0kvpa"
-path="res://.godot/imported/Craft_Stone_1.png-8c012fcb7e5c2bdbc63de85f19e0ad63.ctex"
+path="res://.godot/imported/Craft_Stone_1.png-1f3dc96ebdb795d9a8c4b187735fcaa3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Craft/Craft_Stone_1.png"
-dest_files=["res://.godot/imported/Craft_Stone_1.png-8c012fcb7e5c2bdbc63de85f19e0ad63.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Craft/Craft_Stone_1.png"
+dest_files=["res://.godot/imported/Craft_Stone_1.png-1f3dc96ebdb795d9a8c4b187735fcaa3.ctex"]
 
 [params]
 

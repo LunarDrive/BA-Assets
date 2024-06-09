@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkuhyxcjp5c8i"
-path="res://.godot/imported/bg_buildingcorridor.jpg-8c919bd5ae259a292a7df6029b213599.ctex"
+path="res://.godot/imported/bg_buildingcorridor.jpg-312f098fd6b34bba5838ae697b9c2840.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_buildingcorridor.jpg"
-dest_files=["res://.godot/imported/bg_buildingcorridor.jpg-8c919bd5ae259a292a7df6029b213599.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_buildingcorridor.jpg"
+dest_files=["res://.godot/imported/bg_buildingcorridor.jpg-312f098fd6b34bba5838ae697b9c2840.ctex"]
 
 [params]
 

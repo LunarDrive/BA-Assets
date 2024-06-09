@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1oc5s6mvuywb"
-path="res://.godot/imported/Icon_Momotalk_Birthday.png-ea6c79f95edc515d5b61047a0f4b7d41.ctex"
+path="res://.godot/imported/Icon_Momotalk_Birthday.png-b98495e043a5665ea49512ab6ae14d9e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Icon_Momotalk_Birthday.png"
-dest_files=["res://.godot/imported/Icon_Momotalk_Birthday.png-ea6c79f95edc515d5b61047a0f4b7d41.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Icon_Momotalk_Birthday.png"
+dest_files=["res://.godot/imported/Icon_Momotalk_Birthday.png-b98495e043a5665ea49512ab6ae14d9e.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c8v2pxg14qcq8"
-path="res://.godot/imported/SE_DroneAttack_01b.ogg-4330547480b41f68983eaae473c857b8.oggvorbisstr"
+path="res://.godot/imported/SE_DroneAttack_01b.ogg-a08bea4ba749e8a1e3fc5535a1ea5e5e.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_DroneAttack_01b.ogg"
-dest_files=["res://.godot/imported/SE_DroneAttack_01b.ogg-4330547480b41f68983eaae473c857b8.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_DroneAttack_01b.ogg"
+dest_files=["res://.godot/imported/SE_DroneAttack_01b.ogg-a08bea4ba749e8a1e3fc5535a1ea5e5e.oggvorbisstr"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvqqh48sph58s"
-path="res://.godot/imported/Student_Portrait_Haruna_Collection.png-2c153bad357ba419aeda9cac64e75df1.ctex"
+path="res://.godot/imported/Student_Portrait_Haruna_Collection.png-bfec1c335f9575012151db41577277d7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Haruna_Collection.png"
-dest_files=["res://.godot/imported/Student_Portrait_Haruna_Collection.png-2c153bad357ba419aeda9cac64e75df1.ctex"]
+source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Haruna_Collection.png"
+dest_files=["res://.godot/imported/Student_Portrait_Haruna_Collection.png-bfec1c335f9575012151db41577277d7.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cgt0qdsu6w2wg"
-path="res://.godot/imported/EnemyInfo_Drone_Kaiserpmc_Vulcan.png-854e817f896390758f9a93c50e86725d.ctex"
+path="res://.godot/imported/EnemyInfo_Drone_Kaiserpmc_Vulcan.png-3f56e468d20aae83f0c4af7bb88971f2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Drone_Kaiserpmc_Vulcan.png"
-dest_files=["res://.godot/imported/EnemyInfo_Drone_Kaiserpmc_Vulcan.png-854e817f896390758f9a93c50e86725d.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Drone_Kaiserpmc_Vulcan.png"
+dest_files=["res://.godot/imported/EnemyInfo_Drone_Kaiserpmc_Vulcan.png-3f56e468d20aae83f0c4af7bb88971f2.ctex"]
 
 [params]
 

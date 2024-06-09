@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfpxunr4novvp"
-path="res://.godot/imported/Item_Icon_Material_DiscoColgante_3.png-fb19aa06bd6ba8d16ff912866970ca17.ctex"
+path="res://.godot/imported/Item_Icon_Material_DiscoColgante_3.png-4457f084b961cf377b8a28c9c779c460.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_DiscoColgante_3.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_DiscoColgante_3.png-fb19aa06bd6ba8d16ff912866970ca17.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_DiscoColgante_3.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_DiscoColgante_3.png-4457f084b961cf377b8a28c9c779c460.ctex"]
 
 [params]
 

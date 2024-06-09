@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0x21aa0giqud"
-path="res://.godot/imported/My_Trophycabinet_Set101_Platinum.png-07c40da2d361588142203f7d5e39495b.ctex"
+path="res://.godot/imported/My_Trophycabinet_Set101_Platinum.png-30d8a55aa9735ccb59d45d6a50381bf2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Trophycabinet_Set101_Platinum.png"
-dest_files=["res://.godot/imported/My_Trophycabinet_Set101_Platinum.png-07c40da2d361588142203f7d5e39495b.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Trophycabinet_Set101_Platinum.png"
+dest_files=["res://.godot/imported/My_Trophycabinet_Set101_Platinum.png-30d8a55aa9735ccb59d45d6a50381bf2.ctex"]
 
 [params]
 

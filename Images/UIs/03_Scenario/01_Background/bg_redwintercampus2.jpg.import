@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c53hn803bu8gv"
-path="res://.godot/imported/bg_redwintercampus2.jpg-d2d9a56811df80bff64fb3e479fe094e.ctex"
+path="res://.godot/imported/bg_redwintercampus2.jpg-d021b30372f29b223bd19cf6462cb50e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_redwintercampus2.jpg"
-dest_files=["res://.godot/imported/bg_redwintercampus2.jpg-d2d9a56811df80bff64fb3e479fe094e.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_redwintercampus2.jpg"
+dest_files=["res://.godot/imported/bg_redwintercampus2.jpg-d021b30372f29b223bd19cf6462cb50e.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bb1r3veb0xjqe"
-path="res://.godot/imported/bg_cs_rabbit_09.jpg-4f225bfad1ff914c94b54c2c62ba1cfb.ctex"
+path="res://.godot/imported/bg_cs_rabbit_09.jpg-d9118777c5ee405c58312c57d79fef0d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_cs_rabbit_09.jpg"
-dest_files=["res://.godot/imported/bg_cs_rabbit_09.jpg-4f225bfad1ff914c94b54c2c62ba1cfb.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_cs_rabbit_09.jpg"
+dest_files=["res://.godot/imported/bg_cs_rabbit_09.jpg-d9118777c5ee405c58312c57d79fef0d.ctex"]
 
 [params]
 

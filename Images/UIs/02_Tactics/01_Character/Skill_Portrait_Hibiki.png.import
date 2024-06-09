@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://u645ct86ilfc"
-path="res://.godot/imported/Skill_Portrait_Hibiki.png-d233bca66209b9cd3a26a04170f20d24.ctex"
+path="res://.godot/imported/Skill_Portrait_Hibiki.png-9578ca72b18b6559c409b9ead8ee81fb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Hibiki.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Hibiki.png-d233bca66209b9cd3a26a04170f20d24.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Hibiki.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Hibiki.png-9578ca72b18b6559c409b9ead8ee81fb.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cjkaeu2gjt578"
-path="res://.godot/imported/event01_iori.png-af78cdf12c6b5d72d783a186be09be3f.ctex"
+path="res://.godot/imported/event01_iori.png-26df686046c52cb69d675bb1fedcc0f2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_iori.png"
-dest_files=["res://.godot/imported/event01_iori.png-af78cdf12c6b5d72d783a186be09be3f.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_iori.png"
+dest_files=["res://.godot/imported/event01_iori.png-26df686046c52cb69d675bb1fedcc0f2.ctex"]
 
 [params]
 

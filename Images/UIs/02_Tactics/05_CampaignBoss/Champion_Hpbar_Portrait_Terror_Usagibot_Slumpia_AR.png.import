@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dt1ap4aiflsrg"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Terror_Usagibot_Slumpia_AR.png-19e3936c02f4b80391512b89341ddffc.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Terror_Usagibot_Slumpia_AR.png-ac90260f075be55f07a1788d598f155f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Terror_Usagibot_Slumpia_AR.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Terror_Usagibot_Slumpia_AR.png-19e3936c02f4b80391512b89341ddffc.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Terror_Usagibot_Slumpia_AR.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Terror_Usagibot_Slumpia_AR.png-ac90260f075be55f07a1788d598f155f.ctex"]
 
 [params]
 

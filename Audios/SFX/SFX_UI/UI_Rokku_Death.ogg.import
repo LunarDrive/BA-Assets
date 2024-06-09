@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cqmp0m3pi613s"
-path="res://.godot/imported/UI_Rokku_Death.ogg-5844eac7db4fbc1ffa5afeafb346126c.oggvorbisstr"
+path="res://.godot/imported/UI_Rokku_Death.ogg-5fcc36c7886377437eb6b633d98c2b84.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_UI/UI_Rokku_Death.ogg"
-dest_files=["res://.godot/imported/UI_Rokku_Death.ogg-5844eac7db4fbc1ffa5afeafb346126c.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_UI/UI_Rokku_Death.ogg"
+dest_files=["res://.godot/imported/UI_Rokku_Death.ogg-5fcc36c7886377437eb6b633d98c2b84.oggvorbisstr"]
 
 [params]
 

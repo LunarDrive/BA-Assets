@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bs16d2vrv76g6"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Yukata_StreetGhostes_MG.png-41217bd9c849f76392aeb1b64058db8c.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Yukata_StreetGhostes_MG.png-b458d806022aa47296d7c4469fe23c7b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Yukata_StreetGhostes_MG.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Yukata_StreetGhostes_MG.png-41217bd9c849f76392aeb1b64058db8c.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Yukata_StreetGhostes_MG.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Yukata_StreetGhostes_MG.png-b458d806022aa47296d7c4469fe23c7b.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dyqr5ghr716d3"
-path="res://.godot/imported/My_Poolparty_01_B_Sofa_01.png-fc783e5fce0c49ef1ca641bf2e8b0b45.ctex"
+path="res://.godot/imported/My_Poolparty_01_B_Sofa_01.png-a5f24684978aaed08cf3dd545ac14500.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Poolparty_01_B_Sofa_01.png"
-dest_files=["res://.godot/imported/My_Poolparty_01_B_Sofa_01.png-fc783e5fce0c49ef1ca641bf2e8b0b45.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Poolparty_01_B_Sofa_01.png"
+dest_files=["res://.godot/imported/My_Poolparty_01_B_Sofa_01.png-a5f24684978aaed08cf3dd545ac14500.ctex"]
 
 [params]
 

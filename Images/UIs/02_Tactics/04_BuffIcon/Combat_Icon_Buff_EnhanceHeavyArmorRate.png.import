@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cntuja6r4wphh"
-path="res://.godot/imported/Combat_Icon_Buff_EnhanceHeavyArmorRate.png-bd9e36f1015449629a1dff57a862cf41.ctex"
+path="res://.godot/imported/Combat_Icon_Buff_EnhanceHeavyArmorRate.png-384bec9df8fa2c4a3a83424e659fa5ea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_EnhanceHeavyArmorRate.png"
-dest_files=["res://.godot/imported/Combat_Icon_Buff_EnhanceHeavyArmorRate.png-bd9e36f1015449629a1dff57a862cf41.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_EnhanceHeavyArmorRate.png"
+dest_files=["res://.godot/imported/Combat_Icon_Buff_EnhanceHeavyArmorRate.png-384bec9df8fa2c4a3a83424e659fa5ea.ctex"]
 
 [params]
 

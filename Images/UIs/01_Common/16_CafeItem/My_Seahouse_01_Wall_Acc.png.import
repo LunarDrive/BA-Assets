@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcihgdaov3fm5"
-path="res://.godot/imported/My_Seahouse_01_Wall_Acc.png-68200fbd15703cb375e73ce25a2a1139.ctex"
+path="res://.godot/imported/My_Seahouse_01_Wall_Acc.png-ba5648a750e1e6a60859e5c4e9a9de95.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Seahouse_01_Wall_Acc.png"
-dest_files=["res://.godot/imported/My_Seahouse_01_Wall_Acc.png-68200fbd15703cb375e73ce25a2a1139.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Seahouse_01_Wall_Acc.png"
+dest_files=["res://.godot/imported/My_Seahouse_01_Wall_Acc.png-ba5648a750e1e6a60859e5c4e9a9de95.ctex"]
 
 [params]
 

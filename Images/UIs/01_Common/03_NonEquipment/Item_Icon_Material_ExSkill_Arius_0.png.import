@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c811xp77cmrno"
-path="res://.godot/imported/Item_Icon_Material_ExSkill_Arius_0.png-e4e10e58db13880072ba3c84439a9b32.ctex"
+path="res://.godot/imported/Item_Icon_Material_ExSkill_Arius_0.png-826f3b587a46407ca54bd73cac8792aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Arius_0.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_ExSkill_Arius_0.png-e4e10e58db13880072ba3c84439a9b32.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Arius_0.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_ExSkill_Arius_0.png-826f3b587a46407ca54bd73cac8792aa.ctex"]
 
 [params]
 

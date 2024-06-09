@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bebwmokdsmbfi"
-path="res://.godot/imported/EnemyInfo_Droid_Kurokame_AR.png-db44ee6a29574a47fbbc0809c1b5cdf3.ctex"
+path="res://.godot/imported/EnemyInfo_Droid_Kurokame_AR.png-deed0072473d9f294fc3d8637030feca.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Droid_Kurokame_AR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Droid_Kurokame_AR.png-db44ee6a29574a47fbbc0809c1b5cdf3.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Droid_Kurokame_AR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Droid_Kurokame_AR.png-deed0072473d9f294fc3d8637030feca.ctex"]
 
 [params]
 

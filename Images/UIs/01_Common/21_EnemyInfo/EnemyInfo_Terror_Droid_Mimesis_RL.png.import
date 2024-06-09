@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dguaxijqahikr"
-path="res://.godot/imported/EnemyInfo_Terror_Droid_Mimesis_RL.png-65bb8eaa3c33a0ffbb6a241c76a4c3df.ctex"
+path="res://.godot/imported/EnemyInfo_Terror_Droid_Mimesis_RL.png-a40a1f0d0fb23eb64156c588d3c22455.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Terror_Droid_Mimesis_RL.png"
-dest_files=["res://.godot/imported/EnemyInfo_Terror_Droid_Mimesis_RL.png-65bb8eaa3c33a0ffbb6a241c76a4c3df.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Terror_Droid_Mimesis_RL.png"
+dest_files=["res://.godot/imported/EnemyInfo_Terror_Droid_Mimesis_RL.png-a40a1f0d0fb23eb64156c588d3c22455.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cfwv4cpo30f34"
-path="res://.godot/imported/Information_Formation_08_Kr.png-9ba36405eef8c34b412f423cf5593852.ctex"
+path="res://.godot/imported/Information_Formation_08_Kr.png-86629f8e06e6dd5c7d3d64e8324e233a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/28_Information/Information_Formation_08_Kr.png"
-dest_files=["res://.godot/imported/Information_Formation_08_Kr.png-9ba36405eef8c34b412f423cf5593852.ctex"]
+source_file="res://assets/Images/UIs/01_Common/28_Information/Information_Formation_08_Kr.png"
+dest_files=["res://.godot/imported/Information_Formation_08_Kr.png-86629f8e06e6dd5c7d3d64e8324e233a.ctex"]
 
 [params]
 

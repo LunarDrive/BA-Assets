@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://baifcv6qwa2ij"
-path="res://.godot/imported/SE_Bird_04.ogg-9b43658caa898af28cbd089d69df44d2.oggvorbisstr"
+path="res://.godot/imported/SE_Bird_04.ogg-c526ad754e6076cd2f681b45cfa9bc30.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Bird_04.ogg"
-dest_files=["res://.godot/imported/SE_Bird_04.ogg-9b43658caa898af28cbd089d69df44d2.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Bird_04.ogg"
+dest_files=["res://.godot/imported/SE_Bird_04.ogg-c526ad754e6076cd2f681b45cfa9bc30.oggvorbisstr"]
 
 [params]
 

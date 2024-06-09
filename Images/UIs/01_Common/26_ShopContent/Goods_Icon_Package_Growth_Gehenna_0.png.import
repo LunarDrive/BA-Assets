@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqaowfp7e6gns"
-path="res://.godot/imported/Goods_Icon_Package_Growth_Gehenna_0.png-5532c2e09d9ce9ea2a3b6c24b372c42b.ctex"
+path="res://.godot/imported/Goods_Icon_Package_Growth_Gehenna_0.png-b51d0a9803b71aae6e00ea6b7745226c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/26_ShopContent/Goods_Icon_Package_Growth_Gehenna_0.png"
-dest_files=["res://.godot/imported/Goods_Icon_Package_Growth_Gehenna_0.png-5532c2e09d9ce9ea2a3b6c24b372c42b.ctex"]
+source_file="res://assets/Images/UIs/01_Common/26_ShopContent/Goods_Icon_Package_Growth_Gehenna_0.png"
+dest_files=["res://.godot/imported/Goods_Icon_Package_Growth_Gehenna_0.png-b51d0a9803b71aae6e00ea6b7745226c.ctex"]
 
 [params]
 

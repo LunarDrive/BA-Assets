@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cgspldp3qri4v"
-path="res://.godot/imported/SE_Hungry_01.ogg-53db95957773a9fdf74444ffd45e570f.oggvorbisstr"
+path="res://.godot/imported/SE_Hungry_01.ogg-a24a06c0f5d91b53f47a006921d20b62.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Hungry_01.ogg"
-dest_files=["res://.godot/imported/SE_Hungry_01.ogg-53db95957773a9fdf74444ffd45e570f.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Hungry_01.ogg"
+dest_files=["res://.godot/imported/SE_Hungry_01.ogg-a24a06c0f5d91b53f47a006921d20b62.oggvorbisstr"]
 
 [params]
 

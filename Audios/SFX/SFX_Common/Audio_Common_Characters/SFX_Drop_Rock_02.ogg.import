@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dybgrm4amta4x"
-path="res://.godot/imported/SFX_Drop_Rock_02.ogg-b7f7998b88be8526756b64e9e8c4bb23.oggvorbisstr"
+path="res://.godot/imported/SFX_Drop_Rock_02.ogg-f7c1b10324f6823ad0e8ab9e0d5c9dae.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Drop_Rock_02.ogg"
-dest_files=["res://.godot/imported/SFX_Drop_Rock_02.ogg-b7f7998b88be8526756b64e9e8c4bb23.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Drop_Rock_02.ogg"
+dest_files=["res://.godot/imported/SFX_Drop_Rock_02.ogg-f7c1b10324f6823ad0e8ab9e0d5c9dae.oggvorbisstr"]
 
 [params]
 

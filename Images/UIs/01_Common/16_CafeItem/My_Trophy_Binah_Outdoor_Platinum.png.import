@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5m1kvkvxgncw"
-path="res://.godot/imported/My_Trophy_Binah_Outdoor_Platinum.png-72540e47b184b75a499ad79d675782e0.ctex"
+path="res://.godot/imported/My_Trophy_Binah_Outdoor_Platinum.png-d2c31f68567e82b671addf0f9c187f22.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Binah_Outdoor_Platinum.png"
-dest_files=["res://.godot/imported/My_Trophy_Binah_Outdoor_Platinum.png-72540e47b184b75a499ad79d675782e0.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Binah_Outdoor_Platinum.png"
+dest_files=["res://.godot/imported/My_Trophy_Binah_Outdoor_Platinum.png-d2c31f68567e82b671addf0f9c187f22.ctex"]
 
 [params]
 

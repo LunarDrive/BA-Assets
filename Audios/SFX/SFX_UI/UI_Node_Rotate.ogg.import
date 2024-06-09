@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://170e11ym2aa1"
-path="res://.godot/imported/UI_Node_Rotate.ogg-d82799505994a0031d351d84a82247b9.oggvorbisstr"
+path="res://.godot/imported/UI_Node_Rotate.ogg-908f73aabc7b6009a5c0e616ca05ca5c.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_UI/UI_Node_Rotate.ogg"
-dest_files=["res://.godot/imported/UI_Node_Rotate.ogg-d82799505994a0031d351d84a82247b9.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_UI/UI_Node_Rotate.ogg"
+dest_files=["res://.godot/imported/UI_Node_Rotate.ogg-908f73aabc7b6009a5c0e616ca05ca5c.oggvorbisstr"]
 
 [params]
 

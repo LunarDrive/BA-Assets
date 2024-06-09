@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ffhed7e1qmrw"
-path="res://.godot/imported/Champion_Hpbar_Portrait_ArmoredCar_Valkyrie_MG.png-14fe6620857a25178ea9adac5a1a4203.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_ArmoredCar_Valkyrie_MG.png-2f7396b65015fafe6d2bff26e5678c94.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_ArmoredCar_Valkyrie_MG.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_ArmoredCar_Valkyrie_MG.png-14fe6620857a25178ea9adac5a1a4203.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_ArmoredCar_Valkyrie_MG.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_ArmoredCar_Valkyrie_MG.png-2f7396b65015fafe6d2bff26e5678c94.ctex"]
 
 [params]
 

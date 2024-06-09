@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c6u5nwsy216dc"
-path="res://.godot/imported/SE_SandRun_02.ogg-66126e87aff7580c9ca9e4d1ff45a13a.oggvorbisstr"
+path="res://.godot/imported/SE_SandRun_02.ogg-147d562d2f66a9e0c3d8ae55d8d9e4a5.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_SandRun_02.ogg"
-dest_files=["res://.godot/imported/SE_SandRun_02.ogg-66126e87aff7580c9ca9e4d1ff45a13a.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_SandRun_02.ogg"
+dest_files=["res://.godot/imported/SE_SandRun_02.ogg-147d562d2f66a9e0c3d8ae55d8d9e4a5.oggvorbisstr"]
 
 [params]
 

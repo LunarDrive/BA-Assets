@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0471vwgrgtr5"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Boxcat_Machine.png-34ed05dc8b6ca1c2748e2b2192d01bcd.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Boxcat_Machine.png-fa363431de48134ef31c022c796f8508.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Boxcat_Machine.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Boxcat_Machine.png-34ed05dc8b6ca1c2748e2b2192d01bcd.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Boxcat_Machine.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Boxcat_Machine.png-fa363431de48134ef31c022c796f8508.ctex"]
 
 [params]
 

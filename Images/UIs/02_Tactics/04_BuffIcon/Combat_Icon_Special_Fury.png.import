@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2kyhdk66kh16"
-path="res://.godot/imported/Combat_Icon_Special_Fury.png-50da0edbbd2e90ff2879ed99927bbb51.ctex"
+path="res://.godot/imported/Combat_Icon_Special_Fury.png-b01311006294a9b0b4f8146c686119f7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Special_Fury.png"
-dest_files=["res://.godot/imported/Combat_Icon_Special_Fury.png-50da0edbbd2e90ff2879ed99927bbb51.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Special_Fury.png"
+dest_files=["res://.godot/imported/Combat_Icon_Special_Fury.png-b01311006294a9b0b4f8146c686119f7.ctex"]
 
 [params]
 

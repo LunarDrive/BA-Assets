@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b286x0ocydbii"
-path="res://.godot/imported/Student_Portrait_Sena.png-24f4ab35c986d595127b2473348b61b1.ctex"
+path="res://.godot/imported/Student_Portrait_Sena.png-45b21f673074189fb4dd6f9e3919dd8f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Sena.png"
-dest_files=["res://.godot/imported/Student_Portrait_Sena.png-24f4ab35c986d595127b2473348b61b1.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Sena.png"
+dest_files=["res://.godot/imported/Student_Portrait_Sena.png-45b21f673074189fb4dd6f9e3919dd8f.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ds8rkw71uj7d1"
-path="res://.godot/imported/Student_Portrait_Kirara_Small.png-f6278ed5096640b0d363759e9fb547c6.ctex"
+path="res://.godot/imported/Student_Portrait_Kirara_Small.png-0200589cae2d23f27c3c2052eedd9074.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Kirara_Small.png"
-dest_files=["res://.godot/imported/Student_Portrait_Kirara_Small.png-f6278ed5096640b0d363759e9fb547c6.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Kirara_Small.png"
+dest_files=["res://.godot/imported/Student_Portrait_Kirara_Small.png-0200589cae2d23f27c3c2052eedd9074.ctex"]
 
 [params]
 

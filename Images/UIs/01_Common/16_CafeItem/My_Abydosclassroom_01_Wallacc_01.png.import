@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drdacwoo7vmpj"
-path="res://.godot/imported/My_Abydosclassroom_01_Wallacc_01.png-75781a00d69609a0abf30288b0f82d1d.ctex"
+path="res://.godot/imported/My_Abydosclassroom_01_Wallacc_01.png-4a9a4a2949b43c06af662d7d8604fdaa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Abydosclassroom_01_Wallacc_01.png"
-dest_files=["res://.godot/imported/My_Abydosclassroom_01_Wallacc_01.png-75781a00d69609a0abf30288b0f82d1d.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Abydosclassroom_01_Wallacc_01.png"
+dest_files=["res://.godot/imported/My_Abydosclassroom_01_Wallacc_01.png-4a9a4a2949b43c06af662d7d8604fdaa.ctex"]
 
 [params]
 

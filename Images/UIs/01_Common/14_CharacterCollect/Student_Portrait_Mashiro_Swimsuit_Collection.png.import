@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cepyf0kxpcage"
-path="res://.godot/imported/Student_Portrait_Mashiro_Swimsuit_Collection.png-f787258e7322918139815ff10b02d45f.ctex"
+path="res://.godot/imported/Student_Portrait_Mashiro_Swimsuit_Collection.png-c4b1635b3df073ff933a0334234a15f1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Mashiro_Swimsuit_Collection.png"
-dest_files=["res://.godot/imported/Student_Portrait_Mashiro_Swimsuit_Collection.png-f787258e7322918139815ff10b02d45f.ctex"]
+source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Mashiro_Swimsuit_Collection.png"
+dest_files=["res://.godot/imported/Student_Portrait_Mashiro_Swimsuit_Collection.png-c4b1635b3df073ff933a0334234a15f1.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bj5icuy7gqosm"
-path="res://.godot/imported/SE_Taiko_02.ogg-5e7f2ebad7b8c75fd7b31696059676bb.oggvorbisstr"
+path="res://.godot/imported/SE_Taiko_02.ogg-f3ec1bea83abff7df31910a71affd8b2.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Taiko_02.ogg"
-dest_files=["res://.godot/imported/SE_Taiko_02.ogg-5e7f2ebad7b8c75fd7b31696059676bb.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Taiko_02.ogg"
+dest_files=["res://.godot/imported/SE_Taiko_02.ogg-f3ec1bea83abff7df31910a71affd8b2.oggvorbisstr"]
 
 [params]
 

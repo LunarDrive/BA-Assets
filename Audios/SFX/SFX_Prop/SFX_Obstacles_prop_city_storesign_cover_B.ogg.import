@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://duvis3ybti1f6"
-path="res://.godot/imported/SFX_Obstacles_prop_city_storesign_cover_B.ogg-9151c970233c3f7fea04cf8c448a58fc.oggvorbisstr"
+path="res://.godot/imported/SFX_Obstacles_prop_city_storesign_cover_B.ogg-62fa2a236ee41c21b1ce4732243b42c9.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Prop/SFX_Obstacles_prop_city_storesign_cover_B.ogg"
-dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_storesign_cover_B.ogg-9151c970233c3f7fea04cf8c448a58fc.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Prop/SFX_Obstacles_prop_city_storesign_cover_B.ogg"
+dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_storesign_cover_B.ogg-62fa2a236ee41c21b1ce4732243b42c9.oggvorbisstr"]
 
 [params]
 

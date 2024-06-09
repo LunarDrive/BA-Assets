@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cf6nsowlfn0f5"
-path="res://.godot/imported/Item_Icon_Material_Nebra_3.png-6f03ce91ea1c4705b849589f46d65d0e.ctex"
+path="res://.godot/imported/Item_Icon_Material_Nebra_3.png-03ec814dbf04a73e4753fa69c1df4f15.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Nebra_3.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_Nebra_3.png-6f03ce91ea1c4705b849589f46d65d0e.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Nebra_3.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_Nebra_3.png-03ec814dbf04a73e4753fa69c1df4f15.ctex"]
 
 [params]
 

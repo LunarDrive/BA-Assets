@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cg11gxx416vl5"
-path="res://.godot/imported/SE_Subway_01.ogg-30d730762b39c5bdbf3de85df23f1efb.oggvorbisstr"
+path="res://.godot/imported/SE_Subway_01.ogg-c3d1dbfadacf74b44657ae0ccc5e28e6.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Subway_01.ogg"
-dest_files=["res://.godot/imported/SE_Subway_01.ogg-30d730762b39c5bdbf3de85df23f1efb.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Subway_01.ogg"
+dest_files=["res://.godot/imported/SE_Subway_01.ogg-c3d1dbfadacf74b44657ae0ccc5e28e6.oggvorbisstr"]
 
 [params]
 

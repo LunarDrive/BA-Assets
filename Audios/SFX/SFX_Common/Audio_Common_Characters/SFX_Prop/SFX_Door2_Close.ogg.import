@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b4bf2t5okwmcv"
-path="res://.godot/imported/SFX_Door2_Close.ogg-479c3b614f2cf9480789be245737fb5c.oggvorbisstr"
+path="res://.godot/imported/SFX_Door2_Close.ogg-467311cb876104f94d90594e26932d32.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Prop/SFX_Door2_Close.ogg"
-dest_files=["res://.godot/imported/SFX_Door2_Close.ogg-479c3b614f2cf9480789be245737fb5c.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Prop/SFX_Door2_Close.ogg"
+dest_files=["res://.godot/imported/SFX_Door2_Close.ogg-467311cb876104f94d90594e26932d32.oggvorbisstr"]
 
 [params]
 

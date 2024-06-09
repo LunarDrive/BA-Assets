@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpabodkhyorxb"
-path="res://.godot/imported/EnemyInfo_CH0058_AR.png-e3d977945128f1bef0c9e68f7620515b.ctex"
+path="res://.godot/imported/EnemyInfo_CH0058_AR.png-37f57b11897973ab756c4bb2945de28f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_CH0058_AR.png"
-dest_files=["res://.godot/imported/EnemyInfo_CH0058_AR.png-e3d977945128f1bef0c9e68f7620515b.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_CH0058_AR.png"
+dest_files=["res://.godot/imported/EnemyInfo_CH0058_AR.png-37f57b11897973ab756c4bb2945de28f.ctex"]
 
 [params]
 

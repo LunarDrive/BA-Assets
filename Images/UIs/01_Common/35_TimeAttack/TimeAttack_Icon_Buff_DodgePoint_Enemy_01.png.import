@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1jra645t70cn"
-path="res://.godot/imported/TimeAttack_Icon_Buff_DodgePoint_Enemy_01.png-3cea4615b7741d019c9cfa92cf527094.ctex"
+path="res://.godot/imported/TimeAttack_Icon_Buff_DodgePoint_Enemy_01.png-85961f1aea590e90628fd6ce38f6f164.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/35_TimeAttack/TimeAttack_Icon_Buff_DodgePoint_Enemy_01.png"
-dest_files=["res://.godot/imported/TimeAttack_Icon_Buff_DodgePoint_Enemy_01.png-3cea4615b7741d019c9cfa92cf527094.ctex"]
+source_file="res://assets/Images/UIs/01_Common/35_TimeAttack/TimeAttack_Icon_Buff_DodgePoint_Enemy_01.png"
+dest_files=["res://.godot/imported/TimeAttack_Icon_Buff_DodgePoint_Enemy_01.png-85961f1aea590e90628fd6ce38f6f164.ctex"]
 
 [params]
 

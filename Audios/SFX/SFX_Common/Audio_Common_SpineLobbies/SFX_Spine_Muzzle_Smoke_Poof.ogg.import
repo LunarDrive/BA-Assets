@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dje86dhrbbjxg"
-path="res://.godot/imported/SFX_Spine_Muzzle_Smoke_Poof.ogg-4300eb3f344656cb402a81d3316e96ef.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_Muzzle_Smoke_Poof.ogg-f2fe7f80ca09738173c37701391d1116.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Muzzle_Smoke_Poof.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_Muzzle_Smoke_Poof.ogg-4300eb3f344656cb402a81d3316e96ef.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Muzzle_Smoke_Poof.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_Muzzle_Smoke_Poof.ogg-f2fe7f80ca09738173c37701391d1116.oggvorbisstr"]
 
 [params]
 

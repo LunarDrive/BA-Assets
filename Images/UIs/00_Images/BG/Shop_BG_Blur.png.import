@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wgvtqowihmhr"
-path="res://.godot/imported/Shop_BG_Blur.png-3d50014ba08a1476c6dbf72e474ecc4c.ctex"
+path="res://.godot/imported/Shop_BG_Blur.png-178231abeb2f67b52e74dae894bb753a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/BG/Shop_BG_Blur.png"
-dest_files=["res://.godot/imported/Shop_BG_Blur.png-3d50014ba08a1476c6dbf72e474ecc4c.ctex"]
+source_file="res://assets/Images/UIs/00_Images/BG/Shop_BG_Blur.png"
+dest_files=["res://.godot/imported/Shop_BG_Blur.png-178231abeb2f67b52e74dae894bb753a.ctex"]
 
 [params]
 

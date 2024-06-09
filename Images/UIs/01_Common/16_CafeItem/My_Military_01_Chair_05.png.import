@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qbam5p7ha0vx"
-path="res://.godot/imported/My_Military_01_Chair_05.png-6b014d0db4603d18847b926cf1a96ba0.ctex"
+path="res://.godot/imported/My_Military_01_Chair_05.png-d9e6fae486a391ee1f751c9f199e10d5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Military_01_Chair_05.png"
-dest_files=["res://.godot/imported/My_Military_01_Chair_05.png-6b014d0db4603d18847b926cf1a96ba0.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Military_01_Chair_05.png"
+dest_files=["res://.godot/imported/My_Military_01_Chair_05.png-d9e6fae486a391ee1f751c9f199e10d5.ctex"]
 
 [params]
 

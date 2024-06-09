@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmmuytwhnav0l"
-path="res://.godot/imported/Student_Portrait_Tsubaki_Collection.png-8554867d0a40b5323f2b2fe9a7a1b6ad.ctex"
+path="res://.godot/imported/Student_Portrait_Tsubaki_Collection.png-abf897a7b13b1a616ba497f3f864b417.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Tsubaki_Collection.png"
-dest_files=["res://.godot/imported/Student_Portrait_Tsubaki_Collection.png-8554867d0a40b5323f2b2fe9a7a1b6ad.ctex"]
+source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Tsubaki_Collection.png"
+dest_files=["res://.godot/imported/Student_Portrait_Tsubaki_Collection.png-abf897a7b13b1a616ba497f3f864b417.ctex"]
 
 [params]
 

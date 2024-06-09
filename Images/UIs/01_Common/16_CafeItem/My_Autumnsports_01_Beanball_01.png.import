@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bakh4plqs8fbp"
-path="res://.godot/imported/My_Autumnsports_01_Beanball_01.png-0d40e1a4e6e6e25a6008eb1f0b1fb609.ctex"
+path="res://.godot/imported/My_Autumnsports_01_Beanball_01.png-3750e259d9cdeb8119acb7dea8ed9d36.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Autumnsports_01_Beanball_01.png"
-dest_files=["res://.godot/imported/My_Autumnsports_01_Beanball_01.png-0d40e1a4e6e6e25a6008eb1f0b1fb609.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Autumnsports_01_Beanball_01.png"
+dest_files=["res://.godot/imported/My_Autumnsports_01_Beanball_01.png-3750e259d9cdeb8119acb7dea8ed9d36.ctex"]
 
 [params]
 

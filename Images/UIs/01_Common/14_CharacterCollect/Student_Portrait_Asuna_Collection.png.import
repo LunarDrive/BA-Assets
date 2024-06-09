@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2oyi11duerc3"
-path="res://.godot/imported/Student_Portrait_Asuna_Collection.png-8390518a0d6f5bc8a184e79688f4759b.ctex"
+path="res://.godot/imported/Student_Portrait_Asuna_Collection.png-765ad1ce2a20fedfbc8e6aa5d4d4f6f1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Asuna_Collection.png"
-dest_files=["res://.godot/imported/Student_Portrait_Asuna_Collection.png-8390518a0d6f5bc8a184e79688f4759b.ctex"]
+source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Asuna_Collection.png"
+dest_files=["res://.godot/imported/Student_Portrait_Asuna_Collection.png-765ad1ce2a20fedfbc8e6aa5d4d4f6f1.ctex"]
 
 [params]
 

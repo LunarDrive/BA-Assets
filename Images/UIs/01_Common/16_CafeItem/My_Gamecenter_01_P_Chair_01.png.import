@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cvgja3l2vk3ta"
-path="res://.godot/imported/My_Gamecenter_01_P_Chair_01.png-2cd54e2f51f9c7704d3fa9c3b3ff1175.ctex"
+path="res://.godot/imported/My_Gamecenter_01_P_Chair_01.png-4e38015606df1917cb1e9f407b5eb01e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Gamecenter_01_P_Chair_01.png"
-dest_files=["res://.godot/imported/My_Gamecenter_01_P_Chair_01.png-2cd54e2f51f9c7704d3fa9c3b3ff1175.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Gamecenter_01_P_Chair_01.png"
+dest_files=["res://.godot/imported/My_Gamecenter_01_P_Chair_01.png-4e38015606df1917cb1e9f407b5eb01e.ctex"]
 
 [params]
 

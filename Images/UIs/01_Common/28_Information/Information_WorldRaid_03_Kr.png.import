@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yg3qdsko8kxd"
-path="res://.godot/imported/Information_WorldRaid_03_Kr.png-78d60b35a5c1ae7c8278aeacf1c3276e.ctex"
+path="res://.godot/imported/Information_WorldRaid_03_Kr.png-8fa2811bc1f24d7ec4bb2f237b34b685.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/28_Information/Information_WorldRaid_03_Kr.png"
-dest_files=["res://.godot/imported/Information_WorldRaid_03_Kr.png-78d60b35a5c1ae7c8278aeacf1c3276e.ctex"]
+source_file="res://assets/Images/UIs/01_Common/28_Information/Information_WorldRaid_03_Kr.png"
+dest_files=["res://.godot/imported/Information_WorldRaid_03_Kr.png-8fa2811bc1f24d7ec4bb2f237b34b685.ctex"]
 
 [params]
 

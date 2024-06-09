@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wru0uf0rj8ul"
-path="res://.godot/imported/Student_Portrait_Hanae_Collection.png-5e889b0af2f0610a56396b347126aa06.ctex"
+path="res://.godot/imported/Student_Portrait_Hanae_Collection.png-b352b7ab5bdeacd1a063cebe455b6ec9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Hanae_Collection.png"
-dest_files=["res://.godot/imported/Student_Portrait_Hanae_Collection.png-5e889b0af2f0610a56396b347126aa06.ctex"]
+source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Hanae_Collection.png"
+dest_files=["res://.godot/imported/Student_Portrait_Hanae_Collection.png-b352b7ab5bdeacd1a063cebe455b6ec9.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cd35tuquuewvk"
-path="res://.godot/imported/My_Event13_Fireplace.png-93172ca632a42d89521dcc1ba995fedb.ctex"
+path="res://.godot/imported/My_Event13_Fireplace.png-6cc0f543da455b7f28a09440eb17cc98.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Event13_Fireplace.png"
-dest_files=["res://.godot/imported/My_Event13_Fireplace.png-93172ca632a42d89521dcc1ba995fedb.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Event13_Fireplace.png"
+dest_files=["res://.godot/imported/My_Event13_Fireplace.png-6cc0f543da455b7f28a09440eb17cc98.ctex"]
 
 [params]
 

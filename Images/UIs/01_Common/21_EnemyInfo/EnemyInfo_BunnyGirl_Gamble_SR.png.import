@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cf5ggp8xololi"
-path="res://.godot/imported/EnemyInfo_BunnyGirl_Gamble_SR.png-581bd8f00889b03a701d8fbd39357b17.ctex"
+path="res://.godot/imported/EnemyInfo_BunnyGirl_Gamble_SR.png-1abad9e2f8057c2a3774e6cb13bfb900.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_BunnyGirl_Gamble_SR.png"
-dest_files=["res://.godot/imported/EnemyInfo_BunnyGirl_Gamble_SR.png-581bd8f00889b03a701d8fbd39357b17.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_BunnyGirl_Gamble_SR.png"
+dest_files=["res://.godot/imported/EnemyInfo_BunnyGirl_Gamble_SR.png-1abad9e2f8057c2a3774e6cb13bfb900.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5kxb8jfkx2li"
-path="res://.godot/imported/bg_kivotosstadium.jpg-0fa28549adb878dc1f81e61cff99dd24.ctex"
+path="res://.godot/imported/bg_kivotosstadium.jpg-a2337e592f00b24f94f64c2bf0378a83.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_kivotosstadium.jpg"
-dest_files=["res://.godot/imported/bg_kivotosstadium.jpg-0fa28549adb878dc1f81e61cff99dd24.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_kivotosstadium.jpg"
+dest_files=["res://.godot/imported/bg_kivotosstadium.jpg-a2337e592f00b24f94f64c2bf0378a83.ctex"]
 
 [params]
 

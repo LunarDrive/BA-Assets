@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2bva2xkaug08"
-path="res://.godot/imported/Img_UICountdown_Trinity_Line.png-5eae75d5815e9b1e542fb390418c3e5e.ctex"
+path="res://.godot/imported/Img_UICountdown_Trinity_Line.png-8dfdf10ba84f87c3e7978363b585dee7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/UICountdown/Img_UICountdown_Trinity_Line.png"
-dest_files=["res://.godot/imported/Img_UICountdown_Trinity_Line.png-5eae75d5815e9b1e542fb390418c3e5e.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/UICountdown/Img_UICountdown_Trinity_Line.png"
+dest_files=["res://.godot/imported/Img_UICountdown_Trinity_Line.png-8dfdf10ba84f87c3e7978363b585dee7.ctex"]
 
 [params]
 

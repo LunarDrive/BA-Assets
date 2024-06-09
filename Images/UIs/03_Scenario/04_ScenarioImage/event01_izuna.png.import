@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8cm1lebxs5ma"
-path="res://.godot/imported/event01_izuna.png-5e897b4f344a45728f2640bb9798ea67.ctex"
+path="res://.godot/imported/event01_izuna.png-e21eef469b3a0c38476b1b510be8656d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_izuna.png"
-dest_files=["res://.godot/imported/event01_izuna.png-5e897b4f344a45728f2640bb9798ea67.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_izuna.png"
+dest_files=["res://.godot/imported/event01_izuna.png-e21eef469b3a0c38476b1b510be8656d.ctex"]
 
 [params]
 

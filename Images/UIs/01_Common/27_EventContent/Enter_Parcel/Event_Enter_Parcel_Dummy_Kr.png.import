@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bv3ptyeqaephn"
-path="res://.godot/imported/Event_Enter_Parcel_Dummy_Kr.png-ae7a116f70ae03284e11cb508f847efc.ctex"
+path="res://.godot/imported/Event_Enter_Parcel_Dummy_Kr.png-4820ba523811d908cd31ffa238573a1f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/27_EventContent/Enter_Parcel/Event_Enter_Parcel_Dummy_Kr.png"
-dest_files=["res://.godot/imported/Event_Enter_Parcel_Dummy_Kr.png-ae7a116f70ae03284e11cb508f847efc.ctex"]
+source_file="res://assets/Images/UIs/01_Common/27_EventContent/Enter_Parcel/Event_Enter_Parcel_Dummy_Kr.png"
+dest_files=["res://.godot/imported/Event_Enter_Parcel_Dummy_Kr.png-4820ba523811d908cd31ffa238573a1f.ctex"]
 
 [params]
 

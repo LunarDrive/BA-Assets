@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://hbe66a4bo2t2"
-path="res://.godot/imported/SFX_Electric_JSD_Shock_03.ogg-63d7670a42c6523b03c4924e66ec1f56.oggvorbisstr"
+path="res://.godot/imported/SFX_Electric_JSD_Shock_03.ogg-b0aad877eb27998e699414730722220a.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Electric_JSD_Shock_03.ogg"
-dest_files=["res://.godot/imported/SFX_Electric_JSD_Shock_03.ogg-63d7670a42c6523b03c4924e66ec1f56.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Electric_JSD_Shock_03.ogg"
+dest_files=["res://.godot/imported/SFX_Electric_JSD_Shock_03.ogg-b0aad877eb27998e699414730722220a.oggvorbisstr"]
 
 [params]
 

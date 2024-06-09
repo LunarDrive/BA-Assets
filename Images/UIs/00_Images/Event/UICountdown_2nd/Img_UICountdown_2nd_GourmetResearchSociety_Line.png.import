@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://p538uedc1vpq"
-path="res://.godot/imported/Img_UICountdown_2nd_GourmetResearchSociety_Line.png-8b0ab304854bff9fff955fcfad376b4e.ctex"
+path="res://.godot/imported/Img_UICountdown_2nd_GourmetResearchSociety_Line.png-a61b97c4f2127db0f6ef833a26f7f404.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/UICountdown_2nd/Img_UICountdown_2nd_GourmetResearchSociety_Line.png"
-dest_files=["res://.godot/imported/Img_UICountdown_2nd_GourmetResearchSociety_Line.png-8b0ab304854bff9fff955fcfad376b4e.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/UICountdown_2nd/Img_UICountdown_2nd_GourmetResearchSociety_Line.png"
+dest_files=["res://.godot/imported/Img_UICountdown_2nd_GourmetResearchSociety_Line.png-a61b97c4f2127db0f6ef833a26f7f404.ctex"]
 
 [params]
 

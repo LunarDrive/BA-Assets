@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dykybvlr26l4"
-path="res://.godot/imported/My_Poolparty_01_B_Minipool.png-b43626fbe831d8569ae92f8ee5786446.ctex"
+path="res://.godot/imported/My_Poolparty_01_B_Minipool.png-b6cf79838211ad42b7d05ac639406b81.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Poolparty_01_B_Minipool.png"
-dest_files=["res://.godot/imported/My_Poolparty_01_B_Minipool.png-b43626fbe831d8569ae92f8ee5786446.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Poolparty_01_B_Minipool.png"
+dest_files=["res://.godot/imported/My_Poolparty_01_B_Minipool.png-b6cf79838211ad42b7d05ac639406b81.ctex"]
 
 [params]
 

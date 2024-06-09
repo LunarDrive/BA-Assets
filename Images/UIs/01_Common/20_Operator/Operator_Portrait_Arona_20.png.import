@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://etuatq8ko7qi"
-path="res://.godot/imported/Operator_Portrait_Arona_20.png-8e1877b0a8b93f9907c86ebe6012982b.ctex"
+path="res://.godot/imported/Operator_Portrait_Arona_20.png-25bb0dd24c03eef3a7341b20de3bbfc4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/20_Operator/Operator_Portrait_Arona_20.png"
-dest_files=["res://.godot/imported/Operator_Portrait_Arona_20.png-8e1877b0a8b93f9907c86ebe6012982b.ctex"]
+source_file="res://assets/Images/UIs/01_Common/20_Operator/Operator_Portrait_Arona_20.png"
+dest_files=["res://.godot/imported/Operator_Portrait_Arona_20.png-25bb0dd24c03eef3a7341b20de3bbfc4.ctex"]
 
 [params]
 

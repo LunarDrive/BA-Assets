@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgjdfu6iyb4wm"
-path="res://.godot/imported/Skill_Portrait_Hinata.png-94e49f5a42506cbb4427c3049c1ab1ef.ctex"
+path="res://.godot/imported/Skill_Portrait_Hinata.png-d7f6b2d27d249d709210231c3bc7eb51.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Hinata.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Hinata.png-94e49f5a42506cbb4427c3049c1ab1ef.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Hinata.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Hinata.png-d7f6b2d27d249d709210231c3bc7eb51.ctex"]
 
 [params]
 

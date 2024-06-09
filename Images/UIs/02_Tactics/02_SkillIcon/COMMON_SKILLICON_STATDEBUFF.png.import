@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cjju6u527tow2"
-path="res://.godot/imported/COMMON_SKILLICON_STATDEBUFF.png-2d90ef898f0d3702f2710fe76911bf28.ctex"
+path="res://.godot/imported/COMMON_SKILLICON_STATDEBUFF.png-e9ab662d1eaea2ddf356163d2c2150ab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_STATDEBUFF.png"
-dest_files=["res://.godot/imported/COMMON_SKILLICON_STATDEBUFF.png-2d90ef898f0d3702f2710fe76911bf28.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_STATDEBUFF.png"
+dest_files=["res://.godot/imported/COMMON_SKILLICON_STATDEBUFF.png-e9ab662d1eaea2ddf356163d2c2150ab.ctex"]
 
 [params]
 

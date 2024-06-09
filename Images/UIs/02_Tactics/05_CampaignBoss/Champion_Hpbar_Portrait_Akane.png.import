@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqgspgup0d52g"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Akane.png-367231997e9940975d65e5e22bdb2557.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Akane.png-9eab075e356b14338e2439208ceca617.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Akane.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Akane.png-367231997e9940975d65e5e22bdb2557.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Akane.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Akane.png-9eab075e356b14338e2439208ceca617.ctex"]
 
 [params]
 

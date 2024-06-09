@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ueftqqpkbxt2"
-path="res://.godot/imported/SE_HangUp_03.ogg-97e87ba7f60c17c60f347abc57cf6f85.oggvorbisstr"
+path="res://.godot/imported/SE_HangUp_03.ogg-69b0c22088e8e5cbefd103a4f851b208.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_HangUp_03.ogg"
-dest_files=["res://.godot/imported/SE_HangUp_03.ogg-97e87ba7f60c17c60f347abc57cf6f85.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_HangUp_03.ogg"
+dest_files=["res://.godot/imported/SE_HangUp_03.ogg-69b0c22088e8e5cbefd103a4f851b208.oggvorbisstr"]
 
 [params]
 

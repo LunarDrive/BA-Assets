@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://biy6pew5wudck"
-path="res://.godot/imported/Event_Vallentine_Chocolate_Karin.png-bf713bcdfd46eb5742313a1b736b9540.ctex"
+path="res://.godot/imported/Event_Vallentine_Chocolate_Karin.png-234f57c15da9988e6217d4753dadfbbc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Event_Vallentine_Chocolate_Karin.png"
-dest_files=["res://.godot/imported/Event_Vallentine_Chocolate_Karin.png-bf713bcdfd46eb5742313a1b736b9540.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Event_Vallentine_Chocolate_Karin.png"
+dest_files=["res://.godot/imported/Event_Vallentine_Chocolate_Karin.png-234f57c15da9988e6217d4753dadfbbc.ctex"]
 
 [params]
 

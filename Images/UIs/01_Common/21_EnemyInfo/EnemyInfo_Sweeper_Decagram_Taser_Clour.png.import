@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cg5u5xs60paqi"
-path="res://.godot/imported/EnemyInfo_Sweeper_Decagram_Taser_Clour.png-5eb36ddd65c7de26d41952f22c4a610e.ctex"
+path="res://.godot/imported/EnemyInfo_Sweeper_Decagram_Taser_Clour.png-e20ddb0fb1f150d211ac8f9e8fbe9f2b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Sweeper_Decagram_Taser_Clour.png"
-dest_files=["res://.godot/imported/EnemyInfo_Sweeper_Decagram_Taser_Clour.png-5eb36ddd65c7de26d41952f22c4a610e.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Sweeper_Decagram_Taser_Clour.png"
+dest_files=["res://.godot/imported/EnemyInfo_Sweeper_Decagram_Taser_Clour.png-e20ddb0fb1f150d211ac8f9e8fbe9f2b.ctex"]
 
 [params]
 

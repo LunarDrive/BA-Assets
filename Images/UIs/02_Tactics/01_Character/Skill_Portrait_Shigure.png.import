@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwq84o8upieci"
-path="res://.godot/imported/Skill_Portrait_Shigure.png-5670c368f6a27bf0a3f06991683d773e.ctex"
+path="res://.godot/imported/Skill_Portrait_Shigure.png-ab734e7ffef0d86c6f50a586b50fd7f5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Shigure.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Shigure.png-5670c368f6a27bf0a3f06991683d773e.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Shigure.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Shigure.png-ab734e7ffef0d86c6f50a586b50fd7f5.ctex"]
 
 [params]
 

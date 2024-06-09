@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bo4vtki45h5fx"
-path="res://.godot/imported/Champion_Hpbar_Portrait_KaitenFX01_Kaitenranger_AR.png-c3ba336ccd90cb11616c451dda6001a1.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_KaitenFX01_Kaitenranger_AR.png-d12675929ea28905fa1c77fb4251a5a5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_KaitenFX01_Kaitenranger_AR.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_KaitenFX01_Kaitenranger_AR.png-c3ba336ccd90cb11616c451dda6001a1.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_KaitenFX01_Kaitenranger_AR.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_KaitenFX01_Kaitenranger_AR.png-d12675929ea28905fa1c77fb4251a5a5.ctex"]
 
 [params]
 

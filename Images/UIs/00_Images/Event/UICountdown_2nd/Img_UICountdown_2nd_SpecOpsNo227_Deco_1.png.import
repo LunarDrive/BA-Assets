@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6r6u6buauedy"
-path="res://.godot/imported/Img_UICountdown_2nd_SpecOpsNo227_Deco_1.png-9a1592ea5067064f8cc14ea598e077b8.ctex"
+path="res://.godot/imported/Img_UICountdown_2nd_SpecOpsNo227_Deco_1.png-0a1656a80a239dda8b03822f17d38c73.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/UICountdown_2nd/Img_UICountdown_2nd_SpecOpsNo227_Deco_1.png"
-dest_files=["res://.godot/imported/Img_UICountdown_2nd_SpecOpsNo227_Deco_1.png-9a1592ea5067064f8cc14ea598e077b8.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/UICountdown_2nd/Img_UICountdown_2nd_SpecOpsNo227_Deco_1.png"
+dest_files=["res://.godot/imported/Img_UICountdown_2nd_SpecOpsNo227_Deco_1.png-0a1656a80a239dda8b03822f17d38c73.ctex"]
 
 [params]
 

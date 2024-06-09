@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dc1oe60833cv7"
-path="res://.godot/imported/bg_slumfront_cloud.jpg-374924d52f20d06646fffd81b0046e94.ctex"
+path="res://.godot/imported/bg_slumfront_cloud.jpg-cfa7ebb19cf25632706a59564734201b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_slumfront_cloud.jpg"
-dest_files=["res://.godot/imported/bg_slumfront_cloud.jpg-374924d52f20d06646fffd81b0046e94.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_slumfront_cloud.jpg"
+dest_files=["res://.godot/imported/bg_slumfront_cloud.jpg-cfa7ebb19cf25632706a59564734201b.ctex"]
 
 [params]
 

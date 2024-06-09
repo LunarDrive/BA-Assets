@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brw8w5yongvud"
-path="res://.godot/imported/Img_UICountdown_Hyakkiyako_Deco_1.png-3087f72e1f6a446e5022a744d58bce28.ctex"
+path="res://.godot/imported/Img_UICountdown_Hyakkiyako_Deco_1.png-85f4b2d1a977694819e3f75fea3c252c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/UICountdown/Img_UICountdown_Hyakkiyako_Deco_1.png"
-dest_files=["res://.godot/imported/Img_UICountdown_Hyakkiyako_Deco_1.png-3087f72e1f6a446e5022a744d58bce28.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/UICountdown/Img_UICountdown_Hyakkiyako_Deco_1.png"
+dest_files=["res://.godot/imported/Img_UICountdown_Hyakkiyako_Deco_1.png-85f4b2d1a977694819e3f75fea3c252c.ctex"]
 
 [params]
 

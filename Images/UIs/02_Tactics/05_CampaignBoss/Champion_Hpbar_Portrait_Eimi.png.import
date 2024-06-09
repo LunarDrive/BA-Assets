@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dilk1o2lad781"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Eimi.png-4112fcbc1c81db7a81fbd356e0a52a83.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Eimi.png-46255d33d841e075d8d2fc5e63efa3ea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Eimi.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Eimi.png-4112fcbc1c81db7a81fbd356e0a52a83.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Eimi.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Eimi.png-46255d33d841e075d8d2fc5e63efa3ea.ctex"]
 
 [params]
 

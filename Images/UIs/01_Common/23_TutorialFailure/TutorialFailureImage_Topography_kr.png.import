@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cisnuccolnvew"
-path="res://.godot/imported/TutorialFailureImage_Topography_kr.png-12a8f95aa04bb49395d360a680694356.ctex"
+path="res://.godot/imported/TutorialFailureImage_Topography_kr.png-62035e70066859d35314dd0678e94316.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Topography_kr.png"
-dest_files=["res://.godot/imported/TutorialFailureImage_Topography_kr.png-12a8f95aa04bb49395d360a680694356.ctex"]
+source_file="res://assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Topography_kr.png"
+dest_files=["res://.godot/imported/TutorialFailureImage_Topography_kr.png-62035e70066859d35314dd0678e94316.ctex"]
 
 [params]
 

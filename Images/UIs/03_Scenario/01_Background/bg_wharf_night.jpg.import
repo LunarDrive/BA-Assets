@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dr7xabj10tora"
-path="res://.godot/imported/bg_wharf_night.jpg-c9ab6e60c8cb15c75043fd21a8fb7d1d.ctex"
+path="res://.godot/imported/bg_wharf_night.jpg-557c2f30997ebd429246fac53078142a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_wharf_night.jpg"
-dest_files=["res://.godot/imported/bg_wharf_night.jpg-c9ab6e60c8cb15c75043fd21a8fb7d1d.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_wharf_night.jpg"
+dest_files=["res://.godot/imported/bg_wharf_night.jpg-557c2f30997ebd429246fac53078142a.ctex"]
 
 [params]
 

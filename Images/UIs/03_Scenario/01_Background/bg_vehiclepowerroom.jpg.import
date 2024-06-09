@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5e3ccge6vdnc"
-path="res://.godot/imported/bg_vehiclepowerroom.jpg-18881d95ccfe935d64a7ba082ff2ed89.ctex"
+path="res://.godot/imported/bg_vehiclepowerroom.jpg-0dc62315e8238f57ed4541f7b38d0d34.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_vehiclepowerroom.jpg"
-dest_files=["res://.godot/imported/bg_vehiclepowerroom.jpg-18881d95ccfe935d64a7ba082ff2ed89.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_vehiclepowerroom.jpg"
+dest_files=["res://.godot/imported/bg_vehiclepowerroom.jpg-0dc62315e8238f57ed4541f7b38d0d34.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bein1uk4sata6"
-path="res://.godot/imported/EnemyInfo_Totem01_Valkyrie.png-246a4324f34cea15e972cd6cdef267b1.ctex"
+path="res://.godot/imported/EnemyInfo_Totem01_Valkyrie.png-437e8f104620aa2242b34a01fd434583.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Totem01_Valkyrie.png"
-dest_files=["res://.godot/imported/EnemyInfo_Totem01_Valkyrie.png-246a4324f34cea15e972cd6cdef267b1.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Totem01_Valkyrie.png"
+dest_files=["res://.godot/imported/EnemyInfo_Totem01_Valkyrie.png-437e8f104620aa2242b34a01fd434583.ctex"]
 
 [params]
 

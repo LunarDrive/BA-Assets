@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dshkm1olgwlm1"
-path="res://.godot/imported/bg_gehennaclubroom2_night.jpg-785301d5c95e8b8d39929ef28388169f.ctex"
+path="res://.godot/imported/bg_gehennaclubroom2_night.jpg-30060418ef1c4d668983c97749385ef7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_gehennaclubroom2_night.jpg"
-dest_files=["res://.godot/imported/bg_gehennaclubroom2_night.jpg-785301d5c95e8b8d39929ef28388169f.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_gehennaclubroom2_night.jpg"
+dest_files=["res://.godot/imported/bg_gehennaclubroom2_night.jpg-30060418ef1c4d668983c97749385ef7.ctex"]
 
 [params]
 

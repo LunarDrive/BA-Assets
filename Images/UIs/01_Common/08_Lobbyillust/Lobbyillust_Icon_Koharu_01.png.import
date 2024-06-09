@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1wyqgy5i8mek"
-path="res://.godot/imported/Lobbyillust_Icon_Koharu_01.png-ff8fde7df45ebfce63cc0b9779fa98d6.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Koharu_01.png-2813385a952533b472b179933309f3a5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Koharu_01.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Koharu_01.png-ff8fde7df45ebfce63cc0b9779fa98d6.ctex"]
+source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Koharu_01.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Koharu_01.png-2813385a952533b472b179933309f3a5.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fxihtpnjg76b"
-path="res://.godot/imported/SKILLICON_SHIROKURO_PASSIVESKILL01.png-2c4d3ada78b979f6b157859df6ebbbe0.ctex"
+path="res://.godot/imported/SKILLICON_SHIROKURO_PASSIVESKILL01.png-226b5ed60ebf6b66a92fd053c4096676.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_SHIROKURO_PASSIVESKILL01.png"
-dest_files=["res://.godot/imported/SKILLICON_SHIROKURO_PASSIVESKILL01.png-2c4d3ada78b979f6b157859df6ebbbe0.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_SHIROKURO_PASSIVESKILL01.png"
+dest_files=["res://.godot/imported/SKILLICON_SHIROKURO_PASSIVESKILL01.png-226b5ed60ebf6b66a92fd053c4096676.ctex"]
 
 [params]
 

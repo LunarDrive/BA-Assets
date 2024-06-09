@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cbnflkns61uet"
-path="res://.godot/imported/UI_Pause.ogg-fd7368ab34c87ca65ff54744d30fd012.oggvorbisstr"
+path="res://.godot/imported/UI_Pause.ogg-78acfa56ca9c9c8511a94ce1b32e43b4.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_UI/UI_Pause.ogg"
-dest_files=["res://.godot/imported/UI_Pause.ogg-fd7368ab34c87ca65ff54744d30fd012.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_UI/UI_Pause.ogg"
+dest_files=["res://.godot/imported/UI_Pause.ogg-78acfa56ca9c9c8511a94ce1b32e43b4.oggvorbisstr"]
 
 [params]
 

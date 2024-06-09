@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://j6xwxpbqp3da"
-path="res://.godot/imported/EnemyInfo_HeavyTank_Decagram_Railgun.png-a0d860bd964abea5cbbb11244d259b65.ctex"
+path="res://.godot/imported/EnemyInfo_HeavyTank_Decagram_Railgun.png-f21968d4b32ab83595d0c49be8bd8c02.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_HeavyTank_Decagram_Railgun.png"
-dest_files=["res://.godot/imported/EnemyInfo_HeavyTank_Decagram_Railgun.png-a0d860bd964abea5cbbb11244d259b65.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_HeavyTank_Decagram_Railgun.png"
+dest_files=["res://.godot/imported/EnemyInfo_HeavyTank_Decagram_Railgun.png-f21968d4b32ab83595d0c49be8bd8c02.ctex"]
 
 [params]
 

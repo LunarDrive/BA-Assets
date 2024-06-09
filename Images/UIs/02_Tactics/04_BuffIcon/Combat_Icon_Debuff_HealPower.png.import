@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8yp8pbpicwmr"
-path="res://.godot/imported/Combat_Icon_Debuff_HealPower.png-2ac4ce4a3acfd3f101eea2896f65dd24.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_HealPower.png-d0e4326ac9aa7d0879cdc20678cfe451.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_HealPower.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_HealPower.png-2ac4ce4a3acfd3f101eea2896f65dd24.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_HealPower.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_HealPower.png-d0e4326ac9aa7d0879cdc20678cfe451.ctex"]
 
 [params]
 

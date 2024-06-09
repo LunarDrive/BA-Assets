@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d000rv4oedhip"
-path="res://.godot/imported/My_Newyearpath_01_Hanger.png-bdd472142817ddde35a2035d15615018.ctex"
+path="res://.godot/imported/My_Newyearpath_01_Hanger.png-67f0b0845d49646fc475818a94b190db.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Newyearpath_01_Hanger.png"
-dest_files=["res://.godot/imported/My_Newyearpath_01_Hanger.png-bdd472142817ddde35a2035d15615018.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Newyearpath_01_Hanger.png"
+dest_files=["res://.godot/imported/My_Newyearpath_01_Hanger.png-67f0b0845d49646fc475818a94b190db.ctex"]
 
 [params]
 

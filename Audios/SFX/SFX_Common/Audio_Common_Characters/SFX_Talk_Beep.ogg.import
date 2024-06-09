@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://5d1cylpvyp7s"
-path="res://.godot/imported/SFX_Talk_Beep.ogg-751789d8818ae13f74aaf75ecd147db8.oggvorbisstr"
+path="res://.godot/imported/SFX_Talk_Beep.ogg-71c490cd1af1012755adcb7eefef86c5.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Talk_Beep.ogg"
-dest_files=["res://.godot/imported/SFX_Talk_Beep.ogg-751789d8818ae13f74aaf75ecd147db8.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Talk_Beep.ogg"
+dest_files=["res://.godot/imported/SFX_Talk_Beep.ogg-71c490cd1af1012755adcb7eefef86c5.oggvorbisstr"]
 
 [params]
 

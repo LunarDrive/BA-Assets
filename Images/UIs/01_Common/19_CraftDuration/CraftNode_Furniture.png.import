@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dly38i1hxvyiv"
-path="res://.godot/imported/CraftNode_Furniture.png-9f76c886bf8bb173bd9414232ab793e1.ctex"
+path="res://.godot/imported/CraftNode_Furniture.png-93360608f418f67d436ef8faf6c08e49.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/19_CraftDuration/CraftNode_Furniture.png"
-dest_files=["res://.godot/imported/CraftNode_Furniture.png-9f76c886bf8bb173bd9414232ab793e1.ctex"]
+source_file="res://assets/Images/UIs/01_Common/19_CraftDuration/CraftNode_Furniture.png"
+dest_files=["res://.godot/imported/CraftNode_Furniture.png-93360608f418f67d436ef8faf6c08e49.ctex"]
 
 [params]
 

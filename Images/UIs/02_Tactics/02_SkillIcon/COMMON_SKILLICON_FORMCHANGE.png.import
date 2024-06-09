@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csvi6rky65aeq"
-path="res://.godot/imported/COMMON_SKILLICON_FORMCHANGE.png-77e1fee2b0bb9ffeec9d221642d50a8a.ctex"
+path="res://.godot/imported/COMMON_SKILLICON_FORMCHANGE.png-7f5c7b3a63e63988782db94d721da61a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_FORMCHANGE.png"
-dest_files=["res://.godot/imported/COMMON_SKILLICON_FORMCHANGE.png-77e1fee2b0bb9ffeec9d221642d50a8a.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_FORMCHANGE.png"
+dest_files=["res://.godot/imported/COMMON_SKILLICON_FORMCHANGE.png-7f5c7b3a63e63988782db94d721da61a.ctex"]
 
 [params]
 

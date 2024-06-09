@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lfsbf7vcjwxn"
-path="res://.godot/imported/TutorialFailureImage_Raid_Hieronymus_03_kr.png-52edf7e6c9ed44b26e63cace22b445d0.ctex"
+path="res://.godot/imported/TutorialFailureImage_Raid_Hieronymus_03_kr.png-e7b4182bb090c2cae1e318bbe28cd79f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_kr.png"
-dest_files=["res://.godot/imported/TutorialFailureImage_Raid_Hieronymus_03_kr.png-52edf7e6c9ed44b26e63cace22b445d0.ctex"]
+source_file="res://assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_kr.png"
+dest_files=["res://.godot/imported/TutorialFailureImage_Raid_Hieronymus_03_kr.png-e7b4182bb090c2cae1e318bbe28cd79f.ctex"]
 
 [params]
 

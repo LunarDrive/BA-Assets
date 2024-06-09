@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6o2nmgde6id1"
-path="res://.godot/imported/Lobbyillust_Icon_Azusa_Swimsuit_01.png-bec2c8e7dbfe7ad4ccb9b0356403a6ac.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Azusa_Swimsuit_01.png-0ef14c033a5793a964903c45a5e8fa29.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Azusa_Swimsuit_01.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Azusa_Swimsuit_01.png-bec2c8e7dbfe7ad4ccb9b0356403a6ac.ctex"]
+source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Azusa_Swimsuit_01.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Azusa_Swimsuit_01.png-0ef14c033a5793a964903c45a5e8fa29.ctex"]
 
 [params]
 

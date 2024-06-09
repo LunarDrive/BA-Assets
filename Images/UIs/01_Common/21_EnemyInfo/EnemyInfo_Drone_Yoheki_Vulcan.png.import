@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://din1puiohyhjr"
-path="res://.godot/imported/EnemyInfo_Drone_Yoheki_Vulcan.png-54a862c8ae55ff5c48932aae95b6d587.ctex"
+path="res://.godot/imported/EnemyInfo_Drone_Yoheki_Vulcan.png-7320c9435cfe8d540a86e62d9a9b6812.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Drone_Yoheki_Vulcan.png"
-dest_files=["res://.godot/imported/EnemyInfo_Drone_Yoheki_Vulcan.png-54a862c8ae55ff5c48932aae95b6d587.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Drone_Yoheki_Vulcan.png"
+dest_files=["res://.godot/imported/EnemyInfo_Drone_Yoheki_Vulcan.png-7320c9435cfe8d540a86e62d9a9b6812.ctex"]
 
 [params]
 

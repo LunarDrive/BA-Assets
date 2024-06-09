@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqecra8ujn0pp"
-path="res://.godot/imported/SKILLICON_AIRI_EXSKILL.png-342a80ba181f85220d89fc69d8a8b42a.ctex"
+path="res://.godot/imported/SKILLICON_AIRI_EXSKILL.png-8b0cae521400bf6cad870a9ad656faab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/SKILLICON_AIRI_EXSKILL.png"
-dest_files=["res://.godot/imported/SKILLICON_AIRI_EXSKILL.png-342a80ba181f85220d89fc69d8a8b42a.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/SKILLICON_AIRI_EXSKILL.png"
+dest_files=["res://.godot/imported/SKILLICON_AIRI_EXSKILL.png-8b0cae521400bf6cad870a9ad656faab.ctex"]
 
 [params]
 

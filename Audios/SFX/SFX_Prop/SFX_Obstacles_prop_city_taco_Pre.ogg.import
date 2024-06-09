@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dti851hmq5nvq"
-path="res://.godot/imported/SFX_Obstacles_prop_city_taco_Pre.ogg-e8ec9272d992ac4fd236a8ac01411a3d.oggvorbisstr"
+path="res://.godot/imported/SFX_Obstacles_prop_city_taco_Pre.ogg-080ac636fa4eaaca29b953affa3e60fc.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Prop/SFX_Obstacles_prop_city_taco_Pre.ogg"
-dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_taco_Pre.ogg-e8ec9272d992ac4fd236a8ac01411a3d.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Prop/SFX_Obstacles_prop_city_taco_Pre.ogg"
+dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_taco_Pre.ogg-080ac636fa4eaaca29b953affa3e60fc.oggvorbisstr"]
 
 [params]
 

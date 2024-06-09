@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ckvir1ojbgcv6"
-path="res://.godot/imported/SE_Shower_01.ogg-ebb213696fab6cace52916cd6fa5ae33.oggvorbisstr"
+path="res://.godot/imported/SE_Shower_01.ogg-c49a859c19f304761d9635cf35b4c581.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Shower_01.ogg"
-dest_files=["res://.godot/imported/SE_Shower_01.ogg-ebb213696fab6cace52916cd6fa5ae33.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Shower_01.ogg"
+dest_files=["res://.godot/imported/SE_Shower_01.ogg-c49a859c19f304761d9635cf35b4c581.oggvorbisstr"]
 
 [params]
 

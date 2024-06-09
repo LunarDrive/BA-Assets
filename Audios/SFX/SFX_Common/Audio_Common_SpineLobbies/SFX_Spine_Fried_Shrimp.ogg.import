@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://gnvklj7fuvvf"
-path="res://.godot/imported/SFX_Spine_Fried_Shrimp.ogg-a3bdaf854ec60eba5a8e4e7b49e917bc.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_Fried_Shrimp.ogg-281e546d743ecedc4ec11b5ebbec860d.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Fried_Shrimp.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_Fried_Shrimp.ogg-a3bdaf854ec60eba5a8e4e7b49e917bc.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Fried_Shrimp.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_Fried_Shrimp.ogg-281e546d743ecedc4ec11b5ebbec860d.oggvorbisstr"]
 
 [params]
 

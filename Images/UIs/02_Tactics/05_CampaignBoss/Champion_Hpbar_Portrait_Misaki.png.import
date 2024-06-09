@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://osgo1oaxhcoy"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Misaki.png-b3c215d9f8ecba97896442dcf9a42a20.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Misaki.png-1e2c3a95856b25794e8c562e8b253939.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Misaki.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Misaki.png-b3c215d9f8ecba97896442dcf9a42a20.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Misaki.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Misaki.png-1e2c3a95856b25794e8c562e8b253939.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfcr5f3i853ri"
-path="res://.godot/imported/NPC_Portrait_Sukeban_HMG1.png-2b3301553f13e70027e0c56bc1f41316.ctex"
+path="res://.godot/imported/NPC_Portrait_Sukeban_HMG1.png-43332b12813cecd6119091b2231f2f36.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Sukeban_HMG1.png"
-dest_files=["res://.godot/imported/NPC_Portrait_Sukeban_HMG1.png-2b3301553f13e70027e0c56bc1f41316.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Sukeban_HMG1.png"
+dest_files=["res://.godot/imported/NPC_Portrait_Sukeban_HMG1.png-43332b12813cecd6119091b2231f2f36.ctex"]
 
 [params]
 

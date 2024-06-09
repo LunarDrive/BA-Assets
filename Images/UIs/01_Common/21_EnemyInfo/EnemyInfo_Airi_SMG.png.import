@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4rpa7g82up5v"
-path="res://.godot/imported/EnemyInfo_Airi_SMG.png-0c59067427a62825ad1252accb09a48a.ctex"
+path="res://.godot/imported/EnemyInfo_Airi_SMG.png-2f0ff3800f9494dd3cb19e22272f0903.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Airi_SMG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Airi_SMG.png-0c59067427a62825ad1252accb09a48a.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Airi_SMG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Airi_SMG.png-2f0ff3800f9494dd3cb19e22272f0903.ctex"]
 
 [params]
 

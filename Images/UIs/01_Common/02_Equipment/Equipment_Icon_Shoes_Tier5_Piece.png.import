@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://co5h7kk12r8de"
-path="res://.godot/imported/Equipment_Icon_Shoes_Tier5_Piece.png-404b2335f27a2e137cb6954d297c9931.ctex"
+path="res://.godot/imported/Equipment_Icon_Shoes_Tier5_Piece.png-0f9c08d9bab06e3167530f96b180446e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/02_Equipment/Equipment_Icon_Shoes_Tier5_Piece.png"
-dest_files=["res://.godot/imported/Equipment_Icon_Shoes_Tier5_Piece.png-404b2335f27a2e137cb6954d297c9931.ctex"]
+source_file="res://assets/Images/UIs/01_Common/02_Equipment/Equipment_Icon_Shoes_Tier5_Piece.png"
+dest_files=["res://.godot/imported/Equipment_Icon_Shoes_Tier5_Piece.png-0f9c08d9bab06e3167530f96b180446e.ctex"]
 
 [params]
 

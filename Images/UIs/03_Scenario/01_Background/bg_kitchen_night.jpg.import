@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://da7kyqlt88hxk"
-path="res://.godot/imported/bg_kitchen_night.jpg-85b6a676957f6bad4c95a7f7ae2963c4.ctex"
+path="res://.godot/imported/bg_kitchen_night.jpg-bf6827a1d4c58234f2d3e9106dc8510e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_kitchen_night.jpg"
-dest_files=["res://.godot/imported/bg_kitchen_night.jpg-85b6a676957f6bad4c95a7f7ae2963c4.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_kitchen_night.jpg"
+dest_files=["res://.godot/imported/bg_kitchen_night.jpg-bf6827a1d4c58234f2d3e9106dc8510e.ctex"]
 
 [params]
 

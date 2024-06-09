@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bk6wtq3hvg7g1"
-path="res://.godot/imported/SE_CrumblePaper_02.ogg-bb4dd99d18b26001608d0229031c67c8.oggvorbisstr"
+path="res://.godot/imported/SE_CrumblePaper_02.ogg-9a90ad1a4d47b23cfa535efde1e55dbd.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_CrumblePaper_02.ogg"
-dest_files=["res://.godot/imported/SE_CrumblePaper_02.ogg-bb4dd99d18b26001608d0229031c67c8.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_CrumblePaper_02.ogg"
+dest_files=["res://.godot/imported/SE_CrumblePaper_02.ogg-9a90ad1a4d47b23cfa535efde1e55dbd.oggvorbisstr"]
 
 [params]
 

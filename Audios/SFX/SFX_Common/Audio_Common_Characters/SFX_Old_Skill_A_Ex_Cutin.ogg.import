@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cwlcsa4xf4cu7"
-path="res://.godot/imported/SFX_Old_Skill_A_Ex_Cutin.ogg-b77eb62a23ad67ec2437265f422ebb92.oggvorbisstr"
+path="res://.godot/imported/SFX_Old_Skill_A_Ex_Cutin.ogg-5b36ad4bb293c32cd528e91b1b76d6e3.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Old_Skill_A_Ex_Cutin.ogg"
-dest_files=["res://.godot/imported/SFX_Old_Skill_A_Ex_Cutin.ogg-b77eb62a23ad67ec2437265f422ebb92.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Old_Skill_A_Ex_Cutin.ogg"
+dest_files=["res://.godot/imported/SFX_Old_Skill_A_Ex_Cutin.ogg-5b36ad4bb293c32cd528e91b1b76d6e3.oggvorbisstr"]
 
 [params]
 

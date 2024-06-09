@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7w64miuc6y1n"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Soldier_RedWinterYoheki.png-5af6ac5711bfeb1a9b44436d751e14b2.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Soldier_RedWinterYoheki.png-22e24add3ee450bfeacb9a15f1443cf9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Soldier_RedWinterYoheki.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Soldier_RedWinterYoheki.png-5af6ac5711bfeb1a9b44436d751e14b2.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Soldier_RedWinterYoheki.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Soldier_RedWinterYoheki.png-22e24add3ee450bfeacb9a15f1443cf9.ctex"]
 
 [params]
 

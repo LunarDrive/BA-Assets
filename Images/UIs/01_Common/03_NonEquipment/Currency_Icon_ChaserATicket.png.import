@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ib0yhdvoq10p"
-path="res://.godot/imported/Currency_Icon_ChaserATicket.png-87792d3c92203af76f58563434191d13.ctex"
+path="res://.godot/imported/Currency_Icon_ChaserATicket.png-e2be82f4377bcdf790cfeed69b7e8d41.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Currency_Icon_ChaserATicket.png"
-dest_files=["res://.godot/imported/Currency_Icon_ChaserATicket.png-87792d3c92203af76f58563434191d13.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Currency_Icon_ChaserATicket.png"
+dest_files=["res://.godot/imported/Currency_Icon_ChaserATicket.png-e2be82f4377bcdf790cfeed69b7e8d41.ctex"]
 
 [params]
 

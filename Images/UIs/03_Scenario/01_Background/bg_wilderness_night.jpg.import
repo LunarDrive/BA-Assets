@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pq6nsg1mprlc"
-path="res://.godot/imported/bg_wilderness_night.jpg-b3d634642f85b658cffd951c29e1c869.ctex"
+path="res://.godot/imported/bg_wilderness_night.jpg-b1d12d0a4e9526987b1f9579a3b74027.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_wilderness_night.jpg"
-dest_files=["res://.godot/imported/bg_wilderness_night.jpg-b3d634642f85b658cffd951c29e1c869.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_wilderness_night.jpg"
+dest_files=["res://.godot/imported/bg_wilderness_night.jpg-b1d12d0a4e9526987b1f9579a3b74027.ctex"]
 
 [params]
 

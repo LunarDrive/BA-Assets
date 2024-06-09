@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvywy0yip3pwx"
-path="res://.godot/imported/EnemyInfo_Soldier_OnsenDev_RL.png-f3349482d048d6fb3c9108bec22c9978.ctex"
+path="res://.godot/imported/EnemyInfo_Soldier_OnsenDev_RL.png-95903062068aa2080c6eb4f3ae163403.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Soldier_OnsenDev_RL.png"
-dest_files=["res://.godot/imported/EnemyInfo_Soldier_OnsenDev_RL.png-f3349482d048d6fb3c9108bec22c9978.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Soldier_OnsenDev_RL.png"
+dest_files=["res://.godot/imported/EnemyInfo_Soldier_OnsenDev_RL.png-95903062068aa2080c6eb4f3ae163403.ctex"]
 
 [params]
 

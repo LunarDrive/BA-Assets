@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bt2i66ctlvjtt"
-path="res://.godot/imported/UI_FX_BG_FocusLine.ogg-5c098a79e19bff4d64152749a86c9a07.oggvorbisstr"
+path="res://.godot/imported/UI_FX_BG_FocusLine.ogg-47efdf756c6516109090ea38b04942fb.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_FocusLine.ogg"
-dest_files=["res://.godot/imported/UI_FX_BG_FocusLine.ogg-5c098a79e19bff4d64152749a86c9a07.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_FocusLine.ogg"
+dest_files=["res://.godot/imported/UI_FX_BG_FocusLine.ogg-47efdf756c6516109090ea38b04942fb.oggvorbisstr"]
 
 [params]
 

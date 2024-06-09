@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b86g7ngn8l5bf"
-path="res://.godot/imported/EnemyInfo_Asuna_AR.png-9a92c16fc1651fbcffc9590f3fa2718a.ctex"
+path="res://.godot/imported/EnemyInfo_Asuna_AR.png-1e1905349c3f70f84d4ccf7a6f1fbe31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Asuna_AR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Asuna_AR.png-9a92c16fc1651fbcffc9590f3fa2718a.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Asuna_AR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Asuna_AR.png-1e1905349c3f70f84d4ccf7a6f1fbe31.ctex"]
 
 [params]
 

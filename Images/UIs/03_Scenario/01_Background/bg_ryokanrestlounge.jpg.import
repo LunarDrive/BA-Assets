@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btm3t73ixf3ir"
-path="res://.godot/imported/bg_ryokanrestlounge.jpg-8d098bccff67edf547a173939a2e7961.ctex"
+path="res://.godot/imported/bg_ryokanrestlounge.jpg-306f516b03bd0c1dd3dbe7268e46c8c0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_ryokanrestlounge.jpg"
-dest_files=["res://.godot/imported/bg_ryokanrestlounge.jpg-8d098bccff67edf547a173939a2e7961.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_ryokanrestlounge.jpg"
+dest_files=["res://.godot/imported/bg_ryokanrestlounge.jpg-306f516b03bd0c1dd3dbe7268e46c8c0.ctex"]
 
 [params]
 

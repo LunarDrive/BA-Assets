@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://byly0frm0uesi"
-path="res://.godot/imported/Portrait_Sephira_01.png-142265b0251213f24fa3a2c23b7471f2.ctex"
+path="res://.godot/imported/Portrait_Sephira_01.png-2ee5c62e6af2266f1a28a0c3eeee43af.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_01.png"
-dest_files=["res://.godot/imported/Portrait_Sephira_01.png-142265b0251213f24fa3a2c23b7471f2.ctex"]
+source_file="res://assets/Images/UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_01.png"
+dest_files=["res://.godot/imported/Portrait_Sephira_01.png-2ee5c62e6af2266f1a28a0c3eeee43af.ctex"]
 
 [params]
 

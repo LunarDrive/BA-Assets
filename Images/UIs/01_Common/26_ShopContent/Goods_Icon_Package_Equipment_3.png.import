@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7elsssbxgoj"
-path="res://.godot/imported/Goods_Icon_Package_Equipment_3.png-193660b176b71236242326fe78f7d4b8.ctex"
+path="res://.godot/imported/Goods_Icon_Package_Equipment_3.png-e98a7ca724966f07583d30134d74a28b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/26_ShopContent/Goods_Icon_Package_Equipment_3.png"
-dest_files=["res://.godot/imported/Goods_Icon_Package_Equipment_3.png-193660b176b71236242326fe78f7d4b8.ctex"]
+source_file="res://assets/Images/UIs/01_Common/26_ShopContent/Goods_Icon_Package_Equipment_3.png"
+dest_files=["res://.godot/imported/Goods_Icon_Package_Equipment_3.png-e98a7ca724966f07583d30134d74a28b.ctex"]
 
 [params]
 

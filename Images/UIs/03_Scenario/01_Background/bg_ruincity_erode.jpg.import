@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmv34i8fh2h0"
-path="res://.godot/imported/bg_ruincity_erode.jpg-aedfc71e3dd32b5429ae36255093e332.ctex"
+path="res://.godot/imported/bg_ruincity_erode.jpg-3a7ed6478e5cee649736c83d1b3d0e74.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_ruincity_erode.jpg"
-dest_files=["res://.godot/imported/bg_ruincity_erode.jpg-aedfc71e3dd32b5429ae36255093e332.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_ruincity_erode.jpg"
+dest_files=["res://.godot/imported/bg_ruincity_erode.jpg-3a7ed6478e5cee649736c83d1b3d0e74.ctex"]
 
 [params]
 

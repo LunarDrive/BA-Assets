@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbuid2nxtjfsb"
-path="res://.godot/imported/bg_schoolfrontgate.jpg-526c950b7fe169daf5a820542d37105c.ctex"
+path="res://.godot/imported/bg_schoolfrontgate.jpg-bf646b70354dd966172c33bd05a28957.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_schoolfrontgate.jpg"
-dest_files=["res://.godot/imported/bg_schoolfrontgate.jpg-526c950b7fe169daf5a820542d37105c.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_schoolfrontgate.jpg"
+dest_files=["res://.godot/imported/bg_schoolfrontgate.jpg-bf646b70354dd966172c33bd05a28957.ctex"]
 
 [params]
 

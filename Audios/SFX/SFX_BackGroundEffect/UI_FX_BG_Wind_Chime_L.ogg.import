@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cudyfc0d8y6yv"
-path="res://.godot/imported/UI_FX_BG_Wind_Chime_L.ogg-a41604d325a5e633d2a37b086260e3a2.oggvorbisstr"
+path="res://.godot/imported/UI_FX_BG_Wind_Chime_L.ogg-710cc7c554fd825243a80213c14a8618.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Wind_Chime_L.ogg"
-dest_files=["res://.godot/imported/UI_FX_BG_Wind_Chime_L.ogg-a41604d325a5e633d2a37b086260e3a2.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Wind_Chime_L.ogg"
+dest_files=["res://.godot/imported/UI_FX_BG_Wind_Chime_L.ogg-710cc7c554fd825243a80213c14a8618.oggvorbisstr"]
 
 [params]
 

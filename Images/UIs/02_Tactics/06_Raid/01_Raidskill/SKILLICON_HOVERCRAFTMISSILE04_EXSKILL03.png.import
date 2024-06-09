@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://balf2ylg1q22v"
-path="res://.godot/imported/SKILLICON_HOVERCRAFTMISSILE04_EXSKILL03.png-1ba0877dc2d9cf7f6857cf492cfa07a4.ctex"
+path="res://.godot/imported/SKILLICON_HOVERCRAFTMISSILE04_EXSKILL03.png-b9ffd985aff88cecc71df124f8551468.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_HOVERCRAFTMISSILE04_EXSKILL03.png"
-dest_files=["res://.godot/imported/SKILLICON_HOVERCRAFTMISSILE04_EXSKILL03.png-1ba0877dc2d9cf7f6857cf492cfa07a4.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_HOVERCRAFTMISSILE04_EXSKILL03.png"
+dest_files=["res://.godot/imported/SKILLICON_HOVERCRAFTMISSILE04_EXSKILL03.png-b9ffd985aff88cecc71df124f8551468.ctex"]
 
 [params]
 

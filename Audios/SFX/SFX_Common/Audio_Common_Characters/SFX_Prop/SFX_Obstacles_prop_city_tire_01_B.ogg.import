@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bitguj7pk6sjf"
-path="res://.godot/imported/SFX_Obstacles_prop_city_tire_01_B.ogg-f48348688c638d6014b885f8d94deb04.oggvorbisstr"
+path="res://.godot/imported/SFX_Obstacles_prop_city_tire_01_B.ogg-8a75fec842d1112fc6e3536d82962127.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Prop/SFX_Obstacles_prop_city_tire_01_B.ogg"
-dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_tire_01_B.ogg-f48348688c638d6014b885f8d94deb04.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Prop/SFX_Obstacles_prop_city_tire_01_B.ogg"
+dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_tire_01_B.ogg-8a75fec842d1112fc6e3536d82962127.oggvorbisstr"]
 
 [params]
 

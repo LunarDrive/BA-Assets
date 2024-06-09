@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgohou0242hds"
-path="res://.godot/imported/Champion_Hpbar_Portrait_RoyalGuard_RedWinter_SMG.png-fa1caff0e8d986e930029935c5ddb1f4.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_RoyalGuard_RedWinter_SMG.png-89417db2aa7c12a7aa0be22f8cf23237.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_RoyalGuard_RedWinter_SMG.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_RoyalGuard_RedWinter_SMG.png-fa1caff0e8d986e930029935c5ddb1f4.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_RoyalGuard_RedWinter_SMG.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_RoyalGuard_RedWinter_SMG.png-89417db2aa7c12a7aa0be22f8cf23237.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbau7el7krmvi"
-path="res://.godot/imported/EnemyInfo_Hanae_AR.png-69e11b548a8cfb40c8912541dc989b26.ctex"
+path="res://.godot/imported/EnemyInfo_Hanae_AR.png-8d52ff834dd65210488c3f12587ad3fe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Hanae_AR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Hanae_AR.png-69e11b548a8cfb40c8912541dc989b26.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Hanae_AR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Hanae_AR.png-8d52ff834dd65210488c3f12587ad3fe.ctex"]
 
 [params]
 

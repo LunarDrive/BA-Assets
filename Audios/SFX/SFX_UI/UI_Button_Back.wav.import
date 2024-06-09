@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cf24ncs6bi7tt"
-path="res://.godot/imported/UI_Button_Back.wav-4c42d0e0a4734ee8adfcc228a21c7c30.sample"
+path="res://.godot/imported/UI_Button_Back.wav-acb4989c4dddfe73b1ebed0823234994.sample"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_UI/UI_Button_Back.wav"
-dest_files=["res://.godot/imported/UI_Button_Back.wav-4c42d0e0a4734ee8adfcc228a21c7c30.sample"]
+source_file="res://assets/Audios/SFX/SFX_UI/UI_Button_Back.wav"
+dest_files=["res://.godot/imported/UI_Button_Back.wav-acb4989c4dddfe73b1ebed0823234994.sample"]
 
 [params]
 

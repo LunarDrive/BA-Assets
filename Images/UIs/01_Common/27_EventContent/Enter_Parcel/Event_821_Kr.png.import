@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmkjq3csdi1aw"
-path="res://.godot/imported/Event_821_Kr.png-547354421936c8b1dc97c544f5b2fcac.ctex"
+path="res://.godot/imported/Event_821_Kr.png-a972409e9ded2d17086002258eacb8a1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/27_EventContent/Enter_Parcel/Event_821_Kr.png"
-dest_files=["res://.godot/imported/Event_821_Kr.png-547354421936c8b1dc97c544f5b2fcac.ctex"]
+source_file="res://assets/Images/UIs/01_Common/27_EventContent/Enter_Parcel/Event_821_Kr.png"
+dest_files=["res://.godot/imported/Event_821_Kr.png-a972409e9ded2d17086002258eacb8a1.ctex"]
 
 [params]
 

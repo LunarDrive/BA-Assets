@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dx1vvyqdja6cs"
-path="res://.godot/imported/Img_DiceRace_Center_2.png-54c55810861fd865020ac7617dee72d0.ctex"
+path="res://.godot/imported/Img_DiceRace_Center_2.png-54de042c586bb956cd249f9e0a5a3e25.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/41_DiceRace/Img_DiceRace_Center_2.png"
-dest_files=["res://.godot/imported/Img_DiceRace_Center_2.png-54c55810861fd865020ac7617dee72d0.ctex"]
+source_file="res://assets/Images/UIs/01_Common/41_DiceRace/Img_DiceRace_Center_2.png"
+dest_files=["res://.godot/imported/Img_DiceRace_Center_2.png-54de042c586bb956cd249f9e0a5a3e25.ctex"]
 
 [params]
 

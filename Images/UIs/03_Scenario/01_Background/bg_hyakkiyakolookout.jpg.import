@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cjfox15cbu7ay"
-path="res://.godot/imported/bg_hyakkiyakolookout.jpg-747c8999b81a229946e9a95a3d7ec04b.ctex"
+path="res://.godot/imported/bg_hyakkiyakolookout.jpg-07258cfeb0b4c9c660b6bc53f8fa505c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_hyakkiyakolookout.jpg"
-dest_files=["res://.godot/imported/bg_hyakkiyakolookout.jpg-747c8999b81a229946e9a95a3d7ec04b.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_hyakkiyakolookout.jpg"
+dest_files=["res://.godot/imported/bg_hyakkiyakolookout.jpg-07258cfeb0b4c9c660b6bc53f8fa505c.ctex"]
 
 [params]
 

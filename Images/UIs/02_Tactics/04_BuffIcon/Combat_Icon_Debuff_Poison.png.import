@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmnms7m4hpa2x"
-path="res://.godot/imported/Combat_Icon_Debuff_Poison.png-745f2453eab8c0fcad41ef25cf2ecb23.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_Poison.png-92aeda5a6b9e468bed8d95edf948bd2c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_Poison.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_Poison.png-745f2453eab8c0fcad41ef25cf2ecb23.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_Poison.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_Poison.png-92aeda5a6b9e468bed8d95edf948bd2c.ctex"]
 
 [params]
 

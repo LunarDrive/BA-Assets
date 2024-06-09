@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0yhoeud08jvh"
-path="res://.godot/imported/My_Event06_Hotspringswindow.png-2c88f9bd0ad1c255cb972335e9fa6347.ctex"
+path="res://.godot/imported/My_Event06_Hotspringswindow.png-159c48f63240c2f4dcfc6f8d516d36b2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Event06_Hotspringswindow.png"
-dest_files=["res://.godot/imported/My_Event06_Hotspringswindow.png-2c88f9bd0ad1c255cb972335e9fa6347.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Event06_Hotspringswindow.png"
+dest_files=["res://.godot/imported/My_Event06_Hotspringswindow.png-159c48f63240c2f4dcfc6f8d516d36b2.ctex"]
 
 [params]
 

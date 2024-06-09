@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gytc061pm1is"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Droid_Kurokame.png-b509ff709863fde0f471fed28d1e19c6.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Droid_Kurokame.png-b34d87eab0811d6f392be2b2c3edf81c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Droid_Kurokame.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Droid_Kurokame.png-b509ff709863fde0f471fed28d1e19c6.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Droid_Kurokame.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Droid_Kurokame.png-b34d87eab0811d6f392be2b2c3edf81c.ctex"]
 
 [params]
 

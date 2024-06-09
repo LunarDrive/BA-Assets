@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4cnqp1gcna8b"
-path="res://.godot/imported/EnemyInfo_Haruka_SG.png-c6d6993cd344de0ad6a3a6305b183d33.ctex"
+path="res://.godot/imported/EnemyInfo_Haruka_SG.png-d612d10d3867eedd3fbf83f6fe77c1a0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Haruka_SG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Haruka_SG.png-c6d6993cd344de0ad6a3a6305b183d33.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Haruka_SG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Haruka_SG.png-d612d10d3867eedd3fbf83f6fe77c1a0.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cc3682phun7r6"
-path="res://.godot/imported/bg_trinitymeetingroom3.jpg-0d84b77db5ee08b25cf9fd48fa92c7ce.ctex"
+path="res://.godot/imported/bg_trinitymeetingroom3.jpg-29beea933778ae21e636e8d0e4b5981d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_trinitymeetingroom3.jpg"
-dest_files=["res://.godot/imported/bg_trinitymeetingroom3.jpg-0d84b77db5ee08b25cf9fd48fa92c7ce.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_trinitymeetingroom3.jpg"
+dest_files=["res://.godot/imported/bg_trinitymeetingroom3.jpg-29beea933778ae21e636e8d0e4b5981d.ctex"]
 
 [params]
 

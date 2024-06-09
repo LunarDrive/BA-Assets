@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bw8jpe2edj177"
-path="res://.godot/imported/Img_EventNotice_Twice_Timeattack.png-80ebff6682a8814765c23771321203a2.ctex"
+path="res://.godot/imported/Img_EventNotice_Twice_Timeattack.png-882b4f58710fb031011486a67d6a6cd1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/27_EventContent/EventNotice/Img_EventNotice_Twice_Timeattack.png"
-dest_files=["res://.godot/imported/Img_EventNotice_Twice_Timeattack.png-80ebff6682a8814765c23771321203a2.ctex"]
+source_file="res://assets/Images/UIs/01_Common/27_EventContent/EventNotice/Img_EventNotice_Twice_Timeattack.png"
+dest_files=["res://.godot/imported/Img_EventNotice_Twice_Timeattack.png-882b4f58710fb031011486a67d6a6cd1.ctex"]
 
 [params]
 

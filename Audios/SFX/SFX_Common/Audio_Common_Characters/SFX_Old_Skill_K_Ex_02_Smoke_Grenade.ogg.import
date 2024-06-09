@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bnombqss2vbg"
-path="res://.godot/imported/SFX_Old_Skill_K_Ex_02_Smoke_Grenade.ogg-db4725a19f12033b51536b442c501d13.oggvorbisstr"
+path="res://.godot/imported/SFX_Old_Skill_K_Ex_02_Smoke_Grenade.ogg-4d34bca123b2c739078637f80873e409.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Old_Skill_K_Ex_02_Smoke_Grenade.ogg"
-dest_files=["res://.godot/imported/SFX_Old_Skill_K_Ex_02_Smoke_Grenade.ogg-db4725a19f12033b51536b442c501d13.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Old_Skill_K_Ex_02_Smoke_Grenade.ogg"
+dest_files=["res://.godot/imported/SFX_Old_Skill_K_Ex_02_Smoke_Grenade.ogg-4d34bca123b2c739078637f80873e409.oggvorbisstr"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xd85wplp5ucl"
-path="res://.godot/imported/Craft_Light_Center.png-8f982e8c46e6cbb297b37d72066344ad.ctex"
+path="res://.godot/imported/Craft_Light_Center.png-7ab70e4580333aea20fdbcc3fa69ccd2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Craft/Craft_Light_Center.png"
-dest_files=["res://.godot/imported/Craft_Light_Center.png-8f982e8c46e6cbb297b37d72066344ad.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Craft/Craft_Light_Center.png"
+dest_files=["res://.godot/imported/Craft_Light_Center.png-7ab70e4580333aea20fdbcc3fa69ccd2.ctex"]
 
 [params]
 

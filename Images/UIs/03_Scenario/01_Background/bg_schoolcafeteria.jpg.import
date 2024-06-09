@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b087kskoskmys"
-path="res://.godot/imported/bg_schoolcafeteria.jpg-50eb2745aed94025b992085171dbc607.ctex"
+path="res://.godot/imported/bg_schoolcafeteria.jpg-694964f3338d5aafd90b535a171195cb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_schoolcafeteria.jpg"
-dest_files=["res://.godot/imported/bg_schoolcafeteria.jpg-50eb2745aed94025b992085171dbc607.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_schoolcafeteria.jpg"
+dest_files=["res://.godot/imported/bg_schoolcafeteria.jpg-694964f3338d5aafd90b535a171195cb.ctex"]
 
 [params]
 

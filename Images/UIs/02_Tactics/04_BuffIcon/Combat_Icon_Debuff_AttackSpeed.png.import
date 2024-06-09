@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d33h1xpb17cg0"
-path="res://.godot/imported/Combat_Icon_Debuff_AttackSpeed.png-b417f83e872ef3d02c2616a97227da67.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_AttackSpeed.png-54dfc9bccddeb4d80808e16270287de7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_AttackSpeed.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_AttackSpeed.png-b417f83e872ef3d02c2616a97227da67.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_AttackSpeed.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_AttackSpeed.png-54dfc9bccddeb4d80808e16270287de7.ctex"]
 
 [params]
 

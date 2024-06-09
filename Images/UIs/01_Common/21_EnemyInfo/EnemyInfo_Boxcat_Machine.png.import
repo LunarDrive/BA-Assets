@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5f0i6mserx04"
-path="res://.godot/imported/EnemyInfo_Boxcat_Machine.png-96c24ce216b8d09af76c1f62f2211a97.ctex"
+path="res://.godot/imported/EnemyInfo_Boxcat_Machine.png-c258389cd288850126493bbfd3de4229.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Boxcat_Machine.png"
-dest_files=["res://.godot/imported/EnemyInfo_Boxcat_Machine.png-96c24ce216b8d09af76c1f62f2211a97.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Boxcat_Machine.png"
+dest_files=["res://.godot/imported/EnemyInfo_Boxcat_Machine.png-c258389cd288850126493bbfd3de4229.ctex"]
 
 [params]
 

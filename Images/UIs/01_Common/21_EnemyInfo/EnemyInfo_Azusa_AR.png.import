@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqthwuqma6148"
-path="res://.godot/imported/EnemyInfo_Azusa_AR.png-98ac93e12e3d39130025e878b0f9421d.ctex"
+path="res://.godot/imported/EnemyInfo_Azusa_AR.png-6007057c944d68f65490cf467a3678da.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Azusa_AR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Azusa_AR.png-98ac93e12e3d39130025e878b0f9421d.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Azusa_AR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Azusa_AR.png-6007057c944d68f65490cf467a3678da.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2d50joscv6ha"
-path="res://.godot/imported/Image_AngleBtn_Deco.png-066f4db68e22220f303603be0daf9936.ctex"
+path="res://.godot/imported/Image_AngleBtn_Deco.png-179ad6e5d87ae25050abdf8814682694.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Image_AngleBtn_Deco.png"
-dest_files=["res://.godot/imported/Image_AngleBtn_Deco.png-066f4db68e22220f303603be0daf9936.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Image_AngleBtn_Deco.png"
+dest_files=["res://.godot/imported/Image_AngleBtn_Deco.png-179ad6e5d87ae25050abdf8814682694.ctex"]
 
 [params]
 

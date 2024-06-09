@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://brtldr3yjvr46"
-path="res://.godot/imported/UI_FX_BG_Beach_L.ogg-693a87ef94443e13f46a692eb5d37f8a.oggvorbisstr"
+path="res://.godot/imported/UI_FX_BG_Beach_L.ogg-93aedd0647ea3fd4880563c05781e323.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Beach_L.ogg"
-dest_files=["res://.godot/imported/UI_FX_BG_Beach_L.ogg-693a87ef94443e13f46a692eb5d37f8a.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Beach_L.ogg"
+dest_files=["res://.godot/imported/UI_FX_BG_Beach_L.ogg-93aedd0647ea3fd4880563c05781e323.oggvorbisstr"]
 
 [params]
 

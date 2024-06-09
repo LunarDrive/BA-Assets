@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bsv4x0ngngats"
-path="res://.godot/imported/UI_Conquest_Boss_Shield_Broken.ogg-6c9cfb7d8c1a0f07378da13d35eaffbd.oggvorbisstr"
+path="res://.godot/imported/UI_Conquest_Boss_Shield_Broken.ogg-77870ce150d0ced72eb82eadcbac1a0a.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_UI/UI_Conquest_Boss_Shield_Broken.ogg"
-dest_files=["res://.godot/imported/UI_Conquest_Boss_Shield_Broken.ogg-6c9cfb7d8c1a0f07378da13d35eaffbd.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_UI/UI_Conquest_Boss_Shield_Broken.ogg"
+dest_files=["res://.godot/imported/UI_Conquest_Boss_Shield_Broken.ogg-77870ce150d0ced72eb82eadcbac1a0a.oggvorbisstr"]
 
 [params]
 

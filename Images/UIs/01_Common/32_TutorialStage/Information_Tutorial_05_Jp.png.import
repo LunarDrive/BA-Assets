@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbm15g6irglb2"
-path="res://.godot/imported/Information_Tutorial_05_Jp.png-f16cd1da90dc2c651641bea834540474.ctex"
+path="res://.godot/imported/Information_Tutorial_05_Jp.png-68676d8537a25fc7c9ad79086062bbc0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/32_TutorialStage/Information_Tutorial_05_Jp.png"
-dest_files=["res://.godot/imported/Information_Tutorial_05_Jp.png-f16cd1da90dc2c651641bea834540474.ctex"]
+source_file="res://assets/Images/UIs/01_Common/32_TutorialStage/Information_Tutorial_05_Jp.png"
+dest_files=["res://.godot/imported/Information_Tutorial_05_Jp.png-68676d8537a25fc7c9ad79086062bbc0.ctex"]
 
 [params]
 

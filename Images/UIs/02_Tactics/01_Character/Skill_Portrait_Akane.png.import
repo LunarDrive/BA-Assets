@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cgm8jkwa4cexi"
-path="res://.godot/imported/Skill_Portrait_Akane.png-26c4b13d036d78aca15960ea21e406a4.ctex"
+path="res://.godot/imported/Skill_Portrait_Akane.png-11c70a8f7a3b6d4fc554cea6228eda49.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Akane.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Akane.png-26c4b13d036d78aca15960ea21e406a4.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Akane.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Akane.png-11c70a8f7a3b6d4fc554cea6228eda49.ctex"]
 
 [params]
 

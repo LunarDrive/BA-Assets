@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cjvirrus0jdss"
-path="res://.godot/imported/EnemyInfo_Tsubaki_SMG.png-65b12d27520d6fe924142f62632976e2.ctex"
+path="res://.godot/imported/EnemyInfo_Tsubaki_SMG.png-252ff88ae5799493ab3372563ccb5579.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Tsubaki_SMG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Tsubaki_SMG.png-65b12d27520d6fe924142f62632976e2.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Tsubaki_SMG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Tsubaki_SMG.png-252ff88ae5799493ab3372563ccb5579.ctex"]
 
 [params]
 

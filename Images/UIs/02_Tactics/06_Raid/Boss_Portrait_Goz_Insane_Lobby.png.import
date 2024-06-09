@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://m0yfu1y23sup"
-path="res://.godot/imported/Boss_Portrait_Goz_Insane_Lobby.png-d4f308714c210212ea5a1675db136ba6.ctex"
+path="res://.godot/imported/Boss_Portrait_Goz_Insane_Lobby.png-50ca591f4d65551df481d7852a7ff4c8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/06_Raid/Boss_Portrait_Goz_Insane_Lobby.png"
-dest_files=["res://.godot/imported/Boss_Portrait_Goz_Insane_Lobby.png-d4f308714c210212ea5a1675db136ba6.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/06_Raid/Boss_Portrait_Goz_Insane_Lobby.png"
+dest_files=["res://.godot/imported/Boss_Portrait_Goz_Insane_Lobby.png-50ca591f4d65551df481d7852a7ff4c8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbe0ysfskch24"
-path="res://.godot/imported/TutorialFailureImage_Conquest_SchoolBuff_kr.png-3b4fcd12845f8c3b1a89c2149a3dc9da.ctex"
+path="res://.godot/imported/TutorialFailureImage_Conquest_SchoolBuff_kr.png-c063e1f2a3282b0540e6c14dcbb3ce9b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Conquest_SchoolBuff_kr.png"
-dest_files=["res://.godot/imported/TutorialFailureImage_Conquest_SchoolBuff_kr.png-3b4fcd12845f8c3b1a89c2149a3dc9da.ctex"]
+source_file="res://assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Conquest_SchoolBuff_kr.png"
+dest_files=["res://.godot/imported/TutorialFailureImage_Conquest_SchoolBuff_kr.png-c063e1f2a3282b0540e6c14dcbb3ce9b.ctex"]
 
 [params]
 

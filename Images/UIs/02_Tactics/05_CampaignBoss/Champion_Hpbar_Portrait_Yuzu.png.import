@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6rjccwcgav60"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Yuzu.png-3635bbd7548585fdc659926d09ce2735.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Yuzu.png-a2ff722097f12616c9ed1f57d20209b4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Yuzu.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Yuzu.png-3635bbd7548585fdc659926d09ce2735.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Yuzu.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Yuzu.png-a2ff722097f12616c9ed1f57d20209b4.ctex"]
 
 [params]
 

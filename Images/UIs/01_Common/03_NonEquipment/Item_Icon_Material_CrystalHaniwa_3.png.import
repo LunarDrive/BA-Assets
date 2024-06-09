@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bw65cm7ximbqe"
-path="res://.godot/imported/Item_Icon_Material_CrystalHaniwa_3.png-a710c02edb07e9b0fc6d9a336fb5778d.ctex"
+path="res://.godot/imported/Item_Icon_Material_CrystalHaniwa_3.png-2b283c3f56a4e17ebc828d0576d9b994.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_CrystalHaniwa_3.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_CrystalHaniwa_3.png-a710c02edb07e9b0fc6d9a336fb5778d.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_CrystalHaniwa_3.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_CrystalHaniwa_3.png-2b283c3f56a4e17ebc828d0576d9b994.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://o1brtwk87yo2"
-path="res://.godot/imported/Student_Portrait_Akane_Small.png-ac432880e2a9ebf1cf6950ae88002d1e.ctex"
+path="res://.godot/imported/Student_Portrait_Akane_Small.png-5ca62fcd801e9bef7f9791b6667c31e0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Akane_Small.png"
-dest_files=["res://.godot/imported/Student_Portrait_Akane_Small.png-ac432880e2a9ebf1cf6950ae88002d1e.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Akane_Small.png"
+dest_files=["res://.godot/imported/Student_Portrait_Akane_Small.png-5ca62fcd801e9bef7f9791b6667c31e0.ctex"]
 
 [params]
 

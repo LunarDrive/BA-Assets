@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bl4l4l78nrjnf"
-path="res://.godot/imported/bg_trinityclubroom_night2.jpg-96a97198e07011c12211f3a34ad0123b.ctex"
+path="res://.godot/imported/bg_trinityclubroom_night2.jpg-f67ee6ac2ead255db88cb5dbdd571e3e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_trinityclubroom_night2.jpg"
-dest_files=["res://.godot/imported/bg_trinityclubroom_night2.jpg-96a97198e07011c12211f3a34ad0123b.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_trinityclubroom_night2.jpg"
+dest_files=["res://.godot/imported/bg_trinityclubroom_night2.jpg-f67ee6ac2ead255db88cb5dbdd571e3e.ctex"]
 
 [params]
 

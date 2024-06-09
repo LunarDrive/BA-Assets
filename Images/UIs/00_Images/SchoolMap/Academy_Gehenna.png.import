@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8q7md7q7f31u"
-path="res://.godot/imported/Academy_Gehenna.png-e6cd63e33ee57edccaa0032c0bf93916.ctex"
+path="res://.godot/imported/Academy_Gehenna.png-db8a93a2b3676503f94e5019e821b0b5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/SchoolMap/Academy_Gehenna.png"
-dest_files=["res://.godot/imported/Academy_Gehenna.png-e6cd63e33ee57edccaa0032c0bf93916.ctex"]
+source_file="res://assets/Images/UIs/00_Images/SchoolMap/Academy_Gehenna.png"
+dest_files=["res://.godot/imported/Academy_Gehenna.png-db8a93a2b3676503f94e5019e821b0b5.ctex"]
 
 [params]
 

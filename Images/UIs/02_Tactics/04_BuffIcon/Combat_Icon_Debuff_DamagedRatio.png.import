@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpvqsmldi0sk0"
-path="res://.godot/imported/Combat_Icon_Debuff_DamagedRatio.png-ab17949bbe1fe886a3f8758550db9811.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_DamagedRatio.png-abff48c9d20e5344875d2b08f19a8c41.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_DamagedRatio.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_DamagedRatio.png-ab17949bbe1fe886a3f8758550db9811.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_DamagedRatio.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_DamagedRatio.png-abff48c9d20e5344875d2b08f19a8c41.ctex"]
 
 [params]
 

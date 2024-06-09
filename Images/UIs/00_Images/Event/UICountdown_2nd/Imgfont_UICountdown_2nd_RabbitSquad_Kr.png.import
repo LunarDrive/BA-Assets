@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhg0iw8hkwaol"
-path="res://.godot/imported/Imgfont_UICountdown_2nd_RabbitSquad_Kr.png-22c1bb79e01a896267ed3ff4cb5a56b9.ctex"
+path="res://.godot/imported/Imgfont_UICountdown_2nd_RabbitSquad_Kr.png-58c0a40afe53dcc8bb63d051d277d3b1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/UICountdown_2nd/Imgfont_UICountdown_2nd_RabbitSquad_Kr.png"
-dest_files=["res://.godot/imported/Imgfont_UICountdown_2nd_RabbitSquad_Kr.png-22c1bb79e01a896267ed3ff4cb5a56b9.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/UICountdown_2nd/Imgfont_UICountdown_2nd_RabbitSquad_Kr.png"
+dest_files=["res://.godot/imported/Imgfont_UICountdown_2nd_RabbitSquad_Kr.png-58c0a40afe53dcc8bb63d051d277d3b1.ctex"]
 
 [params]
 

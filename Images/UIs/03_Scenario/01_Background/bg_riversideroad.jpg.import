@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://texg8jfhad77"
-path="res://.godot/imported/bg_riversideroad.jpg-a4e4a8707ef50ce0afa648f9fcfd3236.ctex"
+path="res://.godot/imported/bg_riversideroad.jpg-c397b1e8b61a933788ad79b287181e54.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_riversideroad.jpg"
-dest_files=["res://.godot/imported/bg_riversideroad.jpg-a4e4a8707ef50ce0afa648f9fcfd3236.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_riversideroad.jpg"
+dest_files=["res://.godot/imported/bg_riversideroad.jpg-c397b1e8b61a933788ad79b287181e54.ctex"]
 
 [params]
 

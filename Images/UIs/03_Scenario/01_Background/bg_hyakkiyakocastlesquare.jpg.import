@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bv5u5wrqr56p5"
-path="res://.godot/imported/bg_hyakkiyakocastlesquare.jpg-f6225ca9ee6ed1d09f3f56077a6a4f24.ctex"
+path="res://.godot/imported/bg_hyakkiyakocastlesquare.jpg-844937bd0c35e53224bbb7a9fc00cff7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_hyakkiyakocastlesquare.jpg"
-dest_files=["res://.godot/imported/bg_hyakkiyakocastlesquare.jpg-f6225ca9ee6ed1d09f3f56077a6a4f24.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_hyakkiyakocastlesquare.jpg"
+dest_files=["res://.godot/imported/bg_hyakkiyakocastlesquare.jpg-844937bd0c35e53224bbb7a9fc00cff7.ctex"]
 
 [params]
 

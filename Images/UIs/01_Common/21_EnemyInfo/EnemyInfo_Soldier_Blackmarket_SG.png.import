@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://n5vr37ejmt6s"
-path="res://.godot/imported/EnemyInfo_Soldier_Blackmarket_SG.png-3b7941a441b7f15be9dba2deacd15aed.ctex"
+path="res://.godot/imported/EnemyInfo_Soldier_Blackmarket_SG.png-11824b5eb43ee46384a15629f7c4edf1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Soldier_Blackmarket_SG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Soldier_Blackmarket_SG.png-3b7941a441b7f15be9dba2deacd15aed.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Soldier_Blackmarket_SG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Soldier_Blackmarket_SG.png-11824b5eb43ee46384a15629f7c4edf1.ctex"]
 
 [params]
 

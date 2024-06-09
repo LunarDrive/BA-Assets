@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cvlmkndcoybhb"
-path="res://.godot/imported/bg_cruiserooftop.jpg-74581e8993ca9a9f21c11c6a4a19704b.ctex"
+path="res://.godot/imported/bg_cruiserooftop.jpg-1199432c4d7fbf57d930b513a609e719.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_cruiserooftop.jpg"
-dest_files=["res://.godot/imported/bg_cruiserooftop.jpg-74581e8993ca9a9f21c11c6a4a19704b.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_cruiserooftop.jpg"
+dest_files=["res://.godot/imported/bg_cruiserooftop.jpg-1199432c4d7fbf57d930b513a609e719.ctex"]
 
 [params]
 

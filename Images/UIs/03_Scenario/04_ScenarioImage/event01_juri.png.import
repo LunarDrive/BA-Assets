@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bywsxim2u42qx"
-path="res://.godot/imported/event01_juri.png-fa199eb42342544489b0d5375949db09.ctex"
+path="res://.godot/imported/event01_juri.png-a196f98fb0fda573a3473c71c71de24a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_juri.png"
-dest_files=["res://.godot/imported/event01_juri.png-fa199eb42342544489b0d5375949db09.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_juri.png"
+dest_files=["res://.godot/imported/event01_juri.png-a196f98fb0fda573a3473c71c71de24a.ctex"]
 
 [params]
 

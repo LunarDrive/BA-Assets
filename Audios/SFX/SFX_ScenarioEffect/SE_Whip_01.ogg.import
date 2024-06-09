@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dwxv77f38218o"
-path="res://.godot/imported/SE_Whip_01.ogg-35f58f4767ab8c7b367d527fae86689c.oggvorbisstr"
+path="res://.godot/imported/SE_Whip_01.ogg-c48622ef76e79ce7a5c03b7dca209831.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Whip_01.ogg"
-dest_files=["res://.godot/imported/SE_Whip_01.ogg-35f58f4767ab8c7b367d527fae86689c.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Whip_01.ogg"
+dest_files=["res://.godot/imported/SE_Whip_01.ogg-c48622ef76e79ce7a5c03b7dca209831.oggvorbisstr"]
 
 [params]
 

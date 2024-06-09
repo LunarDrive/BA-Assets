@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://douix6l0hwfp2"
-path="res://.godot/imported/SE_Cricket_01.ogg-bd66f553deba52bc74db49e89e3e3a32.oggvorbisstr"
+path="res://.godot/imported/SE_Cricket_01.ogg-3ddce42ff8b393895cb67401de7009bc.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Cricket_01.ogg"
-dest_files=["res://.godot/imported/SE_Cricket_01.ogg-bd66f553deba52bc74db49e89e3e3a32.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Cricket_01.ogg"
+dest_files=["res://.godot/imported/SE_Cricket_01.ogg-3ddce42ff8b393895cb67401de7009bc.oggvorbisstr"]
 
 [params]
 

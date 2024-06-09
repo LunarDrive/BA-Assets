@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dplocsuddhxva"
-path="res://.godot/imported/SKILLICON_BINAH_EXSKILLEMPTY.png-89891e4399c44d565f8820654a572f16.ctex"
+path="res://.godot/imported/SKILLICON_BINAH_EXSKILLEMPTY.png-25da2a1ff642fc1678876d19e621bf5a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_BINAH_EXSKILLEMPTY.png"
-dest_files=["res://.godot/imported/SKILLICON_BINAH_EXSKILLEMPTY.png-89891e4399c44d565f8820654a572f16.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_BINAH_EXSKILLEMPTY.png"
+dest_files=["res://.godot/imported/SKILLICON_BINAH_EXSKILLEMPTY.png-25da2a1ff642fc1678876d19e621bf5a.ctex"]
 
 [params]
 

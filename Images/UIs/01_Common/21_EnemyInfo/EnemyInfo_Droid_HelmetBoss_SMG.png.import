@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://demmgsm565xf2"
-path="res://.godot/imported/EnemyInfo_Droid_HelmetBoss_SMG.png-cadb1bd19841341b4850f0b50209251d.ctex"
+path="res://.godot/imported/EnemyInfo_Droid_HelmetBoss_SMG.png-bf1d785f0220f27f81927d12f86080c4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Droid_HelmetBoss_SMG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Droid_HelmetBoss_SMG.png-cadb1bd19841341b4850f0b50209251d.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Droid_HelmetBoss_SMG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Droid_HelmetBoss_SMG.png-bf1d785f0220f27f81927d12f86080c4.ctex"]
 
 [params]
 

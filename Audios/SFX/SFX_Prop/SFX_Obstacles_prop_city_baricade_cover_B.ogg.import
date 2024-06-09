@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dnr2mfayq30lq"
-path="res://.godot/imported/SFX_Obstacles_prop_city_baricade_cover_B.ogg-933e4e40d1f5aabf43e297c0ce8c26ac.oggvorbisstr"
+path="res://.godot/imported/SFX_Obstacles_prop_city_baricade_cover_B.ogg-30a9b6519034fac71699d2f7c0efc0ef.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Prop/SFX_Obstacles_prop_city_baricade_cover_B.ogg"
-dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_baricade_cover_B.ogg-933e4e40d1f5aabf43e297c0ce8c26ac.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Prop/SFX_Obstacles_prop_city_baricade_cover_B.ogg"
+dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_baricade_cover_B.ogg-30a9b6519034fac71699d2f7c0efc0ef.oggvorbisstr"]
 
 [params]
 

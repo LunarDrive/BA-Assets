@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgsi74tdgeif5"
-path="res://.godot/imported/Combat_Icon_Special_FormChange.png-0070afb71d818eb6cbcc40daebadcca0.ctex"
+path="res://.godot/imported/Combat_Icon_Special_FormChange.png-065fe62015625438a29e88479f3b93db.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Special_FormChange.png"
-dest_files=["res://.godot/imported/Combat_Icon_Special_FormChange.png-0070afb71d818eb6cbcc40daebadcca0.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Special_FormChange.png"
+dest_files=["res://.godot/imported/Combat_Icon_Special_FormChange.png-065fe62015625438a29e88479f3b93db.ctex"]
 
 [params]
 

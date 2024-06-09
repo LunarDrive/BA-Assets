@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cu5xhal773jet"
-path="res://.godot/imported/bg_beachside_night.jpg-079def434b3b0da8e7f183725aaa79a6.ctex"
+path="res://.godot/imported/bg_beachside_night.jpg-d0ec15e0422f96572a7e5aec02ac4af3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_beachside_night.jpg"
-dest_files=["res://.godot/imported/bg_beachside_night.jpg-079def434b3b0da8e7f183725aaa79a6.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_beachside_night.jpg"
+dest_files=["res://.godot/imported/bg_beachside_night.jpg-d0ec15e0422f96572a7e5aec02ac4af3.ctex"]
 
 [params]
 

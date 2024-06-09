@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djhq3ebvwt4uo"
-path="res://.godot/imported/My_Gamecenter_01_P_Dancingstar.png-5d95b0058de9a58d74bdd98e9261b335.ctex"
+path="res://.godot/imported/My_Gamecenter_01_P_Dancingstar.png-45fc2706ed1d3e9435e25dd8e8bc1070.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Gamecenter_01_P_Dancingstar.png"
-dest_files=["res://.godot/imported/My_Gamecenter_01_P_Dancingstar.png-5d95b0058de9a58d74bdd98e9261b335.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Gamecenter_01_P_Dancingstar.png"
+dest_files=["res://.godot/imported/My_Gamecenter_01_P_Dancingstar.png-45fc2706ed1d3e9435e25dd8e8bc1070.ctex"]
 
 [params]
 

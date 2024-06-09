@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cca0f1brj05pt"
-path="res://.godot/imported/EnemyInfo_Mari_HG.png-33f686ce675e0cfc74e53e0e80933048.ctex"
+path="res://.godot/imported/EnemyInfo_Mari_HG.png-4d0170a4049180a2509128e4630513eb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Mari_HG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Mari_HG.png-33f686ce675e0cfc74e53e0e80933048.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Mari_HG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Mari_HG.png-4d0170a4049180a2509128e4630513eb.ctex"]
 
 [params]
 

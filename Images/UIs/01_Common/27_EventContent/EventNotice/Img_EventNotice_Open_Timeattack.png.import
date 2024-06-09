@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wsf16mlmeu0j"
-path="res://.godot/imported/Img_EventNotice_Open_Timeattack.png-efff77bb356dfcb1df73aa9a52dfba9f.ctex"
+path="res://.godot/imported/Img_EventNotice_Open_Timeattack.png-7f4ac57d8fd5a61cae519a8963b5f9f2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/27_EventContent/EventNotice/Img_EventNotice_Open_Timeattack.png"
-dest_files=["res://.godot/imported/Img_EventNotice_Open_Timeattack.png-efff77bb356dfcb1df73aa9a52dfba9f.ctex"]
+source_file="res://assets/Images/UIs/01_Common/27_EventContent/EventNotice/Img_EventNotice_Open_Timeattack.png"
+dest_files=["res://.godot/imported/Img_EventNotice_Open_Timeattack.png-7f4ac57d8fd5a61cae519a8963b5f9f2.ctex"]
 
 [params]
 

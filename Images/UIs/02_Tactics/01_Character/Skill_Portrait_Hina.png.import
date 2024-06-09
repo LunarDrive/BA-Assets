@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cujiuncytcmyx"
-path="res://.godot/imported/Skill_Portrait_Hina.png-37b858cfdff9360db26eba8f2b0b955a.ctex"
+path="res://.godot/imported/Skill_Portrait_Hina.png-89f143075d4ccd6a83148dc24b30844e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Hina.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Hina.png-37b858cfdff9360db26eba8f2b0b955a.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Hina.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Hina.png-89f143075d4ccd6a83148dc24b30844e.ctex"]
 
 [params]
 

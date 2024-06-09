@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cckr0ogtov7ij"
-path="res://.godot/imported/AMB_Helicopter.ogg-e3f2a1097b34363ff1304c9e3e527b16.oggvorbisstr"
+path="res://.godot/imported/AMB_Helicopter.ogg-cecadfdf9dc3af2bea0a55bd826b5396.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/BGM/AMB_Helicopter.ogg"
-dest_files=["res://.godot/imported/AMB_Helicopter.ogg-e3f2a1097b34363ff1304c9e3e527b16.oggvorbisstr"]
+source_file="res://assets/Audios/BGM/AMB_Helicopter.ogg"
+dest_files=["res://.godot/imported/AMB_Helicopter.ogg-cecadfdf9dc3af2bea0a55bd826b5396.oggvorbisstr"]
 
 [params]
 

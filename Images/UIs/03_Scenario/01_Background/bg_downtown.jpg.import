@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://doyvohrx07obo"
-path="res://.godot/imported/bg_downtown.jpg-8f21a58f1d08d30758556e1cc1612b8d.ctex"
+path="res://.godot/imported/bg_downtown.jpg-b88bf2a0ca1765e0921a1ffe0b705a23.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_downtown.jpg"
-dest_files=["res://.godot/imported/bg_downtown.jpg-8f21a58f1d08d30758556e1cc1612b8d.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_downtown.jpg"
+dest_files=["res://.godot/imported/bg_downtown.jpg-b88bf2a0ca1765e0921a1ffe0b705a23.ctex"]
 
 [params]
 

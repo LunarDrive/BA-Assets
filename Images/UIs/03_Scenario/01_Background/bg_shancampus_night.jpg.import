@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lmx6p82yx27m"
-path="res://.godot/imported/bg_shancampus_night.jpg-a3123c0dc76686264dd48278971915f5.ctex"
+path="res://.godot/imported/bg_shancampus_night.jpg-092661b27b65ba99e12bb3ef459168d2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_shancampus_night.jpg"
-dest_files=["res://.godot/imported/bg_shancampus_night.jpg-a3123c0dc76686264dd48278971915f5.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_shancampus_night.jpg"
+dest_files=["res://.godot/imported/bg_shancampus_night.jpg-092661b27b65ba99e12bb3ef459168d2.ctex"]
 
 [params]
 

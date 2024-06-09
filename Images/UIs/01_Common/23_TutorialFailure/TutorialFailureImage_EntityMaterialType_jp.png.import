@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b042xgxl1peco"
-path="res://.godot/imported/TutorialFailureImage_EntityMaterialType_jp.png-e148bd67770d55992dab699b371aeed8.ctex"
+path="res://.godot/imported/TutorialFailureImage_EntityMaterialType_jp.png-c49d115f7904b62931c11bf9771e0e4c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialType_jp.png"
-dest_files=["res://.godot/imported/TutorialFailureImage_EntityMaterialType_jp.png-e148bd67770d55992dab699b371aeed8.ctex"]
+source_file="res://assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialType_jp.png"
+dest_files=["res://.godot/imported/TutorialFailureImage_EntityMaterialType_jp.png-c49d115f7904b62931c11bf9771e0e4c.ctex"]
 
 [params]
 

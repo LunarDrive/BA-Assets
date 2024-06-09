@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bk64wteum64rk"
-path="res://.godot/imported/Champion_Hpbar_Portrait_UnNamedGuardian_Front.png-6e4f788c6e837e74526c09c09f244fd1.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_UnNamedGuardian_Front.png-83cb0c8ccd09ea08ae60473e0c9c27a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_UnNamedGuardian_Front.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_UnNamedGuardian_Front.png-6e4f788c6e837e74526c09c09f244fd1.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_UnNamedGuardian_Front.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_UnNamedGuardian_Front.png-83cb0c8ccd09ea08ae60473e0c9c27a9.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bneugqm61mluc"
-path="res://.godot/imported/Skill_Portrait_Saori.png-80e6c6e259bbef969000aee1655e17e5.ctex"
+path="res://.godot/imported/Skill_Portrait_Saori.png-4b26d0aa205dad6f8677a384bb09e802.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Saori.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Saori.png-80e6c6e259bbef969000aee1655e17e5.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Saori.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Saori.png-4b26d0aa205dad6f8677a384bb09e802.ctex"]
 
 [params]
 

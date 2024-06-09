@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxsk8h84dlvw5"
-path="res://.godot/imported/event01_mutsuki.png-b7d2da390ca6769384c8047eca8e0a87.ctex"
+path="res://.godot/imported/event01_mutsuki.png-e73fc1f6132e30fdd2c151074ecc3f14.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_mutsuki.png"
-dest_files=["res://.godot/imported/event01_mutsuki.png-b7d2da390ca6769384c8047eca8e0a87.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_mutsuki.png"
+dest_files=["res://.godot/imported/event01_mutsuki.png-e73fc1f6132e30fdd2c151074ecc3f14.ctex"]
 
 [params]
 

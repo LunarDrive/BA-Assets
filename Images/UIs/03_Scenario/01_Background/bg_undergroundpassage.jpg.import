@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dn1iojtdrehkp"
-path="res://.godot/imported/bg_undergroundpassage.jpg-8c64d59f2e2dea3e8dd83894dd3da54a.ctex"
+path="res://.godot/imported/bg_undergroundpassage.jpg-63dbd8d8cf3201423d905723b00d3dd3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_undergroundpassage.jpg"
-dest_files=["res://.godot/imported/bg_undergroundpassage.jpg-8c64d59f2e2dea3e8dd83894dd3da54a.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_undergroundpassage.jpg"
+dest_files=["res://.godot/imported/bg_undergroundpassage.jpg-63dbd8d8cf3201423d905723b00d3dd3.ctex"]
 
 [params]
 

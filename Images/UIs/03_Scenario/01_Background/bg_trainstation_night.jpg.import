@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1g042f2auptr"
-path="res://.godot/imported/bg_trainstation_night.jpg-31ccbe5aa3360671f0ebe0527d16d612.ctex"
+path="res://.godot/imported/bg_trainstation_night.jpg-933ffd120d04f541f1ffcbfa27aba4c7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_trainstation_night.jpg"
-dest_files=["res://.godot/imported/bg_trainstation_night.jpg-31ccbe5aa3360671f0ebe0527d16d612.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_trainstation_night.jpg"
+dest_files=["res://.godot/imported/bg_trainstation_night.jpg-933ffd120d04f541f1ffcbfa27aba4c7.ctex"]
 
 [params]
 

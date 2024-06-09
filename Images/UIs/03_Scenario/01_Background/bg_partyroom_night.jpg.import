@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwlsnbka2agwu"
-path="res://.godot/imported/bg_partyroom_night.jpg-ab1c05d70039a0332b736c3fdffa5f10.ctex"
+path="res://.godot/imported/bg_partyroom_night.jpg-6a38dc0bab80a6626ffb2f231f883ec5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_partyroom_night.jpg"
-dest_files=["res://.godot/imported/bg_partyroom_night.jpg-ab1c05d70039a0332b736c3fdffa5f10.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_partyroom_night.jpg"
+dest_files=["res://.godot/imported/bg_partyroom_night.jpg-6a38dc0bab80a6626ffb2f231f883ec5.ctex"]
 
 [params]
 

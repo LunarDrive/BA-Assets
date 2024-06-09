@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmuixtqsopi5b"
-path="res://.godot/imported/EnemyInfo_SchoolGirl_SukebanSwim_MG.png-7df9b9011b7ecf05b0329853295db60f.ctex"
+path="res://.godot/imported/EnemyInfo_SchoolGirl_SukebanSwim_MG.png-b4f6fbe6649592661cceea74c3d47d4f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_SchoolGirl_SukebanSwim_MG.png"
-dest_files=["res://.godot/imported/EnemyInfo_SchoolGirl_SukebanSwim_MG.png-7df9b9011b7ecf05b0329853295db60f.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_SchoolGirl_SukebanSwim_MG.png"
+dest_files=["res://.godot/imported/EnemyInfo_SchoolGirl_SukebanSwim_MG.png-b4f6fbe6649592661cceea74c3d47d4f.ctex"]
 
 [params]
 

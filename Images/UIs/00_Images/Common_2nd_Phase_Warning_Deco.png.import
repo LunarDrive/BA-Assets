@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqt3q7bd8vo40"
-path="res://.godot/imported/Common_2nd_Phase_Warning_Deco.png-2e065dce474b1704b0e01d740331bf9f.ctex"
+path="res://.godot/imported/Common_2nd_Phase_Warning_Deco.png-3097022a36a99240728ba658f4be3792.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Common_2nd_Phase_Warning_Deco.png"
-dest_files=["res://.godot/imported/Common_2nd_Phase_Warning_Deco.png-2e065dce474b1704b0e01d740331bf9f.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Common_2nd_Phase_Warning_Deco.png"
+dest_files=["res://.godot/imported/Common_2nd_Phase_Warning_Deco.png-3097022a36a99240728ba658f4be3792.ctex"]
 
 [params]
 

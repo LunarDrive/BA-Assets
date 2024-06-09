@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccsqbp3mbwird"
-path="res://.godot/imported/NPC_Portrait_Fuuki_Normal1.png-23ccde62f34e82daaee60433892509dd.ctex"
+path="res://.godot/imported/NPC_Portrait_Fuuki_Normal1.png-0fa19fd3f4481a325ffa208555c05cde.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Fuuki_Normal1.png"
-dest_files=["res://.godot/imported/NPC_Portrait_Fuuki_Normal1.png-23ccde62f34e82daaee60433892509dd.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Fuuki_Normal1.png"
+dest_files=["res://.godot/imported/NPC_Portrait_Fuuki_Normal1.png-0fa19fd3f4481a325ffa208555c05cde.ctex"]
 
 [params]
 

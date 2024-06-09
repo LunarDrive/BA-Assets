@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://be6b4s38s1lo"
-path="res://.godot/imported/TutorialFailureImage_Raid_Binah_kr.png-256d2c503656bac30e038296b8c2a179.ctex"
+path="res://.godot/imported/TutorialFailureImage_Raid_Binah_kr.png-da47acdc3253c49ad55c56d235f42b9e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr.png"
-dest_files=["res://.godot/imported/TutorialFailureImage_Raid_Binah_kr.png-256d2c503656bac30e038296b8c2a179.ctex"]
+source_file="res://assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr.png"
+dest_files=["res://.godot/imported/TutorialFailureImage_Raid_Binah_kr.png-da47acdc3253c49ad55c56d235f42b9e.ctex"]
 
 [params]
 

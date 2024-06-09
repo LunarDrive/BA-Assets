@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgw0gwfnc57ff"
-path="res://.godot/imported/Operator_Portrait_Sinon_06.png-5b25fc944be84899c78753b62d886a31.ctex"
+path="res://.godot/imported/Operator_Portrait_Sinon_06.png-a75b789306d5b34abd83cd9f9f918c64.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/20_Operator/Operator_Portrait_Sinon_06.png"
-dest_files=["res://.godot/imported/Operator_Portrait_Sinon_06.png-5b25fc944be84899c78753b62d886a31.ctex"]
+source_file="res://assets/Images/UIs/01_Common/20_Operator/Operator_Portrait_Sinon_06.png"
+dest_files=["res://.godot/imported/Operator_Portrait_Sinon_06.png-a75b789306d5b34abd83cd9f9f918c64.ctex"]
 
 [params]
 

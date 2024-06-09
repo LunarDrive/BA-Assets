@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://q3a70bxv1wb"
-path="res://.godot/imported/RG_Image_SummerBounce.png-d6b60e0acdccca8702237805b0456b23.ctex"
+path="res://.godot/imported/RG_Image_SummerBounce.png-4534202e0826ccacf4e866b470e2feb7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/34_MiniGame/Rhythm01/RG_Image_SummerBounce.png"
-dest_files=["res://.godot/imported/RG_Image_SummerBounce.png-d6b60e0acdccca8702237805b0456b23.ctex"]
+source_file="res://assets/Images/UIs/01_Common/34_MiniGame/Rhythm01/RG_Image_SummerBounce.png"
+dest_files=["res://.godot/imported/RG_Image_SummerBounce.png-4534202e0826ccacf4e866b470e2feb7.ctex"]
 
 [params]
 

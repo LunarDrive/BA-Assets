@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bt4rhqh50y3hf"
-path="res://.godot/imported/UI_FX_BG_Snow_L.ogg-460eeaded10e846e4b1ccc20306b097a.oggvorbisstr"
+path="res://.godot/imported/UI_FX_BG_Snow_L.ogg-489b6b0666f74bf4e71162341a745f63.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Snow_L.ogg"
-dest_files=["res://.godot/imported/UI_FX_BG_Snow_L.ogg-460eeaded10e846e4b1ccc20306b097a.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Snow_L.ogg"
+dest_files=["res://.godot/imported/UI_FX_BG_Snow_L.ogg-489b6b0666f74bf4e71162341a745f63.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://6cqk01vuv3jd"
-path="res://.godot/imported/SFX_Laser_Bass_02.ogg-fe20c5fd15328d88c20461c7bed0ddb9.oggvorbisstr"
+path="res://.godot/imported/SFX_Laser_Bass_02.ogg-715de9e4e3fcda919a38ba4b22f6379b.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_NPCs/SFX_Laser_Bass_02.ogg"
-dest_files=["res://.godot/imported/SFX_Laser_Bass_02.ogg-fe20c5fd15328d88c20461c7bed0ddb9.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_NPCs/SFX_Laser_Bass_02.ogg"
+dest_files=["res://.godot/imported/SFX_Laser_Bass_02.ogg-715de9e4e3fcda919a38ba4b22f6379b.oggvorbisstr"]
 
 [params]
 

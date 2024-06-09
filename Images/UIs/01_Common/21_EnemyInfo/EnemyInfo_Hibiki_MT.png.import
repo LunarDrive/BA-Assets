@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dabyqjehrcdmm"
-path="res://.godot/imported/EnemyInfo_Hibiki_MT.png-e28b0af03e8f8a27e4e93a3742284654.ctex"
+path="res://.godot/imported/EnemyInfo_Hibiki_MT.png-3dc13d7f979d091a05207483ec6018d2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Hibiki_MT.png"
-dest_files=["res://.godot/imported/EnemyInfo_Hibiki_MT.png-e28b0af03e8f8a27e4e93a3742284654.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Hibiki_MT.png"
+dest_files=["res://.godot/imported/EnemyInfo_Hibiki_MT.png-3dc13d7f979d091a05207483ec6018d2.ctex"]
 
 [params]
 

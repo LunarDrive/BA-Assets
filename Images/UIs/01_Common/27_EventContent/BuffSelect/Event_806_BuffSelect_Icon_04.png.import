@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxduxm4fqseu3"
-path="res://.godot/imported/Event_806_BuffSelect_Icon_04.png-575335b691c0ad79d4f2fe5169dd4cad.ctex"
+path="res://.godot/imported/Event_806_BuffSelect_Icon_04.png-afb6e4ff4714cc82827266c7764923e1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/27_EventContent/BuffSelect/Event_806_BuffSelect_Icon_04.png"
-dest_files=["res://.godot/imported/Event_806_BuffSelect_Icon_04.png-575335b691c0ad79d4f2fe5169dd4cad.ctex"]
+source_file="res://assets/Images/UIs/01_Common/27_EventContent/BuffSelect/Event_806_BuffSelect_Icon_04.png"
+dest_files=["res://.godot/imported/Event_806_BuffSelect_Icon_04.png-afb6e4ff4714cc82827266c7764923e1.ctex"]
 
 [params]
 

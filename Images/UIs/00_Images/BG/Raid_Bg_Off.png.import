@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://uy0227jswuch"
-path="res://.godot/imported/Raid_Bg_Off.png-824ba700bc04d79149dc4e2e08aac8fd.ctex"
+path="res://.godot/imported/Raid_Bg_Off.png-acc316b3427a05f9261a78743b62fa91.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/BG/Raid_Bg_Off.png"
-dest_files=["res://.godot/imported/Raid_Bg_Off.png-824ba700bc04d79149dc4e2e08aac8fd.ctex"]
+source_file="res://assets/Images/UIs/00_Images/BG/Raid_Bg_Off.png"
+dest_files=["res://.godot/imported/Raid_Bg_Off.png-acc316b3427a05f9261a78743b62fa91.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://e8rfspoildx1"
-path="res://.godot/imported/Event_Vallentine_Chocolate_Yuzu.png-d9180d0ecdd620ed8b7ca1b66ab8ff4d.ctex"
+path="res://.godot/imported/Event_Vallentine_Chocolate_Yuzu.png-bb7d4174854aadcd67fc9cb65ea2c32b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Event_Vallentine_Chocolate_Yuzu.png"
-dest_files=["res://.godot/imported/Event_Vallentine_Chocolate_Yuzu.png-d9180d0ecdd620ed8b7ca1b66ab8ff4d.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Event_Vallentine_Chocolate_Yuzu.png"
+dest_files=["res://.godot/imported/Event_Vallentine_Chocolate_Yuzu.png-bb7d4174854aadcd67fc9cb65ea2c32b.ctex"]
 
 [params]
 

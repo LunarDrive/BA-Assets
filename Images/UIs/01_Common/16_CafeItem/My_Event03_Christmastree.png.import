@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfgddyjliosay"
-path="res://.godot/imported/My_Event03_Christmastree.png-7e4aa92c4d2c2be47a5d2499368b9eb0.ctex"
+path="res://.godot/imported/My_Event03_Christmastree.png-d196e6767e2d4dc5b290a53b9afc5313.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Event03_Christmastree.png"
-dest_files=["res://.godot/imported/My_Event03_Christmastree.png-7e4aa92c4d2c2be47a5d2499368b9eb0.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Event03_Christmastree.png"
+dest_files=["res://.godot/imported/My_Event03_Christmastree.png-d196e6767e2d4dc5b290a53b9afc5313.ctex"]
 
 [params]
 

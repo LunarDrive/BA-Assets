@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ch8x1qp3jyo25"
-path="res://.godot/imported/Raid_RankIcon_01.png-07867860ea5860f593eb39d17ba659fa.ctex"
+path="res://.godot/imported/Raid_RankIcon_01.png-b4b3b97f79c092cd89c7e79e5b618a00.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/30_RaidContent/Raid_RankIcon_01.png"
-dest_files=["res://.godot/imported/Raid_RankIcon_01.png-07867860ea5860f593eb39d17ba659fa.ctex"]
+source_file="res://assets/Images/UIs/01_Common/30_RaidContent/Raid_RankIcon_01.png"
+dest_files=["res://.godot/imported/Raid_RankIcon_01.png-b4b3b97f79c092cd89c7e79e5b618a00.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cn1n5uyxh16xy"
-path="res://.godot/imported/Information_Chaser_03_Jp.png-cc7e2481a351214c847fc3edb626266e.ctex"
+path="res://.godot/imported/Information_Chaser_03_Jp.png-8ae5dbac2754a52f23af2d615066b620.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/28_Information/Information_Chaser_03_Jp.png"
-dest_files=["res://.godot/imported/Information_Chaser_03_Jp.png-cc7e2481a351214c847fc3edb626266e.ctex"]
+source_file="res://assets/Images/UIs/01_Common/28_Information/Information_Chaser_03_Jp.png"
+dest_files=["res://.godot/imported/Information_Chaser_03_Jp.png-8ae5dbac2754a52f23af2d615066b620.ctex"]
 
 [params]
 

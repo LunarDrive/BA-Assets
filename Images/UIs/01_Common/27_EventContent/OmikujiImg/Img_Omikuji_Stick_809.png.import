@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://crsnln88o80wx"
-path="res://.godot/imported/Img_Omikuji_Stick_809.png-977e9c569f4e1f9a7e278023d20a5076.ctex"
+path="res://.godot/imported/Img_Omikuji_Stick_809.png-4137d86dd34727d6cd168465e2b6cd31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/27_EventContent/OmikujiImg/Img_Omikuji_Stick_809.png"
-dest_files=["res://.godot/imported/Img_Omikuji_Stick_809.png-977e9c569f4e1f9a7e278023d20a5076.ctex"]
+source_file="res://assets/Images/UIs/01_Common/27_EventContent/OmikujiImg/Img_Omikuji_Stick_809.png"
+dest_files=["res://.godot/imported/Img_Omikuji_Stick_809.png-4137d86dd34727d6cd168465e2b6cd31.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://q05wigqvftwy"
-path="res://.godot/imported/Student_Portrait_Shiroko_Collection.png-a8258b94c21a8f41a488a74a8da9a9f5.ctex"
+path="res://.godot/imported/Student_Portrait_Shiroko_Collection.png-8c853676c6f8c50d6b8afd0c40c82d26.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Shiroko_Collection.png"
-dest_files=["res://.godot/imported/Student_Portrait_Shiroko_Collection.png-a8258b94c21a8f41a488a74a8da9a9f5.ctex"]
+source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Shiroko_Collection.png"
+dest_files=["res://.godot/imported/Student_Portrait_Shiroko_Collection.png-8c853676c6f8c50d6b8afd0c40c82d26.ctex"]
 
 [params]
 

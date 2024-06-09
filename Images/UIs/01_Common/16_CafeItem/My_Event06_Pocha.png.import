@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c08uvihacrdns"
-path="res://.godot/imported/My_Event06_Pocha.png-f7e5810569a689adfdc2db85f6edeab4.ctex"
+path="res://.godot/imported/My_Event06_Pocha.png-6908f5513bc513a37d15c798d3ff85e4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Event06_Pocha.png"
-dest_files=["res://.godot/imported/My_Event06_Pocha.png-f7e5810569a689adfdc2db85f6edeab4.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Event06_Pocha.png"
+dest_files=["res://.godot/imported/My_Event06_Pocha.png-6908f5513bc513a37d15c798d3ff85e4.ctex"]
 
 [params]
 

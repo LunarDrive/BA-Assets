@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsf6i2qyy0vh"
-path="res://.godot/imported/Event_Banner_814_kr.png-9e9ff582edc424b403831e0305e2ac6c.ctex"
+path="res://.godot/imported/Event_Banner_814_kr.png-1eaa15937c0fbf951db7c12829976ef5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Banner/Event_Banner_814_kr.png"
-dest_files=["res://.godot/imported/Event_Banner_814_kr.png-9e9ff582edc424b403831e0305e2ac6c.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Banner/Event_Banner_814_kr.png"
+dest_files=["res://.godot/imported/Event_Banner_814_kr.png-1eaa15937c0fbf951db7c12829976ef5.ctex"]
 
 [params]
 

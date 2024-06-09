@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8qkretvpcy7k"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Yuuka.png-c20ca34ec34f26c9f2516e7e2916c84e.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Yuuka.png-dcdc300e611ff214ffbc3660380924ee.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Yuuka.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Yuuka.png-c20ca34ec34f26c9f2516e7e2916c84e.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Yuuka.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Yuuka.png-dcdc300e611ff214ffbc3660380924ee.ctex"]
 
 [params]
 

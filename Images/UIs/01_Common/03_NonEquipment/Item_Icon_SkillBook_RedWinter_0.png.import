@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ck7o08c0cbrg7"
-path="res://.godot/imported/Item_Icon_SkillBook_RedWinter_0.png-36d6422af39927769cbd1a5660b20906.ctex"
+path="res://.godot/imported/Item_Icon_SkillBook_RedWinter_0.png-cc2b361a5eb203b58f0040c3201020ba.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_RedWinter_0.png"
-dest_files=["res://.godot/imported/Item_Icon_SkillBook_RedWinter_0.png-36d6422af39927769cbd1a5660b20906.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_RedWinter_0.png"
+dest_files=["res://.godot/imported/Item_Icon_SkillBook_RedWinter_0.png-cc2b361a5eb203b58f0040c3201020ba.ctex"]
 
 [params]
 

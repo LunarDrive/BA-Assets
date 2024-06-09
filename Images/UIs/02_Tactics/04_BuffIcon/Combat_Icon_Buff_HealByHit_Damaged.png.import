@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkaceggoxaq75"
-path="res://.godot/imported/Combat_Icon_Buff_HealByHit_Damaged.png-08cecd5f6960b1bbd53aad9cc7750444.ctex"
+path="res://.godot/imported/Combat_Icon_Buff_HealByHit_Damaged.png-9947044d9f26e0b27261f565decb33af.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_HealByHit_Damaged.png"
-dest_files=["res://.godot/imported/Combat_Icon_Buff_HealByHit_Damaged.png-08cecd5f6960b1bbd53aad9cc7750444.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_HealByHit_Damaged.png"
+dest_files=["res://.godot/imported/Combat_Icon_Buff_HealByHit_Damaged.png-9947044d9f26e0b27261f565decb33af.ctex"]
 
 [params]
 

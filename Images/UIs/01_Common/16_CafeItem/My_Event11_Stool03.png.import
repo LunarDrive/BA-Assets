@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cq0pujijnmnag"
-path="res://.godot/imported/My_Event11_Stool03.png-dc16d25a8aa0ab0756ab601d5fca8b1c.ctex"
+path="res://.godot/imported/My_Event11_Stool03.png-8469d42fa344714f402e48a339bd0b54.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Event11_Stool03.png"
-dest_files=["res://.godot/imported/My_Event11_Stool03.png-dc16d25a8aa0ab0756ab601d5fca8b1c.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Event11_Stool03.png"
+dest_files=["res://.godot/imported/My_Event11_Stool03.png-8469d42fa344714f402e48a339bd0b54.ctex"]
 
 [params]
 

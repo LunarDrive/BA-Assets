@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://x82fjcooc2as"
-path="res://.godot/imported/SKILLICON_GOZ_PASSIVESKILL01.png-51cfc0f2f841bb434cd3cd0becf6ff2d.ctex"
+path="res://.godot/imported/SKILLICON_GOZ_PASSIVESKILL01.png-09ea76fe8c6011e28a0d4116d340418c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_GOZ_PASSIVESKILL01.png"
-dest_files=["res://.godot/imported/SKILLICON_GOZ_PASSIVESKILL01.png-51cfc0f2f841bb434cd3cd0becf6ff2d.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_GOZ_PASSIVESKILL01.png"
+dest_files=["res://.godot/imported/SKILLICON_GOZ_PASSIVESKILL01.png-09ea76fe8c6011e28a0d4116d340418c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c60u6kyf5ywnd"
-path="res://.godot/imported/Skill_Portrait_Ayane.png-aaa15c12ed8fb39c7ecae99e448a4d51.ctex"
+path="res://.godot/imported/Skill_Portrait_Ayane.png-e1050910ad8f0c2be73a3917210fa44c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Ayane.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Ayane.png-aaa15c12ed8fb39c7ecae99e448a4d51.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Ayane.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Ayane.png-e1050910ad8f0c2be73a3917210fa44c.ctex"]
 
 [params]
 

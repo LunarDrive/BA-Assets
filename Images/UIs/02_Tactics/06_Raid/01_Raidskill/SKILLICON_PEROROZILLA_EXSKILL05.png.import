@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://duqnhjk7emsu6"
-path="res://.godot/imported/SKILLICON_PEROROZILLA_EXSKILL05.png-8bcafc4d04be2b84108bab12630a3f7f.ctex"
+path="res://.godot/imported/SKILLICON_PEROROZILLA_EXSKILL05.png-7083eda6a46528c2bcdeaadd0a0069f2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_PEROROZILLA_EXSKILL05.png"
-dest_files=["res://.godot/imported/SKILLICON_PEROROZILLA_EXSKILL05.png-8bcafc4d04be2b84108bab12630a3f7f.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_PEROROZILLA_EXSKILL05.png"
+dest_files=["res://.godot/imported/SKILLICON_PEROROZILLA_EXSKILL05.png-7083eda6a46528c2bcdeaadd0a0069f2.ctex"]
 
 [params]
 

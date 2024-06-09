@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://clon0x2u21p5u"
-path="res://.godot/imported/EnemyInfo_Kether_Decagram_Cannon.png-73cf272ad83be4970cb0df7a6ba46518.ctex"
+path="res://.godot/imported/EnemyInfo_Kether_Decagram_Cannon.png-6cf65fca3d9f9f9dafc7e3c6e6742516.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Kether_Decagram_Cannon.png"
-dest_files=["res://.godot/imported/EnemyInfo_Kether_Decagram_Cannon.png-73cf272ad83be4970cb0df7a6ba46518.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Kether_Decagram_Cannon.png"
+dest_files=["res://.godot/imported/EnemyInfo_Kether_Decagram_Cannon.png-6cf65fca3d9f9f9dafc7e3c6e6742516.ctex"]
 
 [params]
 

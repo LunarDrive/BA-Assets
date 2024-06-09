@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3dgxtnbetqrs"
-path="res://.godot/imported/My_Halloween_01_P_Chair_02.png-956790595e5fbaf3c8d4a6c5d1f403bb.ctex"
+path="res://.godot/imported/My_Halloween_01_P_Chair_02.png-1cd354304ff79934c3e2366cfbb53262.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Halloween_01_P_Chair_02.png"
-dest_files=["res://.godot/imported/My_Halloween_01_P_Chair_02.png-956790595e5fbaf3c8d4a6c5d1f403bb.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Halloween_01_P_Chair_02.png"
+dest_files=["res://.godot/imported/My_Halloween_01_P_Chair_02.png-1cd354304ff79934c3e2366cfbb53262.ctex"]
 
 [params]
 

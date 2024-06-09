@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://egfl6hdew02g"
-path="res://.godot/imported/Student_Portrait_Hasumi_Collection.png-1e80a9070adbc5983aff8506c2dd3f62.ctex"
+path="res://.godot/imported/Student_Portrait_Hasumi_Collection.png-2093f8d5446652f2b85f5b05ef80809f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Hasumi_Collection.png"
-dest_files=["res://.godot/imported/Student_Portrait_Hasumi_Collection.png-1e80a9070adbc5983aff8506c2dd3f62.ctex"]
+source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Hasumi_Collection.png"
+dest_files=["res://.godot/imported/Student_Portrait_Hasumi_Collection.png-2093f8d5446652f2b85f5b05ef80809f.ctex"]
 
 [params]
 

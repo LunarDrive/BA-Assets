@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bthd7y7chhgid"
-path="res://.godot/imported/SE_DoorBell_01.ogg-1cf7378ae683095f37cf04c90d3ff339.oggvorbisstr"
+path="res://.godot/imported/SE_DoorBell_01.ogg-b6123776ff5873c45802839336d5d9ca.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_DoorBell_01.ogg"
-dest_files=["res://.godot/imported/SE_DoorBell_01.ogg-1cf7378ae683095f37cf04c90d3ff339.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_DoorBell_01.ogg"
+dest_files=["res://.godot/imported/SE_DoorBell_01.ogg-b6123776ff5873c45802839336d5d9ca.oggvorbisstr"]
 
 [params]
 

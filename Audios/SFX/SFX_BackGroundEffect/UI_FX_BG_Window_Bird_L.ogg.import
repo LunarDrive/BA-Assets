@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d1gjob447xw08"
-path="res://.godot/imported/UI_FX_BG_Window_Bird_L.ogg-6416aa793f7bca119d2d1c4e13f41770.oggvorbisstr"
+path="res://.godot/imported/UI_FX_BG_Window_Bird_L.ogg-9c08ccc70e235add16af5df3f540ad71.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Window_Bird_L.ogg"
-dest_files=["res://.godot/imported/UI_FX_BG_Window_Bird_L.ogg-6416aa793f7bca119d2d1c4e13f41770.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Window_Bird_L.ogg"
+dest_files=["res://.godot/imported/UI_FX_BG_Window_Bird_L.ogg-9c08ccc70e235add16af5df3f540ad71.oggvorbisstr"]
 
 [params]
 

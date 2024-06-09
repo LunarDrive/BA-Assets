@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1hiagrxcqgnp"
-path="res://.godot/imported/bg_dormitory2_night.jpg-edad74cde04715616b3f264af4f05c62.ctex"
+path="res://.godot/imported/bg_dormitory2_night.jpg-a7f78dad736a0d28d2afc6e2ebcff85d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_dormitory2_night.jpg"
-dest_files=["res://.godot/imported/bg_dormitory2_night.jpg-edad74cde04715616b3f264af4f05c62.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_dormitory2_night.jpg"
+dest_files=["res://.godot/imported/bg_dormitory2_night.jpg-a7f78dad736a0d28d2afc6e2ebcff85d.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://trqaw8uqqe4p"
-path="res://.godot/imported/NPC_Portrait_Automata_PMC1.png-2f625874fbc6a0ff6149ed58ef2d32b2.ctex"
+path="res://.godot/imported/NPC_Portrait_Automata_PMC1.png-599f9f896609273856abbc5cfa5c2859.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Automata_PMC1.png"
-dest_files=["res://.godot/imported/NPC_Portrait_Automata_PMC1.png-2f625874fbc6a0ff6149ed58ef2d32b2.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Automata_PMC1.png"
+dest_files=["res://.godot/imported/NPC_Portrait_Automata_PMC1.png-599f9f896609273856abbc5cfa5c2859.ctex"]
 
 [params]
 

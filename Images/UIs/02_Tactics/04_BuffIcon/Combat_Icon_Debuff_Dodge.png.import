@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwuk5i6xfwex"
-path="res://.godot/imported/Combat_Icon_Debuff_Dodge.png-787d340649aac81de89bc34e8f5f3bf1.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_Dodge.png-a9f3afd04b8068de09257066a650ae34.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_Dodge.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_Dodge.png-787d340649aac81de89bc34e8f5f3bf1.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_Dodge.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_Dodge.png-a9f3afd04b8068de09257066a650ae34.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bd2nd2no22vqq"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Drone_Yoheki_Missile.png-f03e76eff7670fd5b6336d39895d1541.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Drone_Yoheki_Missile.png-737212fe4046fdff2e91d6827823e124.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Drone_Yoheki_Missile.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Drone_Yoheki_Missile.png-f03e76eff7670fd5b6336d39895d1541.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Drone_Yoheki_Missile.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Drone_Yoheki_Missile.png-737212fe4046fdff2e91d6827823e124.ctex"]
 
 [params]
 

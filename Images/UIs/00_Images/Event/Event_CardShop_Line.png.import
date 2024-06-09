@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cri4tdu75un0p"
-path="res://.godot/imported/Event_CardShop_Line.png-b888abc99005b0845bb07891009eab53.ctex"
+path="res://.godot/imported/Event_CardShop_Line.png-ac78164fcaec995919ed51ca042dbe51.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/Event_CardShop_Line.png"
-dest_files=["res://.godot/imported/Event_CardShop_Line.png-b888abc99005b0845bb07891009eab53.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/Event_CardShop_Line.png"
+dest_files=["res://.godot/imported/Event_CardShop_Line.png-ac78164fcaec995919ed51ca042dbe51.ctex"]
 
 [params]
 

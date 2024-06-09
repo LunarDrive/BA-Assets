@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gno46rg2f4xn"
-path="res://.godot/imported/Academy_Hyakkiyako_Cablecar_Red.png-9893c54d27d0e6070a53bfe2a0fa65f5.ctex"
+path="res://.godot/imported/Academy_Hyakkiyako_Cablecar_Red.png-33e57eb82b843c55e35d9c7688936684.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/SchoolMap/Academy_Hyakkiyako_Cablecar_Red.png"
-dest_files=["res://.godot/imported/Academy_Hyakkiyako_Cablecar_Red.png-9893c54d27d0e6070a53bfe2a0fa65f5.ctex"]
+source_file="res://assets/Images/UIs/00_Images/SchoolMap/Academy_Hyakkiyako_Cablecar_Red.png"
+dest_files=["res://.godot/imported/Academy_Hyakkiyako_Cablecar_Red.png-33e57eb82b843c55e35d9c7688936684.ctex"]
 
 [params]
 

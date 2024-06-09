@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyt7244qny1o8"
-path="res://.godot/imported/COMMON_SKILLICON_FURY.png-404743bd9c6dc80ae7a8aa9bafadb601.ctex"
+path="res://.godot/imported/COMMON_SKILLICON_FURY.png-2ef5ba800d4c45fcd2474a3415709425.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_FURY.png"
-dest_files=["res://.godot/imported/COMMON_SKILLICON_FURY.png-404743bd9c6dc80ae7a8aa9bafadb601.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_FURY.png"
+dest_files=["res://.godot/imported/COMMON_SKILLICON_FURY.png-2ef5ba800d4c45fcd2474a3415709425.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxycrkp27bqy7"
-path="res://.godot/imported/NPC_Portrait_Arona_Collection.png-473d4ac4dfca54cec0234af7f52798d6.ctex"
+path="res://.godot/imported/NPC_Portrait_Arona_Collection.png-e95ab227568f089b90a4dacf0291e00d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/14_CharacterCollect/NPC_Portrait_Arona_Collection.png"
-dest_files=["res://.godot/imported/NPC_Portrait_Arona_Collection.png-473d4ac4dfca54cec0234af7f52798d6.ctex"]
+source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/NPC_Portrait_Arona_Collection.png"
+dest_files=["res://.godot/imported/NPC_Portrait_Arona_Collection.png-e95ab227568f089b90a4dacf0291e00d.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://2rehn3dpiqhs"
-path="res://.godot/imported/SFX_Flip_Draw.ogg-238e6119a7d85f67234a3d44ec3021f7.oggvorbisstr"
+path="res://.godot/imported/SFX_Flip_Draw.ogg-a3b8bf78a0c82e05d43daf4ae4df008b.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Flip_Draw.ogg"
-dest_files=["res://.godot/imported/SFX_Flip_Draw.ogg-238e6119a7d85f67234a3d44ec3021f7.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Flip_Draw.ogg"
+dest_files=["res://.godot/imported/SFX_Flip_Draw.ogg-a3b8bf78a0c82e05d43daf4ae4df008b.oggvorbisstr"]
 
 [params]
 

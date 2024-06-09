@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://eilra6u6h228"
-path="res://.godot/imported/COMMON_SKILLICON_MARK.png-cd49214e840b107b15ffe3db4dd57872.ctex"
+path="res://.godot/imported/COMMON_SKILLICON_MARK.png-f257b1607d212839bc763bd56f269dfa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_MARK.png"
-dest_files=["res://.godot/imported/COMMON_SKILLICON_MARK.png-cd49214e840b107b15ffe3db4dd57872.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_MARK.png"
+dest_files=["res://.godot/imported/COMMON_SKILLICON_MARK.png-f257b1607d212839bc763bd56f269dfa.ctex"]
 
 [params]
 

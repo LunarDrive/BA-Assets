@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rgs3gbnk6hbm"
-path="res://.godot/imported/Boss_Portrait_HoverCraft_Lobby.png-bd0c262827440ff78cc6b4f07b1c2f71.ctex"
+path="res://.godot/imported/Boss_Portrait_HoverCraft_Lobby.png-5ef7daa6fe327b9813e1efadcf6e4960.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_Lobby.png"
-dest_files=["res://.godot/imported/Boss_Portrait_HoverCraft_Lobby.png-bd0c262827440ff78cc6b4f07b1c2f71.ctex"]
+source_file="res://assets/Images/UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_Lobby.png"
+dest_files=["res://.godot/imported/Boss_Portrait_HoverCraft_Lobby.png-5ef7daa6fe327b9813e1efadcf6e4960.ctex"]
 
 [params]
 

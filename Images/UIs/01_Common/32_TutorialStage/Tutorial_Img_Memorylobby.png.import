@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1m6uwvu8ucpl"
-path="res://.godot/imported/Tutorial_Img_Memorylobby.png-c2ad5f55a8e90adfd2be3829c358a549.ctex"
+path="res://.godot/imported/Tutorial_Img_Memorylobby.png-dc9ed20d6b18cc00d95d9434804986bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/32_TutorialStage/Tutorial_Img_Memorylobby.png"
-dest_files=["res://.godot/imported/Tutorial_Img_Memorylobby.png-c2ad5f55a8e90adfd2be3829c358a549.ctex"]
+source_file="res://assets/Images/UIs/01_Common/32_TutorialStage/Tutorial_Img_Memorylobby.png"
+dest_files=["res://.godot/imported/Tutorial_Img_Memorylobby.png-dc9ed20d6b18cc00d95d9434804986bc.ctex"]
 
 [params]
 

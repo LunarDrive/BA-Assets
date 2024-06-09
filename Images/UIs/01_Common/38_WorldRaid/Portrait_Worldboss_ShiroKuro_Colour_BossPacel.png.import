@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dch7qtcpch1g3"
-path="res://.godot/imported/Portrait_Worldboss_ShiroKuro_Colour_BossPacel.png-f97554c3ef487ca142a87f32a0a334e1.ctex"
+path="res://.godot/imported/Portrait_Worldboss_ShiroKuro_Colour_BossPacel.png-9175742eb85211770fdb2c5a27987876.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/38_WorldRaid/Portrait_Worldboss_ShiroKuro_Colour_BossPacel.png"
-dest_files=["res://.godot/imported/Portrait_Worldboss_ShiroKuro_Colour_BossPacel.png-f97554c3ef487ca142a87f32a0a334e1.ctex"]
+source_file="res://assets/Images/UIs/01_Common/38_WorldRaid/Portrait_Worldboss_ShiroKuro_Colour_BossPacel.png"
+dest_files=["res://.godot/imported/Portrait_Worldboss_ShiroKuro_Colour_BossPacel.png-9175742eb85211770fdb2c5a27987876.ctex"]
 
 [params]
 

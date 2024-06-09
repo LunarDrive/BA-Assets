@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqjimml15tkmo"
-path="res://.godot/imported/Image_Icon_Schale_MailBox.png-3811d31cb239b51f229f28cfae8772e8.ctex"
+path="res://.godot/imported/Image_Icon_Schale_MailBox.png-4ab9c0b74766fa25d685882167abb31c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Image_Icon_Schale_MailBox.png"
-dest_files=["res://.godot/imported/Image_Icon_Schale_MailBox.png-3811d31cb239b51f229f28cfae8772e8.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Image_Icon_Schale_MailBox.png"
+dest_files=["res://.godot/imported/Image_Icon_Schale_MailBox.png-4ab9c0b74766fa25d685882167abb31c.ctex"]
 
 [params]
 

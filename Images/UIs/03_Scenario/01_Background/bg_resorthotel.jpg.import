@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcwsqeyfvugom"
-path="res://.godot/imported/bg_resorthotel.jpg-668ff62c3d0829b66d69cd51dd7c81f7.ctex"
+path="res://.godot/imported/bg_resorthotel.jpg-8e4c877ca81e8b1a0d8b1f8f1feb7ad3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_resorthotel.jpg"
-dest_files=["res://.godot/imported/bg_resorthotel.jpg-668ff62c3d0829b66d69cd51dd7c81f7.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_resorthotel.jpg"
+dest_files=["res://.godot/imported/bg_resorthotel.jpg-8e4c877ca81e8b1a0d8b1f8f1feb7ad3.ctex"]
 
 [params]
 

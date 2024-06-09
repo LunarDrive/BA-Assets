@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cc7k333vihnbt"
-path="res://.godot/imported/bg_bigbridge2_night.jpg-8c55791441b29eeac253d46a4db48785.ctex"
+path="res://.godot/imported/bg_bigbridge2_night.jpg-d1426019244d358c35481b39bc94bc4a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_bigbridge2_night.jpg"
-dest_files=["res://.godot/imported/bg_bigbridge2_night.jpg-8c55791441b29eeac253d46a4db48785.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_bigbridge2_night.jpg"
+dest_files=["res://.godot/imported/bg_bigbridge2_night.jpg-d1426019244d358c35481b39bc94bc4a.ctex"]
 
 [params]
 

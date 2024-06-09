@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cock1k24uxmjb"
-path="res://.godot/imported/My_Halloween_01_P_Sofa.png-ed518a5615ec799014e496a35a80c244.ctex"
+path="res://.godot/imported/My_Halloween_01_P_Sofa.png-df64386bbf03ab861b22e03d33b57362.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Halloween_01_P_Sofa.png"
-dest_files=["res://.godot/imported/My_Halloween_01_P_Sofa.png-ed518a5615ec799014e496a35a80c244.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Halloween_01_P_Sofa.png"
+dest_files=["res://.godot/imported/My_Halloween_01_P_Sofa.png-df64386bbf03ab861b22e03d33b57362.ctex"]
 
 [params]
 

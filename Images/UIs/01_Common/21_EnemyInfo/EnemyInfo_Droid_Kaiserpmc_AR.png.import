@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://o7oscp4gyrbj"
-path="res://.godot/imported/EnemyInfo_Droid_Kaiserpmc_AR.png-85e6b61ffe6dde2a64c0eeb944c04c6d.ctex"
+path="res://.godot/imported/EnemyInfo_Droid_Kaiserpmc_AR.png-76b29ec3d9ff8d764978f9b7feaba7d6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Droid_Kaiserpmc_AR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Droid_Kaiserpmc_AR.png-85e6b61ffe6dde2a64c0eeb944c04c6d.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Droid_Kaiserpmc_AR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Droid_Kaiserpmc_AR.png-76b29ec3d9ff8d764978f9b7feaba7d6.ctex"]
 
 [params]
 

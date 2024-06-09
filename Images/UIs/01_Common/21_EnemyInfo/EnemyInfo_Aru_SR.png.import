@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c86gi28ka5ylt"
-path="res://.godot/imported/EnemyInfo_Aru_SR.png-f7f03bcfe3e19f0df9f6e95d8c0ecd07.ctex"
+path="res://.godot/imported/EnemyInfo_Aru_SR.png-56230cdb5f2bf6c45e0658e6f59d17ae.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Aru_SR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Aru_SR.png-f7f03bcfe3e19f0df9f6e95d8c0ecd07.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Aru_SR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Aru_SR.png-56230cdb5f2bf6c45e0658e6f59d17ae.ctex"]
 
 [params]
 

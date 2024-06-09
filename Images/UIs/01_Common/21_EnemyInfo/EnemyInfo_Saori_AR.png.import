@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://erjpu8ajvtgl"
-path="res://.godot/imported/EnemyInfo_Saori_AR.png-417705099ff1b8146a76d5cc1de6ddf0.ctex"
+path="res://.godot/imported/EnemyInfo_Saori_AR.png-cd53e16d24f7ae903dcf57074390daa1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Saori_AR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Saori_AR.png-417705099ff1b8146a76d5cc1de6ddf0.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Saori_AR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Saori_AR.png-cd53e16d24f7ae903dcf57074390daa1.ctex"]
 
 [params]
 

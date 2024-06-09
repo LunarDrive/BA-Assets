@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cw4phidcna51r"
-path="res://.godot/imported/Login_Pad_BG.png-cf704ba6a1005b27878f654dc89824c5.ctex"
+path="res://.godot/imported/Login_Pad_BG.png-c687349f0ac282f1f1bf2eb93fd920fd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Login_Pad_BG.png"
-dest_files=["res://.godot/imported/Login_Pad_BG.png-cf704ba6a1005b27878f654dc89824c5.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Login_Pad_BG.png"
+dest_files=["res://.godot/imported/Login_Pad_BG.png-c687349f0ac282f1f1bf2eb93fd920fd.ctex"]
 
 [params]
 

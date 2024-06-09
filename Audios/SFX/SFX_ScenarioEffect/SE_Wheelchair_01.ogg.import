@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c42gtp0oviylg"
-path="res://.godot/imported/SE_Wheelchair_01.ogg-5e397feb965fc2f0421931e11212f4db.oggvorbisstr"
+path="res://.godot/imported/SE_Wheelchair_01.ogg-b7a5638187014bc2f9975304b79f1df7.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Wheelchair_01.ogg"
-dest_files=["res://.godot/imported/SE_Wheelchair_01.ogg-5e397feb965fc2f0421931e11212f4db.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Wheelchair_01.ogg"
+dest_files=["res://.godot/imported/SE_Wheelchair_01.ogg-b7a5638187014bc2f9975304b79f1df7.oggvorbisstr"]
 
 [params]
 

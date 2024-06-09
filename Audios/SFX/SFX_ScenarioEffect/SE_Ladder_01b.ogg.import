@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cbt5rgacpkf8w"
-path="res://.godot/imported/SE_Ladder_01b.ogg-554a62f383053ffa4d7ddacd942ac3ea.oggvorbisstr"
+path="res://.godot/imported/SE_Ladder_01b.ogg-a479c02f6a5910210b4a70d1f63998c8.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Ladder_01b.ogg"
-dest_files=["res://.godot/imported/SE_Ladder_01b.ogg-554a62f383053ffa4d7ddacd942ac3ea.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Ladder_01b.ogg"
+dest_files=["res://.godot/imported/SE_Ladder_01b.ogg-a479c02f6a5910210b4a70d1f63998c8.oggvorbisstr"]
 
 [params]
 

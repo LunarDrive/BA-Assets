@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bueh87xf4seh1"
-path="res://.godot/imported/Currency_Icon_SchoolCTicket.png-cad624c42707f8d573332b84269feac6.ctex"
+path="res://.godot/imported/Currency_Icon_SchoolCTicket.png-35a1c420e5fc4c1766a0478159b24b29.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Currency_Icon_SchoolCTicket.png"
-dest_files=["res://.godot/imported/Currency_Icon_SchoolCTicket.png-cad624c42707f8d573332b84269feac6.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Currency_Icon_SchoolCTicket.png"
+dest_files=["res://.godot/imported/Currency_Icon_SchoolCTicket.png-35a1c420e5fc4c1766a0478159b24b29.ctex"]
 
 [params]
 

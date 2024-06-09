@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://clwt6cvrdg85n"
-path="res://.godot/imported/SFX_Common_AR_Sakurako_Kneel_Reload_04.wav-ba42cd95e28d1f2b00694981c97b9bc7.sample"
+path="res://.godot/imported/SFX_Common_AR_Sakurako_Kneel_Reload_04.wav-b1c2fc384a7f399de788dd514e2df31e.sample"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/SFX_Common_AR_Sakurako_Kneel_Reload_04.wav"
-dest_files=["res://.godot/imported/SFX_Common_AR_Sakurako_Kneel_Reload_04.wav-ba42cd95e28d1f2b00694981c97b9bc7.sample"]
+source_file="res://assets/Audios/SFX/SFX_Common/SFX_Common_AR_Sakurako_Kneel_Reload_04.wav"
+dest_files=["res://.godot/imported/SFX_Common_AR_Sakurako_Kneel_Reload_04.wav-b1c2fc384a7f399de788dd514e2df31e.sample"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brnnhp5r33wv5"
-path="res://.godot/imported/My_Military_01_Tile_2X2.png-8ee1a9e030777962fe69a58e88eb4cdc.ctex"
+path="res://.godot/imported/My_Military_01_Tile_2X2.png-113f4d5382b32c87b94c5c2cb18f8109.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Military_01_Tile_2X2.png"
-dest_files=["res://.godot/imported/My_Military_01_Tile_2X2.png-8ee1a9e030777962fe69a58e88eb4cdc.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Military_01_Tile_2X2.png"
+dest_files=["res://.godot/imported/My_Military_01_Tile_2X2.png-113f4d5382b32c87b94c5c2cb18f8109.ctex"]
 
 [params]
 

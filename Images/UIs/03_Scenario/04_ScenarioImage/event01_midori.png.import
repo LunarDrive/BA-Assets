@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1viex5s2xl4e"
-path="res://.godot/imported/event01_midori.png-a8be32b3b0f0ff2a161892ed5e168574.ctex"
+path="res://.godot/imported/event01_midori.png-cc8e9cdb706c2163a0a0223a094bd9b5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_midori.png"
-dest_files=["res://.godot/imported/event01_midori.png-a8be32b3b0f0ff2a161892ed5e168574.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_midori.png"
+dest_files=["res://.godot/imported/event01_midori.png-cc8e9cdb706c2163a0a0223a094bd9b5.ctex"]
 
 [params]
 

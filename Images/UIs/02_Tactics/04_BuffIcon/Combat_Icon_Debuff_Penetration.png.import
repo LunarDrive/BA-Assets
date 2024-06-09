@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://57xofbqiu0iq"
-path="res://.godot/imported/Combat_Icon_Debuff_Penetration.png-b3e3dfd22e66c9b6aeabd613c5648360.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_Penetration.png-b239c09186e6486b2c26410f36b7a22b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_Penetration.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_Penetration.png-b3e3dfd22e66c9b6aeabd613c5648360.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_Penetration.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_Penetration.png-b239c09186e6486b2c26410f36b7a22b.ctex"]
 
 [params]
 

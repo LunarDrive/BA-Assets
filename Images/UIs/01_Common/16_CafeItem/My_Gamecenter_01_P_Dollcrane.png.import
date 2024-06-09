@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsqf1pqiv1qup"
-path="res://.godot/imported/My_Gamecenter_01_P_Dollcrane.png-a91383acb5a90b569bd615a8378c828c.ctex"
+path="res://.godot/imported/My_Gamecenter_01_P_Dollcrane.png-ab965f4715a8f1ab3494e8e8ef593088.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Gamecenter_01_P_Dollcrane.png"
-dest_files=["res://.godot/imported/My_Gamecenter_01_P_Dollcrane.png-a91383acb5a90b569bd615a8378c828c.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Gamecenter_01_P_Dollcrane.png"
+dest_files=["res://.godot/imported/My_Gamecenter_01_P_Dollcrane.png-ab965f4715a8f1ab3494e8e8ef593088.ctex"]
 
 [params]
 

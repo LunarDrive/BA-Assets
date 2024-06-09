@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ckeoq6ksr4cj5"
-path="res://.godot/imported/SE_Artillery_01a.ogg-6d178d82d2fad71b7a4fbec067eb7325.oggvorbisstr"
+path="res://.godot/imported/SE_Artillery_01a.ogg-c522c4ca92c97a678f8f6963532c55cf.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Artillery_01a.ogg"
-dest_files=["res://.godot/imported/SE_Artillery_01a.ogg-6d178d82d2fad71b7a4fbec067eb7325.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Artillery_01a.ogg"
+dest_files=["res://.godot/imported/SE_Artillery_01a.ogg-c522c4ca92c97a678f8f6963532c55cf.oggvorbisstr"]
 
 [params]
 

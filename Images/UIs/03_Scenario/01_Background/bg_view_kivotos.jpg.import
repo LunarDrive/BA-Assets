@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6gomm1shpmcp"
-path="res://.godot/imported/bg_view_kivotos.jpg-edc3770e4e3aee8f1cc4d1f205569b29.ctex"
+path="res://.godot/imported/bg_view_kivotos.jpg-4964430b46e04d27412b97abca89a65f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_view_kivotos.jpg"
-dest_files=["res://.godot/imported/bg_view_kivotos.jpg-edc3770e4e3aee8f1cc4d1f205569b29.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_view_kivotos.jpg"
+dest_files=["res://.godot/imported/bg_view_kivotos.jpg-4964430b46e04d27412b97abca89a65f.ctex"]
 
 [params]
 

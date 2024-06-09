@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnrdgktmep1l3"
-path="res://.godot/imported/Skill_Portrait_Misaki.png-8e0c839bf094ea1876812c12ac36f078.ctex"
+path="res://.godot/imported/Skill_Portrait_Misaki.png-59d57ac8876432a4b20d2e8b2e7e0541.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Misaki.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Misaki.png-8e0c839bf094ea1876812c12ac36f078.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Misaki.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Misaki.png-59d57ac8876432a4b20d2e8b2e7e0541.ctex"]
 
 [params]
 

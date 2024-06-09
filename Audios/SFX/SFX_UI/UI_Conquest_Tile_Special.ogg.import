@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ilce8v704bf7"
-path="res://.godot/imported/UI_Conquest_Tile_Special.ogg-e848d20e831e93e146a52405706ef362.oggvorbisstr"
+path="res://.godot/imported/UI_Conquest_Tile_Special.ogg-55ad6b4f273cbef9927ed80189efad11.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_UI/UI_Conquest_Tile_Special.ogg"
-dest_files=["res://.godot/imported/UI_Conquest_Tile_Special.ogg-e848d20e831e93e146a52405706ef362.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_UI/UI_Conquest_Tile_Special.ogg"
+dest_files=["res://.godot/imported/UI_Conquest_Tile_Special.ogg-55ad6b4f273cbef9927ed80189efad11.oggvorbisstr"]
 
 [params]
 

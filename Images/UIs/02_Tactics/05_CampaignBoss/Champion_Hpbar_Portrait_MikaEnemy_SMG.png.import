@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwra3km2jp0tl"
-path="res://.godot/imported/Champion_Hpbar_Portrait_MikaEnemy_SMG.png-3b7c8b7dc3642c5323702b3f557a7049.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_MikaEnemy_SMG.png-5dee401d8ea0718fab7a82f8564c1ef5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_MikaEnemy_SMG.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_MikaEnemy_SMG.png-3b7c8b7dc3642c5323702b3f557a7049.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_MikaEnemy_SMG.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_MikaEnemy_SMG.png-5dee401d8ea0718fab7a82f8564c1ef5.ctex"]
 
 [params]
 

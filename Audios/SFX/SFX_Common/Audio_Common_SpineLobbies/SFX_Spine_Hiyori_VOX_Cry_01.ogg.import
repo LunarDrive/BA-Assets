@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cq2j333lncuuq"
-path="res://.godot/imported/SFX_Spine_Hiyori_VOX_Cry_01.ogg-39a35b3778c5424038fb5a553d256054.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_Hiyori_VOX_Cry_01.ogg-188a9375f9d01b4bb3dd423b6b7429a0.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Hiyori_VOX_Cry_01.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_Hiyori_VOX_Cry_01.ogg-39a35b3778c5424038fb5a553d256054.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Hiyori_VOX_Cry_01.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_Hiyori_VOX_Cry_01.ogg-188a9375f9d01b4bb3dd423b6b7429a0.oggvorbisstr"]
 
 [params]
 

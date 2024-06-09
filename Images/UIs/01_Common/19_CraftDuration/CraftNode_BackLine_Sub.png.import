@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgaai8n6tkd4"
-path="res://.godot/imported/CraftNode_BackLine_Sub.png-5fbba5c072d01926770823e678ec0da9.ctex"
+path="res://.godot/imported/CraftNode_BackLine_Sub.png-b2ec12c5708bf84a0d873b2d7fe00921.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/19_CraftDuration/CraftNode_BackLine_Sub.png"
-dest_files=["res://.godot/imported/CraftNode_BackLine_Sub.png-5fbba5c072d01926770823e678ec0da9.ctex"]
+source_file="res://assets/Images/UIs/01_Common/19_CraftDuration/CraftNode_BackLine_Sub.png"
+dest_files=["res://.godot/imported/CraftNode_BackLine_Sub.png-b2ec12c5708bf84a0d873b2d7fe00921.ctex"]
 
 [params]
 

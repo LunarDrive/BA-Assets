@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bic7fn1lijr5k"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Kayoko.png-817895868c1dbcca77afa684c523449c.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Kayoko.png-237113bb52047860a83e7be953875699.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Kayoko.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Kayoko.png-817895868c1dbcca77afa684c523449c.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Kayoko.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Kayoko.png-237113bb52047860a83e7be953875699.ctex"]
 
 [params]
 

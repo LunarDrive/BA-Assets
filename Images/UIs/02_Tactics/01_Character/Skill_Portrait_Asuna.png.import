@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5x5yypnmek5h"
-path="res://.godot/imported/Skill_Portrait_Asuna.png-7f53c9ef12c7a6c78947e2c0c4c7f46f.ctex"
+path="res://.godot/imported/Skill_Portrait_Asuna.png-cc31d669c75cf1162494d560ee322ea7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Asuna.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Asuna.png-7f53c9ef12c7a6c78947e2c0c4c7f46f.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Asuna.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Asuna.png-cc31d669c75cf1162494d560ee322ea7.ctex"]
 
 [params]
 

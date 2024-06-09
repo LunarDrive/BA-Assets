@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://di438i5y48xid"
-path="res://.godot/imported/SE_DoorSlowOpen_01.ogg-c90f397d84243434cfcd80b98d3d1f1a.oggvorbisstr"
+path="res://.godot/imported/SE_DoorSlowOpen_01.ogg-d2e2a17b84a33aa129a1c3d52e4e46dc.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_DoorSlowOpen_01.ogg"
-dest_files=["res://.godot/imported/SE_DoorSlowOpen_01.ogg-c90f397d84243434cfcd80b98d3d1f1a.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_DoorSlowOpen_01.ogg"
+dest_files=["res://.godot/imported/SE_DoorSlowOpen_01.ogg-d2e2a17b84a33aa129a1c3d52e4e46dc.oggvorbisstr"]
 
 [params]
 

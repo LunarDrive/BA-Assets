@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yiw7pjk8iitp"
-path="res://.godot/imported/EnemyInfo_Eimi_SG.png-157ffec333503c8458569985afa5eaf9.ctex"
+path="res://.godot/imported/EnemyInfo_Eimi_SG.png-4aeaea926a568b7d6c2050cd860f2ac4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Eimi_SG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Eimi_SG.png-157ffec333503c8458569985afa5eaf9.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Eimi_SG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Eimi_SG.png-4aeaea926a568b7d6c2050cd860f2ac4.ctex"]
 
 [params]
 

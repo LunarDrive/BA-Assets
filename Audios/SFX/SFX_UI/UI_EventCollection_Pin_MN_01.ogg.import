@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://650shotvig6v"
-path="res://.godot/imported/UI_EventCollection_Pin_MN_01.ogg-08de5d196eeb11a7a84b66803e95b03d.oggvorbisstr"
+path="res://.godot/imported/UI_EventCollection_Pin_MN_01.ogg-0f706762ff0a19003dc652646ffa3344.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_UI/UI_EventCollection_Pin_MN_01.ogg"
-dest_files=["res://.godot/imported/UI_EventCollection_Pin_MN_01.ogg-08de5d196eeb11a7a84b66803e95b03d.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_UI/UI_EventCollection_Pin_MN_01.ogg"
+dest_files=["res://.godot/imported/UI_EventCollection_Pin_MN_01.ogg-0f706762ff0a19003dc652646ffa3344.oggvorbisstr"]
 
 [params]
 

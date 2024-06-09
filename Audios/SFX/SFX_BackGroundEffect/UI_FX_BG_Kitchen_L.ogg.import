@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bsq14d6pvbbnu"
-path="res://.godot/imported/UI_FX_BG_Kitchen_L.ogg-83643b13ee12fe3b4b0d61cbca1df82f.oggvorbisstr"
+path="res://.godot/imported/UI_FX_BG_Kitchen_L.ogg-a009d3d88916df471876d5b96fa92c8a.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Kitchen_L.ogg"
-dest_files=["res://.godot/imported/UI_FX_BG_Kitchen_L.ogg-83643b13ee12fe3b4b0d61cbca1df82f.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Kitchen_L.ogg"
+dest_files=["res://.godot/imported/UI_FX_BG_Kitchen_L.ogg-a009d3d88916df471876d5b96fa92c8a.oggvorbisstr"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xgi5pg03h1dp"
-path="res://.godot/imported/event01_hoshino.png-723e4cef489ac7f4dc778d1cd0317f4f.ctex"
+path="res://.godot/imported/event01_hoshino.png-70aa8f6ea48859c6ef67187ff10f0d64.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_hoshino.png"
-dest_files=["res://.godot/imported/event01_hoshino.png-723e4cef489ac7f4dc778d1cd0317f4f.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_hoshino.png"
+dest_files=["res://.godot/imported/event01_hoshino.png-70aa8f6ea48859c6ef67187ff10f0d64.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cwl7wg01mgo3o"
-path="res://.godot/imported/SFX_Spine_ArcadeButton.ogg-801d4d243377409e5e892926778f720a.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_ArcadeButton.ogg-2ddf05fe9bf0ae98101eb04711fcea86.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_ArcadeButton.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_ArcadeButton.ogg-801d4d243377409e5e892926778f720a.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_ArcadeButton.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_ArcadeButton.ogg-2ddf05fe9bf0ae98101eb04711fcea86.oggvorbisstr"]
 
 [params]
 

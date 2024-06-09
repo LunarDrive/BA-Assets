@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cq52kt6jgkoep"
-path="res://.godot/imported/Item_Icon_Material_Nimrud_0.png-41ee6fb28cc7335d08208512f2f6f886.ctex"
+path="res://.godot/imported/Item_Icon_Material_Nimrud_0.png-a31e334dbe49f3ecbe14b7ffe6de7135.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Nimrud_0.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_Nimrud_0.png-41ee6fb28cc7335d08208512f2f6f886.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Nimrud_0.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_Nimrud_0.png-a31e334dbe49f3ecbe14b7ffe6de7135.ctex"]
 
 [params]
 

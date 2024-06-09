@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnf1tekhlmufd"
-path="res://.godot/imported/SKILLICON_ARIS_EXTRAPASSIVESKILL.png-eb07cc48713a50caf10554cb348dd06f.ctex"
+path="res://.godot/imported/SKILLICON_ARIS_EXTRAPASSIVESKILL.png-f38d3230d84feab2b41e107b6f3c0c22.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/SKILLICON_ARIS_EXTRAPASSIVESKILL.png"
-dest_files=["res://.godot/imported/SKILLICON_ARIS_EXTRAPASSIVESKILL.png-eb07cc48713a50caf10554cb348dd06f.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/SKILLICON_ARIS_EXTRAPASSIVESKILL.png"
+dest_files=["res://.godot/imported/SKILLICON_ARIS_EXTRAPASSIVESKILL.png-f38d3230d84feab2b41e107b6f3c0c22.ctex"]
 
 [params]
 

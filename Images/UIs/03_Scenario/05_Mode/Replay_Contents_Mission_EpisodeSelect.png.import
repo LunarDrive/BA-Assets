@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bi20sn1grqy2l"
-path="res://.godot/imported/Replay_Contents_Mission_EpisodeSelect.png-c30c499ba7eec20556005cba600d6040.ctex"
+path="res://.godot/imported/Replay_Contents_Mission_EpisodeSelect.png-10fb326b063e65b24c17a8bab59c7fcd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/05_Mode/Replay_Contents_Mission_EpisodeSelect.png"
-dest_files=["res://.godot/imported/Replay_Contents_Mission_EpisodeSelect.png-c30c499ba7eec20556005cba600d6040.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/05_Mode/Replay_Contents_Mission_EpisodeSelect.png"
+dest_files=["res://.godot/imported/Replay_Contents_Mission_EpisodeSelect.png-10fb326b063e65b24c17a8bab59c7fcd.ctex"]
 
 [params]
 

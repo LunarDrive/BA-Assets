@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7qsn1ufsp4dx"
-path="res://.godot/imported/My_Event13_Music_Stand.png-7d8ce96cb679293f54f847913bbaf28f.ctex"
+path="res://.godot/imported/My_Event13_Music_Stand.png-d5a1cbf758da94907eaf613a9392d897.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Event13_Music_Stand.png"
-dest_files=["res://.godot/imported/My_Event13_Music_Stand.png-7d8ce96cb679293f54f847913bbaf28f.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Event13_Music_Stand.png"
+dest_files=["res://.godot/imported/My_Event13_Music_Stand.png-d5a1cbf758da94907eaf613a9392d897.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://h8mjh8jjncw"
-path="res://.godot/imported/event01_hina.png-9f827fe40196a4d6320dbb88d7ca9e91.ctex"
+path="res://.godot/imported/event01_hina.png-c96ae51cafa1223e80d607792fb39f22.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_hina.png"
-dest_files=["res://.godot/imported/event01_hina.png-9f827fe40196a4d6320dbb88d7ca9e91.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_hina.png"
+dest_files=["res://.godot/imported/event01_hina.png-c96ae51cafa1223e80d607792fb39f22.ctex"]
 
 [params]
 

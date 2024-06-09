@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qfoxheijep1m"
-path="res://.godot/imported/EnemyInfo_Kirino_HG.png-2795af15c627d1f1d02d4d1813a96257.ctex"
+path="res://.godot/imported/EnemyInfo_Kirino_HG.png-c54c26d7cf21ec5ed8f35e60721834d0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Kirino_HG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Kirino_HG.png-2795af15c627d1f1d02d4d1813a96257.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Kirino_HG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Kirino_HG.png-c54c26d7cf21ec5ed8f35e60721834d0.ctex"]
 
 [params]
 

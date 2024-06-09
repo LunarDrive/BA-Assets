@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckvdxj6uosoaa"
-path="res://.godot/imported/Portrait_Raidboss_Perorozilla_Insane.png-8450729d82ac3866d8ff63339de0bc52.ctex"
+path="res://.godot/imported/Portrait_Raidboss_Perorozilla_Insane.png-672b2d7163392413e1b2909a3b00b0b4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/06_Raid/Portrait_Raidboss_Perorozilla_Insane.png"
-dest_files=["res://.godot/imported/Portrait_Raidboss_Perorozilla_Insane.png-8450729d82ac3866d8ff63339de0bc52.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/06_Raid/Portrait_Raidboss_Perorozilla_Insane.png"
+dest_files=["res://.godot/imported/Portrait_Raidboss_Perorozilla_Insane.png-672b2d7163392413e1b2909a3b00b0b4.ctex"]
 
 [params]
 

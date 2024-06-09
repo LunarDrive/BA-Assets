@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dr4iuo7cl12ff"
-path="res://.godot/imported/Img_UICountdown_Millennium_Line.png-46d6321b3eb5d087ab881a787f93ecd5.ctex"
+path="res://.godot/imported/Img_UICountdown_Millennium_Line.png-58e90b81281eed705498191bfbb0145c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/UICountdown/Img_UICountdown_Millennium_Line.png"
-dest_files=["res://.godot/imported/Img_UICountdown_Millennium_Line.png-46d6321b3eb5d087ab881a787f93ecd5.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/UICountdown/Img_UICountdown_Millennium_Line.png"
+dest_files=["res://.godot/imported/Img_UICountdown_Millennium_Line.png-58e90b81281eed705498191bfbb0145c.ctex"]
 
 [params]
 

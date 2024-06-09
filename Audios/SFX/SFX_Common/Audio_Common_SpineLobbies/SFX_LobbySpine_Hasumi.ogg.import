@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ctdqnwjc2sr45"
-path="res://.godot/imported/SFX_LobbySpine_Hasumi.ogg-fa09b2d00f73a26e92a2bfd83c1943ba.oggvorbisstr"
+path="res://.godot/imported/SFX_LobbySpine_Hasumi.ogg-a9fb62be588ee1e2741c11c9579854c2.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_LobbySpine_Hasumi.ogg"
-dest_files=["res://.godot/imported/SFX_LobbySpine_Hasumi.ogg-fa09b2d00f73a26e92a2bfd83c1943ba.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_LobbySpine_Hasumi.ogg"
+dest_files=["res://.godot/imported/SFX_LobbySpine_Hasumi.ogg-a9fb62be588ee1e2741c11c9579854c2.oggvorbisstr"]
 
 [params]
 

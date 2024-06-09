@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://puwg3ere4eb1"
-path="res://.godot/imported/EnemyInfo_Momoi_AR.png-b96ee6551349a07b6f828a0a34812a31.ctex"
+path="res://.godot/imported/EnemyInfo_Momoi_AR.png-9bf400bdac2460d0f7b6a6ae88677ec0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Momoi_AR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Momoi_AR.png-b96ee6551349a07b6f828a0a34812a31.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Momoi_AR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Momoi_AR.png-9bf400bdac2460d0f7b6a6ae88677ec0.ctex"]
 
 [params]
 

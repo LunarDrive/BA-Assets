@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cjyxlxgkbv5at"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Kotama.png-e0bd35a56ee579dbb57d84815635aec5.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Kotama.png-eea98e181f7917ace5cf309c1303f23b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Kotama.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Kotama.png-e0bd35a56ee579dbb57d84815635aec5.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Kotama.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Kotama.png-eea98e181f7917ace5cf309c1303f23b.ctex"]
 
 [params]
 

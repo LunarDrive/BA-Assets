@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxvs7qcykqsk2"
-path="res://.godot/imported/Champion_Hpbar_portrait_Izumi_swimsuit.png-11dc5d64640a09abe8c69a8393a254f1.ctex"
+path="res://.godot/imported/Champion_Hpbar_portrait_Izumi_swimsuit.png-9f20aff88d3e8836836d81decc6d65a3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_portrait_Izumi_swimsuit.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_portrait_Izumi_swimsuit.png-11dc5d64640a09abe8c69a8393a254f1.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_portrait_Izumi_swimsuit.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_portrait_Izumi_swimsuit.png-9f20aff88d3e8836836d81decc6d65a3.ctex"]
 
 [params]
 

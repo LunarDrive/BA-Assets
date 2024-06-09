@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b5ixynsb4v2ag"
-path="res://.godot/imported/SFX_Obstacles_prop_city_pocha_02_B.ogg-832a0687af9c729c8e3c2ee9409246ae.oggvorbisstr"
+path="res://.godot/imported/SFX_Obstacles_prop_city_pocha_02_B.ogg-39fadba79e7f7396a62c50bdcbeafd72.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Prop/SFX_Obstacles_prop_city_pocha_02_B.ogg"
-dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_pocha_02_B.ogg-832a0687af9c729c8e3c2ee9409246ae.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Prop/SFX_Obstacles_prop_city_pocha_02_B.ogg"
+dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_pocha_02_B.ogg-39fadba79e7f7396a62c50bdcbeafd72.oggvorbisstr"]
 
 [params]
 

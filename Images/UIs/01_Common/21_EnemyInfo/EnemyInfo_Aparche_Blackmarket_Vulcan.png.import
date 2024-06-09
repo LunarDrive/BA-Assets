@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4t8btjuytfty"
-path="res://.godot/imported/EnemyInfo_Aparche_Blackmarket_Vulcan.png-41690140ac1c14027e21dcbe383bb9f9.ctex"
+path="res://.godot/imported/EnemyInfo_Aparche_Blackmarket_Vulcan.png-feaeeaa124bbfecc860614078221ff01.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Aparche_Blackmarket_Vulcan.png"
-dest_files=["res://.godot/imported/EnemyInfo_Aparche_Blackmarket_Vulcan.png-41690140ac1c14027e21dcbe383bb9f9.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Aparche_Blackmarket_Vulcan.png"
+dest_files=["res://.godot/imported/EnemyInfo_Aparche_Blackmarket_Vulcan.png-feaeeaa124bbfecc860614078221ff01.ctex"]
 
 [params]
 

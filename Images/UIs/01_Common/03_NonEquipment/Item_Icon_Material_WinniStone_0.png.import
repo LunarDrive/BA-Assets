@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bub3fabfvq18p"
-path="res://.godot/imported/Item_Icon_Material_WinniStone_0.png-b8ca2436f4439a05303c9d40919afe31.ctex"
+path="res://.godot/imported/Item_Icon_Material_WinniStone_0.png-8f2b8f8898f676ce5d0c169cfb4b43db.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_WinniStone_0.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_WinniStone_0.png-b8ca2436f4439a05303c9d40919afe31.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_WinniStone_0.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_WinniStone_0.png-8f2b8f8898f676ce5d0c169cfb4b43db.ctex"]
 
 [params]
 

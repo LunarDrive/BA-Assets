@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs2g5gqlbta8n"
-path="res://.godot/imported/My_Trophy_Binah_City_Bronze.png-4248d44d7df01f596cc2a436bf2e4195.ctex"
+path="res://.godot/imported/My_Trophy_Binah_City_Bronze.png-1488e6988a8dcf9f4563f3f87260fae7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Binah_City_Bronze.png"
-dest_files=["res://.godot/imported/My_Trophy_Binah_City_Bronze.png-4248d44d7df01f596cc2a436bf2e4195.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Binah_City_Bronze.png"
+dest_files=["res://.godot/imported/My_Trophy_Binah_City_Bronze.png-1488e6988a8dcf9f4563f3f87260fae7.ctex"]
 
 [params]
 

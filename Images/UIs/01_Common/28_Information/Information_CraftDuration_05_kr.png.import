@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://w6c6olo6t0i5"
-path="res://.godot/imported/Information_CraftDuration_05_kr.png-715f60e86538bae2a4945ccabf9a60f5.ctex"
+path="res://.godot/imported/Information_CraftDuration_05_kr.png-02b3e563afd95dc1fdc46763d9cc6c3d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/28_Information/Information_CraftDuration_05_kr.png"
-dest_files=["res://.godot/imported/Information_CraftDuration_05_kr.png-715f60e86538bae2a4945ccabf9a60f5.ctex"]
+source_file="res://assets/Images/UIs/01_Common/28_Information/Information_CraftDuration_05_kr.png"
+dest_files=["res://.godot/imported/Information_CraftDuration_05_kr.png-02b3e563afd95dc1fdc46763d9cc6c3d.ctex"]
 
 [params]
 

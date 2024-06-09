@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bx8wnsm3085d"
-path="res://.godot/imported/My_Halloween_01_P_Wall_Acc_04.png-c5de842fe944f319e4451b76cb694eb0.ctex"
+path="res://.godot/imported/My_Halloween_01_P_Wall_Acc_04.png-b268a55353617ea6e1ef9b5f3517841c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Halloween_01_P_Wall_Acc_04.png"
-dest_files=["res://.godot/imported/My_Halloween_01_P_Wall_Acc_04.png-c5de842fe944f319e4451b76cb694eb0.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Halloween_01_P_Wall_Acc_04.png"
+dest_files=["res://.godot/imported/My_Halloween_01_P_Wall_Acc_04.png-b268a55353617ea6e1ef9b5f3517841c.ctex"]
 
 [params]
 

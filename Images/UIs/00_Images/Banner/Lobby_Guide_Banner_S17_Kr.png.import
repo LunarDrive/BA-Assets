@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bh51i37hpavid"
-path="res://.godot/imported/Lobby_Guide_Banner_S17_Kr.png-c5f8ef60afbe2ec298b16280be5cc2c1.ctex"
+path="res://.godot/imported/Lobby_Guide_Banner_S17_Kr.png-1b5804d25770b166cf3d059ba97eb32e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Banner/Lobby_Guide_Banner_S17_Kr.png"
-dest_files=["res://.godot/imported/Lobby_Guide_Banner_S17_Kr.png-c5f8ef60afbe2ec298b16280be5cc2c1.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Banner/Lobby_Guide_Banner_S17_Kr.png"
+dest_files=["res://.godot/imported/Lobby_Guide_Banner_S17_Kr.png-1b5804d25770b166cf3d059ba97eb32e.ctex"]
 
 [params]
 

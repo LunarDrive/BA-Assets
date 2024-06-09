@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://58mvt6d8yax2"
-path="res://.godot/imported/bg_desertcamp.jpg-1fa82cf5b156aa2338bdbefe8f3688dd.ctex"
+path="res://.godot/imported/bg_desertcamp.jpg-23be79c949e8c7a718ace6f4ea56844e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_desertcamp.jpg"
-dest_files=["res://.godot/imported/bg_desertcamp.jpg-1fa82cf5b156aa2338bdbefe8f3688dd.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_desertcamp.jpg"
+dest_files=["res://.godot/imported/bg_desertcamp.jpg-23be79c949e8c7a718ace6f4ea56844e.ctex"]
 
 [params]
 

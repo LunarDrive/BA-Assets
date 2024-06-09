@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0ac3efkecyio"
-path="res://.godot/imported/bg_view_eridu.jpg-e724446d8e807c314e8e0f2884d7ad0b.ctex"
+path="res://.godot/imported/bg_view_eridu.jpg-08506875cbc1e059beb4b349252f0121.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_view_eridu.jpg"
-dest_files=["res://.godot/imported/bg_view_eridu.jpg-e724446d8e807c314e8e0f2884d7ad0b.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_view_eridu.jpg"
+dest_files=["res://.godot/imported/bg_view_eridu.jpg-08506875cbc1e059beb4b349252f0121.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cfbnhhi75kpwo"
-path="res://.godot/imported/event01_haruka.png-bff3aa6ef1b04203b0dc66104a05b31c.ctex"
+path="res://.godot/imported/event01_haruka.png-a9af91d2e427b8925f7ab32291bd4507.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_haruka.png"
-dest_files=["res://.godot/imported/event01_haruka.png-bff3aa6ef1b04203b0dc66104a05b31c.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_haruka.png"
+dest_files=["res://.godot/imported/event01_haruka.png-a9af91d2e427b8925f7ab32291bd4507.ctex"]
 
 [params]
 

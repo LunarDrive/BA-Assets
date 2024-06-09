@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6r5h43283q38"
-path="res://.godot/imported/Information_TimeAttackDungeon_03_Jp.png-78db892c5dae733274a394b04ea81e7e.ctex"
+path="res://.godot/imported/Information_TimeAttackDungeon_03_Jp.png-60783b9026bf05eabd88b78a23f29d92.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/28_Information/Information_TimeAttackDungeon_03_Jp.png"
-dest_files=["res://.godot/imported/Information_TimeAttackDungeon_03_Jp.png-78db892c5dae733274a394b04ea81e7e.ctex"]
+source_file="res://assets/Images/UIs/01_Common/28_Information/Information_TimeAttackDungeon_03_Jp.png"
+dest_files=["res://.godot/imported/Information_TimeAttackDungeon_03_Jp.png-60783b9026bf05eabd88b78a23f29d92.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbl4d3e47s23a"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Haruka.png-bfdcd1237634e2f750a8771ddeda4749.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Haruka.png-edae31955f1a1720e5e8cbb3c6cf3a16.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Haruka.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Haruka.png-bfdcd1237634e2f750a8771ddeda4749.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Haruka.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Haruka.png-edae31955f1a1720e5e8cbb3c6cf3a16.ctex"]
 
 [params]
 

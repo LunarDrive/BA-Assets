@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhr8hc8uh04ua"
-path="res://.godot/imported/Icon_Tactics_HpRecovery.png-0f0feeeb714971e926dd23afc9d74647.ctex"
+path="res://.godot/imported/Icon_Tactics_HpRecovery.png-d3a87e6bd420b03bc985f0889527b202.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Icon_Tactics_HpRecovery.png"
-dest_files=["res://.godot/imported/Icon_Tactics_HpRecovery.png-0f0feeeb714971e926dd23afc9d74647.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Icon_Tactics_HpRecovery.png"
+dest_files=["res://.godot/imported/Icon_Tactics_HpRecovery.png-d3a87e6bd420b03bc985f0889527b202.ctex"]
 
 [params]
 

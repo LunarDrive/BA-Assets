@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gjjr6tx7qrmt"
-path="res://.godot/imported/EnemyInfo_LightTank_Helmet_Vulcan.png-079bc5e064bd26e5f5adc475701d489b.ctex"
+path="res://.godot/imported/EnemyInfo_LightTank_Helmet_Vulcan.png-317de33a78d749e42c87784db80bee28.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_LightTank_Helmet_Vulcan.png"
-dest_files=["res://.godot/imported/EnemyInfo_LightTank_Helmet_Vulcan.png-079bc5e064bd26e5f5adc475701d489b.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_LightTank_Helmet_Vulcan.png"
+dest_files=["res://.godot/imported/EnemyInfo_LightTank_Helmet_Vulcan.png-317de33a78d749e42c87784db80bee28.ctex"]
 
 [params]
 

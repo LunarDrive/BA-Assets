@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4ptjyocnreap"
-path="res://.godot/imported/Item_Icon_Material_AtlantisMedal_2.png-8712932bd75ddde2275d658669e296b5.ctex"
+path="res://.godot/imported/Item_Icon_Material_AtlantisMedal_2.png-bbd15aee2c91c7d14dc108834cdcbd7f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_AtlantisMedal_2.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_AtlantisMedal_2.png-8712932bd75ddde2275d658669e296b5.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_AtlantisMedal_2.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_AtlantisMedal_2.png-bbd15aee2c91c7d14dc108834cdcbd7f.ctex"]
 
 [params]
 

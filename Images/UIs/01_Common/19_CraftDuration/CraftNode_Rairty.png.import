@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjff7e5582m4q"
-path="res://.godot/imported/CraftNode_Rairty.png-6e86858434711bd4f5d43a6dd7f27294.ctex"
+path="res://.godot/imported/CraftNode_Rairty.png-f04754d632989aca027d135c03f9764a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/19_CraftDuration/CraftNode_Rairty.png"
-dest_files=["res://.godot/imported/CraftNode_Rairty.png-6e86858434711bd4f5d43a6dd7f27294.ctex"]
+source_file="res://assets/Images/UIs/01_Common/19_CraftDuration/CraftNode_Rairty.png"
+dest_files=["res://.godot/imported/CraftNode_Rairty.png-f04754d632989aca027d135c03f9764a.ctex"]
 
 [params]
 

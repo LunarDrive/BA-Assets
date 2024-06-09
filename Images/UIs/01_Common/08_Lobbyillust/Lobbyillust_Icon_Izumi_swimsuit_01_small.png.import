@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://daj8qyfm6rcbr"
-path="res://.godot/imported/Lobbyillust_Icon_Izumi_swimsuit_01_small.png-b6e0f5ec3709ede7f405c48c42f48355.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Izumi_swimsuit_01_small.png-7b993329e278bc593aafb3004ea9f742.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Izumi_swimsuit_01_small.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Izumi_swimsuit_01_small.png-b6e0f5ec3709ede7f405c48c42f48355.ctex"]
+source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Izumi_swimsuit_01_small.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Izumi_swimsuit_01_small.png-7b993329e278bc593aafb3004ea9f742.ctex"]
 
 [params]
 

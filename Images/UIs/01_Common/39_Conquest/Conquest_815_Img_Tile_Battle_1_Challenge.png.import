@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8iu7c3bwpwvg"
-path="res://.godot/imported/Conquest_815_Img_Tile_Battle_1_Challenge.png-c6cba0305c69dddcb1f664beb0210c11.ctex"
+path="res://.godot/imported/Conquest_815_Img_Tile_Battle_1_Challenge.png-9b90426a2fb55246df8040e6a065b43b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/39_Conquest/Conquest_815_Img_Tile_Battle_1_Challenge.png"
-dest_files=["res://.godot/imported/Conquest_815_Img_Tile_Battle_1_Challenge.png-c6cba0305c69dddcb1f664beb0210c11.ctex"]
+source_file="res://assets/Images/UIs/01_Common/39_Conquest/Conquest_815_Img_Tile_Battle_1_Challenge.png"
+dest_files=["res://.godot/imported/Conquest_815_Img_Tile_Battle_1_Challenge.png-9b90426a2fb55246df8040e6a065b43b.ctex"]
 
 [params]
 

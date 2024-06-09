@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4gvxkrondyur"
-path="res://.godot/imported/event01_miyako.png-6b9031515be1a2d6aadee0e7173d47e8.ctex"
+path="res://.godot/imported/event01_miyako.png-530610568fff5eefccdcd3a2b742903f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_miyako.png"
-dest_files=["res://.godot/imported/event01_miyako.png-6b9031515be1a2d6aadee0e7173d47e8.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_miyako.png"
+dest_files=["res://.godot/imported/event01_miyako.png-530610568fff5eefccdcd3a2b742903f.ctex"]
 
 [params]
 

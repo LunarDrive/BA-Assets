@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://clqmahenssesb"
-path="res://.godot/imported/My_Halloween_01_P_Window.png-144b4c71d3ec0b5f338fc5df705312c4.ctex"
+path="res://.godot/imported/My_Halloween_01_P_Window.png-b2d01eac47327b35addbccc56c217ac6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Halloween_01_P_Window.png"
-dest_files=["res://.godot/imported/My_Halloween_01_P_Window.png-144b4c71d3ec0b5f338fc5df705312c4.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Halloween_01_P_Window.png"
+dest_files=["res://.godot/imported/My_Halloween_01_P_Window.png-b2d01eac47327b35addbccc56c217ac6.ctex"]
 
 [params]
 

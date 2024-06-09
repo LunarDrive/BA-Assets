@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cw8tni7m3aij6"
-path="res://.godot/imported/NPC_Portrait_Yustina_SR1.png-c7f3494ea62b77ebe44d3cb9e3406dbb.ctex"
+path="res://.godot/imported/NPC_Portrait_Yustina_SR1.png-13f35f5817f348d599317d9d0c055896.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Yustina_SR1.png"
-dest_files=["res://.godot/imported/NPC_Portrait_Yustina_SR1.png-c7f3494ea62b77ebe44d3cb9e3406dbb.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Yustina_SR1.png"
+dest_files=["res://.godot/imported/NPC_Portrait_Yustina_SR1.png-13f35f5817f348d599317d9d0c055896.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0iyxqlevjfo8"
-path="res://.godot/imported/Item_Icon_SkillBook_Trinity_2.png-270e274289ae86120c25f6b3a58af44a.ctex"
+path="res://.godot/imported/Item_Icon_SkillBook_Trinity_2.png-e98b2fb096dc6b6fed2d1ac96f9c435d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Trinity_2.png"
-dest_files=["res://.godot/imported/Item_Icon_SkillBook_Trinity_2.png-270e274289ae86120c25f6b3a58af44a.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Trinity_2.png"
+dest_files=["res://.godot/imported/Item_Icon_SkillBook_Trinity_2.png-e98b2fb096dc6b6fed2d1ac96f9c435d.ctex"]
 
 [params]
 

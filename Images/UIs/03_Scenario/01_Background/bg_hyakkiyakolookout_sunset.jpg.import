@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bn8gfvquytsi3"
-path="res://.godot/imported/bg_hyakkiyakolookout_sunset.jpg-38686f1667adee92f5c30711b54e4add.ctex"
+path="res://.godot/imported/bg_hyakkiyakolookout_sunset.jpg-6a135188ff835715a9660a10c582cac3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_hyakkiyakolookout_sunset.jpg"
-dest_files=["res://.godot/imported/bg_hyakkiyakolookout_sunset.jpg-38686f1667adee92f5c30711b54e4add.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_hyakkiyakolookout_sunset.jpg"
+dest_files=["res://.godot/imported/bg_hyakkiyakolookout_sunset.jpg-6a135188ff835715a9660a10c582cac3.ctex"]
 
 [params]
 

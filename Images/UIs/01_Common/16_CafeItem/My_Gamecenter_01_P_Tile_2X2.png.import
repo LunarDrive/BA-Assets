@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dm8p5t0jhtujs"
-path="res://.godot/imported/My_Gamecenter_01_P_Tile_2X2.png-0ee5872aa28219a211674f9142b6c02c.ctex"
+path="res://.godot/imported/My_Gamecenter_01_P_Tile_2X2.png-84e1acb415e8cb3d5a4e28cc6d8a9e37.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Gamecenter_01_P_Tile_2X2.png"
-dest_files=["res://.godot/imported/My_Gamecenter_01_P_Tile_2X2.png-0ee5872aa28219a211674f9142b6c02c.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Gamecenter_01_P_Tile_2X2.png"
+dest_files=["res://.godot/imported/My_Gamecenter_01_P_Tile_2X2.png-84e1acb415e8cb3d5a4e28cc6d8a9e37.ctex"]
 
 [params]
 

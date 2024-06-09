@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://g07hkp2sjqjk"
-path="res://.godot/imported/TimeAttack_Icon_Buff_AttackPower_Ally_01.png-f0213b5d165d47dd50e02bfccd65645b.ctex"
+path="res://.godot/imported/TimeAttack_Icon_Buff_AttackPower_Ally_01.png-331bccc4afc78c48d307967fdc9b4cf0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/35_TimeAttack/TimeAttack_Icon_Buff_AttackPower_Ally_01.png"
-dest_files=["res://.godot/imported/TimeAttack_Icon_Buff_AttackPower_Ally_01.png-f0213b5d165d47dd50e02bfccd65645b.ctex"]
+source_file="res://assets/Images/UIs/01_Common/35_TimeAttack/TimeAttack_Icon_Buff_AttackPower_Ally_01.png"
+dest_files=["res://.godot/imported/TimeAttack_Icon_Buff_AttackPower_Ally_01.png-331bccc4afc78c48d307967fdc9b4cf0.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fxcdue3ykby"
-path="res://.godot/imported/Weapon_Icon_26004.png-8733a760f6119741885f9e57a31f0442.ctex"
+path="res://.godot/imported/Weapon_Icon_26004.png-edfb4b3e400e5dd71cb9aad1ca67b095.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/04_Weapon/Weapon_Icon_26004.png"
-dest_files=["res://.godot/imported/Weapon_Icon_26004.png-8733a760f6119741885f9e57a31f0442.ctex"]
+source_file="res://assets/Images/UIs/01_Common/04_Weapon/Weapon_Icon_26004.png"
+dest_files=["res://.godot/imported/Weapon_Icon_26004.png-edfb4b3e400e5dd71cb9aad1ca67b095.ctex"]
 
 [params]
 

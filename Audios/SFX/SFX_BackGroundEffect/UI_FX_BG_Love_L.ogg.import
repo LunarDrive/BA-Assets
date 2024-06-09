@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://orribn433qxd"
-path="res://.godot/imported/UI_FX_BG_Love_L.ogg-60ca930bab5e389ff6836fa798d70afd.oggvorbisstr"
+path="res://.godot/imported/UI_FX_BG_Love_L.ogg-e9bb65f735ed7bad802c3ba97d1283ab.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Love_L.ogg"
-dest_files=["res://.godot/imported/UI_FX_BG_Love_L.ogg-60ca930bab5e389ff6836fa798d70afd.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Love_L.ogg"
+dest_files=["res://.godot/imported/UI_FX_BG_Love_L.ogg-e9bb65f735ed7bad802c3ba97d1283ab.oggvorbisstr"]
 
 [params]
 

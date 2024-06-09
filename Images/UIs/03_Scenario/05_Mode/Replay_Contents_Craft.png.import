@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7dq6miv8iy2c"
-path="res://.godot/imported/Replay_Contents_Craft.png-576aabb1ff0a2c453e52eb0b5a8123d3.ctex"
+path="res://.godot/imported/Replay_Contents_Craft.png-9fa53b7c7e36f84fb88975d0a29ca9e6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/05_Mode/Replay_Contents_Craft.png"
-dest_files=["res://.godot/imported/Replay_Contents_Craft.png-576aabb1ff0a2c453e52eb0b5a8123d3.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/05_Mode/Replay_Contents_Craft.png"
+dest_files=["res://.godot/imported/Replay_Contents_Craft.png-9fa53b7c7e36f84fb88975d0a29ca9e6.ctex"]
 
 [params]
 

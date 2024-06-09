@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://br5efkvram4is"
-path="res://.godot/imported/Champion_Hpbar_Portrait_HOD_Colour_TemporaryTower.png-e23c49ba5b3eb1b8991fb8b2f59abcf3.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_HOD_Colour_TemporaryTower.png-3b8af9ff662e2d163364e4fc6c3e6def.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_HOD_Colour_TemporaryTower.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_HOD_Colour_TemporaryTower.png-e23c49ba5b3eb1b8991fb8b2f59abcf3.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_HOD_Colour_TemporaryTower.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_HOD_Colour_TemporaryTower.png-3b8af9ff662e2d163364e4fc6c3e6def.ctex"]
 
 [params]
 

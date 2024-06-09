@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5yrk85kcdi7v"
-path="res://.godot/imported/bg_newyearfestivalroad.jpg-c3ff47a0de40e8f9fd955dd6938ca354.ctex"
+path="res://.godot/imported/bg_newyearfestivalroad.jpg-27baa579fca59d256fb8a6c1408970bf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_newyearfestivalroad.jpg"
-dest_files=["res://.godot/imported/bg_newyearfestivalroad.jpg-c3ff47a0de40e8f9fd955dd6938ca354.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_newyearfestivalroad.jpg"
+dest_files=["res://.godot/imported/bg_newyearfestivalroad.jpg-27baa579fca59d256fb8a6c1408970bf.ctex"]
 
 [params]
 

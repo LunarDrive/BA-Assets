@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dw8q2aotx7y0w"
-path="res://.godot/imported/EnemyInfo_RoyalGuard_RedWinter_SMG.png-4d1523121248ac3973ebd4f505da8555.ctex"
+path="res://.godot/imported/EnemyInfo_RoyalGuard_RedWinter_SMG.png-42861203d3a526b69f19c42d8d7d4aff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_RoyalGuard_RedWinter_SMG.png"
-dest_files=["res://.godot/imported/EnemyInfo_RoyalGuard_RedWinter_SMG.png-4d1523121248ac3973ebd4f505da8555.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_RoyalGuard_RedWinter_SMG.png"
+dest_files=["res://.godot/imported/EnemyInfo_RoyalGuard_RedWinter_SMG.png-42861203d3a526b69f19c42d8d7d4aff.ctex"]
 
 [params]
 

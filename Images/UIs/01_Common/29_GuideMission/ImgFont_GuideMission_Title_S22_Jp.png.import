@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cykpkck6voch7"
-path="res://.godot/imported/ImgFont_GuideMission_Title_S22_Jp.png-bb5d5aa3a232c37c3e42a1c805dce7b5.ctex"
+path="res://.godot/imported/ImgFont_GuideMission_Title_S22_Jp.png-872a24b894873c008fd43821df3e9bad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/29_GuideMission/ImgFont_GuideMission_Title_S22_Jp.png"
-dest_files=["res://.godot/imported/ImgFont_GuideMission_Title_S22_Jp.png-bb5d5aa3a232c37c3e42a1c805dce7b5.ctex"]
+source_file="res://assets/Images/UIs/01_Common/29_GuideMission/ImgFont_GuideMission_Title_S22_Jp.png"
+dest_files=["res://.godot/imported/ImgFont_GuideMission_Title_S22_Jp.png-872a24b894873c008fd43821df3e9bad.ctex"]
 
 [params]
 

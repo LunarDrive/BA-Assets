@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqkvnywxh01n6"
-path="res://.godot/imported/Emoticon_Anxiety.png-2635c2c4c672ae0d3cfd89c12018a0f3.ctex"
+path="res://.godot/imported/Emoticon_Anxiety.png-f1b15fbdfab6bac12b5088a1108b53c0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/03_Emoticon/Emoticon_Anxiety.png"
-dest_files=["res://.godot/imported/Emoticon_Anxiety.png-2635c2c4c672ae0d3cfd89c12018a0f3.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/03_Emoticon/Emoticon_Anxiety.png"
+dest_files=["res://.godot/imported/Emoticon_Anxiety.png-f1b15fbdfab6bac12b5088a1108b53c0.ctex"]
 
 [params]
 

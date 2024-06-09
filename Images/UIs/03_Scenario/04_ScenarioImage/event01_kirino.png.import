@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmygvnfucomy6"
-path="res://.godot/imported/event01_kirino.png-24e52c7c58536f81b58f9c820e4484c0.ctex"
+path="res://.godot/imported/event01_kirino.png-1128769e9b900c7e17c3aa8ac4f990fd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_kirino.png"
-dest_files=["res://.godot/imported/event01_kirino.png-24e52c7c58536f81b58f9c820e4484c0.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_kirino.png"
+dest_files=["res://.godot/imported/event01_kirino.png-1128769e9b900c7e17c3aa8ac4f990fd.ctex"]
 
 [params]
 

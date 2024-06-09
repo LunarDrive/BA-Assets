@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ck3ll68kg3355"
-path="res://.godot/imported/Portrait_Worldboss_Binah_Colour_BossPacel.png-50a3a5d0683320a5c8a8ab9f82ac84c2.ctex"
+path="res://.godot/imported/Portrait_Worldboss_Binah_Colour_BossPacel.png-13f469094cdc216d6b30cc0c509305eb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/38_WorldRaid/Portrait_Worldboss_Binah_Colour_BossPacel.png"
-dest_files=["res://.godot/imported/Portrait_Worldboss_Binah_Colour_BossPacel.png-50a3a5d0683320a5c8a8ab9f82ac84c2.ctex"]
+source_file="res://assets/Images/UIs/01_Common/38_WorldRaid/Portrait_Worldboss_Binah_Colour_BossPacel.png"
+dest_files=["res://.godot/imported/Portrait_Worldboss_Binah_Colour_BossPacel.png-13f469094cdc216d6b30cc0c509305eb.ctex"]
 
 [params]
 

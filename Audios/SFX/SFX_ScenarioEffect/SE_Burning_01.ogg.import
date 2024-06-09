@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c8ll5kd8u6pdr"
-path="res://.godot/imported/SE_Burning_01.ogg-e603855a7271716960ee8d47e6aac820.oggvorbisstr"
+path="res://.godot/imported/SE_Burning_01.ogg-7bb54c102582af8af58fcb8d87bd053f.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Burning_01.ogg"
-dest_files=["res://.godot/imported/SE_Burning_01.ogg-e603855a7271716960ee8d47e6aac820.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Burning_01.ogg"
+dest_files=["res://.godot/imported/SE_Burning_01.ogg-7bb54c102582af8af58fcb8d87bd053f.oggvorbisstr"]
 
 [params]
 

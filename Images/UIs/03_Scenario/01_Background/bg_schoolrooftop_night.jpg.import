@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnjxu2ry6agek"
-path="res://.godot/imported/bg_schoolrooftop_night.jpg-96203b0690bfaa38b0f88cc20b566af8.ctex"
+path="res://.godot/imported/bg_schoolrooftop_night.jpg-4aee3535ebc153e1c04b303c113979bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_schoolrooftop_night.jpg"
-dest_files=["res://.godot/imported/bg_schoolrooftop_night.jpg-96203b0690bfaa38b0f88cc20b566af8.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_schoolrooftop_night.jpg"
+dest_files=["res://.godot/imported/bg_schoolrooftop_night.jpg-4aee3535ebc153e1c04b303c113979bc.ctex"]
 
 [params]
 

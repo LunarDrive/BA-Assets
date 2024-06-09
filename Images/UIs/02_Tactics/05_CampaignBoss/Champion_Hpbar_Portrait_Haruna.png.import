@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bv4ii2rsm87hc"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Haruna.png-2d5624a5b9cbdefb9a4b5ceb58d4e489.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Haruna.png-02955e32cd84c17ce260f9591cb5f861.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Haruna.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Haruna.png-2d5624a5b9cbdefb9a4b5ceb58d4e489.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Haruna.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Haruna.png-02955e32cd84c17ce260f9591cb5f861.ctex"]
 
 [params]
 

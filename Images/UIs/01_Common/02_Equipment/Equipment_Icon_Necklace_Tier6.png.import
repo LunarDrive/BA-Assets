@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://k4o23t3f0s7b"
-path="res://.godot/imported/Equipment_Icon_Necklace_Tier6.png-4353eca842e611ae3350adb4002a7893.ctex"
+path="res://.godot/imported/Equipment_Icon_Necklace_Tier6.png-83520e29805a9485edad2ac5a1be187d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/02_Equipment/Equipment_Icon_Necklace_Tier6.png"
-dest_files=["res://.godot/imported/Equipment_Icon_Necklace_Tier6.png-4353eca842e611ae3350adb4002a7893.ctex"]
+source_file="res://assets/Images/UIs/01_Common/02_Equipment/Equipment_Icon_Necklace_Tier6.png"
+dest_files=["res://.godot/imported/Equipment_Icon_Necklace_Tier6.png-83520e29805a9485edad2ac5a1be187d.ctex"]
 
 [params]
 

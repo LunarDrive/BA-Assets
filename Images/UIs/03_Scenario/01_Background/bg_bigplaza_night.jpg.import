@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ca1jxpe6tjehp"
-path="res://.godot/imported/bg_bigplaza_night.jpg-c830da3917aaaa909dab8b8baacc677b.ctex"
+path="res://.godot/imported/bg_bigplaza_night.jpg-51be119127d67435466fa08978ab6faa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_bigplaza_night.jpg"
-dest_files=["res://.godot/imported/bg_bigplaza_night.jpg-c830da3917aaaa909dab8b8baacc677b.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_bigplaza_night.jpg"
+dest_files=["res://.godot/imported/bg_bigplaza_night.jpg-51be119127d67435466fa08978ab6faa.ctex"]
 
 [params]
 

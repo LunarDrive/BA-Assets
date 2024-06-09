@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d23tknmjtul38"
-path="res://.godot/imported/Combat_Icon_Buff_HealPower.png-af168d07cd84872661b0a2fe99009e0e.ctex"
+path="res://.godot/imported/Combat_Icon_Buff_HealPower.png-bec0779b6225602bc2f1d7f018661424.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_HealPower.png"
-dest_files=["res://.godot/imported/Combat_Icon_Buff_HealPower.png-af168d07cd84872661b0a2fe99009e0e.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_HealPower.png"
+dest_files=["res://.godot/imported/Combat_Icon_Buff_HealPower.png-bec0779b6225602bc2f1d7f018661424.ctex"]
 
 [params]
 

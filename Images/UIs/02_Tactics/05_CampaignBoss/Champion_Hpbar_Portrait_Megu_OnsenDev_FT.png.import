@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b77ucqbrjqpjk"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Megu_OnsenDev_FT.png-96b8a572b57fb4696b3c75b43bee2618.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Megu_OnsenDev_FT.png-14540d42a6fde7d60ad3bc6d55db63f4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Megu_OnsenDev_FT.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Megu_OnsenDev_FT.png-96b8a572b57fb4696b3c75b43bee2618.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Megu_OnsenDev_FT.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Megu_OnsenDev_FT.png-14540d42a6fde7d60ad3bc6d55db63f4.ctex"]
 
 [params]
 

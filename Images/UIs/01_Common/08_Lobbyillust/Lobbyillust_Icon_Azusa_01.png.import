@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxo4hhmphgmp"
-path="res://.godot/imported/Lobbyillust_Icon_Azusa_01.png-d78f6a844306bf363b89c471a64a9a90.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Azusa_01.png-635252525ae52e1a6d3dc97114328123.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Azusa_01.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Azusa_01.png-d78f6a844306bf363b89c471a64a9a90.ctex"]
+source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Azusa_01.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Azusa_01.png-635252525ae52e1a6d3dc97114328123.ctex"]
 
 [params]
 

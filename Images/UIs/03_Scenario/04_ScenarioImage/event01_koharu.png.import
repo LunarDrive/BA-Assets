@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csq2s48fuk8ta"
-path="res://.godot/imported/event01_koharu.png-3aed7d3507e76a663b0e6cd5a7196d5a.ctex"
+path="res://.godot/imported/event01_koharu.png-20705b46a17766e5557c43ba2c1f1f98.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_koharu.png"
-dest_files=["res://.godot/imported/event01_koharu.png-3aed7d3507e76a663b0e6cd5a7196d5a.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_koharu.png"
+dest_files=["res://.godot/imported/event01_koharu.png-20705b46a17766e5557c43ba2c1f1f98.ctex"]
 
 [params]
 

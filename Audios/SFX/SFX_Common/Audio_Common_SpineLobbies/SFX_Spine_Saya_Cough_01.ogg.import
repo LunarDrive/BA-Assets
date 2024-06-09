@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://v6v0igjb47be"
-path="res://.godot/imported/SFX_Spine_Saya_Cough_01.ogg-14d0fc5746d2e58327c3bf009a455f17.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_Saya_Cough_01.ogg-5cb9252ab89c3d1bcd0824d523e76fec.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Saya_Cough_01.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_Saya_Cough_01.ogg-14d0fc5746d2e58327c3bf009a455f17.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Saya_Cough_01.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_Saya_Cough_01.ogg-5cb9252ab89c3d1bcd0824d523e76fec.oggvorbisstr"]
 
 [params]
 

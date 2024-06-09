@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cb6cw36l7ujkf"
-path="res://.godot/imported/Goods_Icon_Package_Halfanniversary_1.png-1de5f867dca42022026085ec7b2bb6ab.ctex"
+path="res://.godot/imported/Goods_Icon_Package_Halfanniversary_1.png-d0e9990359338df5b38c9a32083cc509.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/26_ShopContent/Goods_Icon_Package_Halfanniversary_1.png"
-dest_files=["res://.godot/imported/Goods_Icon_Package_Halfanniversary_1.png-1de5f867dca42022026085ec7b2bb6ab.ctex"]
+source_file="res://assets/Images/UIs/01_Common/26_ShopContent/Goods_Icon_Package_Halfanniversary_1.png"
+dest_files=["res://.godot/imported/Goods_Icon_Package_Halfanniversary_1.png-d0e9990359338df5b38c9a32083cc509.ctex"]
 
 [params]
 

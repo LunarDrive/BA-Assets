@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxnv2ws4mfkwq"
-path="res://.godot/imported/event01_shizuko.png-21d67cdf4a29c7afdab500760982c30a.ctex"
+path="res://.godot/imported/event01_shizuko.png-57f2d99bf03045648906b8ca05b99c78.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_shizuko.png"
-dest_files=["res://.godot/imported/event01_shizuko.png-21d67cdf4a29c7afdab500760982c30a.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_shizuko.png"
+dest_files=["res://.godot/imported/event01_shizuko.png-57f2d99bf03045648906b8ca05b99c78.ctex"]
 
 [params]
 

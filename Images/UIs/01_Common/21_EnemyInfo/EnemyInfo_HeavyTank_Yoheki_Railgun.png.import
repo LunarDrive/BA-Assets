@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsd0f1u7qfmww"
-path="res://.godot/imported/EnemyInfo_HeavyTank_Yoheki_Railgun.png-eb3d99a968a6cc655176d883822202d9.ctex"
+path="res://.godot/imported/EnemyInfo_HeavyTank_Yoheki_Railgun.png-0f54355cb8a355aa72848bd5a40f3b5e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_HeavyTank_Yoheki_Railgun.png"
-dest_files=["res://.godot/imported/EnemyInfo_HeavyTank_Yoheki_Railgun.png-eb3d99a968a6cc655176d883822202d9.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_HeavyTank_Yoheki_Railgun.png"
+dest_files=["res://.godot/imported/EnemyInfo_HeavyTank_Yoheki_Railgun.png-0f54355cb8a355aa72848bd5a40f3b5e.ctex"]
 
 [params]
 

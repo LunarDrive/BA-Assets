@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://r2x8nbjoh0m7"
-path="res://.godot/imported/Student_Portrait_Shimiko_Small.png-6fda37eec08a89a33e33adb6ea86e8d0.ctex"
+path="res://.godot/imported/Student_Portrait_Shimiko_Small.png-1043b6608064de6293f4fa3c533fd738.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Shimiko_Small.png"
-dest_files=["res://.godot/imported/Student_Portrait_Shimiko_Small.png-6fda37eec08a89a33e33adb6ea86e8d0.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Shimiko_Small.png"
+dest_files=["res://.godot/imported/Student_Portrait_Shimiko_Small.png-1043b6608064de6293f4fa3c533fd738.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tnixt6q1cj7x"
-path="res://.godot/imported/bg_railway.jpg-2b21fa0fc9763858c39c0ccd8b5f7e43.ctex"
+path="res://.godot/imported/bg_railway.jpg-cfc92b86bb966df7ae98f619da83aec0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_railway.jpg"
-dest_files=["res://.godot/imported/bg_railway.jpg-2b21fa0fc9763858c39c0ccd8b5f7e43.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_railway.jpg"
+dest_files=["res://.godot/imported/bg_railway.jpg-cfc92b86bb966df7ae98f619da83aec0.ctex"]
 
 [params]
 

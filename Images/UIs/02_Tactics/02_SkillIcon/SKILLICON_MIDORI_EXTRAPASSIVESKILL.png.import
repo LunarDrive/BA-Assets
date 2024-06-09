@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ca233dkwq78ml"
-path="res://.godot/imported/SKILLICON_MIDORI_EXTRAPASSIVESKILL.png-23be61841b02a23e339efbbbaaa74060.ctex"
+path="res://.godot/imported/SKILLICON_MIDORI_EXTRAPASSIVESKILL.png-058287bf4c4340e80c7618a9c8c903c2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/SKILLICON_MIDORI_EXTRAPASSIVESKILL.png"
-dest_files=["res://.godot/imported/SKILLICON_MIDORI_EXTRAPASSIVESKILL.png-23be61841b02a23e339efbbbaaa74060.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/SKILLICON_MIDORI_EXTRAPASSIVESKILL.png"
+dest_files=["res://.godot/imported/SKILLICON_MIDORI_EXTRAPASSIVESKILL.png-058287bf4c4340e80c7618a9c8c903c2.ctex"]
 
 [params]
 

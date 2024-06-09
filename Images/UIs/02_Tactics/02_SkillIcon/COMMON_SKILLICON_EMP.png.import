@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mmbujjegt77r"
-path="res://.godot/imported/COMMON_SKILLICON_EMP.png-f2a37b97167d38d914feb622ea46b4ed.ctex"
+path="res://.godot/imported/COMMON_SKILLICON_EMP.png-651ed2fcd3aaf43ebd677241f29dc50b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_EMP.png"
-dest_files=["res://.godot/imported/COMMON_SKILLICON_EMP.png-f2a37b97167d38d914feb622ea46b4ed.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_EMP.png"
+dest_files=["res://.godot/imported/COMMON_SKILLICON_EMP.png-651ed2fcd3aaf43ebd677241f29dc50b.ctex"]
 
 [params]
 

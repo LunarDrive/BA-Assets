@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnavjfu6fsaar"
-path="res://.godot/imported/Boss_Portrait_Chesed_LobbyBG_Outdoor.png-5eb78d3c9ff3cfa4cd781eb99ee49d4c.ctex"
+path="res://.godot/imported/Boss_Portrait_Chesed_LobbyBG_Outdoor.png-6a9e0393dfcb64c2e5d9f5ce345c605c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/06_Raid/Boss_Portrait_Chesed_LobbyBG_Outdoor.png"
-dest_files=["res://.godot/imported/Boss_Portrait_Chesed_LobbyBG_Outdoor.png-5eb78d3c9ff3cfa4cd781eb99ee49d4c.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/06_Raid/Boss_Portrait_Chesed_LobbyBG_Outdoor.png"
+dest_files=["res://.godot/imported/Boss_Portrait_Chesed_LobbyBG_Outdoor.png-6a9e0393dfcb64c2e5d9f5ce345c605c.ctex"]
 
 [params]
 

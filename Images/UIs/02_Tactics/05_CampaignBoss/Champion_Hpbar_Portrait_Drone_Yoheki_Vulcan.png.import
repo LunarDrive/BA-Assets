@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vyakvevdgtcx"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Drone_Yoheki_Vulcan.png-e167e9e8fab1d41b6ee103c063ea3ca7.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Drone_Yoheki_Vulcan.png-0f8a9162a8f0a7bd5c792a612fafa03a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Drone_Yoheki_Vulcan.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Drone_Yoheki_Vulcan.png-e167e9e8fab1d41b6ee103c063ea3ca7.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Drone_Yoheki_Vulcan.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Drone_Yoheki_Vulcan.png-0f8a9162a8f0a7bd5c792a612fafa03a.ctex"]
 
 [params]
 

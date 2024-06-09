@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cifbtfy7ybtc"
-path="res://.godot/imported/TImeAttackGeas_Enemy_StatChange_DefensePenetration.png-5b280493b52b6b8ae4deb0870e9037c0.ctex"
+path="res://.godot/imported/TImeAttackGeas_Enemy_StatChange_DefensePenetration.png-2a342b9f9a2392b41da30e50ef42e8d4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/35_TimeAttack/TImeAttackGeas_Enemy_StatChange_DefensePenetration.png"
-dest_files=["res://.godot/imported/TImeAttackGeas_Enemy_StatChange_DefensePenetration.png-5b280493b52b6b8ae4deb0870e9037c0.ctex"]
+source_file="res://assets/Images/UIs/01_Common/35_TimeAttack/TImeAttackGeas_Enemy_StatChange_DefensePenetration.png"
+dest_files=["res://.godot/imported/TImeAttackGeas_Enemy_StatChange_DefensePenetration.png-2a342b9f9a2392b41da30e50ef42e8d4.ctex"]
 
 [params]
 

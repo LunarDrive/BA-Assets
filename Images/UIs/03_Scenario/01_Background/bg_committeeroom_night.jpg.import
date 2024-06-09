@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bk0hp4nb6quqe"
-path="res://.godot/imported/bg_committeeroom_night.jpg-364b6959f8836d79c758c714a06084df.ctex"
+path="res://.godot/imported/bg_committeeroom_night.jpg-667cf66b9e871013468601ae66412455.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_committeeroom_night.jpg"
-dest_files=["res://.godot/imported/bg_committeeroom_night.jpg-364b6959f8836d79c758c714a06084df.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_committeeroom_night.jpg"
+dest_files=["res://.godot/imported/bg_committeeroom_night.jpg-667cf66b9e871013468601ae66412455.ctex"]
 
 [params]
 

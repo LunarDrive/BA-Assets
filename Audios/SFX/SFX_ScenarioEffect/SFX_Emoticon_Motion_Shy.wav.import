@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://d0b6vx6ns10oa"
-path="res://.godot/imported/SFX_Emoticon_Motion_Shy.wav-05380f32400a481ef57ba464ec2ee371.sample"
+path="res://.godot/imported/SFX_Emoticon_Motion_Shy.wav-93a58d70df2bd6b509fdf8a1462272d5.sample"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Shy.wav"
-dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Shy.wav-05380f32400a481ef57ba464ec2ee371.sample"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Shy.wav"
+dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Shy.wav-93a58d70df2bd6b509fdf8a1462272d5.sample"]
 
 [params]
 

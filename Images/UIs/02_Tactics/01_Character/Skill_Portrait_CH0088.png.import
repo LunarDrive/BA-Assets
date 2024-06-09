@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsfpsmepinij5"
-path="res://.godot/imported/Skill_Portrait_CH0088.png-590b8d7d5cdc395057a2995f77aa554d.ctex"
+path="res://.godot/imported/Skill_Portrait_CH0088.png-1af8724bd53287afe4fec5424b03870b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_CH0088.png"
-dest_files=["res://.godot/imported/Skill_Portrait_CH0088.png-590b8d7d5cdc395057a2995f77aa554d.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_CH0088.png"
+dest_files=["res://.godot/imported/Skill_Portrait_CH0088.png-1af8724bd53287afe4fec5424b03870b.ctex"]
 
 [params]
 

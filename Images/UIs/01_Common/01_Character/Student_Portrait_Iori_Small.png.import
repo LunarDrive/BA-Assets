@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3dt0b7noyxel"
-path="res://.godot/imported/Student_Portrait_Iori_Small.png-2cf4259696645d9deca9d9f4df7fd1f2.ctex"
+path="res://.godot/imported/Student_Portrait_Iori_Small.png-bc31e8edd8387e433ee0745ca500776e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Iori_Small.png"
-dest_files=["res://.godot/imported/Student_Portrait_Iori_Small.png-2cf4259696645d9deca9d9f4df7fd1f2.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Iori_Small.png"
+dest_files=["res://.godot/imported/Student_Portrait_Iori_Small.png-bc31e8edd8387e433ee0745ca500776e.ctex"]
 
 [params]
 

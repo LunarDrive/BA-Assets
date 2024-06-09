@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3434j7ke1wmg"
-path="res://.godot/imported/bg_shoppingdistrict.jpg-f0cd2eee02840670511bd03f80e5f50c.ctex"
+path="res://.godot/imported/bg_shoppingdistrict.jpg-7ce41fe134c83b07a08860d669e9cdc2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_shoppingdistrict.jpg"
-dest_files=["res://.godot/imported/bg_shoppingdistrict.jpg-f0cd2eee02840670511bd03f80e5f50c.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_shoppingdistrict.jpg"
+dest_files=["res://.godot/imported/bg_shoppingdistrict.jpg-7ce41fe134c83b07a08860d669e9cdc2.ctex"]
 
 [params]
 

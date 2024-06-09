@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djdp8our87vib"
-path="res://.godot/imported/bg_milleniumclub.jpg-77a80c9c2122618538be4384760ed191.ctex"
+path="res://.godot/imported/bg_milleniumclub.jpg-a423021644d7147bb6251bf30c10d547.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_milleniumclub.jpg"
-dest_files=["res://.godot/imported/bg_milleniumclub.jpg-77a80c9c2122618538be4384760ed191.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_milleniumclub.jpg"
+dest_files=["res://.godot/imported/bg_milleniumclub.jpg-a423021644d7147bb6251bf30c10d547.ctex"]
 
 [params]
 

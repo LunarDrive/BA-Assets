@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2atg7hfnj3pg"
-path="res://.godot/imported/bg_cs_hyakkiyako_01.jpg-dc429036f4c5ebe5d1c7b20bf70876af.ctex"
+path="res://.godot/imported/bg_cs_hyakkiyako_01.jpg-6d1b7f67d8f8d3bb44b79b946e6ba9da.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_cs_hyakkiyako_01.jpg"
-dest_files=["res://.godot/imported/bg_cs_hyakkiyako_01.jpg-dc429036f4c5ebe5d1c7b20bf70876af.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_cs_hyakkiyako_01.jpg"
+dest_files=["res://.godot/imported/bg_cs_hyakkiyako_01.jpg-6d1b7f67d8f8d3bb44b79b946e6ba9da.ctex"]
 
 [params]
 

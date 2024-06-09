@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://go6fv6iw73jy"
-path="res://.godot/imported/COMMON_SKILLICON_BATTLEITEM.png-42a4ccfa065c738a5b840ece6940c6ec.ctex"
+path="res://.godot/imported/COMMON_SKILLICON_BATTLEITEM.png-a77e9f541553358b351d7cd4f6211d7a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_BATTLEITEM.png"
-dest_files=["res://.godot/imported/COMMON_SKILLICON_BATTLEITEM.png-42a4ccfa065c738a5b840ece6940c6ec.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_BATTLEITEM.png"
+dest_files=["res://.godot/imported/COMMON_SKILLICON_BATTLEITEM.png-a77e9f541553358b351d7cd4f6211d7a.ctex"]
 
 [params]
 

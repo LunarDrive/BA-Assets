@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bispwt71t7x42"
-path="res://.godot/imported/School_Icon_SRT.png-15f335d797dbba7129adf0597e3a9250.ctex"
+path="res://.godot/imported/School_Icon_SRT.png-2c0302b984bde5df6262396ede0b7e3a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/11_SchoolIcon/School_Icon_SRT.png"
-dest_files=["res://.godot/imported/School_Icon_SRT.png-15f335d797dbba7129adf0597e3a9250.ctex"]
+source_file="res://assets/Images/UIs/01_Common/11_SchoolIcon/School_Icon_SRT.png"
+dest_files=["res://.godot/imported/School_Icon_SRT.png-2c0302b984bde5df6262396ede0b7e3a.ctex"]
 
 [params]
 

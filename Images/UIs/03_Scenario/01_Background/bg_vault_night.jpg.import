@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://nw0t1qlgvc04"
-path="res://.godot/imported/bg_vault_night.jpg-e3c83fdd4f704597ddcda1a9d0ee550c.ctex"
+path="res://.godot/imported/bg_vault_night.jpg-180d45d398e82f17c84bc23fce3c4692.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_vault_night.jpg"
-dest_files=["res://.godot/imported/bg_vault_night.jpg-e3c83fdd4f704597ddcda1a9d0ee550c.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_vault_night.jpg"
+dest_files=["res://.godot/imported/bg_vault_night.jpg-180d45d398e82f17c84bc23fce3c4692.ctex"]
 
 [params]
 

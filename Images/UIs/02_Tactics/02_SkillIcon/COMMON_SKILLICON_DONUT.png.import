@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3ehp8ogb30wn"
-path="res://.godot/imported/COMMON_SKILLICON_DONUT.png-b46a7b1a9d6b23ed23071796478dfeb2.ctex"
+path="res://.godot/imported/COMMON_SKILLICON_DONUT.png-c7bada8565e9d99d6bd1fcbf9a26e10e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_DONUT.png"
-dest_files=["res://.godot/imported/COMMON_SKILLICON_DONUT.png-b46a7b1a9d6b23ed23071796478dfeb2.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_DONUT.png"
+dest_files=["res://.godot/imported/COMMON_SKILLICON_DONUT.png-c7bada8565e9d99d6bd1fcbf9a26e10e.ctex"]
 
 [params]
 

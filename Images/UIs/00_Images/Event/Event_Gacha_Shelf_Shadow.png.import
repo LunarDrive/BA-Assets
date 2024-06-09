@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cm8qdv21i7asb"
-path="res://.godot/imported/Event_Gacha_Shelf_Shadow.png-46808e078fa6fc37ca3ba5e58491e025.ctex"
+path="res://.godot/imported/Event_Gacha_Shelf_Shadow.png-d6fdaa8be134a49e468b4181a7cd40b9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/Event_Gacha_Shelf_Shadow.png"
-dest_files=["res://.godot/imported/Event_Gacha_Shelf_Shadow.png-46808e078fa6fc37ca3ba5e58491e025.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/Event_Gacha_Shelf_Shadow.png"
+dest_files=["res://.godot/imported/Event_Gacha_Shelf_Shadow.png-d6fdaa8be134a49e468b4181a7cd40b9.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mtjhl6b01tqc"
-path="res://.godot/imported/bg_eriducitytown_night.jpg-ab4e3030a24f0fcedda8ac7a984fa788.ctex"
+path="res://.godot/imported/bg_eriducitytown_night.jpg-cee2dd96e07f6bd926f05c0f8808324f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_eriducitytown_night.jpg"
-dest_files=["res://.godot/imported/bg_eriducitytown_night.jpg-ab4e3030a24f0fcedda8ac7a984fa788.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_eriducitytown_night.jpg"
+dest_files=["res://.godot/imported/bg_eriducitytown_night.jpg-cee2dd96e07f6bd926f05c0f8808324f.ctex"]
 
 [params]
 

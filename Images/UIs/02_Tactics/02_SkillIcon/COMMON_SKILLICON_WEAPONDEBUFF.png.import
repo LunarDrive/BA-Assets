@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmvlc3t1qvjmv"
-path="res://.godot/imported/COMMON_SKILLICON_WEAPONDEBUFF.png-bde0c9a1650aa21d852ba6fab1d84ed4.ctex"
+path="res://.godot/imported/COMMON_SKILLICON_WEAPONDEBUFF.png-59207e203a03d9d8020951106eb152ef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_WEAPONDEBUFF.png"
-dest_files=["res://.godot/imported/COMMON_SKILLICON_WEAPONDEBUFF.png-bde0c9a1650aa21d852ba6fab1d84ed4.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_WEAPONDEBUFF.png"
+dest_files=["res://.godot/imported/COMMON_SKILLICON_WEAPONDEBUFF.png-59207e203a03d9d8020951106eb152ef.ctex"]
 
 [params]
 

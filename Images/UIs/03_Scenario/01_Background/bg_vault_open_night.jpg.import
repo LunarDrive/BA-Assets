@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4dqvc3qsnfev"
-path="res://.godot/imported/bg_vault_open_night.jpg-242938017894bbea24483dcfef0962a1.ctex"
+path="res://.godot/imported/bg_vault_open_night.jpg-ac39716ad0d507925d73bff3ca41adb3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_vault_open_night.jpg"
-dest_files=["res://.godot/imported/bg_vault_open_night.jpg-242938017894bbea24483dcfef0962a1.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_vault_open_night.jpg"
+dest_files=["res://.godot/imported/bg_vault_open_night.jpg-ac39716ad0d507925d73bff3ca41adb3.ctex"]
 
 [params]
 

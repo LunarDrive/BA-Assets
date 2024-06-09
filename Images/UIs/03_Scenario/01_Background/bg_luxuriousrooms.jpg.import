@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dlv138sjg55ae"
-path="res://.godot/imported/bg_luxuriousrooms.jpg-1604ec3d1f8c24fa38144c45cbb56d6d.ctex"
+path="res://.godot/imported/bg_luxuriousrooms.jpg-6b24bd0d2aeacd2210505d03972262b7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_luxuriousrooms.jpg"
-dest_files=["res://.godot/imported/bg_luxuriousrooms.jpg-1604ec3d1f8c24fa38144c45cbb56d6d.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_luxuriousrooms.jpg"
+dest_files=["res://.godot/imported/bg_luxuriousrooms.jpg-6b24bd0d2aeacd2210505d03972262b7.ctex"]
 
 [params]
 

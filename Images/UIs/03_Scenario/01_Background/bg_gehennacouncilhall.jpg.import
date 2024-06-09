@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvbp4fogtya13"
-path="res://.godot/imported/bg_gehennacouncilhall.jpg-7795f6f1796bbaf47f1dc18682a330ff.ctex"
+path="res://.godot/imported/bg_gehennacouncilhall.jpg-d7bda241306075c714e63d2de3c44a29.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_gehennacouncilhall.jpg"
-dest_files=["res://.godot/imported/bg_gehennacouncilhall.jpg-7795f6f1796bbaf47f1dc18682a330ff.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_gehennacouncilhall.jpg"
+dest_files=["res://.godot/imported/bg_gehennacouncilhall.jpg-d7bda241306075c714e63d2de3c44a29.ctex"]
 
 [params]
 

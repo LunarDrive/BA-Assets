@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://deeavpbx0y0rj"
-path="res://.godot/imported/Photo_MovieCG_302303.png-cb116e65ecc27e3e1f0b7a71faac3896.ctex"
+path="res://.godot/imported/Photo_MovieCG_302303.png-614a1da0306d8e50bcc0bb5fbf27eb56.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/Photo_MovieCG/Photo_MovieCG_302303.png"
-dest_files=["res://.godot/imported/Photo_MovieCG_302303.png-cb116e65ecc27e3e1f0b7a71faac3896.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/Photo_MovieCG/Photo_MovieCG_302303.png"
+dest_files=["res://.godot/imported/Photo_MovieCG_302303.png-614a1da0306d8e50bcc0bb5fbf27eb56.ctex"]
 
 [params]
 

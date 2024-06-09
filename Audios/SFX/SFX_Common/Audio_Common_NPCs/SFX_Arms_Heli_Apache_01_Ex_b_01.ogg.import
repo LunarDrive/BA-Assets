@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c38pyqtjv67xe"
-path="res://.godot/imported/SFX_Arms_Heli_Apache_01_Ex_b_01.ogg-3f8e0c6c91ffbba35658d6dac30c30a7.oggvorbisstr"
+path="res://.godot/imported/SFX_Arms_Heli_Apache_01_Ex_b_01.ogg-da9e3c45bf794e063e99f7f19e314004.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_NPCs/SFX_Arms_Heli_Apache_01_Ex_b_01.ogg"
-dest_files=["res://.godot/imported/SFX_Arms_Heli_Apache_01_Ex_b_01.ogg-3f8e0c6c91ffbba35658d6dac30c30a7.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_NPCs/SFX_Arms_Heli_Apache_01_Ex_b_01.ogg"
+dest_files=["res://.godot/imported/SFX_Arms_Heli_Apache_01_Ex_b_01.ogg-da9e3c45bf794e063e99f7f19e314004.oggvorbisstr"]
 
 [params]
 

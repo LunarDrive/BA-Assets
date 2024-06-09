@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b411qlvx3p1yh"
-path="res://.godot/imported/Img_MinigameRhythm_Hp_807.png-159dee8b18756e083652f4716048670e.ctex"
+path="res://.godot/imported/Img_MinigameRhythm_Hp_807.png-fa6aa11e19439c03e4d0ca91bdbcc892.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Img_MinigameRhythm_Hp_807.png"
-dest_files=["res://.godot/imported/Img_MinigameRhythm_Hp_807.png-159dee8b18756e083652f4716048670e.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Img_MinigameRhythm_Hp_807.png"
+dest_files=["res://.godot/imported/Img_MinigameRhythm_Hp_807.png-fa6aa11e19439c03e4d0ca91bdbcc892.ctex"]
 
 [params]
 

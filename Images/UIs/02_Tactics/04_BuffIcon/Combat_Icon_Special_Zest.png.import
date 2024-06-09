@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://di03ypnj614x8"
-path="res://.godot/imported/Combat_Icon_Special_Zest.png-8452151e1fcd9b150c8994d1f106d81c.ctex"
+path="res://.godot/imported/Combat_Icon_Special_Zest.png-020218ae0dc14dc2de980d7277f47fc1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Special_Zest.png"
-dest_files=["res://.godot/imported/Combat_Icon_Special_Zest.png-8452151e1fcd9b150c8994d1f106d81c.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Special_Zest.png"
+dest_files=["res://.godot/imported/Combat_Icon_Special_Zest.png-020218ae0dc14dc2de980d7277f47fc1.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://f0ej0cb0fpkj"
-path="res://.godot/imported/bg_drawingroom_night.jpg-0ed1297a24e529e1ae98c72673d74a9e.ctex"
+path="res://.godot/imported/bg_drawingroom_night.jpg-ddc7e3077acec845ef7da97e99a2fb82.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_drawingroom_night.jpg"
-dest_files=["res://.godot/imported/bg_drawingroom_night.jpg-0ed1297a24e529e1ae98c72673d74a9e.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_drawingroom_night.jpg"
+dest_files=["res://.godot/imported/bg_drawingroom_night.jpg-ddc7e3077acec845ef7da97e99a2fb82.ctex"]
 
 [params]
 

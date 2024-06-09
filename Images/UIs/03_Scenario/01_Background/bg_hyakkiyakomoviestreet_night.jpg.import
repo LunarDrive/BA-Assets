@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wktbowbkroxl"
-path="res://.godot/imported/bg_hyakkiyakomoviestreet_night.jpg-1db1681de6fe9e7a9f735b89a13eb434.ctex"
+path="res://.godot/imported/bg_hyakkiyakomoviestreet_night.jpg-ce6808b582d85d26079b5f8f7cc59c49.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_hyakkiyakomoviestreet_night.jpg"
-dest_files=["res://.godot/imported/bg_hyakkiyakomoviestreet_night.jpg-1db1681de6fe9e7a9f735b89a13eb434.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_hyakkiyakomoviestreet_night.jpg"
+dest_files=["res://.godot/imported/bg_hyakkiyakomoviestreet_night.jpg-ce6808b582d85d26079b5f8f7cc59c49.ctex"]
 
 [params]
 

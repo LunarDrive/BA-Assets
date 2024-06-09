@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bhpv2skn0hfs8"
-path="res://.godot/imported/SFX_Spine_Muzzle_01.ogg-4f74590200fd5bb82e48998be0651f52.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_Muzzle_01.ogg-2edb8454a941cdca27c1dbb62748ef04.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Muzzle_01.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_Muzzle_01.ogg-4f74590200fd5bb82e48998be0651f52.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Muzzle_01.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_Muzzle_01.ogg-2edb8454a941cdca27c1dbb62748ef04.oggvorbisstr"]
 
 [params]
 

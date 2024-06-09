@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yirha1b2wjh3"
-path="res://.godot/imported/Currency_Icon_WorldRaidCommonTicket.png-5ae6b9ee6a55778b96559a870ff06fa1.ctex"
+path="res://.godot/imported/Currency_Icon_WorldRaidCommonTicket.png-394d197a3e0038f9a4d1445762aac538.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Currency_Icon_WorldRaidCommonTicket.png"
-dest_files=["res://.godot/imported/Currency_Icon_WorldRaidCommonTicket.png-5ae6b9ee6a55778b96559a870ff06fa1.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Currency_Icon_WorldRaidCommonTicket.png"
+dest_files=["res://.godot/imported/Currency_Icon_WorldRaidCommonTicket.png-394d197a3e0038f9a4d1445762aac538.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1lbbk6dwlxf0"
-path="res://.godot/imported/bg_cs_pv4_077.jpg-ffbe056e380d29d3874003d3041b5063.ctex"
+path="res://.godot/imported/bg_cs_pv4_077.jpg-a9c624fe394e70d3e5854b83cdb005ae.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_cs_pv4_077.jpg"
-dest_files=["res://.godot/imported/bg_cs_pv4_077.jpg-ffbe056e380d29d3874003d3041b5063.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_cs_pv4_077.jpg"
+dest_files=["res://.godot/imported/bg_cs_pv4_077.jpg-a9c624fe394e70d3e5854b83cdb005ae.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cfq135byxmnsr"
-path="res://.godot/imported/Lobbyillust_Icon_Mutsuki_Newyear_01.png-a0edee53b153c801de1d66da39531aa8.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Mutsuki_Newyear_01.png-de5615bae40138dd33fcd24a25fec3ea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Mutsuki_Newyear_01.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Mutsuki_Newyear_01.png-a0edee53b153c801de1d66da39531aa8.ctex"]
+source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Mutsuki_Newyear_01.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Mutsuki_Newyear_01.png-de5615bae40138dd33fcd24a25fec3ea.ctex"]
 
 [params]
 

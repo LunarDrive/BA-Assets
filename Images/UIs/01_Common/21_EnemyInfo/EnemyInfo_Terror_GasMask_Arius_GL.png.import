@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cehbqt7vehtbc"
-path="res://.godot/imported/EnemyInfo_Terror_GasMask_Arius_GL.png-b8fbd5cce19f6e6b98214f4bf4f7f533.ctex"
+path="res://.godot/imported/EnemyInfo_Terror_GasMask_Arius_GL.png-33cd1694ae0903ff51a22510bd19df15.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Terror_GasMask_Arius_GL.png"
-dest_files=["res://.godot/imported/EnemyInfo_Terror_GasMask_Arius_GL.png-b8fbd5cce19f6e6b98214f4bf4f7f533.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Terror_GasMask_Arius_GL.png"
+dest_files=["res://.godot/imported/EnemyInfo_Terror_GasMask_Arius_GL.png-33cd1694ae0903ff51a22510bd19df15.ctex"]
 
 [params]
 

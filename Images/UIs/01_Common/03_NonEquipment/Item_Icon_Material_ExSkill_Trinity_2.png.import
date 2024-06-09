@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4nsft56f8u4q"
-path="res://.godot/imported/Item_Icon_Material_ExSkill_Trinity_2.png-ea11eef38849465655a9f625599eb1aa.ctex"
+path="res://.godot/imported/Item_Icon_Material_ExSkill_Trinity_2.png-2afb5f156f4dd6b3e4bfe3c64a555959.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Trinity_2.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_ExSkill_Trinity_2.png-ea11eef38849465655a9f625599eb1aa.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Trinity_2.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_ExSkill_Trinity_2.png-2afb5f156f4dd6b3e4bfe3c64a555959.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnbxxaxgbn4kb"
-path="res://.godot/imported/My_Newyearpath_01_Cushion.png-1ee049437b396adc8eed10fec98385e9.ctex"
+path="res://.godot/imported/My_Newyearpath_01_Cushion.png-197763b1515a2faa3c22ca2c3e37a324.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Newyearpath_01_Cushion.png"
-dest_files=["res://.godot/imported/My_Newyearpath_01_Cushion.png-1ee049437b396adc8eed10fec98385e9.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Newyearpath_01_Cushion.png"
+dest_files=["res://.godot/imported/My_Newyearpath_01_Cushion.png-197763b1515a2faa3c22ca2c3e37a324.ctex"]
 
 [params]
 

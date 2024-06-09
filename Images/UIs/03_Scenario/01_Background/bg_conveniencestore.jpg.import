@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdvdcyfuk7nc3"
-path="res://.godot/imported/bg_conveniencestore.jpg-3201438af73fe911c2e4ea4f344dd6b9.ctex"
+path="res://.godot/imported/bg_conveniencestore.jpg-91d728842b8eb8d0174986fe394bd529.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_conveniencestore.jpg"
-dest_files=["res://.godot/imported/bg_conveniencestore.jpg-3201438af73fe911c2e4ea4f344dd6b9.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_conveniencestore.jpg"
+dest_files=["res://.godot/imported/bg_conveniencestore.jpg-91d728842b8eb8d0174986fe394bd529.ctex"]
 
 [params]
 

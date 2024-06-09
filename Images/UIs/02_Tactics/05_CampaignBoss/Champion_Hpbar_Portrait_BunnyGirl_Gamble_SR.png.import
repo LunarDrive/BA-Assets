@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhsxuymcsnqy1"
-path="res://.godot/imported/Champion_Hpbar_Portrait_BunnyGirl_Gamble_SR.png-524a070c6674fc261a731d8e3cfd6a68.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_BunnyGirl_Gamble_SR.png-537906545d4a54c9570eb396569cbfa3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_BunnyGirl_Gamble_SR.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_BunnyGirl_Gamble_SR.png-524a070c6674fc261a731d8e3cfd6a68.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_BunnyGirl_Gamble_SR.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_BunnyGirl_Gamble_SR.png-537906545d4a54c9570eb396569cbfa3.ctex"]
 
 [params]
 

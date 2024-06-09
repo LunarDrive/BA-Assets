@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d3kiww2bsjd3r"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Chise.png-aa1a50eeec910a672c6c85221dabc9df.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Chise.png-7097b258c2e227b8f5c04bbb56cb664c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Chise.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Chise.png-aa1a50eeec910a672c6c85221dabc9df.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Chise.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Chise.png-7097b258c2e227b8f5c04bbb56cb664c.ctex"]
 
 [params]
 

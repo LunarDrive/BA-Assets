@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnfhusdmoa6vu"
-path="res://.godot/imported/bg_viplounge.jpg-ee32dbaf62d2779668f2b27748017966.ctex"
+path="res://.godot/imported/bg_viplounge.jpg-b1e8fb0afbf9a495d68ae062d723141d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_viplounge.jpg"
-dest_files=["res://.godot/imported/bg_viplounge.jpg-ee32dbaf62d2779668f2b27748017966.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_viplounge.jpg"
+dest_files=["res://.godot/imported/bg_viplounge.jpg-b1e8fb0afbf9a495d68ae062d723141d.ctex"]
 
 [params]
 

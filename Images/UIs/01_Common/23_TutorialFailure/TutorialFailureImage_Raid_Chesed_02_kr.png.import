@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://881yfs5g513h"
-path="res://.godot/imported/TutorialFailureImage_Raid_Chesed_02_kr.png-16e2c46201c1ee8d872e9b69cfc6acc3.ctex"
+path="res://.godot/imported/TutorialFailureImage_Raid_Chesed_02_kr.png-d6ceee2e495b7bb020ad7887bb540483.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr.png"
-dest_files=["res://.godot/imported/TutorialFailureImage_Raid_Chesed_02_kr.png-16e2c46201c1ee8d872e9b69cfc6acc3.ctex"]
+source_file="res://assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr.png"
+dest_files=["res://.godot/imported/TutorialFailureImage_Raid_Chesed_02_kr.png-d6ceee2e495b7bb020ad7887bb540483.ctex"]
 
 [params]
 

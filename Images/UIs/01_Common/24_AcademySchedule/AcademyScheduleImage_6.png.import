@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0ug7uud7yp5u"
-path="res://.godot/imported/AcademyScheduleImage_6.png-1526d17fa7777f7900d28775b37eb0cd.ctex"
+path="res://.godot/imported/AcademyScheduleImage_6.png-56d4cf1f2b9b85802af9841c7bc71515.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_6.png"
-dest_files=["res://.godot/imported/AcademyScheduleImage_6.png-1526d17fa7777f7900d28775b37eb0cd.ctex"]
+source_file="res://assets/Images/UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_6.png"
+dest_files=["res://.godot/imported/AcademyScheduleImage_6.png-56d4cf1f2b9b85802af9841c7bc71515.ctex"]
 
 [params]
 

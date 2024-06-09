@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rfby2koqovyw"
-path="res://.godot/imported/EnemyInfo_KumabotPapa_Slumpia_SG.png-1d7858facd5ba547b95ed8f759049110.ctex"
+path="res://.godot/imported/EnemyInfo_KumabotPapa_Slumpia_SG.png-942cb8b75ca4c82eb045bedbbdcb801f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_KumabotPapa_Slumpia_SG.png"
-dest_files=["res://.godot/imported/EnemyInfo_KumabotPapa_Slumpia_SG.png-1d7858facd5ba547b95ed8f759049110.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_KumabotPapa_Slumpia_SG.png"
+dest_files=["res://.godot/imported/EnemyInfo_KumabotPapa_Slumpia_SG.png-942cb8b75ca4c82eb045bedbbdcb801f.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dhu4axyjuin2c"
-path="res://.godot/imported/SE_Creaking_01.ogg-d8e3a8204e844e30d4b1965e762e658b.oggvorbisstr"
+path="res://.godot/imported/SE_Creaking_01.ogg-32e38a8a8a191bfdd419078634e5a97f.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Creaking_01.ogg"
-dest_files=["res://.godot/imported/SE_Creaking_01.ogg-d8e3a8204e844e30d4b1965e762e658b.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Creaking_01.ogg"
+dest_files=["res://.godot/imported/SE_Creaking_01.ogg-32e38a8a8a191bfdd419078634e5a97f.oggvorbisstr"]
 
 [params]
 

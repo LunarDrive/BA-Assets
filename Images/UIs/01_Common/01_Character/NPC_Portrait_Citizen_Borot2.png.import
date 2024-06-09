@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4dehw1gfp2sb"
-path="res://.godot/imported/NPC_Portrait_Citizen_Borot2.png-cf0d514dc0602443511f115bae7265aa.ctex"
+path="res://.godot/imported/NPC_Portrait_Citizen_Borot2.png-14799fa3a6cf913686e70ac249cc2638.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot2.png"
-dest_files=["res://.godot/imported/NPC_Portrait_Citizen_Borot2.png-cf0d514dc0602443511f115bae7265aa.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot2.png"
+dest_files=["res://.godot/imported/NPC_Portrait_Citizen_Borot2.png-14799fa3a6cf913686e70ac249cc2638.ctex"]
 
 [params]
 

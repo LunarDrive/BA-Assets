@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://kt3s03bsl6j"
-path="res://.godot/imported/UI_FX_BG_Urban_Busy_L.ogg-0b69b24fa2f4f047856def8984b190a1.oggvorbisstr"
+path="res://.godot/imported/UI_FX_BG_Urban_Busy_L.ogg-51761781a16965249f4bda1f5e6fde53.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Urban_Busy_L.ogg"
-dest_files=["res://.godot/imported/UI_FX_BG_Urban_Busy_L.ogg-0b69b24fa2f4f047856def8984b190a1.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Urban_Busy_L.ogg"
+dest_files=["res://.godot/imported/UI_FX_BG_Urban_Busy_L.ogg-51761781a16965249f4bda1f5e6fde53.oggvorbisstr"]
 
 [params]
 

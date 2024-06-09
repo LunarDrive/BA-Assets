@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ch7is5el7c2gk"
-path="res://.godot/imported/bg_infirmary.jpg-cc246760fc3ad8d2f8b1759e7671eb94.ctex"
+path="res://.godot/imported/bg_infirmary.jpg-ca3e593b1e2dff2c69e6da0572c5fe0a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_infirmary.jpg"
-dest_files=["res://.godot/imported/bg_infirmary.jpg-cc246760fc3ad8d2f8b1759e7671eb94.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_infirmary.jpg"
+dest_files=["res://.godot/imported/bg_infirmary.jpg-ca3e593b1e2dff2c69e6da0572c5fe0a.ctex"]
 
 [params]
 

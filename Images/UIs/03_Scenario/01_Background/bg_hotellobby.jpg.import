@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chl2g27bb0fqr"
-path="res://.godot/imported/bg_hotellobby.jpg-709e49a507fd5118a886dc1ad88e4c01.ctex"
+path="res://.godot/imported/bg_hotellobby.jpg-057874b97d1d8ceae8e83a1dbeb0543e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_hotellobby.jpg"
-dest_files=["res://.godot/imported/bg_hotellobby.jpg-709e49a507fd5118a886dc1ad88e4c01.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_hotellobby.jpg"
+dest_files=["res://.godot/imported/bg_hotellobby.jpg-057874b97d1d8ceae8e83a1dbeb0543e.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brbtnn27qr1vn"
-path="res://.godot/imported/bg_cs_trinity_14_2.jpg-f9ec14c8f60c37323c852e09b3ddf315.ctex"
+path="res://.godot/imported/bg_cs_trinity_14_2.jpg-c17fb2b59238828a95cfa4f528116744.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_cs_trinity_14_2.jpg"
-dest_files=["res://.godot/imported/bg_cs_trinity_14_2.jpg-f9ec14c8f60c37323c852e09b3ddf315.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_cs_trinity_14_2.jpg"
+dest_files=["res://.godot/imported/bg_cs_trinity_14_2.jpg-c17fb2b59238828a95cfa4f528116744.ctex"]
 
 [params]
 

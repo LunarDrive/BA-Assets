@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dd56sm4s1j7g8"
-path="res://.godot/imported/TimeAttack_Icon_ArmorType_LightArmor_01.png-ea7d5a9738cfd3aa13523c76d25ddbe6.ctex"
+path="res://.godot/imported/TimeAttack_Icon_ArmorType_LightArmor_01.png-ea4f3eae5dc4b3de05fb0d01ec42399d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/35_TimeAttack/TimeAttack_Icon_ArmorType_LightArmor_01.png"
-dest_files=["res://.godot/imported/TimeAttack_Icon_ArmorType_LightArmor_01.png-ea7d5a9738cfd3aa13523c76d25ddbe6.ctex"]
+source_file="res://assets/Images/UIs/01_Common/35_TimeAttack/TimeAttack_Icon_ArmorType_LightArmor_01.png"
+dest_files=["res://.godot/imported/TimeAttack_Icon_ArmorType_LightArmor_01.png-ea4f3eae5dc4b3de05fb0d01ec42399d.ctex"]
 
 [params]
 

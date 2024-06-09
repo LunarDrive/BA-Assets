@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dorv8usljitvs"
-path="res://.godot/imported/EnemyInfo_Droid_Decagram_Shield_Colour.png-8cdf44173bf16cf29267d08b1e857ce7.ctex"
+path="res://.godot/imported/EnemyInfo_Droid_Decagram_Shield_Colour.png-45863e22b0b5d3dc99c31e213385f5e2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Droid_Decagram_Shield_Colour.png"
-dest_files=["res://.godot/imported/EnemyInfo_Droid_Decagram_Shield_Colour.png-8cdf44173bf16cf29267d08b1e857ce7.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Droid_Decagram_Shield_Colour.png"
+dest_files=["res://.godot/imported/EnemyInfo_Droid_Decagram_Shield_Colour.png-45863e22b0b5d3dc99c31e213385f5e2.ctex"]
 
 [params]
 

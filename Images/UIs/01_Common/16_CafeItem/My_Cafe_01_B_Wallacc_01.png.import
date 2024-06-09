@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4nqtl1781q22"
-path="res://.godot/imported/My_Cafe_01_B_Wallacc_01.png-8f43a0983839c02c642c643bdfac1050.ctex"
+path="res://.godot/imported/My_Cafe_01_B_Wallacc_01.png-1e694110a67134a3ae99e49855862271.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Cafe_01_B_Wallacc_01.png"
-dest_files=["res://.godot/imported/My_Cafe_01_B_Wallacc_01.png-8f43a0983839c02c642c643bdfac1050.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Cafe_01_B_Wallacc_01.png"
+dest_files=["res://.godot/imported/My_Cafe_01_B_Wallacc_01.png-1e694110a67134a3ae99e49855862271.ctex"]
 
 [params]
 

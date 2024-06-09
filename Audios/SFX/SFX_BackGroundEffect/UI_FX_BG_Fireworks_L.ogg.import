@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dykseljgv45u7"
-path="res://.godot/imported/UI_FX_BG_Fireworks_L.ogg-661f92b22b13727d260c021214f70890.oggvorbisstr"
+path="res://.godot/imported/UI_FX_BG_Fireworks_L.ogg-ff9b0cc7d7abf9b93a1ff9d9d84f9480.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Fireworks_L.ogg"
-dest_files=["res://.godot/imported/UI_FX_BG_Fireworks_L.ogg-661f92b22b13727d260c021214f70890.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Fireworks_L.ogg"
+dest_files=["res://.godot/imported/UI_FX_BG_Fireworks_L.ogg-ff9b0cc7d7abf9b93a1ff9d9d84f9480.oggvorbisstr"]
 
 [params]
 

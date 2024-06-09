@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdxn8edmaiuuv"
-path="res://.godot/imported/SKILLICON_SHIROKO_EXSKILL.png-3261238803b4b028a248cbe26e7a6aca.ctex"
+path="res://.godot/imported/SKILLICON_SHIROKO_EXSKILL.png-5081e506968f936837ba03a0105f364f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/SKILLICON_SHIROKO_EXSKILL.png"
-dest_files=["res://.godot/imported/SKILLICON_SHIROKO_EXSKILL.png-3261238803b4b028a248cbe26e7a6aca.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/SKILLICON_SHIROKO_EXSKILL.png"
+dest_files=["res://.godot/imported/SKILLICON_SHIROKO_EXSKILL.png-5081e506968f936837ba03a0105f364f.ctex"]
 
 [params]
 

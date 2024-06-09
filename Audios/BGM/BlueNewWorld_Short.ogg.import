@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dk5fm5wyv2rw7"
-path="res://.godot/imported/BlueNewWorld_Short.ogg-fa35a6192728408bed81b5ebc7e2c678.oggvorbisstr"
+path="res://.godot/imported/BlueNewWorld_Short.ogg-d3e1d5e0df8437e22fdf55b6f6c8b5c7.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/BGM/BlueNewWorld_Short.ogg"
-dest_files=["res://.godot/imported/BlueNewWorld_Short.ogg-fa35a6192728408bed81b5ebc7e2c678.oggvorbisstr"]
+source_file="res://assets/Audios/BGM/BlueNewWorld_Short.ogg"
+dest_files=["res://.godot/imported/BlueNewWorld_Short.ogg-d3e1d5e0df8437e22fdf55b6f6c8b5c7.oggvorbisstr"]
 
 [params]
 

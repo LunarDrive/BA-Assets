@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhmakyau4sngs"
-path="res://.godot/imported/NPC_Portrait_Yoheki_Normal1.png-43e346e1239c922ffe1ed4d1596744b1.ctex"
+path="res://.godot/imported/NPC_Portrait_Yoheki_Normal1.png-1fcf5a74a734b677d090d56890774ab5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Yoheki_Normal1.png"
-dest_files=["res://.godot/imported/NPC_Portrait_Yoheki_Normal1.png-43e346e1239c922ffe1ed4d1596744b1.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Yoheki_Normal1.png"
+dest_files=["res://.godot/imported/NPC_Portrait_Yoheki_Normal1.png-1fcf5a74a734b677d090d56890774ab5.ctex"]
 
 [params]
 

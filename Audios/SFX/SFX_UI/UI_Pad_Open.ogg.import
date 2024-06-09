@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://btmpi2ujf2aal"
-path="res://.godot/imported/UI_Pad_Open.ogg-ccebbec35f93cddfb7b457368fdffb30.oggvorbisstr"
+path="res://.godot/imported/UI_Pad_Open.ogg-6a2b96d18756c0d5fdad90b0984e6b45.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_UI/UI_Pad_Open.ogg"
-dest_files=["res://.godot/imported/UI_Pad_Open.ogg-ccebbec35f93cddfb7b457368fdffb30.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_UI/UI_Pad_Open.ogg"
+dest_files=["res://.godot/imported/UI_Pad_Open.ogg-6a2b96d18756c0d5fdad90b0984e6b45.oggvorbisstr"]
 
 [params]
 

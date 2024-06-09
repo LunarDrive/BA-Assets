@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://budpomdejug5"
-path="res://.godot/imported/SKILLICON_CHERINO_EXSKILL.png-784eeb3a480bf19abc0500cbd72740d7.ctex"
+path="res://.godot/imported/SKILLICON_CHERINO_EXSKILL.png-dc39626d5354282f563ce31ce1d41d2f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/SKILLICON_CHERINO_EXSKILL.png"
-dest_files=["res://.godot/imported/SKILLICON_CHERINO_EXSKILL.png-784eeb3a480bf19abc0500cbd72740d7.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/SKILLICON_CHERINO_EXSKILL.png"
+dest_files=["res://.godot/imported/SKILLICON_CHERINO_EXSKILL.png-dc39626d5354282f563ce31ce1d41d2f.ctex"]
 
 [params]
 

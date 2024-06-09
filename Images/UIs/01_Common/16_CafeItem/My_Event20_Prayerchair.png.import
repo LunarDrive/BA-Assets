@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbhnwurb5qb1i"
-path="res://.godot/imported/My_Event20_Prayerchair.png-4b70510f8ba4427c8c178bf42065bd91.ctex"
+path="res://.godot/imported/My_Event20_Prayerchair.png-c56dce401cc63d5615bc26ae8a5b659d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Event20_Prayerchair.png"
-dest_files=["res://.godot/imported/My_Event20_Prayerchair.png-4b70510f8ba4427c8c178bf42065bd91.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Event20_Prayerchair.png"
+dest_files=["res://.godot/imported/My_Event20_Prayerchair.png-c56dce401cc63d5615bc26ae8a5b659d.ctex"]
 
 [params]
 

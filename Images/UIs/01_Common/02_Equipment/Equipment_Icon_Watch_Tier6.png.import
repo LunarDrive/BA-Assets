@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0tjbxpxfepfe"
-path="res://.godot/imported/Equipment_Icon_Watch_Tier6.png-0accc13b47827c2f34c2e1a4b4b4897a.ctex"
+path="res://.godot/imported/Equipment_Icon_Watch_Tier6.png-3c1f75a11fe07b37d2e1744eb481a488.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/02_Equipment/Equipment_Icon_Watch_Tier6.png"
-dest_files=["res://.godot/imported/Equipment_Icon_Watch_Tier6.png-0accc13b47827c2f34c2e1a4b4b4897a.ctex"]
+source_file="res://assets/Images/UIs/01_Common/02_Equipment/Equipment_Icon_Watch_Tier6.png"
+dest_files=["res://.godot/imported/Equipment_Icon_Watch_Tier6.png-3c1f75a11fe07b37d2e1744eb481a488.ctex"]
 
 [params]
 

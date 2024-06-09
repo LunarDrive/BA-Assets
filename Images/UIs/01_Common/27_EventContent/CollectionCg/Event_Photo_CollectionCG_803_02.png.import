@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dl83ambnrd4xm"
-path="res://.godot/imported/Event_Photo_CollectionCG_803_02.png-51eb7d14ea64f560b812a55e2d6534da.ctex"
+path="res://.godot/imported/Event_Photo_CollectionCG_803_02.png-97e3edacddc9c4d7ec96d236036eb462.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/27_EventContent/CollectionCg/Event_Photo_CollectionCG_803_02.png"
-dest_files=["res://.godot/imported/Event_Photo_CollectionCG_803_02.png-51eb7d14ea64f560b812a55e2d6534da.ctex"]
+source_file="res://assets/Images/UIs/01_Common/27_EventContent/CollectionCg/Event_Photo_CollectionCG_803_02.png"
+dest_files=["res://.godot/imported/Event_Photo_CollectionCG_803_02.png-97e3edacddc9c4d7ec96d236036eb462.ctex"]
 
 [params]
 

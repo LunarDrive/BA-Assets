@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu3lj4ihxyyti"
-path="res://.godot/imported/bg_destructionfront_fire.jpg-fff7778e91fad3b9eaca52ad963e7270.ctex"
+path="res://.godot/imported/bg_destructionfront_fire.jpg-9676392e5b7046dc0dbe4ecf4c7800bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_destructionfront_fire.jpg"
-dest_files=["res://.godot/imported/bg_destructionfront_fire.jpg-fff7778e91fad3b9eaca52ad963e7270.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_destructionfront_fire.jpg"
+dest_files=["res://.godot/imported/bg_destructionfront_fire.jpg-9676392e5b7046dc0dbe4ecf4c7800bc.ctex"]
 
 [params]
 

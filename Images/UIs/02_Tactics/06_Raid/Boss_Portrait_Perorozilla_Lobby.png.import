@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgrf77mw0xngo"
-path="res://.godot/imported/Boss_Portrait_Perorozilla_Lobby.png-710ba8d20ec88d99e2e19528141f63ce.ctex"
+path="res://.godot/imported/Boss_Portrait_Perorozilla_Lobby.png-9c21caca1fff3e66732514b635eb3ae3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/06_Raid/Boss_Portrait_Perorozilla_Lobby.png"
-dest_files=["res://.godot/imported/Boss_Portrait_Perorozilla_Lobby.png-710ba8d20ec88d99e2e19528141f63ce.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/06_Raid/Boss_Portrait_Perorozilla_Lobby.png"
+dest_files=["res://.godot/imported/Boss_Portrait_Perorozilla_Lobby.png-9c21caca1fff3e66732514b635eb3ae3.ctex"]
 
 [params]
 

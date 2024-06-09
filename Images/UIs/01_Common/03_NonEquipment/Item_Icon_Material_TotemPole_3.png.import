@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0xubxwmll30u"
-path="res://.godot/imported/Item_Icon_Material_TotemPole_3.png-7e451535b509b7ec810e1c3131ad0dda.ctex"
+path="res://.godot/imported/Item_Icon_Material_TotemPole_3.png-02c9e6d7584d3f2442f9e3d56ce916b2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_TotemPole_3.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_TotemPole_3.png-7e451535b509b7ec810e1c3131ad0dda.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_TotemPole_3.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_TotemPole_3.png-02c9e6d7584d3f2442f9e3d56ce916b2.ctex"]
 
 [params]
 

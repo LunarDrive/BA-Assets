@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0f1vedo83rt1"
-path="res://.godot/imported/Student_Portrait_Karin_Collection.png-e0aadaf6bb5ea529301ed43ab6ffbbb4.ctex"
+path="res://.godot/imported/Student_Portrait_Karin_Collection.png-3aa182407197939197ec4b7296bb83e4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Karin_Collection.png"
-dest_files=["res://.godot/imported/Student_Portrait_Karin_Collection.png-e0aadaf6bb5ea529301ed43ab6ffbbb4.ctex"]
+source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Karin_Collection.png"
+dest_files=["res://.godot/imported/Student_Portrait_Karin_Collection.png-3aa182407197939197ec4b7296bb83e4.ctex"]
 
 [params]
 

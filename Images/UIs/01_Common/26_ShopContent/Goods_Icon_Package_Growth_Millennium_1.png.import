@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddcw6s0sajdfy"
-path="res://.godot/imported/Goods_Icon_Package_Growth_Millennium_1.png-a0e94183460e1d2fb22950ca06664418.ctex"
+path="res://.godot/imported/Goods_Icon_Package_Growth_Millennium_1.png-272b3cdabf0be42fea3941d7afd947a4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/26_ShopContent/Goods_Icon_Package_Growth_Millennium_1.png"
-dest_files=["res://.godot/imported/Goods_Icon_Package_Growth_Millennium_1.png-a0e94183460e1d2fb22950ca06664418.ctex"]
+source_file="res://assets/Images/UIs/01_Common/26_ShopContent/Goods_Icon_Package_Growth_Millennium_1.png"
+dest_files=["res://.godot/imported/Goods_Icon_Package_Growth_Millennium_1.png-272b3cdabf0be42fea3941d7afd947a4.ctex"]
 
 [params]
 

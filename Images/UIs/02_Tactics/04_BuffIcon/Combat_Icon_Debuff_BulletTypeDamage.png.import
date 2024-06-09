@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkc0lkansn1v4"
-path="res://.godot/imported/Combat_Icon_Debuff_BulletTypeDamage.png-139ee0b5b779efbae702d5a91ab94186.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_BulletTypeDamage.png-15d1c1a0f68af078b12a81e452a51ddb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_BulletTypeDamage.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_BulletTypeDamage.png-139ee0b5b779efbae702d5a91ab94186.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_BulletTypeDamage.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_BulletTypeDamage.png-15d1c1a0f68af078b12a81e452a51ddb.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8ng7u6puyw45"
-path="res://.godot/imported/Combat_Icon_Special_SkillBulletTypeChange.png-0527a9346eaa904e4cc4b86d42b373bb.ctex"
+path="res://.godot/imported/Combat_Icon_Special_SkillBulletTypeChange.png-7c5575e2b7685146f050027f15c49d25.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Special_SkillBulletTypeChange.png"
-dest_files=["res://.godot/imported/Combat_Icon_Special_SkillBulletTypeChange.png-0527a9346eaa904e4cc4b86d42b373bb.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Special_SkillBulletTypeChange.png"
+dest_files=["res://.godot/imported/Combat_Icon_Special_SkillBulletTypeChange.png-7c5575e2b7685146f050027f15c49d25.ctex"]
 
 [params]
 

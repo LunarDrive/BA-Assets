@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqlol3g5h8b0o"
-path="res://.godot/imported/School_Icon_Arius.png-b803c04a7e9aeaca263a3689d58f28ea.ctex"
+path="res://.godot/imported/School_Icon_Arius.png-ace4ab2faf8b3f024093b1c89705c639.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/11_SchoolIcon/School_Icon_Arius.png"
-dest_files=["res://.godot/imported/School_Icon_Arius.png-b803c04a7e9aeaca263a3689d58f28ea.ctex"]
+source_file="res://assets/Images/UIs/01_Common/11_SchoolIcon/School_Icon_Arius.png"
+dest_files=["res://.godot/imported/School_Icon_Arius.png-ace4ab2faf8b3f024093b1c89705c639.ctex"]
 
 [params]
 

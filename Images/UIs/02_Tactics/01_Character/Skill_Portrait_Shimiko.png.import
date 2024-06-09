@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pjdaldn1w5jh"
-path="res://.godot/imported/Skill_Portrait_Shimiko.png-42ef4823536ebe9744c9e40a8908397e.ctex"
+path="res://.godot/imported/Skill_Portrait_Shimiko.png-d215193ec39521457095584df4a7316c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Shimiko.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Shimiko.png-42ef4823536ebe9744c9e40a8908397e.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Shimiko.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Shimiko.png-d215193ec39521457095584df4a7316c.ctex"]
 
 [params]
 

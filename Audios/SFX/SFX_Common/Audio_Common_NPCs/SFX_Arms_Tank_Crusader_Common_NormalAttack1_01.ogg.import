@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dx80p30wle8un"
-path="res://.godot/imported/SFX_Arms_Tank_Crusader_Common_NormalAttack1_01.ogg-8c1f4e551da0682913fe9103583b20e0.oggvorbisstr"
+path="res://.godot/imported/SFX_Arms_Tank_Crusader_Common_NormalAttack1_01.ogg-af68e9e5da962a50d87922d145333a02.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_NPCs/SFX_Arms_Tank_Crusader_Common_NormalAttack1_01.ogg"
-dest_files=["res://.godot/imported/SFX_Arms_Tank_Crusader_Common_NormalAttack1_01.ogg-8c1f4e551da0682913fe9103583b20e0.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_NPCs/SFX_Arms_Tank_Crusader_Common_NormalAttack1_01.ogg"
+dest_files=["res://.godot/imported/SFX_Arms_Tank_Crusader_Common_NormalAttack1_01.ogg-af68e9e5da962a50d87922d145333a02.oggvorbisstr"]
 
 [params]
 

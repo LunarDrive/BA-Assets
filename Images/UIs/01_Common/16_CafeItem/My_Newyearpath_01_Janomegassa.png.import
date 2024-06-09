@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c53ddfhmwinvx"
-path="res://.godot/imported/My_Newyearpath_01_Janomegassa.png-3a4aaf463d9c6e9699afa017c752210f.ctex"
+path="res://.godot/imported/My_Newyearpath_01_Janomegassa.png-0f064e7896586be0597e6da2ad012f0b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Newyearpath_01_Janomegassa.png"
-dest_files=["res://.godot/imported/My_Newyearpath_01_Janomegassa.png-3a4aaf463d9c6e9699afa017c752210f.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Newyearpath_01_Janomegassa.png"
+dest_files=["res://.godot/imported/My_Newyearpath_01_Janomegassa.png-0f064e7896586be0597e6da2ad012f0b.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kn2gpjsp5u4t"
-path="res://.godot/imported/Common_Deco_Clip.png-6ec02bb2b967f46eaa1df1f7a8f7004b.ctex"
+path="res://.godot/imported/Common_Deco_Clip.png-3b9ca843901ec19da591314fc0e695cb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Gacha/Common_Deco_Clip.png"
-dest_files=["res://.godot/imported/Common_Deco_Clip.png-6ec02bb2b967f46eaa1df1f7a8f7004b.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Gacha/Common_Deco_Clip.png"
+dest_files=["res://.godot/imported/Common_Deco_Clip.png-3b9ca843901ec19da591314fc0e695cb.ctex"]
 
 [params]
 

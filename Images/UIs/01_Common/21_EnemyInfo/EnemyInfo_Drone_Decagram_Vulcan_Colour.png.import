@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxnwxfcxu5wi5"
-path="res://.godot/imported/EnemyInfo_Drone_Decagram_Vulcan_Colour.png-37e5a99a4915dbbe5360adc410cdbc14.ctex"
+path="res://.godot/imported/EnemyInfo_Drone_Decagram_Vulcan_Colour.png-9a1968909ed59ff5ca4c8fa240894805.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Drone_Decagram_Vulcan_Colour.png"
-dest_files=["res://.godot/imported/EnemyInfo_Drone_Decagram_Vulcan_Colour.png-37e5a99a4915dbbe5360adc410cdbc14.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Drone_Decagram_Vulcan_Colour.png"
+dest_files=["res://.godot/imported/EnemyInfo_Drone_Decagram_Vulcan_Colour.png-9a1968909ed59ff5ca4c8fa240894805.ctex"]
 
 [params]
 

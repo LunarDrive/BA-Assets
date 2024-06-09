@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btkr3ww46jdh4"
-path="res://.godot/imported/bg_cruiserooftop_night.jpg-dbbca0281281b2f7664ad06142f9cb03.ctex"
+path="res://.godot/imported/bg_cruiserooftop_night.jpg-1bc0d3a4800d1868f623a0dc54632da3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_cruiserooftop_night.jpg"
-dest_files=["res://.godot/imported/bg_cruiserooftop_night.jpg-dbbca0281281b2f7664ad06142f9cb03.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_cruiserooftop_night.jpg"
+dest_files=["res://.godot/imported/bg_cruiserooftop_night.jpg-1bc0d3a4800d1868f623a0dc54632da3.ctex"]
 
 [params]
 

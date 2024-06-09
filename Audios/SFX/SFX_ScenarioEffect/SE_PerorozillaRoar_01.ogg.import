@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://famiqv74thur"
-path="res://.godot/imported/SE_PerorozillaRoar_01.ogg-d4a24ec14e2ebe44b4bfce75919096a1.oggvorbisstr"
+path="res://.godot/imported/SE_PerorozillaRoar_01.ogg-6d7c6710ccc2e938f2928660da100845.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_PerorozillaRoar_01.ogg"
-dest_files=["res://.godot/imported/SE_PerorozillaRoar_01.ogg-d4a24ec14e2ebe44b4bfce75919096a1.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_PerorozillaRoar_01.ogg"
+dest_files=["res://.godot/imported/SE_PerorozillaRoar_01.ogg-6d7c6710ccc2e938f2928660da100845.oggvorbisstr"]
 
 [params]
 

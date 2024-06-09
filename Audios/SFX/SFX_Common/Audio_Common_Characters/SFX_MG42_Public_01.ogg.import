@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cq11nbkdne44u"
-path="res://.godot/imported/SFX_MG42_Public_01.ogg-77baf92b5bc8cab0dd007b5392b5ee02.oggvorbisstr"
+path="res://.godot/imported/SFX_MG42_Public_01.ogg-5b1e994300e0f0d9a3e8adb82e10fd04.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_MG42_Public_01.ogg"
-dest_files=["res://.godot/imported/SFX_MG42_Public_01.ogg-77baf92b5bc8cab0dd007b5392b5ee02.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_MG42_Public_01.ogg"
+dest_files=["res://.godot/imported/SFX_MG42_Public_01.ogg-5b1e994300e0f0d9a3e8adb82e10fd04.oggvorbisstr"]
 
 [params]
 

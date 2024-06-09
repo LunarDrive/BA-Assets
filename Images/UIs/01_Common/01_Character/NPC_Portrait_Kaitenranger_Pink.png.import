@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cjptvqoh0vyl8"
-path="res://.godot/imported/NPC_Portrait_Kaitenranger_Pink.png-f45ff4b7e591d0d761e5ec3d6330849d.ctex"
+path="res://.godot/imported/NPC_Portrait_Kaitenranger_Pink.png-50c4346881e1ec1bb4253e96ad8b4c93.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Kaitenranger_Pink.png"
-dest_files=["res://.godot/imported/NPC_Portrait_Kaitenranger_Pink.png-f45ff4b7e591d0d761e5ec3d6330849d.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Kaitenranger_Pink.png"
+dest_files=["res://.godot/imported/NPC_Portrait_Kaitenranger_Pink.png-50c4346881e1ec1bb4253e96ad8b4c93.ctex"]
 
 [params]
 

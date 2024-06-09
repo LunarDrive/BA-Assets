@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cl5fg32tc4v2n"
-path="res://.godot/imported/UI_FX_BG_Aquarium_L.ogg-010ec8c9ef06647dd701c69dbde747d0.oggvorbisstr"
+path="res://.godot/imported/UI_FX_BG_Aquarium_L.ogg-75aff848b7193a17f5a92b1e9c8443fe.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Aquarium_L.ogg"
-dest_files=["res://.godot/imported/UI_FX_BG_Aquarium_L.ogg-010ec8c9ef06647dd701c69dbde747d0.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Aquarium_L.ogg"
+dest_files=["res://.godot/imported/UI_FX_BG_Aquarium_L.ogg-75aff848b7193a17f5a92b1e9c8443fe.oggvorbisstr"]
 
 [params]
 

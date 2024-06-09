@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3dipy8a6wn4g"
-path="res://.godot/imported/Item_Icon_RecruitTicket_Normal_1.png-bf96fb39e1b3964504122e3c0ccc65d4.ctex"
+path="res://.godot/imported/Item_Icon_RecruitTicket_Normal_1.png-50a1646b9a88ade0b84da17fc1d892d4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_RecruitTicket_Normal_1.png"
-dest_files=["res://.godot/imported/Item_Icon_RecruitTicket_Normal_1.png-bf96fb39e1b3964504122e3c0ccc65d4.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_RecruitTicket_Normal_1.png"
+dest_files=["res://.godot/imported/Item_Icon_RecruitTicket_Normal_1.png-50a1646b9a88ade0b84da17fc1d892d4.ctex"]
 
 [params]
 

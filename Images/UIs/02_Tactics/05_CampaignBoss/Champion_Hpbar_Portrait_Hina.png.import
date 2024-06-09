@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsvflxfmxer1h"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Hina.png-6726b3b632a68c9eca0b0a67d79fdecf.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Hina.png-4e0264acc188e889398af4b3092183f8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Hina.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Hina.png-6726b3b632a68c9eca0b0a67d79fdecf.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Hina.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Hina.png-4e0264acc188e889398af4b3092183f8.ctex"]
 
 [params]
 

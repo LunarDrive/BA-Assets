@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d00cc6bde6ey3"
-path="res://.godot/imported/Item_Icon_Material_RomanDice_0.png-cd3ea6d89c2a39cb9bdb70d5d6c0b1d2.ctex"
+path="res://.godot/imported/Item_Icon_Material_RomanDice_0.png-0dd82be42edc11d6ba19fd767e1e2cb8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_RomanDice_0.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_RomanDice_0.png-cd3ea6d89c2a39cb9bdb70d5d6c0b1d2.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_RomanDice_0.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_RomanDice_0.png-0dd82be42edc11d6ba19fd767e1e2cb8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vlhhd67c47jo"
-path="res://.godot/imported/Student_Portrait_Hoshino_Swimsuit_Collection.png-6955d81325db5a4609d3836ef1ba9358.ctex"
+path="res://.godot/imported/Student_Portrait_Hoshino_Swimsuit_Collection.png-30796de7acf96642ba6b90cdd2d4bc59.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Hoshino_Swimsuit_Collection.png"
-dest_files=["res://.godot/imported/Student_Portrait_Hoshino_Swimsuit_Collection.png-6955d81325db5a4609d3836ef1ba9358.ctex"]
+source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Hoshino_Swimsuit_Collection.png"
+dest_files=["res://.godot/imported/Student_Portrait_Hoshino_Swimsuit_Collection.png-30796de7acf96642ba6b90cdd2d4bc59.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drj1hblddtoc7"
-path="res://.godot/imported/Lobbyillust_Icon_Hibiki_01.png-f123a069f593931c498acb180891df21.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Hibiki_01.png-516871be8f8552c1791615e2e2d74354.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Hibiki_01.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Hibiki_01.png-f123a069f593931c498acb180891df21.ctex"]
+source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Hibiki_01.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Hibiki_01.png-516871be8f8552c1791615e2e2d74354.ctex"]
 
 [params]
 

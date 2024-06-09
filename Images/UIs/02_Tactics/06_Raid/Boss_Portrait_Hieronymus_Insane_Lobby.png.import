@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://biqv5jnxpxkhm"
-path="res://.godot/imported/Boss_Portrait_Hieronymus_Insane_Lobby.png-0eb482be2b815a82df7537863c99f546.ctex"
+path="res://.godot/imported/Boss_Portrait_Hieronymus_Insane_Lobby.png-f8aef1acfe45dd74ffd1553188844795.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/06_Raid/Boss_Portrait_Hieronymus_Insane_Lobby.png"
-dest_files=["res://.godot/imported/Boss_Portrait_Hieronymus_Insane_Lobby.png-0eb482be2b815a82df7537863c99f546.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/06_Raid/Boss_Portrait_Hieronymus_Insane_Lobby.png"
+dest_files=["res://.godot/imported/Boss_Portrait_Hieronymus_Insane_Lobby.png-f8aef1acfe45dd74ffd1553188844795.ctex"]
 
 [params]
 

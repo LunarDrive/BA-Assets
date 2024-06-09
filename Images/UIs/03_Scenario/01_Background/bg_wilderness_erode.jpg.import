@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c17ntj4lcqm1g"
-path="res://.godot/imported/bg_wilderness_erode.jpg-22efa15c1419ff39e1e0a5836d91a2c3.ctex"
+path="res://.godot/imported/bg_wilderness_erode.jpg-68229e4b7377743dee5f1c7999c9fe70.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_wilderness_erode.jpg"
-dest_files=["res://.godot/imported/bg_wilderness_erode.jpg-22efa15c1419ff39e1e0a5836d91a2c3.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_wilderness_erode.jpg"
+dest_files=["res://.godot/imported/bg_wilderness_erode.jpg-68229e4b7377743dee5f1c7999c9fe70.ctex"]
 
 [params]
 

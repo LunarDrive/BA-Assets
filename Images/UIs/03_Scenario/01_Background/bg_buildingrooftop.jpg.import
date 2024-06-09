@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnfnspsrn44rj"
-path="res://.godot/imported/bg_buildingrooftop.jpg-5f8be2f4d607d81c0405a50645d7dc7a.ctex"
+path="res://.godot/imported/bg_buildingrooftop.jpg-028d4a5f2b356cf906656299908f8079.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_buildingrooftop.jpg"
-dest_files=["res://.godot/imported/bg_buildingrooftop.jpg-5f8be2f4d607d81c0405a50645d7dc7a.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_buildingrooftop.jpg"
+dest_files=["res://.godot/imported/bg_buildingrooftop.jpg-028d4a5f2b356cf906656299908f8079.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cuw33hntm54k1"
-path="res://.godot/imported/bg_atelier_night.jpg-1c5caddbe0144fd65718bee445a4baff.ctex"
+path="res://.godot/imported/bg_atelier_night.jpg-7224af805b7a2501420362e8fa73ece2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_atelier_night.jpg"
-dest_files=["res://.godot/imported/bg_atelier_night.jpg-1c5caddbe0144fd65718bee445a4baff.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_atelier_night.jpg"
+dest_files=["res://.godot/imported/bg_atelier_night.jpg-7224af805b7a2501420362e8fa73ece2.ctex"]
 
 [params]
 

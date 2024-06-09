@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cxvgxawydnn1b"
-path="res://.godot/imported/UI_Turn_Down.ogg-0a1ac0fed3f26e3ed52ac701a1fa747e.oggvorbisstr"
+path="res://.godot/imported/UI_Turn_Down.ogg-18b113e01c9e0072b8153f3581f51742.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_UI/UI_Turn_Down.ogg"
-dest_files=["res://.godot/imported/UI_Turn_Down.ogg-0a1ac0fed3f26e3ed52ac701a1fa747e.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_UI/UI_Turn_Down.ogg"
+dest_files=["res://.godot/imported/UI_Turn_Down.ogg-18b113e01c9e0072b8153f3581f51742.oggvorbisstr"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bimxtfnhlprjl"
-path="res://.godot/imported/mo_yuzu_01.png-dc8dce24349875f1f10460e845f26dd4.ctex"
+path="res://.godot/imported/mo_yuzu_01.png-49b47de0a90eef083d62b0d72374446c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/mo_yuzu_01.png"
-dest_files=["res://.godot/imported/mo_yuzu_01.png-dc8dce24349875f1f10460e845f26dd4.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/mo_yuzu_01.png"
+dest_files=["res://.godot/imported/mo_yuzu_01.png-49b47de0a90eef083d62b0d72374446c.ctex"]
 
 [params]
 

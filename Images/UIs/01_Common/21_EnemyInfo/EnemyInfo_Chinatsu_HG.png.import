@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dp6x2x2bp36ad"
-path="res://.godot/imported/EnemyInfo_Chinatsu_HG.png-1679c01ccd6f3a77dc778b05fa2479da.ctex"
+path="res://.godot/imported/EnemyInfo_Chinatsu_HG.png-ae66c46053108b6a7ae914689b37cf5e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Chinatsu_HG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Chinatsu_HG.png-1679c01ccd6f3a77dc778b05fa2479da.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Chinatsu_HG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Chinatsu_HG.png-ae66c46053108b6a7ae914689b37cf5e.ctex"]
 
 [params]
 

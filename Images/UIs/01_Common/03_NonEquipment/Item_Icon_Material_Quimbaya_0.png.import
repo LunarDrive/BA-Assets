@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://r4onaecbjlx6"
-path="res://.godot/imported/Item_Icon_Material_Quimbaya_0.png-1b0c718e4be8b838a0c0ca6275be124d.ctex"
+path="res://.godot/imported/Item_Icon_Material_Quimbaya_0.png-b42b0b0b059e459a266cafbb0725e1b6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Quimbaya_0.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_Quimbaya_0.png-1b0c718e4be8b838a0c0ca6275be124d.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Quimbaya_0.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_Quimbaya_0.png-b42b0b0b059e459a266cafbb0725e1b6.ctex"]
 
 [params]
 

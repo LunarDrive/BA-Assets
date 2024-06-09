@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpuxvcd44hjgj"
-path="res://.godot/imported/Img_Omikuji_RolledPaper_2_809.png-7239c3d512f6714bbe506818def4cb0d.ctex"
+path="res://.godot/imported/Img_Omikuji_RolledPaper_2_809.png-a2a028bf0c47639e5163d63afa6d6925.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/27_EventContent/OmikujiImg/Img_Omikuji_RolledPaper_2_809.png"
-dest_files=["res://.godot/imported/Img_Omikuji_RolledPaper_2_809.png-7239c3d512f6714bbe506818def4cb0d.ctex"]
+source_file="res://assets/Images/UIs/01_Common/27_EventContent/OmikujiImg/Img_Omikuji_RolledPaper_2_809.png"
+dest_files=["res://.godot/imported/Img_Omikuji_RolledPaper_2_809.png-a2a028bf0c47639e5163d63afa6d6925.ctex"]
 
 [params]
 

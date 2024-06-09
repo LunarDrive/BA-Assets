@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckd00juu3n1l6"
-path="res://.godot/imported/My_Event06_Turntable.png-ef1575f5a9ed7cbdb4f0932a3d27c62b.ctex"
+path="res://.godot/imported/My_Event06_Turntable.png-9ef60e3dfe4392b4b30e4277b7b8cc5e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Event06_Turntable.png"
-dest_files=["res://.godot/imported/My_Event06_Turntable.png-ef1575f5a9ed7cbdb4f0932a3d27c62b.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Event06_Turntable.png"
+dest_files=["res://.godot/imported/My_Event06_Turntable.png-9ef60e3dfe4392b4b30e4277b7b8cc5e.ctex"]
 
 [params]
 

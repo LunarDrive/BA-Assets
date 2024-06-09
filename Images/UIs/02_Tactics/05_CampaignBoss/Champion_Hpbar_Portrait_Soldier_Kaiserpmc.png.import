@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://imh0twrmggnm"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Soldier_Kaiserpmc.png-043ffeb1e44327f2f0ae9743dc48d989.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Soldier_Kaiserpmc.png-6f2af9fa183aea1c738b0ac958846d62.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Soldier_Kaiserpmc.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Soldier_Kaiserpmc.png-043ffeb1e44327f2f0ae9743dc48d989.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Soldier_Kaiserpmc.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Soldier_Kaiserpmc.png-6f2af9fa183aea1c738b0ac958846d62.ctex"]
 
 [params]
 

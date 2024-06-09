@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tg3rf00dtucq"
-path="res://.godot/imported/bg_utnapishtimbridge_v6.jpg-0d098c4d38d61dbc301c284f9ac0c0d5.ctex"
+path="res://.godot/imported/bg_utnapishtimbridge_v6.jpg-2d5c7abc4682ca348d88746c3493b864.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_utnapishtimbridge_v6.jpg"
-dest_files=["res://.godot/imported/bg_utnapishtimbridge_v6.jpg-0d098c4d38d61dbc301c284f9ac0c0d5.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_utnapishtimbridge_v6.jpg"
+dest_files=["res://.godot/imported/bg_utnapishtimbridge_v6.jpg-2d5c7abc4682ca348d88746c3493b864.ctex"]
 
 [params]
 

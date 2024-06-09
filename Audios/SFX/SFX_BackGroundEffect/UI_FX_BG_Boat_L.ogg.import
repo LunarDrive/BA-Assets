@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cc7anvcabobbs"
-path="res://.godot/imported/UI_FX_BG_Boat_L.ogg-d4e7541fd749651f7798d0820f79a47b.oggvorbisstr"
+path="res://.godot/imported/UI_FX_BG_Boat_L.ogg-5b56ae9a30db7d0077b6777318d72994.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Boat_L.ogg"
-dest_files=["res://.godot/imported/UI_FX_BG_Boat_L.ogg-d4e7541fd749651f7798d0820f79a47b.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Boat_L.ogg"
+dest_files=["res://.godot/imported/UI_FX_BG_Boat_L.ogg-5b56ae9a30db7d0077b6777318d72994.oggvorbisstr"]
 
 [params]
 

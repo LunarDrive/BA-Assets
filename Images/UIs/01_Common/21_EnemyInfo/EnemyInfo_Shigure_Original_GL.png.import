@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbbx1uwy6s010"
-path="res://.godot/imported/EnemyInfo_Shigure_Original_GL.png-ff81d83aec1c3eba6959d6eaa88abf87.ctex"
+path="res://.godot/imported/EnemyInfo_Shigure_Original_GL.png-3fcfb97b8ff2bfe21a264bfa41f7cd0f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Shigure_Original_GL.png"
-dest_files=["res://.godot/imported/EnemyInfo_Shigure_Original_GL.png-ff81d83aec1c3eba6959d6eaa88abf87.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Shigure_Original_GL.png"
+dest_files=["res://.godot/imported/EnemyInfo_Shigure_Original_GL.png-3fcfb97b8ff2bfe21a264bfa41f7cd0f.ctex"]
 
 [params]
 

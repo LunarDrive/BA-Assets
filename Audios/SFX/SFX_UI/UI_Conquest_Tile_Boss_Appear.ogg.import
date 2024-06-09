@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://erv2wy8trgh"
-path="res://.godot/imported/UI_Conquest_Tile_Boss_Appear.ogg-aadae7108176958b8ab44a742cd3766b.oggvorbisstr"
+path="res://.godot/imported/UI_Conquest_Tile_Boss_Appear.ogg-7019de4055bbb4a5727655a510c335aa.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_UI/UI_Conquest_Tile_Boss_Appear.ogg"
-dest_files=["res://.godot/imported/UI_Conquest_Tile_Boss_Appear.ogg-aadae7108176958b8ab44a742cd3766b.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_UI/UI_Conquest_Tile_Boss_Appear.ogg"
+dest_files=["res://.godot/imported/UI_Conquest_Tile_Boss_Appear.ogg-7019de4055bbb4a5727655a510c335aa.oggvorbisstr"]
 
 [params]
 

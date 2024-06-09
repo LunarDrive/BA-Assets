@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cgdje0h7mhxed"
-path="res://.godot/imported/WeekDungeon_Image_Blood.png-3de8195ba7c8943f02de9804dff4b9fe.ctex"
+path="res://.godot/imported/WeekDungeon_Image_Blood.png-42e1ca85435616a02248e06fa067fe4e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/17_WeekDungeon/WeekDungeon_Image_Blood.png"
-dest_files=["res://.godot/imported/WeekDungeon_Image_Blood.png-3de8195ba7c8943f02de9804dff4b9fe.ctex"]
+source_file="res://assets/Images/UIs/01_Common/17_WeekDungeon/WeekDungeon_Image_Blood.png"
+dest_files=["res://.godot/imported/WeekDungeon_Image_Blood.png-42e1ca85435616a02248e06fa067fe4e.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbjua0vdbg1w0"
-path="res://.godot/imported/Emoticon_QuestionMark.png-77137c8bba6a5327c3ad283bba5b7cf6.ctex"
+path="res://.godot/imported/Emoticon_QuestionMark.png-a7ce756d0da86597cea9132b8bfaceff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/03_Emoticon/Emoticon_QuestionMark.png"
-dest_files=["res://.godot/imported/Emoticon_QuestionMark.png-77137c8bba6a5327c3ad283bba5b7cf6.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/03_Emoticon/Emoticon_QuestionMark.png"
+dest_files=["res://.godot/imported/Emoticon_QuestionMark.png-a7ce756d0da86597cea9132b8bfaceff.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvvh4j81i3guq"
-path="res://.godot/imported/bg_auditorium2.jpg-d22e443a35f5605bf50d86879b8711b1.ctex"
+path="res://.godot/imported/bg_auditorium2.jpg-b402861e892366dc1e52305a34e56404.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_auditorium2.jpg"
-dest_files=["res://.godot/imported/bg_auditorium2.jpg-d22e443a35f5605bf50d86879b8711b1.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_auditorium2.jpg"
+dest_files=["res://.godot/imported/bg_auditorium2.jpg-b402861e892366dc1e52305a34e56404.ctex"]
 
 [params]
 

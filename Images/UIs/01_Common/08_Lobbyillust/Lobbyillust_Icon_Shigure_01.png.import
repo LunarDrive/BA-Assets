@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drcdhnp1kavnb"
-path="res://.godot/imported/Lobbyillust_Icon_Shigure_01.png-abef15d2afed1c070c252b09062b2142.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Shigure_01.png-7a8a26c2c0da1ba89679d9aa4d207cfc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Shigure_01.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Shigure_01.png-abef15d2afed1c070c252b09062b2142.ctex"]
+source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Shigure_01.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Shigure_01.png-7a8a26c2c0da1ba89679d9aa4d207cfc.ctex"]
 
 [params]
 

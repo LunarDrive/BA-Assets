@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bw25vn8rk7dce"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Soldier_Blackmarket.png-be0e415e022f67ad3343dac5d98dc694.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Soldier_Blackmarket.png-1533c1b7fe87149563ad53d20c9b96e2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Soldier_Blackmarket.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Soldier_Blackmarket.png-be0e415e022f67ad3343dac5d98dc694.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Soldier_Blackmarket.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Soldier_Blackmarket.png-1533c1b7fe87149563ad53d20c9b96e2.ctex"]
 
 [params]
 

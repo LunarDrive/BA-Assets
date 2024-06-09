@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4vrdf8ty8rqi"
-path="res://.godot/imported/bg_tropicalforest.jpg-efa9c1d32d1cae0664042b65e37fe589.ctex"
+path="res://.godot/imported/bg_tropicalforest.jpg-a7e3041e1ba01a8c2c98abaeba4289f3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_tropicalforest.jpg"
-dest_files=["res://.godot/imported/bg_tropicalforest.jpg-efa9c1d32d1cae0664042b65e37fe589.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_tropicalforest.jpg"
+dest_files=["res://.godot/imported/bg_tropicalforest.jpg-a7e3041e1ba01a8c2c98abaeba4289f3.ctex"]
 
 [params]
 

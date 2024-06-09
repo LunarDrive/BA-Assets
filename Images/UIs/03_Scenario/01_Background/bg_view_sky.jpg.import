@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://crvdclyeq8v2b"
-path="res://.godot/imported/bg_view_sky.jpg-3b045da71201ee0ab9257e446f252644.ctex"
+path="res://.godot/imported/bg_view_sky.jpg-7ff2535cda3e904140dac74aa5da0422.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_view_sky.jpg"
-dest_files=["res://.godot/imported/bg_view_sky.jpg-3b045da71201ee0ab9257e446f252644.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_view_sky.jpg"
+dest_files=["res://.godot/imported/bg_view_sky.jpg-7ff2535cda3e904140dac74aa5da0422.ctex"]
 
 [params]
 

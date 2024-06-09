@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bthxqpwf6flsi"
-path="res://.godot/imported/bg_bigsisterroom_night.jpg-14018fc62ff8c1f7ce99043e5bcfadd0.ctex"
+path="res://.godot/imported/bg_bigsisterroom_night.jpg-011a8052d8136921f825d320964c8c00.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_bigsisterroom_night.jpg"
-dest_files=["res://.godot/imported/bg_bigsisterroom_night.jpg-14018fc62ff8c1f7ce99043e5bcfadd0.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_bigsisterroom_night.jpg"
+dest_files=["res://.godot/imported/bg_bigsisterroom_night.jpg-011a8052d8136921f825d320964c8c00.ctex"]
 
 [params]
 

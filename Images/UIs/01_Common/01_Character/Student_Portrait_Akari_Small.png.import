@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tbds4q1yggwa"
-path="res://.godot/imported/Student_Portrait_Akari_Small.png-2a50914e7f8711f7f69c23ade3c04975.ctex"
+path="res://.godot/imported/Student_Portrait_Akari_Small.png-633705aacdc681422fab71fd19b366ca.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Akari_Small.png"
-dest_files=["res://.godot/imported/Student_Portrait_Akari_Small.png-2a50914e7f8711f7f69c23ade3c04975.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Akari_Small.png"
+dest_files=["res://.godot/imported/Student_Portrait_Akari_Small.png-633705aacdc681422fab71fd19b366ca.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bh6wdxvcxheau"
-path="res://.godot/imported/TimeAttackGeas_Ally_StatChange_CriticalPoint_Up_Fixed.png-7e25722812ac1186ebc5d0ce07b6456c.ctex"
+path="res://.godot/imported/TimeAttackGeas_Ally_StatChange_CriticalPoint_Up_Fixed.png-52266cd6adf8c8e460f975b42f562da5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/35_TimeAttack/TimeAttackGeas_Ally_StatChange_CriticalPoint_Up_Fixed.png"
-dest_files=["res://.godot/imported/TimeAttackGeas_Ally_StatChange_CriticalPoint_Up_Fixed.png-7e25722812ac1186ebc5d0ce07b6456c.ctex"]
+source_file="res://assets/Images/UIs/01_Common/35_TimeAttack/TimeAttackGeas_Ally_StatChange_CriticalPoint_Up_Fixed.png"
+dest_files=["res://.godot/imported/TimeAttackGeas_Ally_StatChange_CriticalPoint_Up_Fixed.png-52266cd6adf8c8e460f975b42f562da5.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fa44iblylsx"
-path="res://.godot/imported/rename.png-68d4649da488fe10a84013ef34fa3b44.ctex"
+path="res://.godot/imported/rename.png-d44acd056a71a682723bf8171e7c0df2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/rename.png"
-dest_files=["res://.godot/imported/rename.png-68d4649da488fe10a84013ef34fa3b44.ctex"]
+source_file="res://assets/Images/UIs/00_Images/rename.png"
+dest_files=["res://.godot/imported/rename.png-d44acd056a71a682723bf8171e7c0df2.ctex"]
 
 [params]
 

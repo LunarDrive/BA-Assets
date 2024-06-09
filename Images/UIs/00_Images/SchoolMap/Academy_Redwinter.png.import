@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cciewlacmrrn2"
-path="res://.godot/imported/Academy_Redwinter.png-4b6a41d77f64b3ded18d5dcc07ff43e1.ctex"
+path="res://.godot/imported/Academy_Redwinter.png-f6d9a2841201bf5e294e24932d78fcee.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/SchoolMap/Academy_Redwinter.png"
-dest_files=["res://.godot/imported/Academy_Redwinter.png-4b6a41d77f64b3ded18d5dcc07ff43e1.ctex"]
+source_file="res://assets/Images/UIs/00_Images/SchoolMap/Academy_Redwinter.png"
+dest_files=["res://.godot/imported/Academy_Redwinter.png-f6d9a2841201bf5e294e24932d78fcee.ctex"]
 
 [params]
 

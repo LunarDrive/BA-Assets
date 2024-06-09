@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bwtla0tvpukyv"
-path="res://.godot/imported/SE_CarHorn_02.ogg-2d420ec9c9e3df6b5da1bc5e1b544944.oggvorbisstr"
+path="res://.godot/imported/SE_CarHorn_02.ogg-929d5b43a6ed4ccf41c3245e8ad82724.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_CarHorn_02.ogg"
-dest_files=["res://.godot/imported/SE_CarHorn_02.ogg-2d420ec9c9e3df6b5da1bc5e1b544944.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_CarHorn_02.ogg"
+dest_files=["res://.godot/imported/SE_CarHorn_02.ogg-929d5b43a6ed4ccf41c3245e8ad82724.oggvorbisstr"]
 
 [params]
 

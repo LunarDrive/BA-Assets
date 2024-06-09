@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://x68o54rxl8fn"
-path="res://.godot/imported/Portrait_Raidboss_HOD_Colour.png-bd7a8035d23ed1c0ec82842bea2f1d87.ctex"
+path="res://.godot/imported/Portrait_Raidboss_HOD_Colour.png-fda6254ef005e447179654ac3b6d7e78.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/38_WorldRaid/Portrait_Raidboss_HOD_Colour.png"
-dest_files=["res://.godot/imported/Portrait_Raidboss_HOD_Colour.png-bd7a8035d23ed1c0ec82842bea2f1d87.ctex"]
+source_file="res://assets/Images/UIs/01_Common/38_WorldRaid/Portrait_Raidboss_HOD_Colour.png"
+dest_files=["res://.godot/imported/Portrait_Raidboss_HOD_Colour.png-fda6254ef005e447179654ac3b6d7e78.ctex"]
 
 [params]
 

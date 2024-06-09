@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8hp3h40hnbe8"
-path="res://.godot/imported/Img_UICountdown_1_Anniversary.png-ab65f41f8f5b18cebc5e8111bf740d72.ctex"
+path="res://.godot/imported/Img_UICountdown_1_Anniversary.png-62a1996f28021f9ceb9c00de8d91c030.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/UICountdown/Img_UICountdown_1_Anniversary.png"
-dest_files=["res://.godot/imported/Img_UICountdown_1_Anniversary.png-ab65f41f8f5b18cebc5e8111bf740d72.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/UICountdown/Img_UICountdown_1_Anniversary.png"
+dest_files=["res://.godot/imported/Img_UICountdown_1_Anniversary.png-62a1996f28021f9ceb9c00de8d91c030.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcuxhbeo0e3if"
-path="res://.godot/imported/Lobbyillust_Icon_Haruka_01.png-df2a751c8315c95620ca09011c382cf5.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Haruka_01.png-c35c7502cc190402381c7b2c9fcb205a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Haruka_01.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Haruka_01.png-df2a751c8315c95620ca09011c382cf5.ctex"]
+source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Haruka_01.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Haruka_01.png-c35c7502cc190402381c7b2c9fcb205a.ctex"]
 
 [params]
 

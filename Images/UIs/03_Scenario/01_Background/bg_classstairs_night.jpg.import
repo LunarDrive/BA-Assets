@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbuda0y8on7uu"
-path="res://.godot/imported/bg_classstairs_night.jpg-3fe09a81efa845ca2f4d6b8d5c07acc5.ctex"
+path="res://.godot/imported/bg_classstairs_night.jpg-1747d26ccb83c59124cb54c7027bf00f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_classstairs_night.jpg"
-dest_files=["res://.godot/imported/bg_classstairs_night.jpg-3fe09a81efa845ca2f4d6b8d5c07acc5.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_classstairs_night.jpg"
+dest_files=["res://.godot/imported/bg_classstairs_night.jpg-1747d26ccb83c59124cb54c7027bf00f.ctex"]
 
 [params]
 

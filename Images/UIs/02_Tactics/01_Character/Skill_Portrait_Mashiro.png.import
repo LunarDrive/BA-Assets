@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ceejqsr7to8i4"
-path="res://.godot/imported/Skill_Portrait_Mashiro.png-159fdd79e85d623bd1d9db0faa9d1494.ctex"
+path="res://.godot/imported/Skill_Portrait_Mashiro.png-52f012658b169124e506caf827ed355c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Mashiro.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Mashiro.png-159fdd79e85d623bd1d9db0faa9d1494.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Mashiro.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Mashiro.png-52f012658b169124e506caf827ed355c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dt1mhus6ximna"
-path="res://.godot/imported/bg_coastroad.jpg-ebc95444758e79e917fd3f3d88338344.ctex"
+path="res://.godot/imported/bg_coastroad.jpg-a1924f48dbcacf6356d922ced6163928.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_coastroad.jpg"
-dest_files=["res://.godot/imported/bg_coastroad.jpg-ebc95444758e79e917fd3f3d88338344.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_coastroad.jpg"
+dest_files=["res://.godot/imported/bg_coastroad.jpg-a1924f48dbcacf6356d922ced6163928.ctex"]
 
 [params]
 

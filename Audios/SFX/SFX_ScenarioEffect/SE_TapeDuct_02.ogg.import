@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dutwjyicvxfg7"
-path="res://.godot/imported/SE_TapeDuct_02.ogg-8a65e1a480ae41fd52e5f5567417c96a.oggvorbisstr"
+path="res://.godot/imported/SE_TapeDuct_02.ogg-d848894b0f6eeadaa70b12b044f4f3a6.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_TapeDuct_02.ogg"
-dest_files=["res://.godot/imported/SE_TapeDuct_02.ogg-8a65e1a480ae41fd52e5f5567417c96a.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_TapeDuct_02.ogg"
+dest_files=["res://.godot/imported/SE_TapeDuct_02.ogg-d848894b0f6eeadaa70b12b044f4f3a6.oggvorbisstr"]
 
 [params]
 

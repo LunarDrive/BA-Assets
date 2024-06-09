@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6bqvn15c2gba"
-path="res://.godot/imported/School_Icon_Mask.png-eaadcc56f76d2653592bc8f17e54921f.ctex"
+path="res://.godot/imported/School_Icon_Mask.png-f028674ea7b610fdcaaa8be3f027f1c9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/School_Icon_Mask.png"
-dest_files=["res://.godot/imported/School_Icon_Mask.png-eaadcc56f76d2653592bc8f17e54921f.ctex"]
+source_file="res://assets/Images/UIs/00_Images/School_Icon_Mask.png"
+dest_files=["res://.godot/imported/School_Icon_Mask.png-f028674ea7b610fdcaaa8be3f027f1c9.ctex"]
 
 [params]
 

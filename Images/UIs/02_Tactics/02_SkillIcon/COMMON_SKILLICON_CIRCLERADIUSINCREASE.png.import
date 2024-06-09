@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tcvc4u57ohgt"
-path="res://.godot/imported/COMMON_SKILLICON_CIRCLERADIUSINCREASE.png-27a1d48f11d3040daa7024823a5f54ee.ctex"
+path="res://.godot/imported/COMMON_SKILLICON_CIRCLERADIUSINCREASE.png-0192c56a5c504d6c91569f1c96f2e687.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_CIRCLERADIUSINCREASE.png"
-dest_files=["res://.godot/imported/COMMON_SKILLICON_CIRCLERADIUSINCREASE.png-27a1d48f11d3040daa7024823a5f54ee.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_CIRCLERADIUSINCREASE.png"
+dest_files=["res://.godot/imported/COMMON_SKILLICON_CIRCLERADIUSINCREASE.png-0192c56a5c504d6c91569f1c96f2e687.ctex"]
 
 [params]
 

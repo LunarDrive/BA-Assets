@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://br8eh72wjyeuy"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Droid_Decagram_Shield_Colour.png-fe9d99bdc41494eafe5a0fc22f70a3a3.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Droid_Decagram_Shield_Colour.png-82882d5aad6060ec81151db4cbe3efca.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Droid_Decagram_Shield_Colour.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Droid_Decagram_Shield_Colour.png-fe9d99bdc41494eafe5a0fc22f70a3a3.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Droid_Decagram_Shield_Colour.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Droid_Decagram_Shield_Colour.png-82882d5aad6060ec81151db4cbe3efca.ctex"]
 
 [params]
 

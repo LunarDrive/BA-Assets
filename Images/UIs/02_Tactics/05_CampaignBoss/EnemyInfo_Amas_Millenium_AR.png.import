@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://br6uhy6xf27cd"
-path="res://.godot/imported/EnemyInfo_Amas_Millenium_AR.png-4ccbc8bbf064598a76466a993eaf1b1d.ctex"
+path="res://.godot/imported/EnemyInfo_Amas_Millenium_AR.png-35021ed0216e656e974248a20ee13e9d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/EnemyInfo_Amas_Millenium_AR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Amas_Millenium_AR.png-4ccbc8bbf064598a76466a993eaf1b1d.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/EnemyInfo_Amas_Millenium_AR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Amas_Millenium_AR.png-35021ed0216e656e974248a20ee13e9d.ctex"]
 
 [params]
 

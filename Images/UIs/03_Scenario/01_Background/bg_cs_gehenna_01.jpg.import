@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bospn4c2fyaix"
-path="res://.godot/imported/bg_cs_gehenna_01.jpg-fc83293265135cecbb293ffdcac507fd.ctex"
+path="res://.godot/imported/bg_cs_gehenna_01.jpg-f14e4e4adb97e18b61bd2593be137a3e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_cs_gehenna_01.jpg"
-dest_files=["res://.godot/imported/bg_cs_gehenna_01.jpg-fc83293265135cecbb293ffdcac507fd.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_cs_gehenna_01.jpg"
+dest_files=["res://.godot/imported/bg_cs_gehenna_01.jpg-f14e4e4adb97e18b61bd2593be137a3e.ctex"]
 
 [params]
 

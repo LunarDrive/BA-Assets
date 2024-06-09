@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdwd7u8jh7ei4"
-path="res://.godot/imported/Imgfont_UICountdown_Gehenna_Kr.png-ea0d8bcc2ef20865ee742a8a7dc08888.ctex"
+path="res://.godot/imported/Imgfont_UICountdown_Gehenna_Kr.png-800f4aaa27ab58336dda329a9b66eca6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/UICountdown/Imgfont_UICountdown_Gehenna_Kr.png"
-dest_files=["res://.godot/imported/Imgfont_UICountdown_Gehenna_Kr.png-ea0d8bcc2ef20865ee742a8a7dc08888.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/UICountdown/Imgfont_UICountdown_Gehenna_Kr.png"
+dest_files=["res://.godot/imported/Imgfont_UICountdown_Gehenna_Kr.png-800f4aaa27ab58336dda329a9b66eca6.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://e2i31utn6kj7"
-path="res://.godot/imported/Attendance02_Deco_04.png-d780939b1530769c8ce703a81ac80372.ctex"
+path="res://.godot/imported/Attendance02_Deco_04.png-64e3a0099e8c50b1f800f2a9febac44f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Attendance/Attendance02_Deco_04.png"
-dest_files=["res://.godot/imported/Attendance02_Deco_04.png-d780939b1530769c8ce703a81ac80372.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Attendance/Attendance02_Deco_04.png"
+dest_files=["res://.godot/imported/Attendance02_Deco_04.png-64e3a0099e8c50b1f800f2a9febac44f.ctex"]
 
 [params]
 

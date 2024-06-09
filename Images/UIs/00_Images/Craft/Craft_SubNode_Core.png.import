@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://df8kivgih4ud4"
-path="res://.godot/imported/Craft_SubNode_Core.png-af7a711580c48fafc24fcca6e04c4ca6.ctex"
+path="res://.godot/imported/Craft_SubNode_Core.png-0c30d5de4104909ad7c7b04ddc6ebe42.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Craft/Craft_SubNode_Core.png"
-dest_files=["res://.godot/imported/Craft_SubNode_Core.png-af7a711580c48fafc24fcca6e04c4ca6.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Craft/Craft_SubNode_Core.png"
+dest_files=["res://.godot/imported/Craft_SubNode_Core.png-0c30d5de4104909ad7c7b04ddc6ebe42.ctex"]
 
 [params]
 

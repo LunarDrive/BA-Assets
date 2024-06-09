@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://blwhtl5g3t4mt"
-path="res://.godot/imported/Item_Icon_Material_Kikuko_1.png-cdd4f9858a6576711d916ff091c65054.ctex"
+path="res://.godot/imported/Item_Icon_Material_Kikuko_1.png-052560d3d2498e07a4a7361ff624cfec.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Kikuko_1.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_Kikuko_1.png-cdd4f9858a6576711d916ff091c65054.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Kikuko_1.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_Kikuko_1.png-052560d3d2498e07a4a7361ff624cfec.ctex"]
 
 [params]
 

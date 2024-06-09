@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dehbxtr8fsa6g"
-path="res://.godot/imported/TimeAttackGeas_Enemy_FireArea_TriggerDie.png-27abdd10d57bdf00e947d5dcb67b2ab8.ctex"
+path="res://.godot/imported/TimeAttackGeas_Enemy_FireArea_TriggerDie.png-6c6cf94add6d3ebefcfce3cc7fabc2c0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/35_TimeAttack/TimeAttackGeas_Enemy_FireArea_TriggerDie.png"
-dest_files=["res://.godot/imported/TimeAttackGeas_Enemy_FireArea_TriggerDie.png-27abdd10d57bdf00e947d5dcb67b2ab8.ctex"]
+source_file="res://assets/Images/UIs/01_Common/35_TimeAttack/TimeAttackGeas_Enemy_FireArea_TriggerDie.png"
+dest_files=["res://.godot/imported/TimeAttackGeas_Enemy_FireArea_TriggerDie.png-6c6cf94add6d3ebefcfce3cc7fabc2c0.ctex"]
 
 [params]
 

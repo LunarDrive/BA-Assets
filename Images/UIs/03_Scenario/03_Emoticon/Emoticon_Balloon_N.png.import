@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4om1m7uc1sxg"
-path="res://.godot/imported/Emoticon_Balloon_N.png-1bec4cc9ac2a6f1bbeff85817f49d47a.ctex"
+path="res://.godot/imported/Emoticon_Balloon_N.png-21371b0dea55ab27911efcd878589334.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/03_Emoticon/Emoticon_Balloon_N.png"
-dest_files=["res://.godot/imported/Emoticon_Balloon_N.png-1bec4cc9ac2a6f1bbeff85817f49d47a.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/03_Emoticon/Emoticon_Balloon_N.png"
+dest_files=["res://.godot/imported/Emoticon_Balloon_N.png-21371b0dea55ab27911efcd878589334.ctex"]
 
 [params]
 

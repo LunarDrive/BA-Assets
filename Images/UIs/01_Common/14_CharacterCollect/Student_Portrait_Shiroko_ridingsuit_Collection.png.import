@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dupx4wrw667ej"
-path="res://.godot/imported/Student_Portrait_Shiroko_ridingsuit_Collection.png-c25ba1adf583862430719b6d5672ddc8.ctex"
+path="res://.godot/imported/Student_Portrait_Shiroko_ridingsuit_Collection.png-c55778dad1b0fb2df8a6d1e17fcae932.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Shiroko_ridingsuit_Collection.png"
-dest_files=["res://.godot/imported/Student_Portrait_Shiroko_ridingsuit_Collection.png-c25ba1adf583862430719b6d5672ddc8.ctex"]
+source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Shiroko_ridingsuit_Collection.png"
+dest_files=["res://.godot/imported/Student_Portrait_Shiroko_ridingsuit_Collection.png-c55778dad1b0fb2df8a6d1e17fcae932.ctex"]
 
 [params]
 

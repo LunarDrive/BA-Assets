@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0txume42tssa"
-path="res://.godot/imported/Information_Raid_02_Jp.png-c1062994ae9c702266a9b1fde73c26ca.ctex"
+path="res://.godot/imported/Information_Raid_02_Jp.png-145b36242059ebd0785e519b6af126c9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/28_Information/Information_Raid_02_Jp.png"
-dest_files=["res://.godot/imported/Information_Raid_02_Jp.png-c1062994ae9c702266a9b1fde73c26ca.ctex"]
+source_file="res://assets/Images/UIs/01_Common/28_Information/Information_Raid_02_Jp.png"
+dest_files=["res://.godot/imported/Information_Raid_02_Jp.png-145b36242059ebd0785e519b6af126c9.ctex"]
 
 [params]
 

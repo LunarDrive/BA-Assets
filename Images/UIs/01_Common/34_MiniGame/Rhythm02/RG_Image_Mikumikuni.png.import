@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://npru04ss15i5"
-path="res://.godot/imported/RG_Image_Mikumikuni.png-9942775c7bc8f6692e7992bec80e4cf6.ctex"
+path="res://.godot/imported/RG_Image_Mikumikuni.png-b081c43c9bea657b1fa715ad95cd4980.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/34_MiniGame/Rhythm02/RG_Image_Mikumikuni.png"
-dest_files=["res://.godot/imported/RG_Image_Mikumikuni.png-9942775c7bc8f6692e7992bec80e4cf6.ctex"]
+source_file="res://assets/Images/UIs/01_Common/34_MiniGame/Rhythm02/RG_Image_Mikumikuni.png"
+dest_files=["res://.godot/imported/RG_Image_Mikumikuni.png-b081c43c9bea657b1fa715ad95cd4980.ctex"]
 
 [params]
 

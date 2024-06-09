@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdcbrlre0msr5"
-path="res://.godot/imported/Portrait_Raidboss_Kuro.png-6b3a2ce67329f82d17bcac648d77f3aa.ctex"
+path="res://.godot/imported/Portrait_Raidboss_Kuro.png-427765d926d3c8ac65a54b56873e5b1e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/06_Raid/Portrait_Raidboss_Kuro.png"
-dest_files=["res://.godot/imported/Portrait_Raidboss_Kuro.png-6b3a2ce67329f82d17bcac648d77f3aa.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/06_Raid/Portrait_Raidboss_Kuro.png"
+dest_files=["res://.godot/imported/Portrait_Raidboss_Kuro.png-427765d926d3c8ac65a54b56873e5b1e.ctex"]
 
 [params]
 

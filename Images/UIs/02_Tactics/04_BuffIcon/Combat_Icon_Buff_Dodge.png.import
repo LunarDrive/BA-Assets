@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://koinwtiqw2fh"
-path="res://.godot/imported/Combat_Icon_Buff_Dodge.png-54fe41aa66fed243437afb5934726a1b.ctex"
+path="res://.godot/imported/Combat_Icon_Buff_Dodge.png-58f98a5e3be42bdaacc6a085554fbe23.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_Dodge.png"
-dest_files=["res://.godot/imported/Combat_Icon_Buff_Dodge.png-54fe41aa66fed243437afb5934726a1b.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_Dodge.png"
+dest_files=["res://.godot/imported/Combat_Icon_Buff_Dodge.png-58f98a5e3be42bdaacc6a085554fbe23.ctex"]
 
 [params]
 

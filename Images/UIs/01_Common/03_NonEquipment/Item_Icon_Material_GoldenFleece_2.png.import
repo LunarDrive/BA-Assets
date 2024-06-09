@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://16oddyydtl5l"
-path="res://.godot/imported/Item_Icon_Material_GoldenFleece_2.png-880fe087383d3992a666ffb78a195414.ctex"
+path="res://.godot/imported/Item_Icon_Material_GoldenFleece_2.png-109947bd01a55ad2df7e08b26c92cb95.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_GoldenFleece_2.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_GoldenFleece_2.png-880fe087383d3992a666ffb78a195414.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_GoldenFleece_2.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_GoldenFleece_2.png-109947bd01a55ad2df7e08b26c92cb95.ctex"]
 
 [params]
 

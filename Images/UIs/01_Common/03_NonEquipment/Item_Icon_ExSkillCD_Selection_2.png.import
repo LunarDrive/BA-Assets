@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgg11r7om6pw"
-path="res://.godot/imported/Item_Icon_ExSkillCD_Selection_2.png-87509569420355b8f83186ae7ca43283.ctex"
+path="res://.godot/imported/Item_Icon_ExSkillCD_Selection_2.png-16d224755681fd0daedee512da548e54.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_ExSkillCD_Selection_2.png"
-dest_files=["res://.godot/imported/Item_Icon_ExSkillCD_Selection_2.png-87509569420355b8f83186ae7ca43283.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_ExSkillCD_Selection_2.png"
+dest_files=["res://.godot/imported/Item_Icon_ExSkillCD_Selection_2.png-16d224755681fd0daedee512da548e54.ctex"]
 
 [params]
 

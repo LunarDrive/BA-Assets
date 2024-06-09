@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8bccpy1go0rd"
-path="res://.godot/imported/Imgfont_UICountdown_Millennium_School.png-91e95ba8f85b4f6546e6c42b0eb1177d.ctex"
+path="res://.godot/imported/Imgfont_UICountdown_Millennium_School.png-e2f15b826d57ec78f6c9841f36ef3794.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/UICountdown/Imgfont_UICountdown_Millennium_School.png"
-dest_files=["res://.godot/imported/Imgfont_UICountdown_Millennium_School.png-91e95ba8f85b4f6546e6c42b0eb1177d.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/UICountdown/Imgfont_UICountdown_Millennium_School.png"
+dest_files=["res://.godot/imported/Imgfont_UICountdown_Millennium_School.png-e2f15b826d57ec78f6c9841f36ef3794.ctex"]
 
 [params]
 

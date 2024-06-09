@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btf41tq6b7xwo"
-path="res://.godot/imported/EnemyInfo_Soldier_Fuuki_SG.png-ff6d641aeca5d5b4dd2226dd5e56afb2.ctex"
+path="res://.godot/imported/EnemyInfo_Soldier_Fuuki_SG.png-6d01e12f9ee376255b2df52c9d02f797.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Soldier_Fuuki_SG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Soldier_Fuuki_SG.png-ff6d641aeca5d5b4dd2226dd5e56afb2.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Soldier_Fuuki_SG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Soldier_Fuuki_SG.png-6d01e12f9ee376255b2df52c9d02f797.ctex"]
 
 [params]
 

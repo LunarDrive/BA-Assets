@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dce1lp7nkf8o4"
-path="res://.godot/imported/Common_Btn_EventNotice.png-ab59f3ce0f4e191902e8451138e6136b.ctex"
+path="res://.godot/imported/Common_Btn_EventNotice.png-305087f20eee38dd0c8c8254969ac2e5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Common_Btn_EventNotice.png"
-dest_files=["res://.godot/imported/Common_Btn_EventNotice.png-ab59f3ce0f4e191902e8451138e6136b.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Common_Btn_EventNotice.png"
+dest_files=["res://.godot/imported/Common_Btn_EventNotice.png-305087f20eee38dd0c8c8254969ac2e5.ctex"]
 
 [params]
 

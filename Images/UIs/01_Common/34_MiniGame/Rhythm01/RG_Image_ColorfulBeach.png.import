@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvc1rfu6ddejx"
-path="res://.godot/imported/RG_Image_ColorfulBeach.png-e01b65f12e1c37966386b2a08ca3dd59.ctex"
+path="res://.godot/imported/RG_Image_ColorfulBeach.png-d2eda4743511dd1ba48f54786175c06e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/34_MiniGame/Rhythm01/RG_Image_ColorfulBeach.png"
-dest_files=["res://.godot/imported/RG_Image_ColorfulBeach.png-e01b65f12e1c37966386b2a08ca3dd59.ctex"]
+source_file="res://assets/Images/UIs/01_Common/34_MiniGame/Rhythm01/RG_Image_ColorfulBeach.png"
+dest_files=["res://.godot/imported/RG_Image_ColorfulBeach.png-d2eda4743511dd1ba48f54786175c06e.ctex"]
 
 [params]
 

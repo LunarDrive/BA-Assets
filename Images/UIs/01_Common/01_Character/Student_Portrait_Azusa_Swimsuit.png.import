@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bex7b431i8nyn"
-path="res://.godot/imported/Student_Portrait_Azusa_Swimsuit.png-0fee6c876d78b6ef7880ca4fe0d04fd8.ctex"
+path="res://.godot/imported/Student_Portrait_Azusa_Swimsuit.png-cb683a95e099ef40ffa02c35eb6660b8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Azusa_Swimsuit.png"
-dest_files=["res://.godot/imported/Student_Portrait_Azusa_Swimsuit.png-0fee6c876d78b6ef7880ca4fe0d04fd8.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Azusa_Swimsuit.png"
+dest_files=["res://.godot/imported/Student_Portrait_Azusa_Swimsuit.png-cb683a95e099ef40ffa02c35eb6660b8.ctex"]
 
 [params]
 

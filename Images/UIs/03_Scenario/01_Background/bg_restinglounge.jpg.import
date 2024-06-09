@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dt315uj1wcr7y"
-path="res://.godot/imported/bg_restinglounge.jpg-5edec6031cf8ec4852a65b5abfd678ed.ctex"
+path="res://.godot/imported/bg_restinglounge.jpg-c1efb5e3d69b38ff99c562cab81653d5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_restinglounge.jpg"
-dest_files=["res://.godot/imported/bg_restinglounge.jpg-5edec6031cf8ec4852a65b5abfd678ed.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_restinglounge.jpg"
+dest_files=["res://.godot/imported/bg_restinglounge.jpg-c1efb5e3d69b38ff99c562cab81653d5.ctex"]
 
 [params]
 

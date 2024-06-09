@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdoianbtm6vyu"
-path="res://.godot/imported/EnemyInfo_Totem03_TimeAttack.png-4ac0f5b73fd28ff1a028bb6fa1200001.ctex"
+path="res://.godot/imported/EnemyInfo_Totem03_TimeAttack.png-2c7ed34a7f58ba968f4f0686935161c0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Totem03_TimeAttack.png"
-dest_files=["res://.godot/imported/EnemyInfo_Totem03_TimeAttack.png-4ac0f5b73fd28ff1a028bb6fa1200001.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Totem03_TimeAttack.png"
+dest_files=["res://.godot/imported/EnemyInfo_Totem03_TimeAttack.png-2c7ed34a7f58ba968f4f0686935161c0.ctex"]
 
 [params]
 

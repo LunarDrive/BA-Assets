@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bdav1pvvx88fr"
-path="res://.godot/imported/UI_Gacha_Normal_01.ogg-da958c3fc6b941e4bab774924b77dca5.oggvorbisstr"
+path="res://.godot/imported/UI_Gacha_Normal_01.ogg-cc6477a0f46827cca2f8b3d027cb839e.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_UI/SFX_Gacha/UI_Gacha_Normal_01.ogg"
-dest_files=["res://.godot/imported/UI_Gacha_Normal_01.ogg-da958c3fc6b941e4bab774924b77dca5.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_UI/SFX_Gacha/UI_Gacha_Normal_01.ogg"
+dest_files=["res://.godot/imported/UI_Gacha_Normal_01.ogg-cc6477a0f46827cca2f8b3d027cb839e.oggvorbisstr"]
 
 [params]
 

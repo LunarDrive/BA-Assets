@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cak2fkkdfob2h"
-path="res://.godot/imported/My_Trophy_Shirokuro_City_Bronze.png-0329e3f019c997834f46ff887ac90ef0.ctex"
+path="res://.godot/imported/My_Trophy_Shirokuro_City_Bronze.png-0f7e0a88145b53294b851045d2f2227e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Shirokuro_City_Bronze.png"
-dest_files=["res://.godot/imported/My_Trophy_Shirokuro_City_Bronze.png-0329e3f019c997834f46ff887ac90ef0.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Shirokuro_City_Bronze.png"
+dest_files=["res://.godot/imported/My_Trophy_Shirokuro_City_Bronze.png-0f7e0a88145b53294b851045d2f2227e.ctex"]
 
 [params]
 

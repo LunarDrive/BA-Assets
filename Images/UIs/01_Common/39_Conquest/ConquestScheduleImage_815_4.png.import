@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpiboka8abjnf"
-path="res://.godot/imported/ConquestScheduleImage_815_4.png-2fd77cdf35128958ac294b4dfd898577.ctex"
+path="res://.godot/imported/ConquestScheduleImage_815_4.png-eebfab877d7207437831261de245e28d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/39_Conquest/ConquestScheduleImage_815_4.png"
-dest_files=["res://.godot/imported/ConquestScheduleImage_815_4.png-2fd77cdf35128958ac294b4dfd898577.ctex"]
+source_file="res://assets/Images/UIs/01_Common/39_Conquest/ConquestScheduleImage_815_4.png"
+dest_files=["res://.godot/imported/ConquestScheduleImage_815_4.png-eebfab877d7207437831261de245e28d.ctex"]
 
 [params]
 

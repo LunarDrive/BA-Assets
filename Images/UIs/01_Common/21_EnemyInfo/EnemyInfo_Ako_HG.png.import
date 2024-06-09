@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhatmpm8f53wy"
-path="res://.godot/imported/EnemyInfo_Ako_HG.png-2a98fc7a73643904d22b5b5ef6347d2c.ctex"
+path="res://.godot/imported/EnemyInfo_Ako_HG.png-9b8b10587d3b1960d34af478a4d332c3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Ako_HG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Ako_HG.png-2a98fc7a73643904d22b5b5ef6347d2c.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Ako_HG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Ako_HG.png-9b8b10587d3b1960d34af478a4d332c3.ctex"]
 
 [params]
 

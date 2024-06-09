@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cl5bph6cwdody"
-path="res://.godot/imported/SE_Cook_02.ogg-c69ec6490041c5f3d58f9b9279ee7b93.oggvorbisstr"
+path="res://.godot/imported/SE_Cook_02.ogg-98d16eb89cd0bdf804ee3bb5514363f9.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Cook_02.ogg"
-dest_files=["res://.godot/imported/SE_Cook_02.ogg-c69ec6490041c5f3d58f9b9279ee7b93.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Cook_02.ogg"
+dest_files=["res://.godot/imported/SE_Cook_02.ogg-98d16eb89cd0bdf804ee3bb5514363f9.oggvorbisstr"]
 
 [params]
 

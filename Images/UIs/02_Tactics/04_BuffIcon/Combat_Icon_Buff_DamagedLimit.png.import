@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b42v6xqs8jsjk"
-path="res://.godot/imported/Combat_Icon_Buff_DamagedLimit.png-cbe6744e854fdb4be412ff09c9a0ee87.ctex"
+path="res://.godot/imported/Combat_Icon_Buff_DamagedLimit.png-47e0b6f59c0fb70b5fbf698d1ad729fa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_DamagedLimit.png"
-dest_files=["res://.godot/imported/Combat_Icon_Buff_DamagedLimit.png-cbe6744e854fdb4be412ff09c9a0ee87.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_DamagedLimit.png"
+dest_files=["res://.godot/imported/Combat_Icon_Buff_DamagedLimit.png-47e0b6f59c0fb70b5fbf698d1ad729fa.ctex"]
 
 [params]
 

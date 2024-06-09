@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bipgv1wlvqetp"
-path="res://.godot/imported/bg_ruinsubmergeddistrict.jpg-77bec226bf65e4f93a97d7f0700fae54.ctex"
+path="res://.godot/imported/bg_ruinsubmergeddistrict.jpg-898bd83ba6d36c7390df7c50466d9c80.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_ruinsubmergeddistrict.jpg"
-dest_files=["res://.godot/imported/bg_ruinsubmergeddistrict.jpg-77bec226bf65e4f93a97d7f0700fae54.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_ruinsubmergeddistrict.jpg"
+dest_files=["res://.godot/imported/bg_ruinsubmergeddistrict.jpg-898bd83ba6d36c7390df7c50466d9c80.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bytkvopro6xyn"
-path="res://.godot/imported/SFX_Boing_JSD_01.ogg-3fb9f6ff31b2dd5a5eeba9e66190a7ff.oggvorbisstr"
+path="res://.godot/imported/SFX_Boing_JSD_01.ogg-72b5fe5ccf9d6d77285fc906d689c450.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Boing_JSD_01.ogg"
-dest_files=["res://.godot/imported/SFX_Boing_JSD_01.ogg-3fb9f6ff31b2dd5a5eeba9e66190a7ff.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Boing_JSD_01.ogg"
+dest_files=["res://.godot/imported/SFX_Boing_JSD_01.ogg-72b5fe5ccf9d6d77285fc906d689c450.oggvorbisstr"]
 
 [params]
 

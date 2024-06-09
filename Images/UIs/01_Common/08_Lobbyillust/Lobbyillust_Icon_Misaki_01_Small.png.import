@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cngq8fjjqargy"
-path="res://.godot/imported/Lobbyillust_Icon_Misaki_01_Small.png-779a02eb636d911859bb7cce7e4c4324.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Misaki_01_Small.png-90151686820656d59bb18968c2c2db00.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Misaki_01_Small.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Misaki_01_Small.png-779a02eb636d911859bb7cce7e4c4324.ctex"]
+source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Misaki_01_Small.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Misaki_01_Small.png-90151686820656d59bb18968c2c2db00.ctex"]
 
 [params]
 

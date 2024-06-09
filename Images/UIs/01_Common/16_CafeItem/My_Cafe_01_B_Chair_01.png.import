@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7dv37h7wo2xb"
-path="res://.godot/imported/My_Cafe_01_B_Chair_01.png-c55742a1fb0b6f732b93ef276eff7fdb.ctex"
+path="res://.godot/imported/My_Cafe_01_B_Chair_01.png-203227b327db3782aff86c2e9dc0c1aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Cafe_01_B_Chair_01.png"
-dest_files=["res://.godot/imported/My_Cafe_01_B_Chair_01.png-c55742a1fb0b6f732b93ef276eff7fdb.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Cafe_01_B_Chair_01.png"
+dest_files=["res://.godot/imported/My_Cafe_01_B_Chair_01.png-203227b327db3782aff86c2e9dc0c1aa.ctex"]
 
 [params]
 

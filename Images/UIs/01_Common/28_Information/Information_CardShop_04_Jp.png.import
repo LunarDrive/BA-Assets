@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgwbcpq40tr2w"
-path="res://.godot/imported/Information_CardShop_04_Jp.png-be71b117aac0f220e4ffa55614f7009e.ctex"
+path="res://.godot/imported/Information_CardShop_04_Jp.png-dbdd63296560d1368e9984fcb56f1142.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/28_Information/Information_CardShop_04_Jp.png"
-dest_files=["res://.godot/imported/Information_CardShop_04_Jp.png-be71b117aac0f220e4ffa55614f7009e.ctex"]
+source_file="res://assets/Images/UIs/01_Common/28_Information/Information_CardShop_04_Jp.png"
+dest_files=["res://.godot/imported/Information_CardShop_04_Jp.png-dbdd63296560d1368e9984fcb56f1142.ctex"]
 
 [params]
 

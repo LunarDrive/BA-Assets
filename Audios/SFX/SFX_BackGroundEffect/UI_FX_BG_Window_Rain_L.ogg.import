@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dsymi1ax5dk7l"
-path="res://.godot/imported/UI_FX_BG_Window_Rain_L.ogg-0b81c5eb772c76ffd1443f0b61a8f3e2.oggvorbisstr"
+path="res://.godot/imported/UI_FX_BG_Window_Rain_L.ogg-cdfc0eb1327304896c2a7de748022455.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Window_Rain_L.ogg"
-dest_files=["res://.godot/imported/UI_FX_BG_Window_Rain_L.ogg-0b81c5eb772c76ffd1443f0b61a8f3e2.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Window_Rain_L.ogg"
+dest_files=["res://.godot/imported/UI_FX_BG_Window_Rain_L.ogg-cdfc0eb1327304896c2a7de748022455.oggvorbisstr"]
 
 [params]
 

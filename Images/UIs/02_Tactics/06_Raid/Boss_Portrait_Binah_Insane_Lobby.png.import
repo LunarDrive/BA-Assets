@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bn4igw7ge465t"
-path="res://.godot/imported/Boss_Portrait_Binah_Insane_Lobby.png-a5d978ad111cf3f24539671c09ae2790.ctex"
+path="res://.godot/imported/Boss_Portrait_Binah_Insane_Lobby.png-b8fb246c69fba5c26c46ef5ab5142dba.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_Insane_Lobby.png"
-dest_files=["res://.godot/imported/Boss_Portrait_Binah_Insane_Lobby.png-a5d978ad111cf3f24539671c09ae2790.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_Insane_Lobby.png"
+dest_files=["res://.godot/imported/Boss_Portrait_Binah_Insane_Lobby.png-b8fb246c69fba5c26c46ef5ab5142dba.ctex"]
 
 [params]
 

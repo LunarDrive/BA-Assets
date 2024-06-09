@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bm7e058hfn7wp"
-path="res://.godot/imported/Currency_Icon_AP.png-b8b3ac66cac9ada725942d85c1d1c00f.ctex"
+path="res://.godot/imported/Currency_Icon_AP.png-b815ed4d873452c67085d57048963c21.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Currency_Icon_AP.png"
-dest_files=["res://.godot/imported/Currency_Icon_AP.png-b8b3ac66cac9ada725942d85c1d1c00f.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Currency_Icon_AP.png"
+dest_files=["res://.godot/imported/Currency_Icon_AP.png-b815ed4d873452c67085d57048963c21.ctex"]
 
 [params]
 

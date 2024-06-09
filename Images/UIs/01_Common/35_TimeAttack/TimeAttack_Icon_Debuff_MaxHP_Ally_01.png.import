@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5ikpm7lql8oj"
-path="res://.godot/imported/TimeAttack_Icon_Debuff_MaxHP_Ally_01.png-25aea687ef34201bdc88c70347f2425f.ctex"
+path="res://.godot/imported/TimeAttack_Icon_Debuff_MaxHP_Ally_01.png-f817201eb8a409d713a0f744c974d9f3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/35_TimeAttack/TimeAttack_Icon_Debuff_MaxHP_Ally_01.png"
-dest_files=["res://.godot/imported/TimeAttack_Icon_Debuff_MaxHP_Ally_01.png-25aea687ef34201bdc88c70347f2425f.ctex"]
+source_file="res://assets/Images/UIs/01_Common/35_TimeAttack/TimeAttack_Icon_Debuff_MaxHP_Ally_01.png"
+dest_files=["res://.godot/imported/TimeAttack_Icon_Debuff_MaxHP_Ally_01.png-f817201eb8a409d713a0f744c974d9f3.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://gwhfuh3sv28c"
-path="res://.godot/imported/SE_Zipper_01.ogg-d92f426bf2eb10b2369462deb326a5a9.oggvorbisstr"
+path="res://.godot/imported/SE_Zipper_01.ogg-826326f96fbf6702b81776f3b4e9b05f.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Zipper_01.ogg"
-dest_files=["res://.godot/imported/SE_Zipper_01.ogg-d92f426bf2eb10b2369462deb326a5a9.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Zipper_01.ogg"
+dest_files=["res://.godot/imported/SE_Zipper_01.ogg-826326f96fbf6702b81776f3b4e9b05f.oggvorbisstr"]
 
 [params]
 

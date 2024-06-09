@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bgx1osmxjgxh0"
-path="res://.godot/imported/SFX_Spine_Chime.ogg-1c2e87d7e2a3b8c58a376cb5e9eb4901.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_Chime.ogg-dd560c132a1216ee05277f49abab51d1.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Chime.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_Chime.ogg-1c2e87d7e2a3b8c58a376cb5e9eb4901.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Chime.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_Chime.ogg-dd560c132a1216ee05277f49abab51d1.oggvorbisstr"]
 
 [params]
 

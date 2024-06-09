@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b58wnyv3p652a"
-path="res://.godot/imported/SFX_Common_Flame_T_CH0088_Delay_01.wav-ec01dfe0a16692b69eba7153a53ebb5c.sample"
+path="res://.godot/imported/SFX_Common_Flame_T_CH0088_Delay_01.wav-780fb8429b94fcb24abbb67e5fa86519.sample"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/SFX_Common_Flame_T_CH0088_Delay_01.wav"
-dest_files=["res://.godot/imported/SFX_Common_Flame_T_CH0088_Delay_01.wav-ec01dfe0a16692b69eba7153a53ebb5c.sample"]
+source_file="res://assets/Audios/SFX/SFX_Common/SFX_Common_Flame_T_CH0088_Delay_01.wav"
+dest_files=["res://.godot/imported/SFX_Common_Flame_T_CH0088_Delay_01.wav-780fb8429b94fcb24abbb67e5fa86519.sample"]
 
 [params]
 

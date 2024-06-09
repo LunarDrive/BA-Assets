@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bo3bo0uc3wbf1"
-path="res://.godot/imported/EnemyInfo_HeavyTank01_Helmet_Cannon.png-1b16df50464aa0cbc756dba31ac32677.ctex"
+path="res://.godot/imported/EnemyInfo_HeavyTank01_Helmet_Cannon.png-da5de0762abbeb270253ae415720a496.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_HeavyTank01_Helmet_Cannon.png"
-dest_files=["res://.godot/imported/EnemyInfo_HeavyTank01_Helmet_Cannon.png-1b16df50464aa0cbc756dba31ac32677.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_HeavyTank01_Helmet_Cannon.png"
+dest_files=["res://.godot/imported/EnemyInfo_HeavyTank01_Helmet_Cannon.png-da5de0762abbeb270253ae415720a496.ctex"]
 
 [params]
 

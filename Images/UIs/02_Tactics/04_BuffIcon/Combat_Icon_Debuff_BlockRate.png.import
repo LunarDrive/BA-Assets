@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bn4jbo8juqj1d"
-path="res://.godot/imported/Combat_Icon_Debuff_BlockRate.png-af77377b72af04acd4508190e1150a4a.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_BlockRate.png-b71b8b106db963c31f04f2228d39dda0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_BlockRate.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_BlockRate.png-af77377b72af04acd4508190e1150a4a.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_BlockRate.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_BlockRate.png-b71b8b106db963c31f04f2228d39dda0.ctex"]
 
 [params]
 

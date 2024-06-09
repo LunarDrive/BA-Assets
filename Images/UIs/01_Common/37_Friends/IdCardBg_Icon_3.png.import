@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dawlc7liyksmk"
-path="res://.godot/imported/IdCardBg_Icon_3.png-cc675a92e99b1d01c186fd605416ffe9.ctex"
+path="res://.godot/imported/IdCardBg_Icon_3.png-f89848bb41cf5c9c28a3faddc3a63c3b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/37_Friends/IdCardBg_Icon_3.png"
-dest_files=["res://.godot/imported/IdCardBg_Icon_3.png-cc675a92e99b1d01c186fd605416ffe9.ctex"]
+source_file="res://assets/Images/UIs/01_Common/37_Friends/IdCardBg_Icon_3.png"
+dest_files=["res://.godot/imported/IdCardBg_Icon_3.png-f89848bb41cf5c9c28a3faddc3a63c3b.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b7ulyqi8a20ew"
-path="res://.godot/imported/SE_MissileFly_02.ogg-9bdea0d7207cddaf97a0ed4d11d3725c.oggvorbisstr"
+path="res://.godot/imported/SE_MissileFly_02.ogg-bcc10b95acb06f7e189a1fd3b78da319.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_MissileFly_02.ogg"
-dest_files=["res://.godot/imported/SE_MissileFly_02.ogg-9bdea0d7207cddaf97a0ed4d11d3725c.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_MissileFly_02.ogg"
+dest_files=["res://.godot/imported/SE_MissileFly_02.ogg-bcc10b95acb06f7e189a1fd3b78da319.oggvorbisstr"]
 
 [params]
 

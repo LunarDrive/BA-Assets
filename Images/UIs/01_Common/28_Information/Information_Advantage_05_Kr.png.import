@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b00du75asurws"
-path="res://.godot/imported/Information_Advantage_05_Kr.png-8a5bcf916f57c5b7a7a9ea7347b8b61b.ctex"
+path="res://.godot/imported/Information_Advantage_05_Kr.png-17bcf8ecc762293b245dbf56e2ab0150.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/28_Information/Information_Advantage_05_Kr.png"
-dest_files=["res://.godot/imported/Information_Advantage_05_Kr.png-8a5bcf916f57c5b7a7a9ea7347b8b61b.ctex"]
+source_file="res://assets/Images/UIs/01_Common/28_Information/Information_Advantage_05_Kr.png"
+dest_files=["res://.godot/imported/Information_Advantage_05_Kr.png-17bcf8ecc762293b245dbf56e2ab0150.ctex"]
 
 [params]
 

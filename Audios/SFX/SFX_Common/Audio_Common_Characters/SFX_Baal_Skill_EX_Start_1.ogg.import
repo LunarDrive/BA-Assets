@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b20xwtyw0c0e7"
-path="res://.godot/imported/SFX_Baal_Skill_EX_Start_1.ogg-d08bb437d4d3106ae27f4bcba973f711.oggvorbisstr"
+path="res://.godot/imported/SFX_Baal_Skill_EX_Start_1.ogg-abee764c3614736340645c30bc25f101.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Baal_Skill_EX_Start_1.ogg"
-dest_files=["res://.godot/imported/SFX_Baal_Skill_EX_Start_1.ogg-d08bb437d4d3106ae27f4bcba973f711.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Baal_Skill_EX_Start_1.ogg"
+dest_files=["res://.godot/imported/SFX_Baal_Skill_EX_Start_1.ogg-abee764c3614736340645c30bc25f101.oggvorbisstr"]
 
 [params]
 

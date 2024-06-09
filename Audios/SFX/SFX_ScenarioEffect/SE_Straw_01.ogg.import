@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cp4pahn64b0mp"
-path="res://.godot/imported/SE_Straw_01.ogg-e2a3d57c3770580f308fe7b129eb8d39.oggvorbisstr"
+path="res://.godot/imported/SE_Straw_01.ogg-f980de998d5a82b1f65c2f8ceb0dbc80.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Straw_01.ogg"
-dest_files=["res://.godot/imported/SE_Straw_01.ogg-e2a3d57c3770580f308fe7b129eb8d39.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Straw_01.ogg"
+dest_files=["res://.godot/imported/SE_Straw_01.ogg-f980de998d5a82b1f65c2f8ceb0dbc80.oggvorbisstr"]
 
 [params]
 

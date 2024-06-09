@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kb1u7lsomqfk"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Police_Valkyrie_AR.png-a7edc02781564a14323e07bdf6e370c5.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Police_Valkyrie_AR.png-1baa966ff5d97914232268f5ac4ed8d0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Police_Valkyrie_AR.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Police_Valkyrie_AR.png-a7edc02781564a14323e07bdf6e370c5.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Police_Valkyrie_AR.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Police_Valkyrie_AR.png-1baa966ff5d97914232268f5ac4ed8d0.ctex"]
 
 [params]
 

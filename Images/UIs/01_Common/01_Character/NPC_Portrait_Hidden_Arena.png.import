@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0mnj1xrdvnsc"
-path="res://.godot/imported/NPC_Portrait_Hidden_Arena.png-b3843c02148de8cb0693d0b39eed4508.ctex"
+path="res://.godot/imported/NPC_Portrait_Hidden_Arena.png-bce686f9f3ed4d6bc3fc7f022b801260.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Hidden_Arena.png"
-dest_files=["res://.godot/imported/NPC_Portrait_Hidden_Arena.png-b3843c02148de8cb0693d0b39eed4508.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Hidden_Arena.png"
+dest_files=["res://.godot/imported/NPC_Portrait_Hidden_Arena.png-bce686f9f3ed4d6bc3fc7f022b801260.ctex"]
 
 [params]
 

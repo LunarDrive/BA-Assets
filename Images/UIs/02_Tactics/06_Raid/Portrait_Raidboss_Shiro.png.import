@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bn4taqoyfyqi2"
-path="res://.godot/imported/Portrait_Raidboss_Shiro.png-66702c83891d03e5b961601a06b1e12e.ctex"
+path="res://.godot/imported/Portrait_Raidboss_Shiro.png-97204db7c3b49fff159b4405bc1063b1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/06_Raid/Portrait_Raidboss_Shiro.png"
-dest_files=["res://.godot/imported/Portrait_Raidboss_Shiro.png-66702c83891d03e5b961601a06b1e12e.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/06_Raid/Portrait_Raidboss_Shiro.png"
+dest_files=["res://.godot/imported/Portrait_Raidboss_Shiro.png-97204db7c3b49fff159b4405bc1063b1.ctex"]
 
 [params]
 

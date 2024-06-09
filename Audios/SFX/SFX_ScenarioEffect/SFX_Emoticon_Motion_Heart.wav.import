@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://orxy7j1s54kc"
-path="res://.godot/imported/SFX_Emoticon_Motion_Heart.wav-0737aa60ca371b712c8e2b891bcaba2a.sample"
+path="res://.godot/imported/SFX_Emoticon_Motion_Heart.wav-b9c3681c59cfe3d2458423cd89684689.sample"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Heart.wav"
-dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Heart.wav-0737aa60ca371b712c8e2b891bcaba2a.sample"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Heart.wav"
+dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Heart.wav-b9c3681c59cfe3d2458423cd89684689.sample"]
 
 [params]
 

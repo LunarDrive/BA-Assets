@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vgr2alovepy0"
-path="res://.godot/imported/Contents_Image_SchoolC.png-b0fa82840fdebfe6f357ea27b6fdc543.ctex"
+path="res://.godot/imported/Contents_Image_SchoolC.png-9a66177963a0a7eb9d16e1c04520c761.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/BigBtn/Contents_Image_SchoolC.png"
-dest_files=["res://.godot/imported/Contents_Image_SchoolC.png-b0fa82840fdebfe6f357ea27b6fdc543.ctex"]
+source_file="res://assets/Images/UIs/00_Images/BigBtn/Contents_Image_SchoolC.png"
+dest_files=["res://.godot/imported/Contents_Image_SchoolC.png-9a66177963a0a7eb9d16e1c04520c761.ctex"]
 
 [params]
 

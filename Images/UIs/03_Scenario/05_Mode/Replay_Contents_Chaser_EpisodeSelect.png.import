@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfc5kgbv8nx8w"
-path="res://.godot/imported/Replay_Contents_Chaser_EpisodeSelect.png-3242557faca4fb6921d66f733d4ad251.ctex"
+path="res://.godot/imported/Replay_Contents_Chaser_EpisodeSelect.png-ccf788c525717407de1b4311ce3e45f9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/05_Mode/Replay_Contents_Chaser_EpisodeSelect.png"
-dest_files=["res://.godot/imported/Replay_Contents_Chaser_EpisodeSelect.png-3242557faca4fb6921d66f733d4ad251.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/05_Mode/Replay_Contents_Chaser_EpisodeSelect.png"
+dest_files=["res://.godot/imported/Replay_Contents_Chaser_EpisodeSelect.png-ccf788c525717407de1b4311ce3e45f9.ctex"]
 
 [params]
 

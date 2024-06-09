@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dapbat68ceomc"
-path="res://.godot/imported/TimeAttack_Icon_Terrain_Street_01.png-e9c580364d80268729d568554cfae9a8.ctex"
+path="res://.godot/imported/TimeAttack_Icon_Terrain_Street_01.png-b61d589cde92429027bdf35ca9398181.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/35_TimeAttack/TimeAttack_Icon_Terrain_Street_01.png"
-dest_files=["res://.godot/imported/TimeAttack_Icon_Terrain_Street_01.png-e9c580364d80268729d568554cfae9a8.ctex"]
+source_file="res://assets/Images/UIs/01_Common/35_TimeAttack/TimeAttack_Icon_Terrain_Street_01.png"
+dest_files=["res://.godot/imported/TimeAttack_Icon_Terrain_Street_01.png-b61d589cde92429027bdf35ca9398181.ctex"]
 
 [params]
 

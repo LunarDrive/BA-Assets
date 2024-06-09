@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c61hxvfxato21"
-path="res://.godot/imported/Academy_Hyakkiyako_Cablecar_Gate.png-77a9054bd405338e0830a5d2e3255f59.ctex"
+path="res://.godot/imported/Academy_Hyakkiyako_Cablecar_Gate.png-dae5aee824563d40398ef5aacaf3e8fb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/SchoolMap/Academy_Hyakkiyako_Cablecar_Gate.png"
-dest_files=["res://.godot/imported/Academy_Hyakkiyako_Cablecar_Gate.png-77a9054bd405338e0830a5d2e3255f59.ctex"]
+source_file="res://assets/Images/UIs/00_Images/SchoolMap/Academy_Hyakkiyako_Cablecar_Gate.png"
+dest_files=["res://.godot/imported/Academy_Hyakkiyako_Cablecar_Gate.png-dae5aee824563d40398ef5aacaf3e8fb.ctex"]
 
 [params]
 

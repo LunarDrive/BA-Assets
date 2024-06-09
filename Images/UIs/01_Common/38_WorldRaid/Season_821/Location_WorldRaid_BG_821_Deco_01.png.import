@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brrduqto138am"
-path="res://.godot/imported/Location_WorldRaid_BG_821_Deco_01.png-1fa630922e263692be7f8d34efe21d56.ctex"
+path="res://.godot/imported/Location_WorldRaid_BG_821_Deco_01.png-dfeebb93842174b102a426bad4135807.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/38_WorldRaid/Season_821/Location_WorldRaid_BG_821_Deco_01.png"
-dest_files=["res://.godot/imported/Location_WorldRaid_BG_821_Deco_01.png-1fa630922e263692be7f8d34efe21d56.ctex"]
+source_file="res://assets/Images/UIs/01_Common/38_WorldRaid/Season_821/Location_WorldRaid_BG_821_Deco_01.png"
+dest_files=["res://.godot/imported/Location_WorldRaid_BG_821_Deco_01.png-dfeebb93842174b102a426bad4135807.ctex"]
 
 [params]
 

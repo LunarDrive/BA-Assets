@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cta1ih2qncplp"
-path="res://.godot/imported/Emoji_Sigh.png-fddcc97231d6d6431ea0511c8d3d4dbb.ctex"
+path="res://.godot/imported/Emoji_Sigh.png-af094de5e97b012b7723d1bc200a4bb4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/03_Emoticon/Emoji_Sigh.png"
-dest_files=["res://.godot/imported/Emoji_Sigh.png-fddcc97231d6d6431ea0511c8d3d4dbb.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/03_Emoticon/Emoji_Sigh.png"
+dest_files=["res://.godot/imported/Emoji_Sigh.png-af094de5e97b012b7723d1bc200a4bb4.ctex"]
 
 [params]
 

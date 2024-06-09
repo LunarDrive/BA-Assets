@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brkwy84afr0kc"
-path="res://.godot/imported/bg_cityoffice_night.jpg-b7e75d2116b46f6ab1e11d2686717087.ctex"
+path="res://.godot/imported/bg_cityoffice_night.jpg-b4b4dd5a1a6b4bb875bf97f46bba4eb7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_cityoffice_night.jpg"
-dest_files=["res://.godot/imported/bg_cityoffice_night.jpg-b7e75d2116b46f6ab1e11d2686717087.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_cityoffice_night.jpg"
+dest_files=["res://.godot/imported/bg_cityoffice_night.jpg-b4b4dd5a1a6b4bb875bf97f46bba4eb7.ctex"]
 
 [params]
 

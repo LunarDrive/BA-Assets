@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4iq1e0n5jox0"
-path="res://.godot/imported/Item_Icon_Material_ExSkill_Shanhaijing_0.png-a9edc383a71b0ccc1733f562f8c0536f.ctex"
+path="res://.godot/imported/Item_Icon_Material_ExSkill_Shanhaijing_0.png-ddd84e411af2265def3d36f2a0c65f74.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Shanhaijing_0.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_ExSkill_Shanhaijing_0.png-a9edc383a71b0ccc1733f562f8c0536f.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Shanhaijing_0.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_ExSkill_Shanhaijing_0.png-ddd84e411af2265def3d36f2a0c65f74.ctex"]
 
 [params]
 

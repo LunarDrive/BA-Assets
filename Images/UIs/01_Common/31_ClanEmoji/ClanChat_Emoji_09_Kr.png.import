@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dane5hmgdu1ml"
-path="res://.godot/imported/ClanChat_Emoji_09_Kr.png-de991c688803fef5354a643b3b05af79.ctex"
+path="res://.godot/imported/ClanChat_Emoji_09_Kr.png-b745b6e8f5092aed67ceb2bd178d6cb0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_09_Kr.png"
-dest_files=["res://.godot/imported/ClanChat_Emoji_09_Kr.png-de991c688803fef5354a643b3b05af79.ctex"]
+source_file="res://assets/Images/UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_09_Kr.png"
+dest_files=["res://.godot/imported/ClanChat_Emoji_09_Kr.png-b745b6e8f5092aed67ceb2bd178d6cb0.ctex"]
 
 [params]
 

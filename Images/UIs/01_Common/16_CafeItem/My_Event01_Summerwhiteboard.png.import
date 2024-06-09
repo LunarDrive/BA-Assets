@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cswdtpdme0pne"
-path="res://.godot/imported/My_Event01_Summerwhiteboard.png-c5d334b4b2712c09dfde73a6243c47c0.ctex"
+path="res://.godot/imported/My_Event01_Summerwhiteboard.png-ea031112408af44c995f3bf4812a13be.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Event01_Summerwhiteboard.png"
-dest_files=["res://.godot/imported/My_Event01_Summerwhiteboard.png-c5d334b4b2712c09dfde73a6243c47c0.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Event01_Summerwhiteboard.png"
+dest_files=["res://.godot/imported/My_Event01_Summerwhiteboard.png-ea031112408af44c995f3bf4812a13be.ctex"]
 
 [params]
 

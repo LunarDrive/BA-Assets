@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bs3dgfwbqrs5q"
-path="res://.godot/imported/Skill_Portrait_Azusa.png-f3ae0652f61f45a5f219fb6fa6087459.ctex"
+path="res://.godot/imported/Skill_Portrait_Azusa.png-ea20c77e5dc91d60e30c6f52d12488d0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Azusa.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Azusa.png-f3ae0652f61f45a5f219fb6fa6087459.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Azusa.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Azusa.png-ea20c77e5dc91d60e30c6f52d12488d0.ctex"]
 
 [params]
 

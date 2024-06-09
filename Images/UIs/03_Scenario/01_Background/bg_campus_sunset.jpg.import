@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhtw8j2sodgu2"
-path="res://.godot/imported/bg_campus_sunset.jpg-dca2a95bc90df0734c2f5882d1bc62fd.ctex"
+path="res://.godot/imported/bg_campus_sunset.jpg-760d2f27bf1f9ca050c6c557c96529bd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_campus_sunset.jpg"
-dest_files=["res://.godot/imported/bg_campus_sunset.jpg-dca2a95bc90df0734c2f5882d1bc62fd.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_campus_sunset.jpg"
+dest_files=["res://.godot/imported/bg_campus_sunset.jpg-760d2f27bf1f9ca050c6c557c96529bd.ctex"]
 
 [params]
 

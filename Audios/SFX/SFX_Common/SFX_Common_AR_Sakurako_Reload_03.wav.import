@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c4nvxb0lhp5n6"
-path="res://.godot/imported/SFX_Common_AR_Sakurako_Reload_03.wav-474613a4b7897f66483ecbd8300bd555.sample"
+path="res://.godot/imported/SFX_Common_AR_Sakurako_Reload_03.wav-c77e0d65bdc9d6c08b3fdfcc602d4584.sample"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/SFX_Common_AR_Sakurako_Reload_03.wav"
-dest_files=["res://.godot/imported/SFX_Common_AR_Sakurako_Reload_03.wav-474613a4b7897f66483ecbd8300bd555.sample"]
+source_file="res://assets/Audios/SFX/SFX_Common/SFX_Common_AR_Sakurako_Reload_03.wav"
+dest_files=["res://.godot/imported/SFX_Common_AR_Sakurako_Reload_03.wav-c77e0d65bdc9d6c08b3fdfcc602d4584.sample"]
 
 [params]
 

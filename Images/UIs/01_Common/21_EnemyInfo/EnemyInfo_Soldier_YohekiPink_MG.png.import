@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0as84gvkitx2"
-path="res://.godot/imported/EnemyInfo_Soldier_YohekiPink_MG.png-7a5cd57e355b8e7053a75917ae59cfa7.ctex"
+path="res://.godot/imported/EnemyInfo_Soldier_YohekiPink_MG.png-499156b5ceb4d5aea818cee867508de8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Soldier_YohekiPink_MG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Soldier_YohekiPink_MG.png-7a5cd57e355b8e7053a75917ae59cfa7.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Soldier_YohekiPink_MG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Soldier_YohekiPink_MG.png-499156b5ceb4d5aea818cee867508de8.ctex"]
 
 [params]
 

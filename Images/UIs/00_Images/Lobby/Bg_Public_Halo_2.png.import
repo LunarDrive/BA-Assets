@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfce1v475ppar"
-path="res://.godot/imported/Bg_Public_Halo_2.png-3c4903502f5f25961e25e4c7033947bc.ctex"
+path="res://.godot/imported/Bg_Public_Halo_2.png-53a4ab6475a663420b0967ea51919354.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Lobby/Bg_Public_Halo_2.png"
-dest_files=["res://.godot/imported/Bg_Public_Halo_2.png-3c4903502f5f25961e25e4c7033947bc.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Lobby/Bg_Public_Halo_2.png"
+dest_files=["res://.godot/imported/Bg_Public_Halo_2.png-53a4ab6475a663420b0967ea51919354.ctex"]
 
 [params]
 

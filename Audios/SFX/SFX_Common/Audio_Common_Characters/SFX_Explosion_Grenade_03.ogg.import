@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c2yegwjikqosq"
-path="res://.godot/imported/SFX_Explosion_Grenade_03.ogg-92cabed9bfc390fa214d4125ae9776f1.oggvorbisstr"
+path="res://.godot/imported/SFX_Explosion_Grenade_03.ogg-f318acafc24666c4daa536e8d61e4106.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Explosion_Grenade_03.ogg"
-dest_files=["res://.godot/imported/SFX_Explosion_Grenade_03.ogg-92cabed9bfc390fa214d4125ae9776f1.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Explosion_Grenade_03.ogg"
+dest_files=["res://.godot/imported/SFX_Explosion_Grenade_03.ogg-f318acafc24666c4daa536e8d61e4106.oggvorbisstr"]
 
 [params]
 

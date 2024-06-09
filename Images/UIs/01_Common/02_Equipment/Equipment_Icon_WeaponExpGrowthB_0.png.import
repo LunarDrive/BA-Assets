@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cavv788aw4hsd"
-path="res://.godot/imported/Equipment_Icon_WeaponExpGrowthB_0.png-b9c0c8e77a24acfd97a59387367225fa.ctex"
+path="res://.godot/imported/Equipment_Icon_WeaponExpGrowthB_0.png-0b4669494e153ea915aa387fefd5e7e9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/02_Equipment/Equipment_Icon_WeaponExpGrowthB_0.png"
-dest_files=["res://.godot/imported/Equipment_Icon_WeaponExpGrowthB_0.png-b9c0c8e77a24acfd97a59387367225fa.ctex"]
+source_file="res://assets/Images/UIs/01_Common/02_Equipment/Equipment_Icon_WeaponExpGrowthB_0.png"
+dest_files=["res://.godot/imported/Equipment_Icon_WeaponExpGrowthB_0.png-0b4669494e153ea915aa387fefd5e7e9.ctex"]
 
 [params]
 

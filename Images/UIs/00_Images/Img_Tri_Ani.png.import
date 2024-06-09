@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://w8fmt7ys3m02"
-path="res://.godot/imported/Img_Tri_Ani.png-5db1a92361f4061ff697b6dd71031184.ctex"
+path="res://.godot/imported/Img_Tri_Ani.png-f6c94619850f9d14c7be201318cda93b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Img_Tri_Ani.png"
-dest_files=["res://.godot/imported/Img_Tri_Ani.png-5db1a92361f4061ff697b6dd71031184.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Img_Tri_Ani.png"
+dest_files=["res://.godot/imported/Img_Tri_Ani.png-f6c94619850f9d14c7be201318cda93b.ctex"]
 
 [params]
 

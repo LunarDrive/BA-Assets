@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgke00nx5xn7"
-path="res://.godot/imported/Portrait_Raidboss_KaitenRanger.png-3bfbcb86749889fc06d99909dd339b34.ctex"
+path="res://.godot/imported/Portrait_Raidboss_KaitenRanger.png-0bb393a518f5d59df4cd6c8c777c502b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/06_Raid/Portrait_Raidboss_KaitenRanger.png"
-dest_files=["res://.godot/imported/Portrait_Raidboss_KaitenRanger.png-3bfbcb86749889fc06d99909dd339b34.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/06_Raid/Portrait_Raidboss_KaitenRanger.png"
+dest_files=["res://.godot/imported/Portrait_Raidboss_KaitenRanger.png-0bb393a518f5d59df4cd6c8c777c502b.ctex"]
 
 [params]
 

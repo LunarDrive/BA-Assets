@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cad2a73o03s2q"
-path="res://.godot/imported/SE_Henshin_03.ogg-3d81b0194e4cd29f552886406f69676d.oggvorbisstr"
+path="res://.godot/imported/SE_Henshin_03.ogg-7ff36d2f8c62515a7e5b9c0b30a00ffc.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Henshin_03.ogg"
-dest_files=["res://.godot/imported/SE_Henshin_03.ogg-3d81b0194e4cd29f552886406f69676d.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Henshin_03.ogg"
+dest_files=["res://.godot/imported/SE_Henshin_03.ogg-7ff36d2f8c62515a7e5b9c0b30a00ffc.oggvorbisstr"]
 
 [params]
 

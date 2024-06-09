@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://m252o4r4xyg1"
-path="res://.godot/imported/Skill_Portrait_Neru.png-e90edafcd24400b957a63a0851004631.ctex"
+path="res://.godot/imported/Skill_Portrait_Neru.png-7dc27371f6ee424ca150560258e51961.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Neru.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Neru.png-e90edafcd24400b957a63a0851004631.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Neru.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Neru.png-7dc27371f6ee424ca150560258e51961.ctex"]
 
 [params]
 

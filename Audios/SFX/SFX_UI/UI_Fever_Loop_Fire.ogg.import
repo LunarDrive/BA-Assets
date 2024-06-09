@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://h8ynxwwb37mr"
-path="res://.godot/imported/UI_Fever_Loop_Fire.ogg-85e5e991e0a459eec0068fea5a5ea90b.oggvorbisstr"
+path="res://.godot/imported/UI_Fever_Loop_Fire.ogg-0e75eaee4b5efae312b09d1825571d6c.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_UI/UI_Fever_Loop_Fire.ogg"
-dest_files=["res://.godot/imported/UI_Fever_Loop_Fire.ogg-85e5e991e0a459eec0068fea5a5ea90b.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_UI/UI_Fever_Loop_Fire.ogg"
+dest_files=["res://.godot/imported/UI_Fever_Loop_Fire.ogg-0e75eaee4b5efae312b09d1825571d6c.oggvorbisstr"]
 
 [params]
 

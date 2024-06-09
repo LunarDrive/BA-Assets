@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d268k7unxbhp8"
-path="res://.godot/imported/bg_fireplacedormitory2.jpg-d2187c659250843e55aa19a0e44c5e94.ctex"
+path="res://.godot/imported/bg_fireplacedormitory2.jpg-9ca92b6715c150af1b07e9b82d2c1b73.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_fireplacedormitory2.jpg"
-dest_files=["res://.godot/imported/bg_fireplacedormitory2.jpg-d2187c659250843e55aa19a0e44c5e94.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_fireplacedormitory2.jpg"
+dest_files=["res://.godot/imported/bg_fireplacedormitory2.jpg-9ca92b6715c150af1b07e9b82d2c1b73.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://uqoylwwseql4"
-path="res://.godot/imported/SE_VehicleStop_01.ogg-d245300ef80bcee52a313e47ceb972ee.oggvorbisstr"
+path="res://.godot/imported/SE_VehicleStop_01.ogg-e17ee63e38e4c41a1702f02a51064253.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_VehicleStop_01.ogg"
-dest_files=["res://.godot/imported/SE_VehicleStop_01.ogg-d245300ef80bcee52a313e47ceb972ee.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_VehicleStop_01.ogg"
+dest_files=["res://.godot/imported/SE_VehicleStop_01.ogg-e17ee63e38e4c41a1702f02a51064253.oggvorbisstr"]
 
 [params]
 

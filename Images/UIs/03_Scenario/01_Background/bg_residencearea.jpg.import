@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bv6gwve7fo2py"
-path="res://.godot/imported/bg_residencearea.jpg-c1aa659885df338efc2512c690127cbb.ctex"
+path="res://.godot/imported/bg_residencearea.jpg-0b3275cfed74647ec4f54be2208c326e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_residencearea.jpg"
-dest_files=["res://.godot/imported/bg_residencearea.jpg-c1aa659885df338efc2512c690127cbb.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_residencearea.jpg"
+dest_files=["res://.godot/imported/bg_residencearea.jpg-0b3275cfed74647ec4f54be2208c326e.ctex"]
 
 [params]
 

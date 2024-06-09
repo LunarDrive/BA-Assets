@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dquqyxeci726i"
-path="res://.godot/imported/bg_railway_erode.jpg-12e38c0aa44df955202308f1a482b22e.ctex"
+path="res://.godot/imported/bg_railway_erode.jpg-6f8fb06fa096b12b839d4f0695c9e4f3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_railway_erode.jpg"
-dest_files=["res://.godot/imported/bg_railway_erode.jpg-12e38c0aa44df955202308f1a482b22e.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_railway_erode.jpg"
+dest_files=["res://.godot/imported/bg_railway_erode.jpg-6f8fb06fa096b12b839d4f0695c9e4f3.ctex"]
 
 [params]
 

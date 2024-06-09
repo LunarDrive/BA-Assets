@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://g0bcb46qflp2"
-path="res://.godot/imported/bg_elevator.jpg-1e7a02393d3c33f8c94ca784bfd6257e.ctex"
+path="res://.godot/imported/bg_elevator.jpg-2c1a62c28a343046607e735316dd378a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_elevator.jpg"
-dest_files=["res://.godot/imported/bg_elevator.jpg-1e7a02393d3c33f8c94ca784bfd6257e.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_elevator.jpg"
+dest_files=["res://.godot/imported/bg_elevator.jpg-2c1a62c28a343046607e735316dd378a.ctex"]
 
 [params]
 

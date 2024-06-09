@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2n1gajed1nn8"
-path="res://.godot/imported/Item_Icon_SkillBook_Millennium_3.png-bd3f71b3c0dcbfbc8fb6731b60371c0f.ctex"
+path="res://.godot/imported/Item_Icon_SkillBook_Millennium_3.png-6f7673f8ed73f0b578c60948ea00dc8d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Millennium_3.png"
-dest_files=["res://.godot/imported/Item_Icon_SkillBook_Millennium_3.png-bd3f71b3c0dcbfbc8fb6731b60371c0f.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Millennium_3.png"
+dest_files=["res://.godot/imported/Item_Icon_SkillBook_Millennium_3.png-6f7673f8ed73f0b578c60948ea00dc8d.ctex"]
 
 [params]
 

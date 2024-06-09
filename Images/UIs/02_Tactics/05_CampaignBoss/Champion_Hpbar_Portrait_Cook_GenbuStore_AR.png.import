@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnvq6oaevtbh6"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Cook_GenbuStore_AR.png-817f346653491e62c91c17f13f784c7a.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Cook_GenbuStore_AR.png-adc0f9a8053c67d00229c2615abcb89c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Cook_GenbuStore_AR.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Cook_GenbuStore_AR.png-817f346653491e62c91c17f13f784c7a.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Cook_GenbuStore_AR.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Cook_GenbuStore_AR.png-adc0f9a8053c67d00229c2615abcb89c.ctex"]
 
 [params]
 

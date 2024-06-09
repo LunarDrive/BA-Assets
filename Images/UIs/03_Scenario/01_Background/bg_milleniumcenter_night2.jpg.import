@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ur7opuqxg41l"
-path="res://.godot/imported/bg_milleniumcenter_night2.jpg-ff7d2e827b67b56fdaa0cd28bb4d9a76.ctex"
+path="res://.godot/imported/bg_milleniumcenter_night2.jpg-3cd48834ce9672c6c404c86d7043ab7d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_milleniumcenter_night2.jpg"
-dest_files=["res://.godot/imported/bg_milleniumcenter_night2.jpg-ff7d2e827b67b56fdaa0cd28bb4d9a76.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_milleniumcenter_night2.jpg"
+dest_files=["res://.godot/imported/bg_milleniumcenter_night2.jpg-3cd48834ce9672c6c404c86d7043ab7d.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://df20rme0mf42o"
-path="res://.godot/imported/SFX_Laser_Aura.ogg-caf0486e00261fcbb128ea1cc65ecf62.oggvorbisstr"
+path="res://.godot/imported/SFX_Laser_Aura.ogg-0f98ef52a6279973cf124836633d1c98.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Laser_Aura.ogg"
-dest_files=["res://.godot/imported/SFX_Laser_Aura.ogg-caf0486e00261fcbb128ea1cc65ecf62.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Laser_Aura.ogg"
+dest_files=["res://.godot/imported/SFX_Laser_Aura.ogg-0f98ef52a6279973cf124836633d1c98.oggvorbisstr"]
 
 [params]
 

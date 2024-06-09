@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwyh4k5mkl31"
-path="res://.godot/imported/bg_newyearfestival_night.jpg-e39798613a9c9707e574d9fab7635f2d.ctex"
+path="res://.godot/imported/bg_newyearfestival_night.jpg-768f01c070d05c23b6a3ae5d62eea479.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_newyearfestival_night.jpg"
-dest_files=["res://.godot/imported/bg_newyearfestival_night.jpg-e39798613a9c9707e574d9fab7635f2d.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_newyearfestival_night.jpg"
+dest_files=["res://.godot/imported/bg_newyearfestival_night.jpg-768f01c070d05c23b6a3ae5d62eea479.ctex"]
 
 [params]
 

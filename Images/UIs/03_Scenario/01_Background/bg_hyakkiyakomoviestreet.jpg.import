@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cfv4j7wkqfcit"
-path="res://.godot/imported/bg_hyakkiyakomoviestreet.jpg-ecba970aaf5a327c0cfb6e6859e3ea4b.ctex"
+path="res://.godot/imported/bg_hyakkiyakomoviestreet.jpg-f582a71530e23324ef3720e68c57f5e9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_hyakkiyakomoviestreet.jpg"
-dest_files=["res://.godot/imported/bg_hyakkiyakomoviestreet.jpg-ecba970aaf5a327c0cfb6e6859e3ea4b.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_hyakkiyakomoviestreet.jpg"
+dest_files=["res://.godot/imported/bg_hyakkiyakomoviestreet.jpg-f582a71530e23324ef3720e68c57f5e9.ctex"]
 
 [params]
 

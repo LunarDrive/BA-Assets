@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chupu52rtw4xu"
-path="res://.godot/imported/Lobbyillust_Icon_Midori_01_Small.png-cfd3d28f6ea924bb023a9d2df09d8b58.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Midori_01_Small.png-ca2fefdb3533c50945dd2b5027f9e6a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Midori_01_Small.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Midori_01_Small.png-cfd3d28f6ea924bb023a9d2df09d8b58.ctex"]
+source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Midori_01_Small.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Midori_01_Small.png-ca2fefdb3533c50945dd2b5027f9e6a9.ctex"]
 
 [params]
 

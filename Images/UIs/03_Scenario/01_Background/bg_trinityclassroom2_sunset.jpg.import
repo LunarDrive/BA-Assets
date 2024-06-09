@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0afvmpc02ux0"
-path="res://.godot/imported/bg_trinityclassroom2_sunset.jpg-a7b676c05d625dfdd4be136d859b8f25.ctex"
+path="res://.godot/imported/bg_trinityclassroom2_sunset.jpg-5db763c23a3d7194ea9597f08f02ba5b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_trinityclassroom2_sunset.jpg"
-dest_files=["res://.godot/imported/bg_trinityclassroom2_sunset.jpg-a7b676c05d625dfdd4be136d859b8f25.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_trinityclassroom2_sunset.jpg"
+dest_files=["res://.godot/imported/bg_trinityclassroom2_sunset.jpg-5db763c23a3d7194ea9597f08f02ba5b.ctex"]
 
 [params]
 

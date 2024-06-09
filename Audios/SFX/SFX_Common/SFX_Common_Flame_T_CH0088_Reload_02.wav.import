@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bubu70e3o0hjk"
-path="res://.godot/imported/SFX_Common_Flame_T_CH0088_Reload_02.wav-90b5811bdb2ed211bff0c40aad62399d.sample"
+path="res://.godot/imported/SFX_Common_Flame_T_CH0088_Reload_02.wav-f61ff76557731ae886646cb35d487e57.sample"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/SFX_Common_Flame_T_CH0088_Reload_02.wav"
-dest_files=["res://.godot/imported/SFX_Common_Flame_T_CH0088_Reload_02.wav-90b5811bdb2ed211bff0c40aad62399d.sample"]
+source_file="res://assets/Audios/SFX/SFX_Common/SFX_Common_Flame_T_CH0088_Reload_02.wav"
+dest_files=["res://.godot/imported/SFX_Common_Flame_T_CH0088_Reload_02.wav-f61ff76557731ae886646cb35d487e57.sample"]
 
 [params]
 

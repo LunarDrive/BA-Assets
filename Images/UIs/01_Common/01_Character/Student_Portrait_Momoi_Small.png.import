@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dknbrw8a8ojj2"
-path="res://.godot/imported/Student_Portrait_Momoi_Small.png-042a8bef52e0473fadd2472ab29aaa0b.ctex"
+path="res://.godot/imported/Student_Portrait_Momoi_Small.png-66bdf02d56acfca3a86f0a88c8537fd5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Momoi_Small.png"
-dest_files=["res://.godot/imported/Student_Portrait_Momoi_Small.png-042a8bef52e0473fadd2472ab29aaa0b.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Momoi_Small.png"
+dest_files=["res://.godot/imported/Student_Portrait_Momoi_Small.png-66bdf02d56acfca3a86f0a88c8537fd5.ctex"]
 
 [params]
 

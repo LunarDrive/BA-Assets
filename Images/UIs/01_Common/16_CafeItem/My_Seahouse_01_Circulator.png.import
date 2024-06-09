@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpsb07exqmo8n"
-path="res://.godot/imported/My_Seahouse_01_Circulator.png-41098db78a95273d57b8195bba6f98b3.ctex"
+path="res://.godot/imported/My_Seahouse_01_Circulator.png-84dc23a4f52f514b19cef0ab67f92143.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Seahouse_01_Circulator.png"
-dest_files=["res://.godot/imported/My_Seahouse_01_Circulator.png-41098db78a95273d57b8195bba6f98b3.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Seahouse_01_Circulator.png"
+dest_files=["res://.godot/imported/My_Seahouse_01_Circulator.png-84dc23a4f52f514b19cef0ab67f92143.ctex"]
 
 [params]
 

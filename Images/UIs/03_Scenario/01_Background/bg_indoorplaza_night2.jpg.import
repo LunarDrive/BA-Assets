@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1ylu82lmrhxd"
-path="res://.godot/imported/bg_indoorplaza_night2.jpg-45aed12dc03ff6ae0b58592d496f3063.ctex"
+path="res://.godot/imported/bg_indoorplaza_night2.jpg-9fa2746b90d9c32565f12a452177fe01.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_indoorplaza_night2.jpg"
-dest_files=["res://.godot/imported/bg_indoorplaza_night2.jpg-45aed12dc03ff6ae0b58592d496f3063.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_indoorplaza_night2.jpg"
+dest_files=["res://.godot/imported/bg_indoorplaza_night2.jpg-9fa2746b90d9c32565f12a452177fe01.ctex"]
 
 [params]
 

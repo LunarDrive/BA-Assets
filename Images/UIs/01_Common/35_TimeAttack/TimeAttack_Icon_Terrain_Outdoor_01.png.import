@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cat5hmycudm6s"
-path="res://.godot/imported/TimeAttack_Icon_Terrain_Outdoor_01.png-952f3b68de0877b5ef7e186c9ff06236.ctex"
+path="res://.godot/imported/TimeAttack_Icon_Terrain_Outdoor_01.png-9df51f10f5cf00ba0df0c7a8a488c750.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/35_TimeAttack/TimeAttack_Icon_Terrain_Outdoor_01.png"
-dest_files=["res://.godot/imported/TimeAttack_Icon_Terrain_Outdoor_01.png-952f3b68de0877b5ef7e186c9ff06236.ctex"]
+source_file="res://assets/Images/UIs/01_Common/35_TimeAttack/TimeAttack_Icon_Terrain_Outdoor_01.png"
+dest_files=["res://.godot/imported/TimeAttack_Icon_Terrain_Outdoor_01.png-9df51f10f5cf00ba0df0c7a8a488c750.ctex"]
 
 [params]
 

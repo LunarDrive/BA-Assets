@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mqvcydcyrmah"
-path="res://.godot/imported/Skill_Portrait_Utaha.png-2513a1ad8a87fe81f068412c0840a9fb.ctex"
+path="res://.godot/imported/Skill_Portrait_Utaha.png-31e2d48fad545412e7b6c54076371f2d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Utaha.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Utaha.png-2513a1ad8a87fe81f068412c0840a9fb.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Utaha.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Utaha.png-31e2d48fad545412e7b6c54076371f2d.ctex"]
 
 [params]
 

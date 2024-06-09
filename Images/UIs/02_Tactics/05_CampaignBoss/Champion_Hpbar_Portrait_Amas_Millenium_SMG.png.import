@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c52ah47g5m21w"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Amas_Millenium_SMG.png-62ad953aaa2f5508ead8983c94d41eab.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Amas_Millenium_SMG.png-d6617ad2f9044182278612ad31e6ecef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Amas_Millenium_SMG.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Amas_Millenium_SMG.png-62ad953aaa2f5508ead8983c94d41eab.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Amas_Millenium_SMG.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Amas_Millenium_SMG.png-d6617ad2f9044182278612ad31e6ecef.ctex"]
 
 [params]
 

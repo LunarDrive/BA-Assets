@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cx6cxnmhaw872"
-path="res://.godot/imported/EnemyInfo_Misaki_RL.png-92fc62bc5f3a3a703ab910dc9b2cc325.ctex"
+path="res://.godot/imported/EnemyInfo_Misaki_RL.png-23d9167b33caed9c2bb7702a78753302.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Misaki_RL.png"
-dest_files=["res://.godot/imported/EnemyInfo_Misaki_RL.png-92fc62bc5f3a3a703ab910dc9b2cc325.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Misaki_RL.png"
+dest_files=["res://.godot/imported/EnemyInfo_Misaki_RL.png-23d9167b33caed9c2bb7702a78753302.ctex"]
 
 [params]
 

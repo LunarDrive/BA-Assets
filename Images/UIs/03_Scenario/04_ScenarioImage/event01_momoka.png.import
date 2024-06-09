@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dml7u3cycfsln"
-path="res://.godot/imported/event01_momoka.png-dc7eb9db329c57696fdb406fbbb207ec.ctex"
+path="res://.godot/imported/event01_momoka.png-602aea61e30fbbe099c17463a51a83c1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_momoka.png"
-dest_files=["res://.godot/imported/event01_momoka.png-dc7eb9db329c57696fdb406fbbb207ec.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_momoka.png"
+dest_files=["res://.godot/imported/event01_momoka.png-602aea61e30fbbe099c17463a51a83c1.ctex"]
 
 [params]
 

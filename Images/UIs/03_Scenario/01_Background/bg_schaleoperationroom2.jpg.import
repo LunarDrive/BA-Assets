@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dp3ps4y8jfcqd"
-path="res://.godot/imported/bg_schaleoperationroom2.jpg-84f34cf7c46a5744d5afae3a8f626f9e.ctex"
+path="res://.godot/imported/bg_schaleoperationroom2.jpg-bb1f0f5a55b8ece22de5bd5d614d5b6c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_schaleoperationroom2.jpg"
-dest_files=["res://.godot/imported/bg_schaleoperationroom2.jpg-84f34cf7c46a5744d5afae3a8f626f9e.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_schaleoperationroom2.jpg"
+dest_files=["res://.godot/imported/bg_schaleoperationroom2.jpg-bb1f0f5a55b8ece22de5bd5d614d5b6c.ctex"]
 
 [params]
 

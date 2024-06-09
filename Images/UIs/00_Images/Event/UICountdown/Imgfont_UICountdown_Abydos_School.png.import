@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0shhe00byfhk"
-path="res://.godot/imported/Imgfont_UICountdown_Abydos_School.png-c92553fa2f394f6843e42bd5460f1f95.ctex"
+path="res://.godot/imported/Imgfont_UICountdown_Abydos_School.png-d07cd52e06e4cb05b3d71b5e75330cfc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/UICountdown/Imgfont_UICountdown_Abydos_School.png"
-dest_files=["res://.godot/imported/Imgfont_UICountdown_Abydos_School.png-c92553fa2f394f6843e42bd5460f1f95.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/UICountdown/Imgfont_UICountdown_Abydos_School.png"
+dest_files=["res://.godot/imported/Imgfont_UICountdown_Abydos_School.png-d07cd52e06e4cb05b3d71b5e75330cfc.ctex"]
 
 [params]
 

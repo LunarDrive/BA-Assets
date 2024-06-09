@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ciquepayfhge7"
-path="res://.godot/imported/bg_hyakkiyakoobservatory_night.jpg-e9a20145afb91af5721c8ee6689bfdfd.ctex"
+path="res://.godot/imported/bg_hyakkiyakoobservatory_night.jpg-81d6c5756b1337e4541a03dc2c7988ef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_hyakkiyakoobservatory_night.jpg"
-dest_files=["res://.godot/imported/bg_hyakkiyakoobservatory_night.jpg-e9a20145afb91af5721c8ee6689bfdfd.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_hyakkiyakoobservatory_night.jpg"
+dest_files=["res://.godot/imported/bg_hyakkiyakoobservatory_night.jpg-81d6c5756b1337e4541a03dc2c7988ef.ctex"]
 
 [params]
 

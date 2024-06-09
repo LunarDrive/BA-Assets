@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vvldoso5dgvj"
-path="res://.godot/imported/Lobbyillust_Icon_Serika_Newyear_01.png-fbfd3d8307d0e288e51f9cd97b30f7cf.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Serika_Newyear_01.png-20f5656a84d6c3375dc3baec3e7faf1b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Serika_Newyear_01.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Serika_Newyear_01.png-fbfd3d8307d0e288e51f9cd97b30f7cf.ctex"]
+source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Serika_Newyear_01.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Serika_Newyear_01.png-20f5656a84d6c3375dc3baec3e7faf1b.ctex"]
 
 [params]
 

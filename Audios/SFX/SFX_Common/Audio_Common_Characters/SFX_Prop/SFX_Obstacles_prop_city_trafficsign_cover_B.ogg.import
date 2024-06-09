@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bsp360bvd7kkh"
-path="res://.godot/imported/SFX_Obstacles_prop_city_trafficsign_cover_B.ogg-c31dc5d2b0f06d8aec2d2ab106b4f0b4.oggvorbisstr"
+path="res://.godot/imported/SFX_Obstacles_prop_city_trafficsign_cover_B.ogg-f769c7cad54d73add48071a82041e132.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Prop/SFX_Obstacles_prop_city_trafficsign_cover_B.ogg"
-dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_trafficsign_cover_B.ogg-c31dc5d2b0f06d8aec2d2ab106b4f0b4.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Prop/SFX_Obstacles_prop_city_trafficsign_cover_B.ogg"
+dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_trafficsign_cover_B.ogg-f769c7cad54d73add48071a82041e132.oggvorbisstr"]
 
 [params]
 

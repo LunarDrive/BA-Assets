@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbu14721vtpu1"
-path="res://.godot/imported/bg_citysqaure.jpg-12f9eb7a056d0d91e0913401ab98533c.ctex"
+path="res://.godot/imported/bg_citysqaure.jpg-90344534452a8e8f7efb06c444467675.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_citysqaure.jpg"
-dest_files=["res://.godot/imported/bg_citysqaure.jpg-12f9eb7a056d0d91e0913401ab98533c.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_citysqaure.jpg"
+dest_files=["res://.godot/imported/bg_citysqaure.jpg-90344534452a8e8f7efb06c444467675.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxvqt3yre4vug"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Fuuka.png-ffe6616bea202b4d085ecf37ff312401.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Fuuka.png-26aa4a7e0a39e818ad76085bcbfb9b3c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Fuuka.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Fuuka.png-ffe6616bea202b4d085ecf37ff312401.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Fuuka.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Fuuka.png-26aa4a7e0a39e818ad76085bcbfb9b3c.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dyrdiwonnxa6f"
-path="res://.godot/imported/SE_SeaWave_02.ogg-b0ed381f5c0e24d66ee1dc453b64594e.oggvorbisstr"
+path="res://.godot/imported/SE_SeaWave_02.ogg-db11952e38763f53446726d4061e104d.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_SeaWave_02.ogg"
-dest_files=["res://.godot/imported/SE_SeaWave_02.ogg-b0ed381f5c0e24d66ee1dc453b64594e.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_SeaWave_02.ogg"
+dest_files=["res://.godot/imported/SE_SeaWave_02.ogg-db11952e38763f53446726d4061e104d.oggvorbisstr"]
 
 [params]
 

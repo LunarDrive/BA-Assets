@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ss5opeh8hoxr"
-path="res://.godot/imported/EnemyInfo_GuardTower_Decargam_Grenade.png-e0e6fbae2ec212799120e40d91dcf586.ctex"
+path="res://.godot/imported/EnemyInfo_GuardTower_Decargam_Grenade.png-0f438fff9b070ba9ba034e64a04aac47.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_GuardTower_Decargam_Grenade.png"
-dest_files=["res://.godot/imported/EnemyInfo_GuardTower_Decargam_Grenade.png-e0e6fbae2ec212799120e40d91dcf586.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_GuardTower_Decargam_Grenade.png"
+dest_files=["res://.godot/imported/EnemyInfo_GuardTower_Decargam_Grenade.png-0f438fff9b070ba9ba034e64a04aac47.ctex"]
 
 [params]
 

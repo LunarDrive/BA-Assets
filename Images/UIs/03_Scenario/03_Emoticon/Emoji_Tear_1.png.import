@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxvm3lwk21hli"
-path="res://.godot/imported/Emoji_Tear_1.png-b70506ddb68cf31fd6b424cb70d1678b.ctex"
+path="res://.godot/imported/Emoji_Tear_1.png-db47224fa0bdec22ab6dcb4e0c23c011.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/03_Emoticon/Emoji_Tear_1.png"
-dest_files=["res://.godot/imported/Emoji_Tear_1.png-b70506ddb68cf31fd6b424cb70d1678b.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/03_Emoticon/Emoji_Tear_1.png"
+dest_files=["res://.godot/imported/Emoji_Tear_1.png-db47224fa0bdec22ab6dcb4e0c23c011.ctex"]
 
 [params]
 

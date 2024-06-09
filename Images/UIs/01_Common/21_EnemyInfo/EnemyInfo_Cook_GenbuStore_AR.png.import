@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qbtg3ea6umjm"
-path="res://.godot/imported/EnemyInfo_Cook_GenbuStore_AR.png-f757f80e716eb43b8566d5fc3ba59dc8.ctex"
+path="res://.godot/imported/EnemyInfo_Cook_GenbuStore_AR.png-830e0454390dd6c9bc285caa77da24e8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Cook_GenbuStore_AR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Cook_GenbuStore_AR.png-f757f80e716eb43b8566d5fc3ba59dc8.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Cook_GenbuStore_AR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Cook_GenbuStore_AR.png-830e0454390dd6c9bc285caa77da24e8.ctex"]
 
 [params]
 

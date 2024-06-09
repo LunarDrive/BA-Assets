@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ccmlwg8yfpmij"
-path="res://.godot/imported/SFX_Obstacles_prop_city_bongdari_01_B.ogg-1f35ea9a743cc49f2689bd035ede0606.oggvorbisstr"
+path="res://.godot/imported/SFX_Obstacles_prop_city_bongdari_01_B.ogg-9ec82d155beb5402485e64f5ce5c6ab8.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Prop/SFX_Obstacles_prop_city_bongdari_01_B.ogg"
-dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_bongdari_01_B.ogg-1f35ea9a743cc49f2689bd035ede0606.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Prop/SFX_Obstacles_prop_city_bongdari_01_B.ogg"
+dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_bongdari_01_B.ogg-9ec82d155beb5402485e64f5ce5c6ab8.oggvorbisstr"]
 
 [params]
 

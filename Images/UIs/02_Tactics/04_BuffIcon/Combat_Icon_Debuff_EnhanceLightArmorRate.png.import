@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://buen2vrar7hpr"
-path="res://.godot/imported/Combat_Icon_Debuff_EnhanceLightArmorRate.png-926a8ac3bcb1dd215d2494dce8224ab1.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_EnhanceLightArmorRate.png-bf5742355b6c38ddfd34c1313d97e12a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_EnhanceLightArmorRate.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_EnhanceLightArmorRate.png-926a8ac3bcb1dd215d2494dce8224ab1.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_EnhanceLightArmorRate.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_EnhanceLightArmorRate.png-bf5742355b6c38ddfd34c1313d97e12a.ctex"]
 
 [params]
 

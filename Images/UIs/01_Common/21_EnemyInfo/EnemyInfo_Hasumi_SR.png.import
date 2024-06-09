@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://blnyqqh5ppkj4"
-path="res://.godot/imported/EnemyInfo_Hasumi_SR.png-aa3a12b5d4908475fd3e6325606212d0.ctex"
+path="res://.godot/imported/EnemyInfo_Hasumi_SR.png-43b0b74dc12bc8b393ca7ae988c2b003.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Hasumi_SR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Hasumi_SR.png-aa3a12b5d4908475fd3e6325606212d0.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Hasumi_SR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Hasumi_SR.png-43b0b74dc12bc8b393ca7ae988c2b003.ctex"]
 
 [params]
 

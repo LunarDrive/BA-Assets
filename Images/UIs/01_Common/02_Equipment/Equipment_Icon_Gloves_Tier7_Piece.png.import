@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hnywgx2s82jf"
-path="res://.godot/imported/Equipment_Icon_Gloves_Tier7_Piece.png-ccd2380e24604dde41dd468528ed5f8c.ctex"
+path="res://.godot/imported/Equipment_Icon_Gloves_Tier7_Piece.png-3d6de673005701f0ed135703621cf372.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/02_Equipment/Equipment_Icon_Gloves_Tier7_Piece.png"
-dest_files=["res://.godot/imported/Equipment_Icon_Gloves_Tier7_Piece.png-ccd2380e24604dde41dd468528ed5f8c.ctex"]
+source_file="res://assets/Images/UIs/01_Common/02_Equipment/Equipment_Icon_Gloves_Tier7_Piece.png"
+dest_files=["res://.godot/imported/Equipment_Icon_Gloves_Tier7_Piece.png-3d6de673005701f0ed135703621cf372.ctex"]
 
 [params]
 

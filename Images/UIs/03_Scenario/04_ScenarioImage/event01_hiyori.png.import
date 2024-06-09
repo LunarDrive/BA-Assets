@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvdd7x730mrot"
-path="res://.godot/imported/event01_hiyori.png-4bfea4f92ee68885a48fff886d8bce82.ctex"
+path="res://.godot/imported/event01_hiyori.png-6131c0026374446b33589f0a501dcf88.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_hiyori.png"
-dest_files=["res://.godot/imported/event01_hiyori.png-4bfea4f92ee68885a48fff886d8bce82.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_hiyori.png"
+dest_files=["res://.godot/imported/event01_hiyori.png-6131c0026374446b33589f0a501dcf88.ctex"]
 
 [params]
 

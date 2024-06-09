@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2mo0vob42dja"
-path="res://.godot/imported/SKILLICON_MOMOI_EXTRAPASSIVESKILL.png-00504632030d36650e9001c8ab4b95c7.ctex"
+path="res://.godot/imported/SKILLICON_MOMOI_EXTRAPASSIVESKILL.png-5c59fbba9eb03e081195b3c1ce84c6f1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/SKILLICON_MOMOI_EXTRAPASSIVESKILL.png"
-dest_files=["res://.godot/imported/SKILLICON_MOMOI_EXTRAPASSIVESKILL.png-00504632030d36650e9001c8ab4b95c7.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/SKILLICON_MOMOI_EXTRAPASSIVESKILL.png"
+dest_files=["res://.godot/imported/SKILLICON_MOMOI_EXTRAPASSIVESKILL.png-5c59fbba9eb03e081195b3c1ce84c6f1.ctex"]
 
 [params]
 

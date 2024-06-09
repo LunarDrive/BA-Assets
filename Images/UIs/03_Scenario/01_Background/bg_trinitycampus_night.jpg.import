@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0atvlvsbsr6b"
-path="res://.godot/imported/bg_trinitycampus_night.jpg-484b17609c995aedcbd79cd2fa978053.ctex"
+path="res://.godot/imported/bg_trinitycampus_night.jpg-2b36273a2b0f5c9b64af347b3e3e0fac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_trinitycampus_night.jpg"
-dest_files=["res://.godot/imported/bg_trinitycampus_night.jpg-484b17609c995aedcbd79cd2fa978053.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_trinitycampus_night.jpg"
+dest_files=["res://.godot/imported/bg_trinitycampus_night.jpg-2b36273a2b0f5c9b64af347b3e3e0fac.ctex"]
 
 [params]
 

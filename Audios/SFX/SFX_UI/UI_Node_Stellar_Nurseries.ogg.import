@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://doharkk4hx4tm"
-path="res://.godot/imported/UI_Node_Stellar_Nurseries.ogg-59c5555a5cad7d4420d1057d5801dbd3.oggvorbisstr"
+path="res://.godot/imported/UI_Node_Stellar_Nurseries.ogg-924f244546256ac4281056de7eb01790.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_UI/UI_Node_Stellar_Nurseries.ogg"
-dest_files=["res://.godot/imported/UI_Node_Stellar_Nurseries.ogg-59c5555a5cad7d4420d1057d5801dbd3.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_UI/UI_Node_Stellar_Nurseries.ogg"
+dest_files=["res://.godot/imported/UI_Node_Stellar_Nurseries.ogg-924f244546256ac4281056de7eb01790.oggvorbisstr"]
 
 [params]
 

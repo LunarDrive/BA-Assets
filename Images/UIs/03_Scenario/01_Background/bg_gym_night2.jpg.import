@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpfed5d3v8t8e"
-path="res://.godot/imported/bg_gym_night2.jpg-624781084b0dcd50eafd9e49c5f7d510.ctex"
+path="res://.godot/imported/bg_gym_night2.jpg-359a8c5535122efc49e7dad63b6b5a30.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_gym_night2.jpg"
-dest_files=["res://.godot/imported/bg_gym_night2.jpg-624781084b0dcd50eafd9e49c5f7d510.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_gym_night2.jpg"
+dest_files=["res://.godot/imported/bg_gym_night2.jpg-359a8c5535122efc49e7dad63b6b5a30.ctex"]
 
 [params]
 

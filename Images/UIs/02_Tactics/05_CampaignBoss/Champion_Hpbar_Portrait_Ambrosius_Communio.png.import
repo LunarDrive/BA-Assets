@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsu6pv1aqoh6g"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Ambrosius_Communio.png-72378b180eedb0241af28c024b21e46c.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Ambrosius_Communio.png-572a59cf9aa7a949891e5e172c4e26a8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Ambrosius_Communio.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Ambrosius_Communio.png-72378b180eedb0241af28c024b21e46c.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Ambrosius_Communio.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Ambrosius_Communio.png-572a59cf9aa7a949891e5e172c4e26a8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://o4a10thuo3d5"
-path="res://.godot/imported/NPC_Portrait_Citizen_animal7.png-cf41b63cc77304bff3659becbaf92ed6.ctex"
+path="res://.godot/imported/NPC_Portrait_Citizen_animal7.png-ee43295eae9cd845b24cf92fdf2c0949.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Citizen_animal7.png"
-dest_files=["res://.godot/imported/NPC_Portrait_Citizen_animal7.png-cf41b63cc77304bff3659becbaf92ed6.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Citizen_animal7.png"
+dest_files=["res://.godot/imported/NPC_Portrait_Citizen_animal7.png-ee43295eae9cd845b24cf92fdf2c0949.ctex"]
 
 [params]
 

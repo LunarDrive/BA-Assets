@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7jbqypm71pb5"
-path="res://.godot/imported/Skill_Portrait_Mimori.png-2a51da5b26292cc726a71112c1bd33b9.ctex"
+path="res://.godot/imported/Skill_Portrait_Mimori.png-2fae7617445001f282b70c4d7ef2b663.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Mimori.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Mimori.png-2a51da5b26292cc726a71112c1bd33b9.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Mimori.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Mimori.png-2fae7617445001f282b70c4d7ef2b663.ctex"]
 
 [params]
 

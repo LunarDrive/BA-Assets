@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0a77ubrl3sjc"
-path="res://.godot/imported/event01_yoshimi.png-16a4144240d71ef9b6f1f429e50427d8.ctex"
+path="res://.godot/imported/event01_yoshimi.png-0d3c5c6791ef19d2aa886cacf8169923.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_yoshimi.png"
-dest_files=["res://.godot/imported/event01_yoshimi.png-16a4144240d71ef9b6f1f429e50427d8.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_yoshimi.png"
+dest_files=["res://.godot/imported/event01_yoshimi.png-0d3c5c6791ef19d2aa886cacf8169923.ctex"]
 
 [params]
 

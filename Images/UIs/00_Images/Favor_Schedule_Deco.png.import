@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cng5sdadk6xsk"
-path="res://.godot/imported/Favor_Schedule_Deco.png-4f5922e9ec4993c574bb65ec2dff7eb7.ctex"
+path="res://.godot/imported/Favor_Schedule_Deco.png-ffbf0106bb0b57b854bbaa2931056549.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Favor_Schedule_Deco.png"
-dest_files=["res://.godot/imported/Favor_Schedule_Deco.png-4f5922e9ec4993c574bb65ec2dff7eb7.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Favor_Schedule_Deco.png"
+dest_files=["res://.godot/imported/Favor_Schedule_Deco.png-ffbf0106bb0b57b854bbaa2931056549.ctex"]
 
 [params]
 

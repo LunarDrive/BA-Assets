@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6u7tkegtbw2m"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Akari.png-096996eb63766c61b385011d1e846199.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Akari.png-1f2fdbb280d78b970b8d804006873d20.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Akari.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Akari.png-096996eb63766c61b385011d1e846199.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Akari.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Akari.png-1f2fdbb280d78b970b8d804006873d20.ctex"]
 
 [params]
 

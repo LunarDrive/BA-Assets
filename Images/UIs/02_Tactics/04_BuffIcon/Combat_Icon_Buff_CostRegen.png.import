@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c610qeyooat03"
-path="res://.godot/imported/Combat_Icon_Buff_CostRegen.png-4171991f5b19fc5992c7ab741a26434c.ctex"
+path="res://.godot/imported/Combat_Icon_Buff_CostRegen.png-52aac7f7e7d8b3f696ea4fbfc937f5cb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_CostRegen.png"
-dest_files=["res://.godot/imported/Combat_Icon_Buff_CostRegen.png-4171991f5b19fc5992c7ab741a26434c.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_CostRegen.png"
+dest_files=["res://.godot/imported/Combat_Icon_Buff_CostRegen.png-52aac7f7e7d8b3f696ea4fbfc937f5cb.ctex"]
 
 [params]
 

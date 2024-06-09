@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://v20q78rfh2fp"
-path="res://.godot/imported/Portrait_Worldboss_Perorozilla_Colour_PopupBG.png-b43e560477527ede7abf294ecfb77adc.ctex"
+path="res://.godot/imported/Portrait_Worldboss_Perorozilla_Colour_PopupBG.png-515007fa8f75d9a1d1ef8ae0af119d09.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/38_WorldRaid/Portrait_Worldboss_Perorozilla_Colour_PopupBG.png"
-dest_files=["res://.godot/imported/Portrait_Worldboss_Perorozilla_Colour_PopupBG.png-b43e560477527ede7abf294ecfb77adc.ctex"]
+source_file="res://assets/Images/UIs/01_Common/38_WorldRaid/Portrait_Worldboss_Perorozilla_Colour_PopupBG.png"
+dest_files=["res://.godot/imported/Portrait_Worldboss_Perorozilla_Colour_PopupBG.png-515007fa8f75d9a1d1ef8ae0af119d09.ctex"]
 
 [params]
 

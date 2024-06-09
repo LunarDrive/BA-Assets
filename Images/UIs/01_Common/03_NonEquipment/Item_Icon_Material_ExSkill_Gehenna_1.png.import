@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://h8o5hl0twqo1"
-path="res://.godot/imported/Item_Icon_Material_ExSkill_Gehenna_1.png-2feff2b77918b336b8a31139b2887f5c.ctex"
+path="res://.godot/imported/Item_Icon_Material_ExSkill_Gehenna_1.png-7ddd73cd3ce31b8be52b4488322e6d73.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Gehenna_1.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_ExSkill_Gehenna_1.png-2feff2b77918b336b8a31139b2887f5c.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Gehenna_1.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_ExSkill_Gehenna_1.png-7ddd73cd3ce31b8be52b4488322e6d73.ctex"]
 
 [params]
 

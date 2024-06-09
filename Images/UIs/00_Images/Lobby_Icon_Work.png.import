@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6pyhhhwvnj6y"
-path="res://.godot/imported/Lobby_Icon_Work.png-0ad42db3cad13cb5d6f202a26ea34785.ctex"
+path="res://.godot/imported/Lobby_Icon_Work.png-b82294600d32d9e1336cb749ec30d29b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Lobby_Icon_Work.png"
-dest_files=["res://.godot/imported/Lobby_Icon_Work.png-0ad42db3cad13cb5d6f202a26ea34785.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Lobby_Icon_Work.png"
+dest_files=["res://.godot/imported/Lobby_Icon_Work.png-b82294600d32d9e1336cb749ec30d29b.ctex"]
 
 [params]
 

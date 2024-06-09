@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnx0qw64iluo8"
-path="res://.godot/imported/EnemyInfo_Binah_Decagram.png-ca04169370d3e7b4a9cfe2af647d2117.ctex"
+path="res://.godot/imported/EnemyInfo_Binah_Decagram.png-5cc73260fa402bf30d5135b2382a7f52.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Binah_Decagram.png"
-dest_files=["res://.godot/imported/EnemyInfo_Binah_Decagram.png-ca04169370d3e7b4a9cfe2af647d2117.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Binah_Decagram.png"
+dest_files=["res://.godot/imported/EnemyInfo_Binah_Decagram.png-5cc73260fa402bf30d5135b2382a7f52.ctex"]
 
 [params]
 

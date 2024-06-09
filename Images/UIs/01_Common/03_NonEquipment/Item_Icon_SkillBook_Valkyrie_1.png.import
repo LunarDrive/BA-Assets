@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dar2j60tvnm1n"
-path="res://.godot/imported/Item_Icon_SkillBook_Valkyrie_1.png-b883b9c5f33c335dc7667dcc2aa1e9e1.ctex"
+path="res://.godot/imported/Item_Icon_SkillBook_Valkyrie_1.png-229f74d47ea29e620588f1e2be2e21ac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Valkyrie_1.png"
-dest_files=["res://.godot/imported/Item_Icon_SkillBook_Valkyrie_1.png-b883b9c5f33c335dc7667dcc2aa1e9e1.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Valkyrie_1.png"
+dest_files=["res://.godot/imported/Item_Icon_SkillBook_Valkyrie_1.png-229f74d47ea29e620588f1e2be2e21ac.ctex"]
 
 [params]
 

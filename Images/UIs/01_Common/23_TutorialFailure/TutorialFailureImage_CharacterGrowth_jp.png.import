@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqsqah2ajinq3"
-path="res://.godot/imported/TutorialFailureImage_CharacterGrowth_jp.png-4546b38333c058d110a7b472f96cb2e4.ctex"
+path="res://.godot/imported/TutorialFailureImage_CharacterGrowth_jp.png-898c8de1e82e356422ce9c017b194cc9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CharacterGrowth_jp.png"
-dest_files=["res://.godot/imported/TutorialFailureImage_CharacterGrowth_jp.png-4546b38333c058d110a7b472f96cb2e4.ctex"]
+source_file="res://assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CharacterGrowth_jp.png"
+dest_files=["res://.godot/imported/TutorialFailureImage_CharacterGrowth_jp.png-898c8de1e82e356422ce9c017b194cc9.ctex"]
 
 [params]
 

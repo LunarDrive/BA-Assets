@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1tughevvcl78"
-path="res://.godot/imported/bg_desertresidence_night.jpg-ac58be7500afc49a12d57af067e21eaa.ctex"
+path="res://.godot/imported/bg_desertresidence_night.jpg-283b7d886fbfa7b71f8744675f30df14.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_desertresidence_night.jpg"
-dest_files=["res://.godot/imported/bg_desertresidence_night.jpg-ac58be7500afc49a12d57af067e21eaa.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_desertresidence_night.jpg"
+dest_files=["res://.godot/imported/bg_desertresidence_night.jpg-283b7d886fbfa7b71f8744675f30df14.ctex"]
 
 [params]
 

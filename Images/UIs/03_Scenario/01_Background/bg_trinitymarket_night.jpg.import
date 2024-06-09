@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfqg7xyj2xbyg"
-path="res://.godot/imported/bg_trinitymarket_night.jpg-df2328f8d3ef889f7cb78f3dc1e52633.ctex"
+path="res://.godot/imported/bg_trinitymarket_night.jpg-dabd6434d267dcdf79594e5d1d1c57c7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_trinitymarket_night.jpg"
-dest_files=["res://.godot/imported/bg_trinitymarket_night.jpg-df2328f8d3ef889f7cb78f3dc1e52633.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_trinitymarket_night.jpg"
+dest_files=["res://.godot/imported/bg_trinitymarket_night.jpg-dabd6434d267dcdf79594e5d1d1c57c7.ctex"]
 
 [params]
 

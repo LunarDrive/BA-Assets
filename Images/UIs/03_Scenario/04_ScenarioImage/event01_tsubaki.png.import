@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://m5j3g78bypc8"
-path="res://.godot/imported/event01_tsubaki.png-1713c66cc45386e7724508ccb7e03056.ctex"
+path="res://.godot/imported/event01_tsubaki.png-617a409939b49e8010afc7b483563f60.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_tsubaki.png"
-dest_files=["res://.godot/imported/event01_tsubaki.png-1713c66cc45386e7724508ccb7e03056.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_tsubaki.png"
+dest_files=["res://.godot/imported/event01_tsubaki.png-617a409939b49e8010afc7b483563f60.ctex"]
 
 [params]
 

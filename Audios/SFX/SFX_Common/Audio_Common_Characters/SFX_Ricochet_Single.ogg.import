@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c00nqa4gqbhay"
-path="res://.godot/imported/SFX_Ricochet_Single.ogg-c2e8ecbae83301eeb52f3c00f50cc34b.oggvorbisstr"
+path="res://.godot/imported/SFX_Ricochet_Single.ogg-8a76097645aed1e49dd1e5d1088325b9.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Ricochet_Single.ogg"
-dest_files=["res://.godot/imported/SFX_Ricochet_Single.ogg-c2e8ecbae83301eeb52f3c00f50cc34b.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Ricochet_Single.ogg"
+dest_files=["res://.godot/imported/SFX_Ricochet_Single.ogg-8a76097645aed1e49dd1e5d1088325b9.oggvorbisstr"]
 
 [params]
 

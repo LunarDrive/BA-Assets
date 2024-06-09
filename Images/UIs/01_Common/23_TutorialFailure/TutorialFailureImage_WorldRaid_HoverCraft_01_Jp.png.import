@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6128ye8i43a1"
-path="res://.godot/imported/TutorialFailureImage_WorldRaid_HoverCraft_01_Jp.png-c628a5e96fd3df8cea067a6dcfbc324b.ctex"
+path="res://.godot/imported/TutorialFailureImage_WorldRaid_HoverCraft_01_Jp.png-2e4de679884c8c77ebe1cb226d65dee6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_01_Jp.png"
-dest_files=["res://.godot/imported/TutorialFailureImage_WorldRaid_HoverCraft_01_Jp.png-c628a5e96fd3df8cea067a6dcfbc324b.ctex"]
+source_file="res://assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_01_Jp.png"
+dest_files=["res://.godot/imported/TutorialFailureImage_WorldRaid_HoverCraft_01_Jp.png-2e4de679884c8c77ebe1cb226d65dee6.ctex"]
 
 [params]
 

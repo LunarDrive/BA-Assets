@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ifm7n2qgs8de"
-path="res://.godot/imported/Combat_Icon_Debuff_HealedLimit.png-5b6d06b6fd2288901110846091633cc4.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_HealedLimit.png-52b80d0c5cb44fd98077519678fed00e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_HealedLimit.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_HealedLimit.png-5b6d06b6fd2288901110846091633cc4.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_HealedLimit.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_HealedLimit.png-52b80d0c5cb44fd98077519678fed00e.ctex"]
 
 [params]
 

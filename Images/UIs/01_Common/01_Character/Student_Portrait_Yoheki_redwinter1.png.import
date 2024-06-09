@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cm7w4kcujf5pq"
-path="res://.godot/imported/Student_Portrait_Yoheki_redwinter1.png-f0d423f0e89f52e488a52c9e46ce7562.ctex"
+path="res://.godot/imported/Student_Portrait_Yoheki_redwinter1.png-2cd2406fd620fc85145b7e519a1af156.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Yoheki_redwinter1.png"
-dest_files=["res://.godot/imported/Student_Portrait_Yoheki_redwinter1.png-f0d423f0e89f52e488a52c9e46ce7562.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Yoheki_redwinter1.png"
+dest_files=["res://.godot/imported/Student_Portrait_Yoheki_redwinter1.png-2cd2406fd620fc85145b7e519a1af156.ctex"]
 
 [params]
 

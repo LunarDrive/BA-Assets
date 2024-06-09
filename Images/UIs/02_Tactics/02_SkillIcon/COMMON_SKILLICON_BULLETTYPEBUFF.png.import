@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0lbtl3fowr2j"
-path="res://.godot/imported/COMMON_SKILLICON_BULLETTYPEBUFF.png-b322f37e3ae89e007532e26233ff2bb3.ctex"
+path="res://.godot/imported/COMMON_SKILLICON_BULLETTYPEBUFF.png-4440af191e51558d80314093b80df992.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_BULLETTYPEBUFF.png"
-dest_files=["res://.godot/imported/COMMON_SKILLICON_BULLETTYPEBUFF.png-b322f37e3ae89e007532e26233ff2bb3.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_BULLETTYPEBUFF.png"
+dest_files=["res://.godot/imported/COMMON_SKILLICON_BULLETTYPEBUFF.png-4440af191e51558d80314093b80df992.ctex"]
 
 [params]
 

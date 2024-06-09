@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cotgsom50o1my"
-path="res://.godot/imported/Currency_Icon_RecruitTicket_Normal_10.png-9136a117887949499dd2275a3b815bc0.ctex"
+path="res://.godot/imported/Currency_Icon_RecruitTicket_Normal_10.png-956b84c4d89b519b9e7f8657f338821b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Currency_Icon_RecruitTicket_Normal_10.png"
-dest_files=["res://.godot/imported/Currency_Icon_RecruitTicket_Normal_10.png-9136a117887949499dd2275a3b815bc0.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Currency_Icon_RecruitTicket_Normal_10.png"
+dest_files=["res://.godot/imported/Currency_Icon_RecruitTicket_Normal_10.png-956b84c4d89b519b9e7f8657f338821b.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfneyocseshpl"
-path="res://.godot/imported/COMMON_SKILLICON_HEALBYHIT_DAMAGED.png-ec42d86b03c73941f43974274daaf830.ctex"
+path="res://.godot/imported/COMMON_SKILLICON_HEALBYHIT_DAMAGED.png-fc94f311035bc1d0f8fc55845fbe38f5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_HEALBYHIT_DAMAGED.png"
-dest_files=["res://.godot/imported/COMMON_SKILLICON_HEALBYHIT_DAMAGED.png-ec42d86b03c73941f43974274daaf830.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_HEALBYHIT_DAMAGED.png"
+dest_files=["res://.godot/imported/COMMON_SKILLICON_HEALBYHIT_DAMAGED.png-fc94f311035bc1d0f8fc55845fbe38f5.ctex"]
 
 [params]
 

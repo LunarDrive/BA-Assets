@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://k1v0t8kfcd0g"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Atsuko.png-c52e14a175f9f7155e08d7802e1abd8a.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Atsuko.png-897e1ee1dbbb8093d9fdd1b94e75cd09.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Atsuko.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Atsuko.png-c52e14a175f9f7155e08d7802e1abd8a.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Atsuko.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Atsuko.png-897e1ee1dbbb8093d9fdd1b94e75cd09.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbvmb41co12tu"
-path="res://.godot/imported/Boss_Portrait_KaitenFxMk0_LobbyBG_Street.png-d88974bb697df7d8ef65d5ba88e80a1f.ctex"
+path="res://.godot/imported/Boss_Portrait_KaitenFxMk0_LobbyBG_Street.png-87bd5cef122a89cfe6bb170f1823572e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/06_Raid/Boss_Portrait_KaitenFxMk0_LobbyBG_Street.png"
-dest_files=["res://.godot/imported/Boss_Portrait_KaitenFxMk0_LobbyBG_Street.png-d88974bb697df7d8ef65d5ba88e80a1f.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/06_Raid/Boss_Portrait_KaitenFxMk0_LobbyBG_Street.png"
+dest_files=["res://.godot/imported/Boss_Portrait_KaitenFxMk0_LobbyBG_Street.png-87bd5cef122a89cfe6bb170f1823572e.ctex"]
 
 [params]
 

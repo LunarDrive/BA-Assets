@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://5tk15h8bfn3f"
-path="res://.godot/imported/SE_DropGun_02.ogg-94819aa4153a9e5b43cd6b10c9c89a2a.oggvorbisstr"
+path="res://.godot/imported/SE_DropGun_02.ogg-3bdb61dca050b9c4febf09531a343bff.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_DropGun_02.ogg"
-dest_files=["res://.godot/imported/SE_DropGun_02.ogg-94819aa4153a9e5b43cd6b10c9c89a2a.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_DropGun_02.ogg"
+dest_files=["res://.godot/imported/SE_DropGun_02.ogg-3bdb61dca050b9c4febf09531a343bff.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cj3as5f0vgxqv"
-path="res://.godot/imported/SE_DragDrum_02.ogg-4b96f28c669cffd0e92186c30f371895.oggvorbisstr"
+path="res://.godot/imported/SE_DragDrum_02.ogg-032dedc6d917cfd274a58db42e817e2c.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_DragDrum_02.ogg"
-dest_files=["res://.godot/imported/SE_DragDrum_02.ogg-4b96f28c669cffd0e92186c30f371895.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_DragDrum_02.ogg"
+dest_files=["res://.godot/imported/SE_DragDrum_02.ogg-032dedc6d917cfd274a58db42e817e2c.oggvorbisstr"]
 
 [params]
 

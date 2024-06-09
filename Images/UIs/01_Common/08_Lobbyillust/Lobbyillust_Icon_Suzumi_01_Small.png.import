@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cjyq6dxhfwebf"
-path="res://.godot/imported/Lobbyillust_Icon_Suzumi_01_Small.png-2fb8b1656f7b8accbe6c2e782cf01e08.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Suzumi_01_Small.png-7e6bd9d189a0db369fd91c0571597738.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Suzumi_01_Small.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Suzumi_01_Small.png-2fb8b1656f7b8accbe6c2e782cf01e08.ctex"]
+source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Suzumi_01_Small.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Suzumi_01_Small.png-7e6bd9d189a0db369fd91c0571597738.ctex"]
 
 [params]
 

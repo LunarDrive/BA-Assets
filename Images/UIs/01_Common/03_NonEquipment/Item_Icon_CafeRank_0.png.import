@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2o88wyex03o7"
-path="res://.godot/imported/Item_Icon_CafeRank_0.png-c0373034d707ee2376213a428fa6ee8f.ctex"
+path="res://.godot/imported/Item_Icon_CafeRank_0.png-d50a2b7d5aafb6989e945399b13d6ebe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_CafeRank_0.png"
-dest_files=["res://.godot/imported/Item_Icon_CafeRank_0.png-c0373034d707ee2376213a428fa6ee8f.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_CafeRank_0.png"
+dest_files=["res://.godot/imported/Item_Icon_CafeRank_0.png-d50a2b7d5aafb6989e945399b13d6ebe.ctex"]
 
 [params]
 

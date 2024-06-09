@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d02wlyxpqgwle"
-path="res://.godot/imported/My_Seahouse_01_Parasol.png-2a6b8a8c9061c277ddf8fd7b60e71d58.ctex"
+path="res://.godot/imported/My_Seahouse_01_Parasol.png-df94df515f39a9477438d2bee0ddff46.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Seahouse_01_Parasol.png"
-dest_files=["res://.godot/imported/My_Seahouse_01_Parasol.png-2a6b8a8c9061c277ddf8fd7b60e71d58.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Seahouse_01_Parasol.png"
+dest_files=["res://.godot/imported/My_Seahouse_01_Parasol.png-df94df515f39a9477438d2bee0ddff46.ctex"]
 
 [params]
 

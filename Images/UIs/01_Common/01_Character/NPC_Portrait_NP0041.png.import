@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://h4ufivjatd5j"
-path="res://.godot/imported/NPC_Portrait_NP0041.png-6db0b770fdbdd75e90c9e5b049a39abb.ctex"
+path="res://.godot/imported/NPC_Portrait_NP0041.png-c33f4a7d50b6b8ccf3b512c9389b1266.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/NPC_Portrait_NP0041.png"
-dest_files=["res://.godot/imported/NPC_Portrait_NP0041.png-6db0b770fdbdd75e90c9e5b049a39abb.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/NPC_Portrait_NP0041.png"
+dest_files=["res://.godot/imported/NPC_Portrait_NP0041.png-c33f4a7d50b6b8ccf3b512c9389b1266.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4y70rysl1g5m"
-path="res://.godot/imported/Combat_Icon_Debuff_ConcentratedTarget.png-269e98175143c45aa7573851e97c128e.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_ConcentratedTarget.png-1b625adb7a7a3175ea551d164bec256c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ConcentratedTarget.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_ConcentratedTarget.png-269e98175143c45aa7573851e97c128e.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ConcentratedTarget.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_ConcentratedTarget.png-1b625adb7a7a3175ea551d164bec256c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://le63qj2qi6qx"
-path="res://.godot/imported/Champion_Hpbar_Portrait_DroidThin_Hippie_HG.png-88b9b6d9483157aecb77409f55f30ceb.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_DroidThin_Hippie_HG.png-ae51c73e3fa31c57700ed1c94df007b6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_DroidThin_Hippie_HG.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_DroidThin_Hippie_HG.png-88b9b6d9483157aecb77409f55f30ceb.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_DroidThin_Hippie_HG.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_DroidThin_Hippie_HG.png-ae51c73e3fa31c57700ed1c94df007b6.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7jto47c6op1b"
-path="res://.godot/imported/EnemyInfo_Droid_Helmet_AR.png-058c7f6a8a44abd82dbb209fb887b3b8.ctex"
+path="res://.godot/imported/EnemyInfo_Droid_Helmet_AR.png-9c92549bc6d438525666a23f2f5ecad5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Droid_Helmet_AR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Droid_Helmet_AR.png-058c7f6a8a44abd82dbb209fb887b3b8.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Droid_Helmet_AR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Droid_Helmet_AR.png-9c92549bc6d438525666a23f2f5ecad5.ctex"]
 
 [params]
 

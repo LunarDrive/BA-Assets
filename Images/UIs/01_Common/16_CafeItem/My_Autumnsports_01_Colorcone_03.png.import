@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://efcldj405062"
-path="res://.godot/imported/My_Autumnsports_01_Colorcone_03.png-9f85a08e211dbf6dc446d44aa01fc7e8.ctex"
+path="res://.godot/imported/My_Autumnsports_01_Colorcone_03.png-15a13d0ff0e72210a9076af3e2b446d2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Autumnsports_01_Colorcone_03.png"
-dest_files=["res://.godot/imported/My_Autumnsports_01_Colorcone_03.png-9f85a08e211dbf6dc446d44aa01fc7e8.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Autumnsports_01_Colorcone_03.png"
+dest_files=["res://.godot/imported/My_Autumnsports_01_Colorcone_03.png-15a13d0ff0e72210a9076af3e2b446d2.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhs7slla37c1t"
-path="res://.godot/imported/Arena_RankIcon_03.png-07cc0048448fc71134d7c8c33e2adaa2.ctex"
+path="res://.godot/imported/Arena_RankIcon_03.png-1fa05a84d657c1e20081f9249866339f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/18_PVPArena/Arena_RankIcon_03.png"
-dest_files=["res://.godot/imported/Arena_RankIcon_03.png-07cc0048448fc71134d7c8c33e2adaa2.ctex"]
+source_file="res://assets/Images/UIs/01_Common/18_PVPArena/Arena_RankIcon_03.png"
+dest_files=["res://.godot/imported/Arena_RankIcon_03.png-1fa05a84d657c1e20081f9249866339f.ctex"]
 
 [params]
 

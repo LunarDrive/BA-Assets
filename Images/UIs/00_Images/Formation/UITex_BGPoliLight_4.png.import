@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6fmublfp70a"
-path="res://.godot/imported/UITex_BGPoliLight_4.png-3f787803f312350756be187f52081641.ctex"
+path="res://.godot/imported/UITex_BGPoliLight_4.png-02927483837f7d748056cd3782fcaa22.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Formation/UITex_BGPoliLight_4.png"
-dest_files=["res://.godot/imported/UITex_BGPoliLight_4.png-3f787803f312350756be187f52081641.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Formation/UITex_BGPoliLight_4.png"
+dest_files=["res://.godot/imported/UITex_BGPoliLight_4.png-02927483837f7d748056cd3782fcaa22.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwv6hyqduytkf"
-path="res://.godot/imported/bg_foodcartramen2.jpg-8166fabf1a7f16ba16406a324a5e0924.ctex"
+path="res://.godot/imported/bg_foodcartramen2.jpg-16b419a0164bced045cd120657a5f80b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_foodcartramen2.jpg"
-dest_files=["res://.godot/imported/bg_foodcartramen2.jpg-8166fabf1a7f16ba16406a324a5e0924.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_foodcartramen2.jpg"
+dest_files=["res://.godot/imported/bg_foodcartramen2.jpg-16b419a0164bced045cd120657a5f80b.ctex"]
 
 [params]
 

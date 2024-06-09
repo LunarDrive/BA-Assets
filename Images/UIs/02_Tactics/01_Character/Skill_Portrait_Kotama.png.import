@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://be8r35m463toj"
-path="res://.godot/imported/Skill_Portrait_Kotama.png-383f44414c11b0899601dbbda1e1adbc.ctex"
+path="res://.godot/imported/Skill_Portrait_Kotama.png-35e3a88a6bd6e10a06bd31bf8d482f6c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Kotama.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Kotama.png-383f44414c11b0899601dbbda1e1adbc.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Kotama.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Kotama.png-35e3a88a6bd6e10a06bd31bf8d482f6c.ctex"]
 
 [params]
 

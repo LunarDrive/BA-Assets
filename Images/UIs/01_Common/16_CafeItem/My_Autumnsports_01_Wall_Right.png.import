@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dl2581deblggb"
-path="res://.godot/imported/My_Autumnsports_01_Wall_Right.png-6ebd45310c1edc1f2b8c78b29083dccd.ctex"
+path="res://.godot/imported/My_Autumnsports_01_Wall_Right.png-fc1cea5628a6ac7abb52ddeda4f0b71e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Autumnsports_01_Wall_Right.png"
-dest_files=["res://.godot/imported/My_Autumnsports_01_Wall_Right.png-6ebd45310c1edc1f2b8c78b29083dccd.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Autumnsports_01_Wall_Right.png"
+dest_files=["res://.godot/imported/My_Autumnsports_01_Wall_Right.png-fc1cea5628a6ac7abb52ddeda4f0b71e.ctex"]
 
 [params]
 

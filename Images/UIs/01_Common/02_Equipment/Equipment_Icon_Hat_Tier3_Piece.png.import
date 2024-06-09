@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvto23rul2vek"
-path="res://.godot/imported/Equipment_Icon_Hat_Tier3_Piece.png-4a67e2dad574a18ebd8e54cc83508efe.ctex"
+path="res://.godot/imported/Equipment_Icon_Hat_Tier3_Piece.png-c312004e5d19561274314bbb4587af5b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/02_Equipment/Equipment_Icon_Hat_Tier3_Piece.png"
-dest_files=["res://.godot/imported/Equipment_Icon_Hat_Tier3_Piece.png-4a67e2dad574a18ebd8e54cc83508efe.ctex"]
+source_file="res://assets/Images/UIs/01_Common/02_Equipment/Equipment_Icon_Hat_Tier3_Piece.png"
+dest_files=["res://.godot/imported/Equipment_Icon_Hat_Tier3_Piece.png-c312004e5d19561274314bbb4587af5b.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvr8l7vtu5cb8"
-path="res://.godot/imported/Academy_Hyakkiyako.png-6edb6955b19c799a8e2ef78c684c21da.ctex"
+path="res://.godot/imported/Academy_Hyakkiyako.png-a7418ec4d6e489e73bc9cf2b2c42ddc4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/SchoolMap/Academy_Hyakkiyako.png"
-dest_files=["res://.godot/imported/Academy_Hyakkiyako.png-6edb6955b19c799a8e2ef78c684c21da.ctex"]
+source_file="res://assets/Images/UIs/00_Images/SchoolMap/Academy_Hyakkiyako.png"
+dest_files=["res://.godot/imported/Academy_Hyakkiyako.png-a7418ec4d6e489e73bc9cf2b2c42ddc4.ctex"]
 
 [params]
 

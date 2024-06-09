@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bxy4i6dtryoey"
-path="res://.godot/imported/SFX_Chime_00.ogg-cb742a4299b9fa90c30c1c772e1a47a7.oggvorbisstr"
+path="res://.godot/imported/SFX_Chime_00.ogg-c89c4e40e66b7e743c1fa25ff8069398.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_UI/SFX_Chime_00.ogg"
-dest_files=["res://.godot/imported/SFX_Chime_00.ogg-cb742a4299b9fa90c30c1c772e1a47a7.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_UI/SFX_Chime_00.ogg"
+dest_files=["res://.godot/imported/SFX_Chime_00.ogg-c89c4e40e66b7e743c1fa25ff8069398.oggvorbisstr"]
 
 [params]
 

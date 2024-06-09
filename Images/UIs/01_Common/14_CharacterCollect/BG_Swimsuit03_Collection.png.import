@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2xta8a8jnklh"
-path="res://.godot/imported/BG_Swimsuit03_Collection.png-39961e1b6a345ae59b33ffc2b89ccf53.ctex"
+path="res://.godot/imported/BG_Swimsuit03_Collection.png-ab7a1a4de817891d249f3b28e7f6d364.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/14_CharacterCollect/BG_Swimsuit03_Collection.png"
-dest_files=["res://.godot/imported/BG_Swimsuit03_Collection.png-39961e1b6a345ae59b33ffc2b89ccf53.ctex"]
+source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/BG_Swimsuit03_Collection.png"
+dest_files=["res://.godot/imported/BG_Swimsuit03_Collection.png-ab7a1a4de817891d249f3b28e7f6d364.ctex"]
 
 [params]
 

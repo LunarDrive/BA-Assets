@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rnjksgmyq67o"
-path="res://.godot/imported/Portrait_Raidboss_Chesed_Colour.png-ce5045a62699d82b99cbcc012f2e1afa.ctex"
+path="res://.godot/imported/Portrait_Raidboss_Chesed_Colour.png-14efaf25fa6179828886166b77056cb8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/38_WorldRaid/Portrait_Raidboss_Chesed_Colour.png"
-dest_files=["res://.godot/imported/Portrait_Raidboss_Chesed_Colour.png-ce5045a62699d82b99cbcc012f2e1afa.ctex"]
+source_file="res://assets/Images/UIs/01_Common/38_WorldRaid/Portrait_Raidboss_Chesed_Colour.png"
+dest_files=["res://.godot/imported/Portrait_Raidboss_Chesed_Colour.png-14efaf25fa6179828886166b77056cb8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0yx2q6xt33gd"
-path="res://.godot/imported/WorldRaid_Icon_TicketShop.png-55fed4cb42be0a6e3a523208422e1937.ctex"
+path="res://.godot/imported/WorldRaid_Icon_TicketShop.png-70dfc41d8af2cf30f0ea7431c0efbf8d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/38_WorldRaid/WorldRaid_Icon_TicketShop.png"
-dest_files=["res://.godot/imported/WorldRaid_Icon_TicketShop.png-55fed4cb42be0a6e3a523208422e1937.ctex"]
+source_file="res://assets/Images/UIs/01_Common/38_WorldRaid/WorldRaid_Icon_TicketShop.png"
+dest_files=["res://.godot/imported/WorldRaid_Icon_TicketShop.png-70dfc41d8af2cf30f0ea7431c0efbf8d.ctex"]
 
 [params]
 

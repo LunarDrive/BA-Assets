@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://da2oungqvwgf2"
-path="res://.godot/imported/SE_Helicopter_01.ogg-0df3075312e661a51b7e29a15b7a965a.oggvorbisstr"
+path="res://.godot/imported/SE_Helicopter_01.ogg-e1149cf908a15341331e45b20b0f1351.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Helicopter_01.ogg"
-dest_files=["res://.godot/imported/SE_Helicopter_01.ogg-0df3075312e661a51b7e29a15b7a965a.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Helicopter_01.ogg"
+dest_files=["res://.godot/imported/SE_Helicopter_01.ogg-e1149cf908a15341331e45b20b0f1351.oggvorbisstr"]
 
 [params]
 

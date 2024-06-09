@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4rcw43vh0pk0"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Mimori.png-11813c5b75ee3c512080b9f15f532622.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Mimori.png-7b3547837d27420923ff31fd446baca8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Mimori.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Mimori.png-11813c5b75ee3c512080b9f15f532622.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Mimori.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Mimori.png-7b3547837d27420923ff31fd446baca8.ctex"]
 
 [params]
 

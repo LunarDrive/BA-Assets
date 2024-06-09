@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://biidvehxbvo1g"
-path="res://.godot/imported/EnemyInfo_Terror_Nun_Yustina_SMG.png-97721300cb855ee3f78770c17c7f9ea0.ctex"
+path="res://.godot/imported/EnemyInfo_Terror_Nun_Yustina_SMG.png-96b2cd9484126953c8b649b65376d7d8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Terror_Nun_Yustina_SMG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Terror_Nun_Yustina_SMG.png-97721300cb855ee3f78770c17c7f9ea0.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Terror_Nun_Yustina_SMG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Terror_Nun_Yustina_SMG.png-96b2cd9484126953c8b649b65376d7d8.ctex"]
 
 [params]
 

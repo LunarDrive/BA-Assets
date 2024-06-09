@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ciin0nvisf4ng"
-path="res://.godot/imported/EnemyInfo_Wakamo_Swimsuit_Original.png-b6dd473e736ded5748fec851d69019e9.ctex"
+path="res://.godot/imported/EnemyInfo_Wakamo_Swimsuit_Original.png-7063d57f7459dbad40875b5a952840e9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Wakamo_Swimsuit_Original.png"
-dest_files=["res://.godot/imported/EnemyInfo_Wakamo_Swimsuit_Original.png-b6dd473e736ded5748fec851d69019e9.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Wakamo_Swimsuit_Original.png"
+dest_files=["res://.godot/imported/EnemyInfo_Wakamo_Swimsuit_Original.png-7063d57f7459dbad40875b5a952840e9.ctex"]
 
 [params]
 

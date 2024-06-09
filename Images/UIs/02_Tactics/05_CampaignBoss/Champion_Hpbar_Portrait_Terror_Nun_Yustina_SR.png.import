@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bc5ucmxjgu0p"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Terror_Nun_Yustina_SR.png-08976431c5bd42fcc1419f52776c558e.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Terror_Nun_Yustina_SR.png-58dd9c56f18e2be29e563b79c6f40fb6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Terror_Nun_Yustina_SR.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Terror_Nun_Yustina_SR.png-08976431c5bd42fcc1419f52776c558e.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Terror_Nun_Yustina_SR.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Terror_Nun_Yustina_SR.png-58dd9c56f18e2be29e563b79c6f40fb6.ctex"]
 
 [params]
 

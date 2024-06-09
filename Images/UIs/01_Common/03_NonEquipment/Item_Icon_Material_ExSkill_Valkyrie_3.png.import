@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mnobfcqqspko"
-path="res://.godot/imported/Item_Icon_Material_ExSkill_Valkyrie_3.png-e8247ff654243646345a3861e81c62af.ctex"
+path="res://.godot/imported/Item_Icon_Material_ExSkill_Valkyrie_3.png-e6a78eca207cdcac83dacbf5c3af9549.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Valkyrie_3.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_ExSkill_Valkyrie_3.png-e8247ff654243646345a3861e81c62af.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Valkyrie_3.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_ExSkill_Valkyrie_3.png-e6a78eca207cdcac83dacbf5c3af9549.ctex"]
 
 [params]
 

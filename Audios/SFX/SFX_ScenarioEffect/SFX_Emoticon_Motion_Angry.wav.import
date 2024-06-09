@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dximdfbl7cwq7"
-path="res://.godot/imported/SFX_Emoticon_Motion_Angry.wav-d4acc57fbc42995d01e6a3020f7aec15.sample"
+path="res://.godot/imported/SFX_Emoticon_Motion_Angry.wav-15808f85e9a886e455691c2a434fd571.sample"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Angry.wav"
-dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Angry.wav-d4acc57fbc42995d01e6a3020f7aec15.sample"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Angry.wav"
+dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Angry.wav-15808f85e9a886e455691c2a434fd571.sample"]
 
 [params]
 

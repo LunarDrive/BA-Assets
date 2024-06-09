@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://r6la1oq5r1y3"
-path="res://.godot/imported/SE_Seagull_01.ogg-b9ae0b967954492f14ea2b1640bdd059.oggvorbisstr"
+path="res://.godot/imported/SE_Seagull_01.ogg-32189ee18586e72df7b0dc4121d558c3.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Seagull_01.ogg"
-dest_files=["res://.godot/imported/SE_Seagull_01.ogg-b9ae0b967954492f14ea2b1640bdd059.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Seagull_01.ogg"
+dest_files=["res://.godot/imported/SE_Seagull_01.ogg-32189ee18586e72df7b0dc4121d558c3.oggvorbisstr"]
 
 [params]
 

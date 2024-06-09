@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://diqubicsh4hr6"
-path="res://.godot/imported/SFX_Spine_Whoosh_Low.ogg-e01fb2a1a1c20f3d2b50fa20fe3e0988.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_Whoosh_Low.ogg-b7395a89be30d236f85b4e97a0cb4599.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Whoosh_Low.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_Whoosh_Low.ogg-e01fb2a1a1c20f3d2b50fa20fe3e0988.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Whoosh_Low.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_Whoosh_Low.ogg-b7395a89be30d236f85b4e97a0cb4599.oggvorbisstr"]
 
 [params]
 

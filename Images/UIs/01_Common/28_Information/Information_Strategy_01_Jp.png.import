@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqbegciqk6suw"
-path="res://.godot/imported/Information_Strategy_01_Jp.png-ce0eae1573fe5e7f38bb666afc988fbb.ctex"
+path="res://.godot/imported/Information_Strategy_01_Jp.png-f41f9a81c2bb21d8eaa92ff5eaf06945.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/28_Information/Information_Strategy_01_Jp.png"
-dest_files=["res://.godot/imported/Information_Strategy_01_Jp.png-ce0eae1573fe5e7f38bb666afc988fbb.ctex"]
+source_file="res://assets/Images/UIs/01_Common/28_Information/Information_Strategy_01_Jp.png"
+dest_files=["res://.godot/imported/Information_Strategy_01_Jp.png-f41f9a81c2bb21d8eaa92ff5eaf06945.ctex"]
 
 [params]
 

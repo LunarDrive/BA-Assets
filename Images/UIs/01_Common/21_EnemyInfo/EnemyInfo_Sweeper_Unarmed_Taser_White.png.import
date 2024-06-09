@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brcyqv477vlht"
-path="res://.godot/imported/EnemyInfo_Sweeper_Unarmed_Taser_White.png-f831023e2ae3b7f7de9fd3e38a396fdb.ctex"
+path="res://.godot/imported/EnemyInfo_Sweeper_Unarmed_Taser_White.png-a5e8fa3080c818772dc8fd677866d329.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Sweeper_Unarmed_Taser_White.png"
-dest_files=["res://.godot/imported/EnemyInfo_Sweeper_Unarmed_Taser_White.png-f831023e2ae3b7f7de9fd3e38a396fdb.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Sweeper_Unarmed_Taser_White.png"
+dest_files=["res://.godot/imported/EnemyInfo_Sweeper_Unarmed_Taser_White.png-a5e8fa3080c818772dc8fd677866d329.ctex"]
 
 [params]
 

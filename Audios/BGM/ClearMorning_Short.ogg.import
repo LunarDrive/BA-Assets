@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bo3pmapeuf881"
-path="res://.godot/imported/ClearMorning_Short.ogg-673771d9955411f88dcc77110d3f9ce8.oggvorbisstr"
+path="res://.godot/imported/ClearMorning_Short.ogg-77451c02b8bd6bf22957dea9bf62d271.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/BGM/ClearMorning_Short.ogg"
-dest_files=["res://.godot/imported/ClearMorning_Short.ogg-673771d9955411f88dcc77110d3f9ce8.oggvorbisstr"]
+source_file="res://assets/Audios/BGM/ClearMorning_Short.ogg"
+dest_files=["res://.godot/imported/ClearMorning_Short.ogg-77451c02b8bd6bf22957dea9bf62d271.oggvorbisstr"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ieugimqywg8d"
-path="res://.godot/imported/bg_cs_abydos_06.jpg-32805ecad166639a80ce1b997669eae8.ctex"
+path="res://.godot/imported/bg_cs_abydos_06.jpg-24a8258bb66d5a0be5222567ec25bc38.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_cs_abydos_06.jpg"
-dest_files=["res://.godot/imported/bg_cs_abydos_06.jpg-32805ecad166639a80ce1b997669eae8.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_cs_abydos_06.jpg"
+dest_files=["res://.godot/imported/bg_cs_abydos_06.jpg-24a8258bb66d5a0be5222567ec25bc38.ctex"]
 
 [params]
 

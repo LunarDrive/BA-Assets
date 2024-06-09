@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://diq1lerf7pdsw"
-path="res://.godot/imported/EnemyInfo_Koharu_SR.png-cf957a3eb8230bf060c71d53e4a36b32.ctex"
+path="res://.godot/imported/EnemyInfo_Koharu_SR.png-3f94b32e86de8a4f8b21bc6ad56c26a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Koharu_SR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Koharu_SR.png-cf957a3eb8230bf060c71d53e4a36b32.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Koharu_SR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Koharu_SR.png-3f94b32e86de8a4f8b21bc6ad56c26a9.ctex"]
 
 [params]
 

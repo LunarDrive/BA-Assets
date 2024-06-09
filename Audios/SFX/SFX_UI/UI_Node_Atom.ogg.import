@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://wdwtx4qv7opq"
-path="res://.godot/imported/UI_Node_Atom.ogg-901fe6413c95f063a84098bc52688f49.oggvorbisstr"
+path="res://.godot/imported/UI_Node_Atom.ogg-4fe9863388c73dac65d116d288a728e2.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_UI/UI_Node_Atom.ogg"
-dest_files=["res://.godot/imported/UI_Node_Atom.ogg-901fe6413c95f063a84098bc52688f49.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_UI/UI_Node_Atom.ogg"
+dest_files=["res://.godot/imported/UI_Node_Atom.ogg-4fe9863388c73dac65d116d288a728e2.oggvorbisstr"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8ahurvd6vc45"
-path="res://.godot/imported/EnemyInfo_Sweeper_LightArmor_Taser_Green.png-600eadb9e2df2a29c55a6c7a121cbad8.ctex"
+path="res://.godot/imported/EnemyInfo_Sweeper_LightArmor_Taser_Green.png-f60175bcea4d2120a5d4046001b39507.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Sweeper_LightArmor_Taser_Green.png"
-dest_files=["res://.godot/imported/EnemyInfo_Sweeper_LightArmor_Taser_Green.png-600eadb9e2df2a29c55a6c7a121cbad8.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Sweeper_LightArmor_Taser_Green.png"
+dest_files=["res://.godot/imported/EnemyInfo_Sweeper_LightArmor_Taser_Green.png-f60175bcea4d2120a5d4046001b39507.ctex"]
 
 [params]
 

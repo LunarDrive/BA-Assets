@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bv3xhnrjw14v8"
-path="res://.godot/imported/My_Hotsprings_01_Partition_02.png-1bae24a98480fe20ce9b950d722e4614.ctex"
+path="res://.godot/imported/My_Hotsprings_01_Partition_02.png-03437949c2b035c1ccca771fbdbe5cd9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Hotsprings_01_Partition_02.png"
-dest_files=["res://.godot/imported/My_Hotsprings_01_Partition_02.png-1bae24a98480fe20ce9b950d722e4614.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Hotsprings_01_Partition_02.png"
+dest_files=["res://.godot/imported/My_Hotsprings_01_Partition_02.png-03437949c2b035c1ccca771fbdbe5cd9.ctex"]
 
 [params]
 

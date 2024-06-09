@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1g3gvova61ca"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Usagibot_Slumpia_AR.png-58fb26eb76513ebc79699b48bbff6318.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Usagibot_Slumpia_AR.png-baf2f99a2c2dd23324bfdcae5effe126.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Usagibot_Slumpia_AR.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Usagibot_Slumpia_AR.png-58fb26eb76513ebc79699b48bbff6318.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Usagibot_Slumpia_AR.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Usagibot_Slumpia_AR.png-baf2f99a2c2dd23324bfdcae5effe126.ctex"]
 
 [params]
 

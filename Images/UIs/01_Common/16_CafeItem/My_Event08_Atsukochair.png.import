@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8q0w7aw1vnhr"
-path="res://.godot/imported/My_Event08_Atsukochair.png-5fab82fe3956c9db98decf44cb6f7996.ctex"
+path="res://.godot/imported/My_Event08_Atsukochair.png-cb502a5de3db730ed2251f24259ce6bb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Event08_Atsukochair.png"
-dest_files=["res://.godot/imported/My_Event08_Atsukochair.png-5fab82fe3956c9db98decf44cb6f7996.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Event08_Atsukochair.png"
+dest_files=["res://.godot/imported/My_Event08_Atsukochair.png-cb502a5de3db730ed2251f24259ce6bb.ctex"]
 
 [params]
 

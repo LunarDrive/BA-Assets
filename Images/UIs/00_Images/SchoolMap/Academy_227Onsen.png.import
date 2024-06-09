@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cn3kyrilfupfg"
-path="res://.godot/imported/Academy_227Onsen.png-79f14f45670094e98357f640e3a97eac.ctex"
+path="res://.godot/imported/Academy_227Onsen.png-677652febb2e967e5767a973da4d4683.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/SchoolMap/Academy_227Onsen.png"
-dest_files=["res://.godot/imported/Academy_227Onsen.png-79f14f45670094e98357f640e3a97eac.ctex"]
+source_file="res://assets/Images/UIs/00_Images/SchoolMap/Academy_227Onsen.png"
+dest_files=["res://.godot/imported/Academy_227Onsen.png-677652febb2e967e5767a973da4d4683.ctex"]
 
 [params]
 

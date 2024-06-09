@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bw0abcs7gjmbh"
-path="res://.godot/imported/Skill_Portrait_Mashiro_Swimsuit.png-0d5d0b99e840b8ef417d33d402064bd6.ctex"
+path="res://.godot/imported/Skill_Portrait_Mashiro_Swimsuit.png-e4028300872a3f7e1138535260901fc8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Mashiro_Swimsuit.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Mashiro_Swimsuit.png-0d5d0b99e840b8ef417d33d402064bd6.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Mashiro_Swimsuit.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Mashiro_Swimsuit.png-e4028300872a3f7e1138535260901fc8.ctex"]
 
 [params]
 

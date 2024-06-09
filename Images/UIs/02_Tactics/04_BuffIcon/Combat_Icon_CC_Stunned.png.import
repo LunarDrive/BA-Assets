@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://daqrw2owqoria"
-path="res://.godot/imported/Combat_Icon_CC_Stunned.png-042ac0d43700fe2cb85d9f343d48a1d6.ctex"
+path="res://.godot/imported/Combat_Icon_CC_Stunned.png-d2756f0ee65c1821389dfd8ff19f87df.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_CC_Stunned.png"
-dest_files=["res://.godot/imported/Combat_Icon_CC_Stunned.png-042ac0d43700fe2cb85d9f343d48a1d6.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_CC_Stunned.png"
+dest_files=["res://.godot/imported/Combat_Icon_CC_Stunned.png-d2756f0ee65c1821389dfd8ff19f87df.ctex"]
 
 [params]
 

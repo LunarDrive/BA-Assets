@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0oulb3wp1l5"
-path="res://.godot/imported/Img_UICountdown_2nd_TeaParty_Line.png-d378cc3bd0e3d1ae5754db096d8a6dfb.ctex"
+path="res://.godot/imported/Img_UICountdown_2nd_TeaParty_Line.png-5ad70a996edaa4bf0de94c1bb8146709.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/UICountdown_2nd/Img_UICountdown_2nd_TeaParty_Line.png"
-dest_files=["res://.godot/imported/Img_UICountdown_2nd_TeaParty_Line.png-d378cc3bd0e3d1ae5754db096d8a6dfb.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/UICountdown_2nd/Img_UICountdown_2nd_TeaParty_Line.png"
+dest_files=["res://.godot/imported/Img_UICountdown_2nd_TeaParty_Line.png-5ad70a996edaa4bf0de94c1bb8146709.ctex"]
 
 [params]
 

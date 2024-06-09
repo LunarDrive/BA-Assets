@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxufubs8b8hu7"
-path="res://.godot/imported/Equipment_Icon_Charm_Tier7.png-7c4a8cf10d57a2bca90a89cfbc771c4b.ctex"
+path="res://.godot/imported/Equipment_Icon_Charm_Tier7.png-f9b1c688e8d4799a44f7c43fe308a3c3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/02_Equipment/Equipment_Icon_Charm_Tier7.png"
-dest_files=["res://.godot/imported/Equipment_Icon_Charm_Tier7.png-7c4a8cf10d57a2bca90a89cfbc771c4b.ctex"]
+source_file="res://assets/Images/UIs/01_Common/02_Equipment/Equipment_Icon_Charm_Tier7.png"
+dest_files=["res://.godot/imported/Equipment_Icon_Charm_Tier7.png-f9b1c688e8d4799a44f7c43fe308a3c3.ctex"]
 
 [params]
 

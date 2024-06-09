@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhup0uiem2tg8"
-path="res://.godot/imported/event01_cherino.png-b59ced7ebf98f1a3d0a4f249690d5f63.ctex"
+path="res://.godot/imported/event01_cherino.png-87a94b51fa23a82ee381aa9ff67304f6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_cherino.png"
-dest_files=["res://.godot/imported/event01_cherino.png-b59ced7ebf98f1a3d0a4f249690d5f63.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_cherino.png"
+dest_files=["res://.godot/imported/event01_cherino.png-87a94b51fa23a82ee381aa9ff67304f6.ctex"]
 
 [params]
 

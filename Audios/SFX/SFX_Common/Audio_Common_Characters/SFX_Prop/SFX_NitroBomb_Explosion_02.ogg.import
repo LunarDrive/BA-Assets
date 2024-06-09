@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c7oc4csrwfgf8"
-path="res://.godot/imported/SFX_NitroBomb_Explosion_02.ogg-0b2278e75cda1a520aa12cf331ea23fb.oggvorbisstr"
+path="res://.godot/imported/SFX_NitroBomb_Explosion_02.ogg-a656155b60e2a213d1f5cde6b7e657bc.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Prop/SFX_NitroBomb_Explosion_02.ogg"
-dest_files=["res://.godot/imported/SFX_NitroBomb_Explosion_02.ogg-0b2278e75cda1a520aa12cf331ea23fb.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Prop/SFX_NitroBomb_Explosion_02.ogg"
+dest_files=["res://.godot/imported/SFX_NitroBomb_Explosion_02.ogg-a656155b60e2a213d1f5cde6b7e657bc.oggvorbisstr"]
 
 [params]
 

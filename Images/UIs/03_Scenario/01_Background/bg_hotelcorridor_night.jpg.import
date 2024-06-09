@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c61alfsh2cybc"
-path="res://.godot/imported/bg_hotelcorridor_night.jpg-2bfde533f0c480297f480fd3944e50cc.ctex"
+path="res://.godot/imported/bg_hotelcorridor_night.jpg-d2e7d7821494a78b33af52922b3f3983.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_hotelcorridor_night.jpg"
-dest_files=["res://.godot/imported/bg_hotelcorridor_night.jpg-2bfde533f0c480297f480fd3944e50cc.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_hotelcorridor_night.jpg"
+dest_files=["res://.godot/imported/bg_hotelcorridor_night.jpg-d2e7d7821494a78b33af52922b3f3983.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b62jdwxv3plxn"
-path="res://.godot/imported/Skill_Portrait_Zunko.png-57ea8e289ffd740296dca59f095e5a61.ctex"
+path="res://.godot/imported/Skill_Portrait_Zunko.png-4d0f5710ba0e90696caf547e34853fee.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Zunko.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Zunko.png-57ea8e289ffd740296dca59f095e5a61.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Zunko.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Zunko.png-4d0f5710ba0e90696caf547e34853fee.ctex"]
 
 [params]
 

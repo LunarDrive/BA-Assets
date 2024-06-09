@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dycjg2ffhbxdl"
-path="res://.godot/imported/Operator_Portrait_Momoka_05.png-351fbc323669dcf37bea3555033d812d.ctex"
+path="res://.godot/imported/Operator_Portrait_Momoka_05.png-a6ebab67f666f70c19256b4e0f31a161.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/20_Operator/Operator_Portrait_Momoka_05.png"
-dest_files=["res://.godot/imported/Operator_Portrait_Momoka_05.png-351fbc323669dcf37bea3555033d812d.ctex"]
+source_file="res://assets/Images/UIs/01_Common/20_Operator/Operator_Portrait_Momoka_05.png"
+dest_files=["res://.godot/imported/Operator_Portrait_Momoka_05.png-a6ebab67f666f70c19256b4e0f31a161.ctex"]
 
 [params]
 

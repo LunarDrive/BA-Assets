@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ca3ufg20kp5ot"
-path="res://.godot/imported/Icon_CardBack_Mark.png-8cdcdf8fd28fd9d75afaf090d4e251d8.ctex"
+path="res://.godot/imported/Icon_CardBack_Mark.png-9aaacb96ece6c6fe6bf1c1e9d1c4073a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Icon_CardBack_Mark.png"
-dest_files=["res://.godot/imported/Icon_CardBack_Mark.png-8cdcdf8fd28fd9d75afaf090d4e251d8.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Icon_CardBack_Mark.png"
+dest_files=["res://.godot/imported/Icon_CardBack_Mark.png-9aaacb96ece6c6fe6bf1c1e9d1c4073a.ctex"]
 
 [params]
 

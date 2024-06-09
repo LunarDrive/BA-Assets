@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctiyr0ud44sj8"
-path="res://.godot/imported/EnemyInfo_Soldier_Helmet_AR.png-c091506a4f78ee8614a5684d5049d685.ctex"
+path="res://.godot/imported/EnemyInfo_Soldier_Helmet_AR.png-205a949394cbb21496e65a3e25618486.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Soldier_Helmet_AR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Soldier_Helmet_AR.png-c091506a4f78ee8614a5684d5049d685.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Soldier_Helmet_AR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Soldier_Helmet_AR.png-205a949394cbb21496e65a3e25618486.ctex"]
 
 [params]
 

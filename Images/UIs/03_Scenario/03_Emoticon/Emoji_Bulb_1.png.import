@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xfivynm5erh1"
-path="res://.godot/imported/Emoji_Bulb_1.png-533854a2e9fe370a80d1cd795e39fd24.ctex"
+path="res://.godot/imported/Emoji_Bulb_1.png-57a903cca4cf27cede911b5c3f14515a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/03_Emoticon/Emoji_Bulb_1.png"
-dest_files=["res://.godot/imported/Emoji_Bulb_1.png-533854a2e9fe370a80d1cd795e39fd24.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/03_Emoticon/Emoji_Bulb_1.png"
+dest_files=["res://.godot/imported/Emoji_Bulb_1.png-57a903cca4cf27cede911b5c3f14515a.ctex"]
 
 [params]
 

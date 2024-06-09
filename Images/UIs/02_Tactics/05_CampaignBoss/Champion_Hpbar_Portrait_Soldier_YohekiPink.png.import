@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bo66ccd5vq7iq"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Soldier_YohekiPink.png-5b650f8dbd145ef5de10708626c76931.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Soldier_YohekiPink.png-4540f24c83cdba16d2580f380a872d7c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Soldier_YohekiPink.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Soldier_YohekiPink.png-5b650f8dbd145ef5de10708626c76931.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Soldier_YohekiPink.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Soldier_YohekiPink.png-4540f24c83cdba16d2580f380a872d7c.ctex"]
 
 [params]
 

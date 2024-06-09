@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d16w45tq56b1s"
-path="res://.godot/imported/bg_redwintercampus_night.jpg-a70ff55f35d9948ad3f085570246d658.ctex"
+path="res://.godot/imported/bg_redwintercampus_night.jpg-4dd74a6e9faa7eaec27e6d02429628ca.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_redwintercampus_night.jpg"
-dest_files=["res://.godot/imported/bg_redwintercampus_night.jpg-a70ff55f35d9948ad3f085570246d658.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_redwintercampus_night.jpg"
+dest_files=["res://.godot/imported/bg_redwintercampus_night.jpg-4dd74a6e9faa7eaec27e6d02429628ca.ctex"]
 
 [params]
 

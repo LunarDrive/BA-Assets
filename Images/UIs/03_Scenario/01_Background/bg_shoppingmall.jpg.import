@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjcmu5ii0ysdx"
-path="res://.godot/imported/bg_shoppingmall.jpg-d67f3044ec81ecefb6998342b669f254.ctex"
+path="res://.godot/imported/bg_shoppingmall.jpg-5fdcae58ab4d02746b6254c918f7fdaf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_shoppingmall.jpg"
-dest_files=["res://.godot/imported/bg_shoppingmall.jpg-d67f3044ec81ecefb6998342b669f254.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_shoppingmall.jpg"
+dest_files=["res://.godot/imported/bg_shoppingmall.jpg-5fdcae58ab4d02746b6254c918f7fdaf.ctex"]
 
 [params]
 

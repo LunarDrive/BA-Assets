@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2108i3m2vjaq"
-path="res://.godot/imported/bg_gehennaclassroom_night.jpg-6479da192a159e7c8911a1e6ee650c57.ctex"
+path="res://.godot/imported/bg_gehennaclassroom_night.jpg-42fcbef41bc9d2b320de2d666a077a70.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_gehennaclassroom_night.jpg"
-dest_files=["res://.godot/imported/bg_gehennaclassroom_night.jpg-6479da192a159e7c8911a1e6ee650c57.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_gehennaclassroom_night.jpg"
+dest_files=["res://.godot/imported/bg_gehennaclassroom_night.jpg-42fcbef41bc9d2b320de2d666a077a70.ctex"]
 
 [params]
 

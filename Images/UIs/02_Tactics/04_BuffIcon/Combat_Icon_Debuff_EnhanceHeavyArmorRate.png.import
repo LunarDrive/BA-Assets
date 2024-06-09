@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq3my5hwnuh4j"
-path="res://.godot/imported/Combat_Icon_Debuff_EnhanceHeavyArmorRate.png-85313991f768ea2ab176c6f9c6fd87eb.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_EnhanceHeavyArmorRate.png-5a6af4c34b14a00d55a2b0ab13cea204.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_EnhanceHeavyArmorRate.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_EnhanceHeavyArmorRate.png-85313991f768ea2ab176c6f9c6fd87eb.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_EnhanceHeavyArmorRate.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_EnhanceHeavyArmorRate.png-5a6af4c34b14a00d55a2b0ab13cea204.ctex"]
 
 [params]
 

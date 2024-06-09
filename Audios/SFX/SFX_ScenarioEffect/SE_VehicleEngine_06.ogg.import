@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://u64mu5ssvnlh"
-path="res://.godot/imported/SE_VehicleEngine_06.ogg-b0db91fd7b8290cb870ae38e84bcfc46.oggvorbisstr"
+path="res://.godot/imported/SE_VehicleEngine_06.ogg-9f8f4e2c9043274974875a8617a95ef3.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_VehicleEngine_06.ogg"
-dest_files=["res://.godot/imported/SE_VehicleEngine_06.ogg-b0db91fd7b8290cb870ae38e84bcfc46.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_VehicleEngine_06.ogg"
+dest_files=["res://.godot/imported/SE_VehicleEngine_06.ogg-9f8f4e2c9043274974875a8617a95ef3.oggvorbisstr"]
 
 [params]
 

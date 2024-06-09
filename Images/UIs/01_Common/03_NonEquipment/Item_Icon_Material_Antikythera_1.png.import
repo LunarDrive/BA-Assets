@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2mmq72d8fuub"
-path="res://.godot/imported/Item_Icon_Material_Antikythera_1.png-43a2f175384f85ba57b2624f0129e5fc.ctex"
+path="res://.godot/imported/Item_Icon_Material_Antikythera_1.png-f255c0819e06cb1f7c8d6648c5b551c0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Antikythera_1.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_Antikythera_1.png-43a2f175384f85ba57b2624f0129e5fc.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Antikythera_1.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_Antikythera_1.png-f255c0819e06cb1f7c8d6648c5b551c0.ctex"]
 
 [params]
 

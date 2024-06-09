@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsgm6nyn7ecvk"
-path="res://.godot/imported/bg_helicopterinside_night.jpg-4ace3adec7c4152ee04a3060f745dc19.ctex"
+path="res://.godot/imported/bg_helicopterinside_night.jpg-cf5ca1c5d863e0ad97159674d30c174a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_helicopterinside_night.jpg"
-dest_files=["res://.godot/imported/bg_helicopterinside_night.jpg-4ace3adec7c4152ee04a3060f745dc19.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_helicopterinside_night.jpg"
+dest_files=["res://.godot/imported/bg_helicopterinside_night.jpg-cf5ca1c5d863e0ad97159674d30c174a.ctex"]
 
 [params]
 

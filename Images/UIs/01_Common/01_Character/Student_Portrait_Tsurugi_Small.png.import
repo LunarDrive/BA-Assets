@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6d5v1yenhawt"
-path="res://.godot/imported/Student_Portrait_Tsurugi_Small.png-f95d0c4158ffc5a9ce35e06b9f5aa9c7.ctex"
+path="res://.godot/imported/Student_Portrait_Tsurugi_Small.png-6dd3bef16de15a123f4782938f9604e0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Tsurugi_Small.png"
-dest_files=["res://.godot/imported/Student_Portrait_Tsurugi_Small.png-f95d0c4158ffc5a9ce35e06b9f5aa9c7.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Tsurugi_Small.png"
+dest_files=["res://.godot/imported/Student_Portrait_Tsurugi_Small.png-6dd3bef16de15a123f4782938f9604e0.ctex"]
 
 [params]
 

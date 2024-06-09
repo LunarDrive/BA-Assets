@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://du3t4hcmtam4g"
-path="res://.godot/imported/Skill_Portrait_Hiyori.png-0f9f421bf5d6b0ab33a5565285867776.ctex"
+path="res://.godot/imported/Skill_Portrait_Hiyori.png-73f6810a473b3ddc6769ee2efbfa23dc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Hiyori.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Hiyori.png-0f9f421bf5d6b0ab33a5565285867776.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Hiyori.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Hiyori.png-73f6810a473b3ddc6769ee2efbfa23dc.ctex"]
 
 [params]
 

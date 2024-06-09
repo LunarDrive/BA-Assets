@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpc1yin582vd6"
-path="res://.godot/imported/Equipment_Icon_Hairpin_Tier6_Piece.png-0e9808b6d2bc67c9cf1f06592376530e.ctex"
+path="res://.godot/imported/Equipment_Icon_Hairpin_Tier6_Piece.png-a406be046ed16a372b40ac2ccf531f77.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/02_Equipment/Equipment_Icon_Hairpin_Tier6_Piece.png"
-dest_files=["res://.godot/imported/Equipment_Icon_Hairpin_Tier6_Piece.png-0e9808b6d2bc67c9cf1f06592376530e.ctex"]
+source_file="res://assets/Images/UIs/01_Common/02_Equipment/Equipment_Icon_Hairpin_Tier6_Piece.png"
+dest_files=["res://.godot/imported/Equipment_Icon_Hairpin_Tier6_Piece.png-a406be046ed16a372b40ac2ccf531f77.ctex"]
 
 [params]
 

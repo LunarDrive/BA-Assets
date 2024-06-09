@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6hkju75xj1jf"
-path="res://.godot/imported/Combat_Icon_Special_Holiday.png-4e762fbd1b6717f65b3dcdf3aa81a0f5.ctex"
+path="res://.godot/imported/Combat_Icon_Special_Holiday.png-51ec6cc559c86b0e7fd27d1383810e74.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Special_Holiday.png"
-dest_files=["res://.godot/imported/Combat_Icon_Special_Holiday.png-4e762fbd1b6717f65b3dcdf3aa81a0f5.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Special_Holiday.png"
+dest_files=["res://.godot/imported/Combat_Icon_Special_Holiday.png-51ec6cc559c86b0e7fd27d1383810e74.ctex"]
 
 [params]
 

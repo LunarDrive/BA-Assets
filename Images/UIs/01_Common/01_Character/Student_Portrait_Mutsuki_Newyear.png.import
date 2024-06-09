@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lor4au04vd2s"
-path="res://.godot/imported/Student_Portrait_Mutsuki_Newyear.png-728f9e02a89c823a7b8885bb349e9d07.ctex"
+path="res://.godot/imported/Student_Portrait_Mutsuki_Newyear.png-a7e0568a698113569e34b16e7f4c5938.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Mutsuki_Newyear.png"
-dest_files=["res://.godot/imported/Student_Portrait_Mutsuki_Newyear.png-728f9e02a89c823a7b8885bb349e9d07.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Mutsuki_Newyear.png"
+dest_files=["res://.godot/imported/Student_Portrait_Mutsuki_Newyear.png-a7e0568a698113569e34b16e7f4c5938.ctex"]
 
 [params]
 

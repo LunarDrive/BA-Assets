@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drcumhh5dduhr"
-path="res://.godot/imported/My_Defaultroom_Wall_Right.png-aa236ea033b7e329897520f2fb915cff.ctex"
+path="res://.godot/imported/My_Defaultroom_Wall_Right.png-6335bf5b40fffc8ade2694258fa7457a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Defaultroom_Wall_Right.png"
-dest_files=["res://.godot/imported/My_Defaultroom_Wall_Right.png-aa236ea033b7e329897520f2fb915cff.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Defaultroom_Wall_Right.png"
+dest_files=["res://.godot/imported/My_Defaultroom_Wall_Right.png-6335bf5b40fffc8ade2694258fa7457a.ctex"]
 
 [params]
 

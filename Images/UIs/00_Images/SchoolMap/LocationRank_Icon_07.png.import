@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsmnta4lrmpef"
-path="res://.godot/imported/LocationRank_Icon_07.png-e396905694ea8ac0a7a3505aecfcb2a7.ctex"
+path="res://.godot/imported/LocationRank_Icon_07.png-f11cba3b246e74da8589494a9419c713.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/SchoolMap/LocationRank_Icon_07.png"
-dest_files=["res://.godot/imported/LocationRank_Icon_07.png-e396905694ea8ac0a7a3505aecfcb2a7.ctex"]
+source_file="res://assets/Images/UIs/00_Images/SchoolMap/LocationRank_Icon_07.png"
+dest_files=["res://.godot/imported/LocationRank_Icon_07.png-f11cba3b246e74da8589494a9419c713.ctex"]
 
 [params]
 

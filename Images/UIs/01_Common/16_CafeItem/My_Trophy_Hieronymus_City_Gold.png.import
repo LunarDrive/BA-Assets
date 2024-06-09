@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8lh1m4j4ap2f"
-path="res://.godot/imported/My_Trophy_Hieronymus_City_Gold.png-3020745141dffece0073e41d9f128636.ctex"
+path="res://.godot/imported/My_Trophy_Hieronymus_City_Gold.png-1effaeeb4eb3dbcc1054363d82e1366d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Hieronymus_City_Gold.png"
-dest_files=["res://.godot/imported/My_Trophy_Hieronymus_City_Gold.png-3020745141dffece0073e41d9f128636.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Hieronymus_City_Gold.png"
+dest_files=["res://.godot/imported/My_Trophy_Hieronymus_City_Gold.png-1effaeeb4eb3dbcc1054363d82e1366d.ctex"]
 
 [params]
 

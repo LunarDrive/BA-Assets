@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4yjyq6pv7onh"
-path="res://.godot/imported/Skill_Portrait_Pina.png-f44e06d5bb3d2ad719be0a3ea4e1a819.ctex"
+path="res://.godot/imported/Skill_Portrait_Pina.png-4e4a5709646066b93c1138a4a0ee85f1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Pina.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Pina.png-f44e06d5bb3d2ad719be0a3ea4e1a819.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Pina.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Pina.png-4e4a5709646066b93c1138a4a0ee85f1.ctex"]
 
 [params]
 

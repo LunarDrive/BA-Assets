@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bayvg7qearykw"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Droid_Helmet_RL.png-43a5f6cacd9ac2a41da4e63192090322.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Droid_Helmet_RL.png-0587b4d92b4fbf0066325078c36fd151.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Droid_Helmet_RL.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Droid_Helmet_RL.png-43a5f6cacd9ac2a41da4e63192090322.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Droid_Helmet_RL.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Droid_Helmet_RL.png-0587b4d92b4fbf0066325078c36fd151.ctex"]
 
 [params]
 

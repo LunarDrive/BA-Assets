@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckv81qf0wwqo5"
-path="res://.godot/imported/Imgfont_UICountdown_2nd_SpecOpsNo227_School.png-73f650bbedc2597024950f0dda030585.ctex"
+path="res://.godot/imported/Imgfont_UICountdown_2nd_SpecOpsNo227_School.png-e00d52eb9ffdd4e45a471468328bcc02.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/UICountdown_2nd/Imgfont_UICountdown_2nd_SpecOpsNo227_School.png"
-dest_files=["res://.godot/imported/Imgfont_UICountdown_2nd_SpecOpsNo227_School.png-73f650bbedc2597024950f0dda030585.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/UICountdown_2nd/Imgfont_UICountdown_2nd_SpecOpsNo227_School.png"
+dest_files=["res://.godot/imported/Imgfont_UICountdown_2nd_SpecOpsNo227_School.png-e00d52eb9ffdd4e45a471468328bcc02.ctex"]
 
 [params]
 

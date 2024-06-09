@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4qc5f6mi6it0"
-path="res://.godot/imported/bg_meihuayuan.jpg-69c427291d1e5c9a2cf396cd8351efc4.ctex"
+path="res://.godot/imported/bg_meihuayuan.jpg-bd15b1d929ba007e4e2c3dc0513d3500.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_meihuayuan.jpg"
-dest_files=["res://.godot/imported/bg_meihuayuan.jpg-69c427291d1e5c9a2cf396cd8351efc4.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_meihuayuan.jpg"
+dest_files=["res://.godot/imported/bg_meihuayuan.jpg-bd15b1d929ba007e4e2c3dc0513d3500.ctex"]
 
 [params]
 

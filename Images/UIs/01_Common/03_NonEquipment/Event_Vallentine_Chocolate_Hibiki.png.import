@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hj4rv4n81heu"
-path="res://.godot/imported/Event_Vallentine_Chocolate_Hibiki.png-b16147749f0b63ab1eb9a7ca3f3a1c33.ctex"
+path="res://.godot/imported/Event_Vallentine_Chocolate_Hibiki.png-db4a660dc71af4915fda052f3c394f67.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Event_Vallentine_Chocolate_Hibiki.png"
-dest_files=["res://.godot/imported/Event_Vallentine_Chocolate_Hibiki.png-b16147749f0b63ab1eb9a7ca3f3a1c33.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Event_Vallentine_Chocolate_Hibiki.png"
+dest_files=["res://.godot/imported/Event_Vallentine_Chocolate_Hibiki.png-db4a660dc71af4915fda052f3c394f67.ctex"]
 
 [params]
 

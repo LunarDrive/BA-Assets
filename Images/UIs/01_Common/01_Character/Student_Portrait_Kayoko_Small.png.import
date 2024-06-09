@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs6pvb5q71hnd"
-path="res://.godot/imported/Student_Portrait_Kayoko_Small.png-666c55223490c619341db81756f65d47.ctex"
+path="res://.godot/imported/Student_Portrait_Kayoko_Small.png-a6323248da76b4546d75b3d51b39863a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Kayoko_Small.png"
-dest_files=["res://.godot/imported/Student_Portrait_Kayoko_Small.png-666c55223490c619341db81756f65d47.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Kayoko_Small.png"
+dest_files=["res://.godot/imported/Student_Portrait_Kayoko_Small.png-a6323248da76b4546d75b3d51b39863a.ctex"]
 
 [params]
 

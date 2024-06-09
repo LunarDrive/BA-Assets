@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2sjbh1l583kf"
-path="res://.godot/imported/bg_indoorplayground.jpg-aa099e1df3eb05469c0fb6b130344332.ctex"
+path="res://.godot/imported/bg_indoorplayground.jpg-c1c0d5c3aa98ce7c5ce620a4bc5e02ad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_indoorplayground.jpg"
-dest_files=["res://.godot/imported/bg_indoorplayground.jpg-aa099e1df3eb05469c0fb6b130344332.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_indoorplayground.jpg"
+dest_files=["res://.godot/imported/bg_indoorplayground.jpg-c1c0d5c3aa98ce7c5ce620a4bc5e02ad.ctex"]
 
 [params]
 

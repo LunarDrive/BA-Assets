@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhjlyy41vjwio"
-path="res://.godot/imported/Campaign_Image_14_Hard.png-be66ee838e4a8b9cce84f6b2c60c55e5.ctex"
+path="res://.godot/imported/Campaign_Image_14_Hard.png-bcbdf62fbf145f7f59e4f62e407f8245.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/13_CampaignImage/Campaign_Image_14_Hard.png"
-dest_files=["res://.godot/imported/Campaign_Image_14_Hard.png-be66ee838e4a8b9cce84f6b2c60c55e5.ctex"]
+source_file="res://assets/Images/UIs/01_Common/13_CampaignImage/Campaign_Image_14_Hard.png"
+dest_files=["res://.godot/imported/Campaign_Image_14_Hard.png-bcbdf62fbf145f7f59e4f62e407f8245.ctex"]
 
 [params]
 

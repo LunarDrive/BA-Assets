@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckhwe3uxxpif1"
-path="res://.godot/imported/Skill_Portrait_Iori.png-98035824181ac2a7c30cf43fe0d9d00a.ctex"
+path="res://.godot/imported/Skill_Portrait_Iori.png-62ca79163cece9140ee509a6c7b25cac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Iori.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Iori.png-98035824181ac2a7c30cf43fe0d9d00a.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Iori.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Iori.png-62ca79163cece9140ee509a6c7b25cac.ctex"]
 
 [params]
 

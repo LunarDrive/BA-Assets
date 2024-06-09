@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cerq1encf7d7x"
-path="res://.godot/imported/ImageFont_Attend_Event20Days_1015_kr.png-f7125ccce44eeded50f703dcc4f361d1.ctex"
+path="res://.godot/imported/ImageFont_Attend_Event20Days_1015_kr.png-41067b46e7b155ba041ffe78761ab509.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/33_Attendance/ImageFont_Attend_Event20Days_1015_kr.png"
-dest_files=["res://.godot/imported/ImageFont_Attend_Event20Days_1015_kr.png-f7125ccce44eeded50f703dcc4f361d1.ctex"]
+source_file="res://assets/Images/UIs/01_Common/33_Attendance/ImageFont_Attend_Event20Days_1015_kr.png"
+dest_files=["res://.godot/imported/ImageFont_Attend_Event20Days_1015_kr.png-41067b46e7b155ba041ffe78761ab509.ctex"]
 
 [params]
 

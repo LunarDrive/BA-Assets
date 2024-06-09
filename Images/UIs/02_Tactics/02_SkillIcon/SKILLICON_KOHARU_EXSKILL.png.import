@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7pn47o2d2d50"
-path="res://.godot/imported/SKILLICON_KOHARU_EXSKILL.png-b4f4f722eef9a2f49afc51296570bf9f.ctex"
+path="res://.godot/imported/SKILLICON_KOHARU_EXSKILL.png-351d7ac4d230a540a426d1a56f3d3eec.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/SKILLICON_KOHARU_EXSKILL.png"
-dest_files=["res://.godot/imported/SKILLICON_KOHARU_EXSKILL.png-b4f4f722eef9a2f49afc51296570bf9f.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/SKILLICON_KOHARU_EXSKILL.png"
+dest_files=["res://.godot/imported/SKILLICON_KOHARU_EXSKILL.png-351d7ac4d230a540a426d1a56f3d3eec.ctex"]
 
 [params]
 

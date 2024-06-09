@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmqyswp71g5fw"
-path="res://.godot/imported/Imgfont_UICountdown_Redwinter_School.png-91c54c750d12ea8d35360fdcc4774100.ctex"
+path="res://.godot/imported/Imgfont_UICountdown_Redwinter_School.png-bc7ff7d0378827a97c51d6240c1be1b5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/UICountdown/Imgfont_UICountdown_Redwinter_School.png"
-dest_files=["res://.godot/imported/Imgfont_UICountdown_Redwinter_School.png-91c54c750d12ea8d35360fdcc4774100.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/UICountdown/Imgfont_UICountdown_Redwinter_School.png"
+dest_files=["res://.godot/imported/Imgfont_UICountdown_Redwinter_School.png-bc7ff7d0378827a97c51d6240c1be1b5.ctex"]
 
 [params]
 

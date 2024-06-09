@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsg5rg8jpypu"
-path="res://.godot/imported/Combat_Icon_Buff_CostChange.png-e41086579e3c339c82bd6760648681ee.ctex"
+path="res://.godot/imported/Combat_Icon_Buff_CostChange.png-c3d2602c51a1fd40f9d16f56aacf3f8f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_CostChange.png"
-dest_files=["res://.godot/imported/Combat_Icon_Buff_CostChange.png-e41086579e3c339c82bd6760648681ee.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_CostChange.png"
+dest_files=["res://.godot/imported/Combat_Icon_Buff_CostChange.png-c3d2602c51a1fd40f9d16f56aacf3f8f.ctex"]
 
 [params]
 

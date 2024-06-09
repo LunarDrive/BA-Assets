@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cymm2704ljixv"
-path="res://.godot/imported/Lobbyillust_Icon_Shiroko_ridingsuit_01_Small.png-39080e42ba6f055d1cb5aa83283ff697.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Shiroko_ridingsuit_01_Small.png-0ea4a1de7fd264eb1463cf5c61171d05.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Shiroko_ridingsuit_01_Small.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Shiroko_ridingsuit_01_Small.png-39080e42ba6f055d1cb5aa83283ff697.ctex"]
+source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Shiroko_ridingsuit_01_Small.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Shiroko_ridingsuit_01_Small.png-0ea4a1de7fd264eb1463cf5c61171d05.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cge4wdskdciv1"
-path="res://.godot/imported/TutorialFailureImage_CostCharge_kr.png-78b65250f9013fa6f9ff9a94aaa11812.ctex"
+path="res://.godot/imported/TutorialFailureImage_CostCharge_kr.png-e8a0507a57a01327fb037656a236314d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CostCharge_kr.png"
-dest_files=["res://.godot/imported/TutorialFailureImage_CostCharge_kr.png-78b65250f9013fa6f9ff9a94aaa11812.ctex"]
+source_file="res://assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CostCharge_kr.png"
+dest_files=["res://.godot/imported/TutorialFailureImage_CostCharge_kr.png-e8a0507a57a01327fb037656a236314d.ctex"]
 
 [params]
 

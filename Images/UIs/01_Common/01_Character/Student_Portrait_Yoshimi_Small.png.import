@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://en1781fakpkp"
-path="res://.godot/imported/Student_Portrait_Yoshimi_Small.png-8c26d88947bec311f4524a083b48e6fe.ctex"
+path="res://.godot/imported/Student_Portrait_Yoshimi_Small.png-25aed3447b1b609b54e274d5a59cabb4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Yoshimi_Small.png"
-dest_files=["res://.godot/imported/Student_Portrait_Yoshimi_Small.png-8c26d88947bec311f4524a083b48e6fe.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Yoshimi_Small.png"
+dest_files=["res://.godot/imported/Student_Portrait_Yoshimi_Small.png-25aed3447b1b609b54e274d5a59cabb4.ctex"]
 
 [params]
 

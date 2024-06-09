@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://sipmf03lhnps"
-path="res://.godot/imported/My_Trophy_Chesed_Outdoor_Platinum.png-a629b127ab3779bc7e7f59c0b9c2ab8b.ctex"
+path="res://.godot/imported/My_Trophy_Chesed_Outdoor_Platinum.png-7cea9bd8ad93759f3932c4aec626f640.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Chesed_Outdoor_Platinum.png"
-dest_files=["res://.godot/imported/My_Trophy_Chesed_Outdoor_Platinum.png-a629b127ab3779bc7e7f59c0b9c2ab8b.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Chesed_Outdoor_Platinum.png"
+dest_files=["res://.godot/imported/My_Trophy_Chesed_Outdoor_Platinum.png-7cea9bd8ad93759f3932c4aec626f640.ctex"]
 
 [params]
 

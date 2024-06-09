@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnevwm7b1gkdj"
-path="res://.godot/imported/Information_Arena_01_Jp.png-2963d3aab180f7dc1feb8d3de43ae138.ctex"
+path="res://.godot/imported/Information_Arena_01_Jp.png-608f6fae20fb029ab66215bab6ec39b6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/28_Information/Information_Arena_01_Jp.png"
-dest_files=["res://.godot/imported/Information_Arena_01_Jp.png-2963d3aab180f7dc1feb8d3de43ae138.ctex"]
+source_file="res://assets/Images/UIs/01_Common/28_Information/Information_Arena_01_Jp.png"
+dest_files=["res://.godot/imported/Information_Arena_01_Jp.png-608f6fae20fb029ab66215bab6ec39b6.ctex"]
 
 [params]
 

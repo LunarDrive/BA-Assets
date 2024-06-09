@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dwi1qtqfi2g1r"
-path="res://.godot/imported/SE_Clock_03a.ogg-606287dc97393f773cdad6626a1436c5.oggvorbisstr"
+path="res://.godot/imported/SE_Clock_03a.ogg-f7af58a09a04b67d283eb0c9a20e40da.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_Clock_03a.ogg"
-dest_files=["res://.godot/imported/SE_Clock_03a.ogg-606287dc97393f773cdad6626a1436c5.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Clock_03a.ogg"
+dest_files=["res://.godot/imported/SE_Clock_03a.ogg-f7af58a09a04b67d283eb0c9a20e40da.oggvorbisstr"]
 
 [params]
 

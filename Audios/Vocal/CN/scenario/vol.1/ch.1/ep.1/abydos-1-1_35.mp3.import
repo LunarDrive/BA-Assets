@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://byv3qbgbdm6j"
-path="res://.godot/imported/abydos-1-1_35.mp3-eb66b07e3252cbc044d644de520ef5a1.mp3str"
+path="res://.godot/imported/abydos-1-1_35.mp3-f2d2e7417a7ac04d200598181ed1b0f1.mp3str"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/Vocal/CN/scenario/vol.1/ch.1/ep.1/abydos-1-1_35.mp3"
-dest_files=["res://.godot/imported/abydos-1-1_35.mp3-eb66b07e3252cbc044d644de520ef5a1.mp3str"]
+source_file="res://assets/Audios/Vocal/CN/scenario/vol.1/ch.1/ep.1/abydos-1-1_35.mp3"
+dest_files=["res://.godot/imported/abydos-1-1_35.mp3-f2d2e7417a7ac04d200598181ed1b0f1.mp3str"]
 
 [params]
 

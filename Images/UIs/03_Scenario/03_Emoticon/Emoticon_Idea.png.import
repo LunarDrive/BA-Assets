@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0q2f783dsu0p"
-path="res://.godot/imported/Emoticon_Idea.png-36c54605b8706be6098e7495667dc093.ctex"
+path="res://.godot/imported/Emoticon_Idea.png-28c8ab19aabe9c5fc6074c7cc0bfbf0b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/03_Emoticon/Emoticon_Idea.png"
-dest_files=["res://.godot/imported/Emoticon_Idea.png-36c54605b8706be6098e7495667dc093.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/03_Emoticon/Emoticon_Idea.png"
+dest_files=["res://.godot/imported/Emoticon_Idea.png-28c8ab19aabe9c5fc6074c7cc0bfbf0b.ctex"]
 
 [params]
 

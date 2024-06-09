@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://03ctweprxns"
-path="res://.godot/imported/NPC_Portrait_Automata_Kurokamegumi1.png-bed39cce484b716fcd7719a293f70b3d.ctex"
+path="res://.godot/imported/NPC_Portrait_Automata_Kurokamegumi1.png-5d237ada9794abb68bb26cdcb4c89715.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Automata_Kurokamegumi1.png"
-dest_files=["res://.godot/imported/NPC_Portrait_Automata_Kurokamegumi1.png-bed39cce484b716fcd7719a293f70b3d.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Automata_Kurokamegumi1.png"
+dest_files=["res://.godot/imported/NPC_Portrait_Automata_Kurokamegumi1.png-5d237ada9794abb68bb26cdcb4c89715.ctex"]
 
 [params]
 

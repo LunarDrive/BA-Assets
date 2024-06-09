@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bi2urpsxomvly"
-path="res://.godot/imported/EnemyInfo_Karin_SR.png-d3e1e97ab91e4ab71dc12211531d3e2c.ctex"
+path="res://.godot/imported/EnemyInfo_Karin_SR.png-a874f10886962e9a45d9bddae22b9f1e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Karin_SR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Karin_SR.png-d3e1e97ab91e4ab71dc12211531d3e2c.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Karin_SR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Karin_SR.png-a874f10886962e9a45d9bddae22b9f1e.ctex"]
 
 [params]
 

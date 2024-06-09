@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csmm2a7512asn"
-path="res://.godot/imported/Img_Eventlobby_812.png-5b1de555e1df76742b44ff977df46bae.ctex"
+path="res://.godot/imported/Img_Eventlobby_812.png-20c1bbf3ff7f1998da4efe46f1075cef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/38_WorldRaid/Season_821/Img_Eventlobby_812.png"
-dest_files=["res://.godot/imported/Img_Eventlobby_812.png-5b1de555e1df76742b44ff977df46bae.ctex"]
+source_file="res://assets/Images/UIs/01_Common/38_WorldRaid/Season_821/Img_Eventlobby_812.png"
+dest_files=["res://.godot/imported/Img_Eventlobby_812.png-20c1bbf3ff7f1998da4efe46f1075cef.ctex"]
 
 [params]
 

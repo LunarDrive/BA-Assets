@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ilxebr7n5fyu"
-path="res://.godot/imported/My_Trophy_Kaiten_Outdoor_Bronze.png-427e273bdc306c1b93f302aad9878711.ctex"
+path="res://.godot/imported/My_Trophy_Kaiten_Outdoor_Bronze.png-64fc4a6d44dc18c41e67b4f45f61dacf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Kaiten_Outdoor_Bronze.png"
-dest_files=["res://.godot/imported/My_Trophy_Kaiten_Outdoor_Bronze.png-427e273bdc306c1b93f302aad9878711.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Kaiten_Outdoor_Bronze.png"
+dest_files=["res://.godot/imported/My_Trophy_Kaiten_Outdoor_Bronze.png-64fc4a6d44dc18c41e67b4f45f61dacf.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://de8hy0reqpwwy"
-path="res://.godot/imported/SFX_Spine_Sparkles_ST.ogg-5727fa911c73b60d9eb6e6ae4ac09f36.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_Sparkles_ST.ogg-730948fc1f751fa56c6ba79007ae6e59.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Sparkles_ST.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_Sparkles_ST.ogg-5727fa911c73b60d9eb6e6ae4ac09f36.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Sparkles_ST.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_Sparkles_ST.ogg-730948fc1f751fa56c6ba79007ae6e59.oggvorbisstr"]
 
 [params]
 

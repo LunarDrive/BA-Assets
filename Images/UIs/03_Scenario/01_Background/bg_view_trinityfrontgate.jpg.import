@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmw821ipy5b16"
-path="res://.godot/imported/bg_view_trinityfrontgate.jpg-e8f0ab8aa5c1ecda1d93d263478a475b.ctex"
+path="res://.godot/imported/bg_view_trinityfrontgate.jpg-380da8f30dff708840ddda65fe18daaf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_view_trinityfrontgate.jpg"
-dest_files=["res://.godot/imported/bg_view_trinityfrontgate.jpg-e8f0ab8aa5c1ecda1d93d263478a475b.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_view_trinityfrontgate.jpg"
+dest_files=["res://.godot/imported/bg_view_trinityfrontgate.jpg-380da8f30dff708840ddda65fe18daaf.ctex"]
 
 [params]
 

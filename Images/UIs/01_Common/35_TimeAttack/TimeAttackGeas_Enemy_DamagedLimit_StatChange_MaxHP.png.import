@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4ky8gkl7jk8m"
-path="res://.godot/imported/TimeAttackGeas_Enemy_DamagedLimit_StatChange_MaxHP.png-fe71e63777e4e9b4a317fd3c03e9eb7b.ctex"
+path="res://.godot/imported/TimeAttackGeas_Enemy_DamagedLimit_StatChange_MaxHP.png-3db7a146716f18c23f787f176aa2a8e9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/35_TimeAttack/TimeAttackGeas_Enemy_DamagedLimit_StatChange_MaxHP.png"
-dest_files=["res://.godot/imported/TimeAttackGeas_Enemy_DamagedLimit_StatChange_MaxHP.png-fe71e63777e4e9b4a317fd3c03e9eb7b.ctex"]
+source_file="res://assets/Images/UIs/01_Common/35_TimeAttack/TimeAttackGeas_Enemy_DamagedLimit_StatChange_MaxHP.png"
+dest_files=["res://.godot/imported/TimeAttackGeas_Enemy_DamagedLimit_StatChange_MaxHP.png-3db7a146716f18c23f787f176aa2a8e9.ctex"]
 
 [params]
 

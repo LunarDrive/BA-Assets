@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://u8ot3n16a57j"
-path="res://.godot/imported/SE_ShovelSand_03.ogg-4d9e53ab51cd774d55f023acf9676090.oggvorbisstr"
+path="res://.godot/imported/SE_ShovelSand_03.ogg-e793071d46245ef52af28981ed38d125.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_ShovelSand_03.ogg"
-dest_files=["res://.godot/imported/SE_ShovelSand_03.ogg-4d9e53ab51cd774d55f023acf9676090.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_ShovelSand_03.ogg"
+dest_files=["res://.godot/imported/SE_ShovelSand_03.ogg-e793071d46245ef52af28981ed38d125.oggvorbisstr"]
 
 [params]
 

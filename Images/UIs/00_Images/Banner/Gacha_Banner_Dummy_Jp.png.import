@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbdp0hrh2o7y2"
-path="res://.godot/imported/Gacha_Banner_Dummy_Jp.png-62c41affaed0f86582c2dd7f7f188834.ctex"
+path="res://.godot/imported/Gacha_Banner_Dummy_Jp.png-115d7110050495010f99f15bef4fd3be.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Banner/Gacha_Banner_Dummy_Jp.png"
-dest_files=["res://.godot/imported/Gacha_Banner_Dummy_Jp.png-62c41affaed0f86582c2dd7f7f188834.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Banner/Gacha_Banner_Dummy_Jp.png"
+dest_files=["res://.godot/imported/Gacha_Banner_Dummy_Jp.png-115d7110050495010f99f15bef4fd3be.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccqx15637y5mx"
-path="res://.godot/imported/BG_Saya_casual_Collection.png-b0168bea2b155222bc04c6096c1511c8.ctex"
+path="res://.godot/imported/BG_Saya_casual_Collection.png-31b9fa0da6bedcd31a70122f3c7de412.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/14_CharacterCollect/BG_Saya_casual_Collection.png"
-dest_files=["res://.godot/imported/BG_Saya_casual_Collection.png-b0168bea2b155222bc04c6096c1511c8.ctex"]
+source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/BG_Saya_casual_Collection.png"
+dest_files=["res://.godot/imported/BG_Saya_casual_Collection.png-31b9fa0da6bedcd31a70122f3c7de412.ctex"]
 
 [params]
 

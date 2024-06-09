@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ukhys4xstlwf"
-path="res://.godot/imported/Item_Icon_Material_Voynich_0.png-16533ff160675e059b10eb3974ea1198.ctex"
+path="res://.godot/imported/Item_Icon_Material_Voynich_0.png-aa3479f25c9037cee160c7b562a35c2f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Voynich_0.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_Voynich_0.png-16533ff160675e059b10eb3974ea1198.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Voynich_0.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_Voynich_0.png-aa3479f25c9037cee160c7b562a35c2f.ctex"]
 
 [params]
 

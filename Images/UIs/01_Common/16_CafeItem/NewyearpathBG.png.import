@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqbi8sb2sjg7m"
-path="res://.godot/imported/NewyearpathBG.png-1ff2a1dc89719bbe9b01ffb3e3105f5f.ctex"
+path="res://.godot/imported/NewyearpathBG.png-6816ee9ca4b3e00b5b411b020acc1829.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/NewyearpathBG.png"
-dest_files=["res://.godot/imported/NewyearpathBG.png-1ff2a1dc89719bbe9b01ffb3e3105f5f.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/NewyearpathBG.png"
+dest_files=["res://.godot/imported/NewyearpathBG.png-6816ee9ca4b3e00b5b411b020acc1829.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhn51xa2yb4nl"
-path="res://.godot/imported/HotspringsBG.png-9dce043658ea9a87dc8093c53a10e338.ctex"
+path="res://.godot/imported/HotspringsBG.png-71e080e2bd8454c840a29008359a9494.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/HotspringsBG.png"
-dest_files=["res://.godot/imported/HotspringsBG.png-9dce043658ea9a87dc8093c53a10e338.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/HotspringsBG.png"
+dest_files=["res://.godot/imported/HotspringsBG.png-71e080e2bd8454c840a29008359a9494.ctex"]
 
 [params]
 

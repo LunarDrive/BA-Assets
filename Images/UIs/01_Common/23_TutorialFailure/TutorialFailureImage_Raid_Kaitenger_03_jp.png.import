@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cjq78p3ycadru"
-path="res://.godot/imported/TutorialFailureImage_Raid_Kaitenger_03_jp.png-4fd05d4b2f35829cd10f5c5faf0f1e07.ctex"
+path="res://.godot/imported/TutorialFailureImage_Raid_Kaitenger_03_jp.png-5b13a644cb04a659559c247ce5dca5a3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_jp.png"
-dest_files=["res://.godot/imported/TutorialFailureImage_Raid_Kaitenger_03_jp.png-4fd05d4b2f35829cd10f5c5faf0f1e07.ctex"]
+source_file="res://assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_jp.png"
+dest_files=["res://.godot/imported/TutorialFailureImage_Raid_Kaitenger_03_jp.png-5b13a644cb04a659559c247ce5dca5a3.ctex"]
 
 [params]
 

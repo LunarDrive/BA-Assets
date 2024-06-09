@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkbnov1ayfjvi"
-path="res://.godot/imported/Collectible_Icon_GuideMission_Scenario_S24.png-a0a761a6c715f95f6af22e978b47d25a.ctex"
+path="res://.godot/imported/Collectible_Icon_GuideMission_Scenario_S24.png-64845c3fbe89722471945a77a4a7bf37.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Collectible_Icon_GuideMission_Scenario_S24.png"
-dest_files=["res://.godot/imported/Collectible_Icon_GuideMission_Scenario_S24.png-a0a761a6c715f95f6af22e978b47d25a.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Collectible_Icon_GuideMission_Scenario_S24.png"
+dest_files=["res://.godot/imported/Collectible_Icon_GuideMission_Scenario_S24.png-64845c3fbe89722471945a77a4a7bf37.ctex"]
 
 [params]
 

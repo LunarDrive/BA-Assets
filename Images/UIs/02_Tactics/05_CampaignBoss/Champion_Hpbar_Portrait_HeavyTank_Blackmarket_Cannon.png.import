@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btmamcatewp63"
-path="res://.godot/imported/Champion_Hpbar_Portrait_HeavyTank_Blackmarket_Cannon.png-def7525e4694c77432b77766582ead90.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_HeavyTank_Blackmarket_Cannon.png-3049237cfa4fa1247ff5d98a38c676aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_HeavyTank_Blackmarket_Cannon.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_HeavyTank_Blackmarket_Cannon.png-def7525e4694c77432b77766582ead90.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_HeavyTank_Blackmarket_Cannon.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_HeavyTank_Blackmarket_Cannon.png-3049237cfa4fa1247ff5d98a38c676aa.ctex"]
 
 [params]
 

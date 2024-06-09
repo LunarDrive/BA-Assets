@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rmb4ug6aegnl"
-path="res://.godot/imported/bg_healthclub_night.jpg-4b9020fc8de7236796bb05e637610982.ctex"
+path="res://.godot/imported/bg_healthclub_night.jpg-536c91e47f7e5c6bc311543bd8eac4d4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_healthclub_night.jpg"
-dest_files=["res://.godot/imported/bg_healthclub_night.jpg-4b9020fc8de7236796bb05e637610982.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_healthclub_night.jpg"
+dest_files=["res://.godot/imported/bg_healthclub_night.jpg-536c91e47f7e5c6bc311543bd8eac4d4.ctex"]
 
 [params]
 

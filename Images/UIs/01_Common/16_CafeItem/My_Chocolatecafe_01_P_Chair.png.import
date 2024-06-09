@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://i8duqw5lir8t"
-path="res://.godot/imported/My_Chocolatecafe_01_P_Chair.png-aec4bb3a3c2129fe8602ea1b248b1255.ctex"
+path="res://.godot/imported/My_Chocolatecafe_01_P_Chair.png-4ff1dc849d1cf2c1ee89de20664b3326.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Chocolatecafe_01_P_Chair.png"
-dest_files=["res://.godot/imported/My_Chocolatecafe_01_P_Chair.png-aec4bb3a3c2129fe8602ea1b248b1255.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Chocolatecafe_01_P_Chair.png"
+dest_files=["res://.godot/imported/My_Chocolatecafe_01_P_Chair.png-4ff1dc849d1cf2c1ee89de20664b3326.ctex"]
 
 [params]
 

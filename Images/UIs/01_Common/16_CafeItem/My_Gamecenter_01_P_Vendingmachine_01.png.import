@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cjwrr2kv55sqk"
-path="res://.godot/imported/My_Gamecenter_01_P_Vendingmachine_01.png-5ca5ebb27a57cd72cc585d1e65bbffa7.ctex"
+path="res://.godot/imported/My_Gamecenter_01_P_Vendingmachine_01.png-bb7ea22cc1e67ebb3d0ebb2bb7845b23.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Gamecenter_01_P_Vendingmachine_01.png"
-dest_files=["res://.godot/imported/My_Gamecenter_01_P_Vendingmachine_01.png-5ca5ebb27a57cd72cc585d1e65bbffa7.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Gamecenter_01_P_Vendingmachine_01.png"
+dest_files=["res://.godot/imported/My_Gamecenter_01_P_Vendingmachine_01.png-bb7ea22cc1e67ebb3d0ebb2bb7845b23.ctex"]
 
 [params]
 

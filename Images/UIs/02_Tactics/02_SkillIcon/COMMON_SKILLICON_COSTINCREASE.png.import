@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cd0spmfm4plen"
-path="res://.godot/imported/COMMON_SKILLICON_COSTINCREASE.png-4844ba723ce2b8827ff4a3d1d65f11f3.ctex"
+path="res://.godot/imported/COMMON_SKILLICON_COSTINCREASE.png-b47f32f3089d7a35c59fe11760f3f8a5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_COSTINCREASE.png"
-dest_files=["res://.godot/imported/COMMON_SKILLICON_COSTINCREASE.png-4844ba723ce2b8827ff4a3d1d65f11f3.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/COMMON_SKILLICON_COSTINCREASE.png"
+dest_files=["res://.godot/imported/COMMON_SKILLICON_COSTINCREASE.png-b47f32f3089d7a35c59fe11760f3f8a5.ctex"]
 
 [params]
 

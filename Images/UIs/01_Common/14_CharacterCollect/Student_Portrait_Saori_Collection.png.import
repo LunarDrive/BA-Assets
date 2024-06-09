@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://sf1fa3cd7ldg"
-path="res://.godot/imported/Student_Portrait_Saori_Collection.png-751ebe10091006473e2621c11e584c9a.ctex"
+path="res://.godot/imported/Student_Portrait_Saori_Collection.png-78550706ffb4067013d3653743e401b3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Saori_Collection.png"
-dest_files=["res://.godot/imported/Student_Portrait_Saori_Collection.png-751ebe10091006473e2621c11e584c9a.ctex"]
+source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Saori_Collection.png"
+dest_files=["res://.godot/imported/Student_Portrait_Saori_Collection.png-78550706ffb4067013d3653743e401b3.ctex"]
 
 [params]
 

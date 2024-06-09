@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://60n6s3xcfg1u"
-path="res://.godot/imported/bg_cathedral.jpg-fa03849e1e83b21407cd94e00772a3a1.ctex"
+path="res://.godot/imported/bg_cathedral.jpg-af8aa9a3069f6369ea9f56b6746ef5ff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_cathedral.jpg"
-dest_files=["res://.godot/imported/bg_cathedral.jpg-fa03849e1e83b21407cd94e00772a3a1.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_cathedral.jpg"
+dest_files=["res://.godot/imported/bg_cathedral.jpg-af8aa9a3069f6369ea9f56b6746ef5ff.ctex"]
 
 [params]
 

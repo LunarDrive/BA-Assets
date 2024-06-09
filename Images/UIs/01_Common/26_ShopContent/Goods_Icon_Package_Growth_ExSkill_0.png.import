@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dd783y5ad5222"
-path="res://.godot/imported/Goods_Icon_Package_Growth_ExSkill_0.png-8808e4478d8ea709b5be2a09d1c6cb3e.ctex"
+path="res://.godot/imported/Goods_Icon_Package_Growth_ExSkill_0.png-3d1169a968c51c7ce149fa2623f11cb7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/26_ShopContent/Goods_Icon_Package_Growth_ExSkill_0.png"
-dest_files=["res://.godot/imported/Goods_Icon_Package_Growth_ExSkill_0.png-8808e4478d8ea709b5be2a09d1c6cb3e.ctex"]
+source_file="res://assets/Images/UIs/01_Common/26_ShopContent/Goods_Icon_Package_Growth_ExSkill_0.png"
+dest_files=["res://.godot/imported/Goods_Icon_Package_Growth_ExSkill_0.png-3d1169a968c51c7ce149fa2623f11cb7.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://llr2kwsvf120"
-path="res://.godot/imported/EnemyInfo_Shiroko_AR.png-e6d2e15e51fdfdb0e0cc0d942135be5a.ctex"
+path="res://.godot/imported/EnemyInfo_Shiroko_AR.png-e22a39eca13ac8d0a35d08941d7005ea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Shiroko_AR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Shiroko_AR.png-e6d2e15e51fdfdb0e0cc0d942135be5a.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Shiroko_AR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Shiroko_AR.png-e22a39eca13ac8d0a35d08941d7005ea.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4cdxoaleflyg"
-path="res://.godot/imported/Champion_Hpbar_Portrait_WhiteRabbit_Millennium_MG.png-20d7a9971ab8d685e6f061fe62d9d604.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_WhiteRabbit_Millennium_MG.png-b46c4a1ce9487fa5fe6e46e58fc41cb1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_WhiteRabbit_Millennium_MG.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_WhiteRabbit_Millennium_MG.png-20d7a9971ab8d685e6f061fe62d9d604.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_WhiteRabbit_Millennium_MG.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_WhiteRabbit_Millennium_MG.png-b46c4a1ce9487fa5fe6e46e58fc41cb1.ctex"]
 
 [params]
 

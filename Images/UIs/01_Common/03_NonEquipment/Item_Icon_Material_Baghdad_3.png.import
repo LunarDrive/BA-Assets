@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsm74ridyrwdy"
-path="res://.godot/imported/Item_Icon_Material_Baghdad_3.png-9d1cf1b9d6c81c8f2de5b0b290b3d94d.ctex"
+path="res://.godot/imported/Item_Icon_Material_Baghdad_3.png-3edeb4d579adb7f305b2a5bab8df7bd7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Baghdad_3.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_Baghdad_3.png-9d1cf1b9d6c81c8f2de5b0b290b3d94d.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Baghdad_3.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_Baghdad_3.png-3edeb4d579adb7f305b2a5bab8df7bd7.ctex"]
 
 [params]
 

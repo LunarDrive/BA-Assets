@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mna7kvmcq7jh"
-path="res://.godot/imported/Combat_Icon_Debuff_CostChange.png-2dc6b89014c895609d0e97038e455f07.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_CostChange.png-168fec388eb1a1ac11aa13e22c496b30.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_CostChange.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_CostChange.png-2dc6b89014c895609d0e97038e455f07.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_CostChange.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_CostChange.png-168fec388eb1a1ac11aa13e22c496b30.ctex"]
 
 [params]
 

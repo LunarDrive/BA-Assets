@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bh8w7quiqbwd"
-path="res://.godot/imported/bg_ruinundergroundpassage_night.jpg-109bae34b09f4d0f84425cc4e0e744f0.ctex"
+path="res://.godot/imported/bg_ruinundergroundpassage_night.jpg-cfd9778ff9bbf443d46eb147965c9f17.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_ruinundergroundpassage_night.jpg"
-dest_files=["res://.godot/imported/bg_ruinundergroundpassage_night.jpg-109bae34b09f4d0f84425cc4e0e744f0.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_ruinundergroundpassage_night.jpg"
+dest_files=["res://.godot/imported/bg_ruinundergroundpassage_night.jpg-cfd9778ff9bbf443d46eb147965c9f17.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckfrl8mi77sr3"
-path="res://.godot/imported/Item_Icon_Strategy_RewardBox.png-e5308b1dba0c51dcaa0634a9203531cf.ctex"
+path="res://.godot/imported/Item_Icon_Strategy_RewardBox.png-9a8544b217f6382359983d7810e0ec62.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Strategy_RewardBox.png"
-dest_files=["res://.godot/imported/Item_Icon_Strategy_RewardBox.png-e5308b1dba0c51dcaa0634a9203531cf.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Strategy_RewardBox.png"
+dest_files=["res://.godot/imported/Item_Icon_Strategy_RewardBox.png-9a8544b217f6382359983d7810e0ec62.ctex"]
 
 [params]
 

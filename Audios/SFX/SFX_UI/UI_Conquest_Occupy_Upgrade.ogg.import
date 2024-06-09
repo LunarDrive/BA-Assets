@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cdgaksiieewom"
-path="res://.godot/imported/UI_Conquest_Occupy_Upgrade.ogg-b5eac4935a8f2b5412a097754ee612e2.oggvorbisstr"
+path="res://.godot/imported/UI_Conquest_Occupy_Upgrade.ogg-a7fe12f102ec40e20a2da9d1fe2ceb48.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_UI/UI_Conquest_Occupy_Upgrade.ogg"
-dest_files=["res://.godot/imported/UI_Conquest_Occupy_Upgrade.ogg-b5eac4935a8f2b5412a097754ee612e2.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_UI/UI_Conquest_Occupy_Upgrade.ogg"
+dest_files=["res://.godot/imported/UI_Conquest_Occupy_Upgrade.ogg-a7fe12f102ec40e20a2da9d1fe2ceb48.oggvorbisstr"]
 
 [params]
 

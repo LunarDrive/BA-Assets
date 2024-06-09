@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://coj1s3eb8bcl2"
-path="res://.godot/imported/event01_pina.png-38a6b0cddb4e4df909760315ba70bed2.ctex"
+path="res://.godot/imported/event01_pina.png-81ff4ec4ff80a345c1d5e87083afdbfc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_pina.png"
-dest_files=["res://.godot/imported/event01_pina.png-38a6b0cddb4e4df909760315ba70bed2.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_pina.png"
+dest_files=["res://.godot/imported/event01_pina.png-81ff4ec4ff80a345c1d5e87083afdbfc.ctex"]
 
 [params]
 

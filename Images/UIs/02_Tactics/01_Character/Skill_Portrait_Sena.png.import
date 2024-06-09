@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2we84yjcmoca"
-path="res://.godot/imported/Skill_Portrait_Sena.png-6ead9a896828bc897fa88c751bdb4afc.ctex"
+path="res://.godot/imported/Skill_Portrait_Sena.png-4f79cfc330768d780ff65f5aadc9b84a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Sena.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Sena.png-6ead9a896828bc897fa88c751bdb4afc.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Sena.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Sena.png-4f79cfc330768d780ff65f5aadc9b84a.ctex"]
 
 [params]
 

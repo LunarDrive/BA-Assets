@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dclixx3c1etmo"
-path="res://.godot/imported/SFX_Spine_Bug_Insect_Wings.ogg-5c87be458cb0b55f1fd2b7eb47ab7159.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_Bug_Insect_Wings.ogg-d2ec744b8e2fdb3ddfd152ae5183e41e.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Bug_Insect_Wings.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_Bug_Insect_Wings.ogg-5c87be458cb0b55f1fd2b7eb47ab7159.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Bug_Insect_Wings.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_Bug_Insect_Wings.ogg-d2ec744b8e2fdb3ddfd152ae5183e41e.oggvorbisstr"]
 
 [params]
 

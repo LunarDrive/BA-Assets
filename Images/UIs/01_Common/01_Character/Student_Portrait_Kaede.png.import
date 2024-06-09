@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs0nd2mxlmgwi"
-path="res://.godot/imported/Student_Portrait_Kaede.png-673506176c7c8c0f26b91ce64946f679.ctex"
+path="res://.godot/imported/Student_Portrait_Kaede.png-dce9b2d934d2d7e98a5dcd4d39d22241.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Kaede.png"
-dest_files=["res://.godot/imported/Student_Portrait_Kaede.png-673506176c7c8c0f26b91ce64946f679.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Kaede.png"
+dest_files=["res://.godot/imported/Student_Portrait_Kaede.png-dce9b2d934d2d7e98a5dcd4d39d22241.ctex"]
 
 [params]
 

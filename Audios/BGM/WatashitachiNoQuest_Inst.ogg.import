@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://huvoh76tdjw1"
-path="res://.godot/imported/WatashitachiNoQuest_Inst.ogg-62d795fe8d56cb76fd9c975aed85098c.oggvorbisstr"
+path="res://.godot/imported/WatashitachiNoQuest_Inst.ogg-41fc57b445c76d645d32c906db4a31b1.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/BGM/WatashitachiNoQuest_Inst.ogg"
-dest_files=["res://.godot/imported/WatashitachiNoQuest_Inst.ogg-62d795fe8d56cb76fd9c975aed85098c.oggvorbisstr"]
+source_file="res://assets/Audios/BGM/WatashitachiNoQuest_Inst.ogg"
+dest_files=["res://.godot/imported/WatashitachiNoQuest_Inst.ogg-41fc57b445c76d645d32c906db4a31b1.oggvorbisstr"]
 
 [params]
 

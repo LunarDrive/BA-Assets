@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpf2r3p42arim"
-path="res://.godot/imported/EnemyInfo_Drone_Yoheki_Missile.png-6ba3491597a9eba8d6e86a53c36df761.ctex"
+path="res://.godot/imported/EnemyInfo_Drone_Yoheki_Missile.png-1d0957b1e3e34e910a1f3a2f36a521a4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Drone_Yoheki_Missile.png"
-dest_files=["res://.godot/imported/EnemyInfo_Drone_Yoheki_Missile.png-6ba3491597a9eba8d6e86a53c36df761.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Drone_Yoheki_Missile.png"
+dest_files=["res://.godot/imported/EnemyInfo_Drone_Yoheki_Missile.png-1d0957b1e3e34e910a1f3a2f36a521a4.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5r2lptfi4dir"
-path="res://.godot/imported/Portrait_Raidboss_HOD.png-33ce86eabde3c6a4d12740c396e8d581.ctex"
+path="res://.godot/imported/Portrait_Raidboss_HOD.png-f7edf8d474c5978cb856953aa74de032.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/06_Raid/Portrait_Raidboss_HOD.png"
-dest_files=["res://.godot/imported/Portrait_Raidboss_HOD.png-33ce86eabde3c6a4d12740c396e8d581.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/06_Raid/Portrait_Raidboss_HOD.png"
+dest_files=["res://.godot/imported/Portrait_Raidboss_HOD.png-f7edf8d474c5978cb856953aa74de032.ctex"]
 
 [params]
 

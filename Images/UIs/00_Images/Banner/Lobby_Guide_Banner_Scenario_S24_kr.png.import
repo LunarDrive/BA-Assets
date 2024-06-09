@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://by38vl878ufxu"
-path="res://.godot/imported/Lobby_Guide_Banner_Scenario_S24_kr.png-4df19328e46c41a4d04b3d292573349e.ctex"
+path="res://.godot/imported/Lobby_Guide_Banner_Scenario_S24_kr.png-7cfd371be59dca57528f327c3abe0d38.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Banner/Lobby_Guide_Banner_Scenario_S24_kr.png"
-dest_files=["res://.godot/imported/Lobby_Guide_Banner_Scenario_S24_kr.png-4df19328e46c41a4d04b3d292573349e.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Banner/Lobby_Guide_Banner_Scenario_S24_kr.png"
+dest_files=["res://.godot/imported/Lobby_Guide_Banner_Scenario_S24_kr.png-7cfd371be59dca57528f327c3abe0d38.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://sh7q2ao6elyh"
-path="res://.godot/imported/Item_Icon_SkillBook_Abydos_2.png-0741185686ae37e63c79f88131a3e981.ctex"
+path="res://.godot/imported/Item_Icon_SkillBook_Abydos_2.png-2a97271420603f56fe0975b004bb702d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Abydos_2.png"
-dest_files=["res://.godot/imported/Item_Icon_SkillBook_Abydos_2.png-0741185686ae37e63c79f88131a3e981.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Abydos_2.png"
+dest_files=["res://.godot/imported/Item_Icon_SkillBook_Abydos_2.png-2a97271420603f56fe0975b004bb702d.ctex"]
 
 [params]
 

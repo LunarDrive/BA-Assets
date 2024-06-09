@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bgxtipsyppmh3"
-path="res://.godot/imported/SFX_Emoticon_Motion_Twinkle.wav-88a726b563f33018187b750734f1e93b.sample"
+path="res://.godot/imported/SFX_Emoticon_Motion_Twinkle.wav-691eb1b2de4dec513effec5132a4e768.sample"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Twinkle.wav"
-dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Twinkle.wav-88a726b563f33018187b750734f1e93b.sample"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Twinkle.wav"
+dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Twinkle.wav-691eb1b2de4dec513effec5132a4e768.sample"]
 
 [params]
 

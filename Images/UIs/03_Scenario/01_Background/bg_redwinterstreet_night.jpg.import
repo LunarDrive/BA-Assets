@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0fag53seopeg"
-path="res://.godot/imported/bg_redwinterstreet_night.jpg-574e29e2e824020e02d67533a8fe00ce.ctex"
+path="res://.godot/imported/bg_redwinterstreet_night.jpg-e8497896a263f324fe20d57622df523f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_redwinterstreet_night.jpg"
-dest_files=["res://.godot/imported/bg_redwinterstreet_night.jpg-574e29e2e824020e02d67533a8fe00ce.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_redwinterstreet_night.jpg"
+dest_files=["res://.godot/imported/bg_redwinterstreet_night.jpg-e8497896a263f324fe20d57622df523f.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxbcxfhpd5yp2"
-path="res://.godot/imported/EnemyInfo_Maki_MG.png-66e263766e5d8520729a977ed4ce6bfe.ctex"
+path="res://.godot/imported/EnemyInfo_Maki_MG.png-b72205a0f5805916c510469ed7fb55c7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Maki_MG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Maki_MG.png-66e263766e5d8520729a977ed4ce6bfe.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Maki_MG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Maki_MG.png-b72205a0f5805916c510469ed7fb55c7.ctex"]
 
 [params]
 

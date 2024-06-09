@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b55hleih52b76"
-path="res://.godot/imported/SFX_Spine_Whoosh_Chime_01.ogg-213dcac18814e5c116f551e32813cc45.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_Whoosh_Chime_01.ogg-ab9dbff42bfcfef54b6018e20edc4fc7.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Whoosh_Chime_01.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_Whoosh_Chime_01.ogg-213dcac18814e5c116f551e32813cc45.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Whoosh_Chime_01.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_Whoosh_Chime_01.ogg-ab9dbff42bfcfef54b6018e20edc4fc7.oggvorbisstr"]
 
 [params]
 

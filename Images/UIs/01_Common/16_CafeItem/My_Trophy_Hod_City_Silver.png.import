@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdlnpkakevijy"
-path="res://.godot/imported/My_Trophy_Hod_City_Silver.png-293d0bf95bb8a94df26553156b9eac39.ctex"
+path="res://.godot/imported/My_Trophy_Hod_City_Silver.png-62a7151e071f499f79ec66930ca6113a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Hod_City_Silver.png"
-dest_files=["res://.godot/imported/My_Trophy_Hod_City_Silver.png-293d0bf95bb8a94df26553156b9eac39.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Hod_City_Silver.png"
+dest_files=["res://.godot/imported/My_Trophy_Hod_City_Silver.png-62a7151e071f499f79ec66930ca6113a.ctex"]
 
 [params]
 

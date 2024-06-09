@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwm340vujig78"
-path="res://.godot/imported/bg_decagrammatonfront_night.jpg-9f97f5e88b8348bf0b7c8b9c84f1a831.ctex"
+path="res://.godot/imported/bg_decagrammatonfront_night.jpg-632134493b5cb0606bd443fb7b146fc6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_decagrammatonfront_night.jpg"
-dest_files=["res://.godot/imported/bg_decagrammatonfront_night.jpg-9f97f5e88b8348bf0b7c8b9c84f1a831.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_decagrammatonfront_night.jpg"
+dest_files=["res://.godot/imported/bg_decagrammatonfront_night.jpg-632134493b5cb0606bd443fb7b146fc6.ctex"]
 
 [params]
 

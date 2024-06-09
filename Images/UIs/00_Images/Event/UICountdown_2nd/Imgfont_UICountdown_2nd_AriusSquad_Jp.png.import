@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rsb7solehd7w"
-path="res://.godot/imported/Imgfont_UICountdown_2nd_AriusSquad_Jp.png-d1fbe7f44a7d7d92cbe8286dafd092da.ctex"
+path="res://.godot/imported/Imgfont_UICountdown_2nd_AriusSquad_Jp.png-139f2572bdedfcd549450cd4c12e4974.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/00_Images/Event/UICountdown_2nd/Imgfont_UICountdown_2nd_AriusSquad_Jp.png"
-dest_files=["res://.godot/imported/Imgfont_UICountdown_2nd_AriusSquad_Jp.png-d1fbe7f44a7d7d92cbe8286dafd092da.ctex"]
+source_file="res://assets/Images/UIs/00_Images/Event/UICountdown_2nd/Imgfont_UICountdown_2nd_AriusSquad_Jp.png"
+dest_files=["res://.godot/imported/Imgfont_UICountdown_2nd_AriusSquad_Jp.png-139f2572bdedfcd549450cd4c12e4974.ctex"]
 
 [params]
 

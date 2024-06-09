@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxsuy64v6cutj"
-path="res://.godot/imported/Information_FortuneGacha_01_Jp.png-25bd95bc6161a35aaeaae69a3a10326c.ctex"
+path="res://.godot/imported/Information_FortuneGacha_01_Jp.png-cebef25555cea14cb209a4512e532339.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/28_Information/Information_FortuneGacha_01_Jp.png"
-dest_files=["res://.godot/imported/Information_FortuneGacha_01_Jp.png-25bd95bc6161a35aaeaae69a3a10326c.ctex"]
+source_file="res://assets/Images/UIs/01_Common/28_Information/Information_FortuneGacha_01_Jp.png"
+dest_files=["res://.godot/imported/Information_FortuneGacha_01_Jp.png-cebef25555cea14cb209a4512e532339.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmqnub1jwug82"
-path="res://.godot/imported/Item_Icon_Material_Rohonc_3.png-706c580d23bb06188a8847af1c9f65f8.ctex"
+path="res://.godot/imported/Item_Icon_Material_Rohonc_3.png-604b3b41605d3a06294e4e8c4a01d977.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Rohonc_3.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_Rohonc_3.png-706c580d23bb06188a8847af1c9f65f8.ctex"]
+source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Rohonc_3.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_Rohonc_3.png-604b3b41605d3a06294e4e8c4a01d977.ctex"]
 
 [params]
 

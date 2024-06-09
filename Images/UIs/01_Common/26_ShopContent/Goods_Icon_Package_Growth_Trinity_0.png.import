@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3ddwa72r4m3l"
-path="res://.godot/imported/Goods_Icon_Package_Growth_Trinity_0.png-9947c6de2b6b68ec80373b0cb787d229.ctex"
+path="res://.godot/imported/Goods_Icon_Package_Growth_Trinity_0.png-b022d75d92ee429c647a350aab71f6c8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/26_ShopContent/Goods_Icon_Package_Growth_Trinity_0.png"
-dest_files=["res://.godot/imported/Goods_Icon_Package_Growth_Trinity_0.png-9947c6de2b6b68ec80373b0cb787d229.ctex"]
+source_file="res://assets/Images/UIs/01_Common/26_ShopContent/Goods_Icon_Package_Growth_Trinity_0.png"
+dest_files=["res://.godot/imported/Goods_Icon_Package_Growth_Trinity_0.png-b022d75d92ee429c647a350aab71f6c8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5oeyee8505gu"
-path="res://.godot/imported/EnemyInfo_Serina_AR.png-3a0b8cc1378f0149a8a1f86c7b3eafcf.ctex"
+path="res://.godot/imported/EnemyInfo_Serina_AR.png-61ed768b89a13fa82b64e4302c1dd187.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Serina_AR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Serina_AR.png-3a0b8cc1378f0149a8a1f86c7b3eafcf.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Serina_AR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Serina_AR.png-61ed768b89a13fa82b64e4302c1dd187.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvj3gc45xooa3"
-path="res://.godot/imported/EnemyInfo_Soldier_Kaiserpmc_HG.png-898a0b3718d1f1b61c18a78524bee55c.ctex"
+path="res://.godot/imported/EnemyInfo_Soldier_Kaiserpmc_HG.png-37e289160a9c9db7ae89850f1b77190a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Soldier_Kaiserpmc_HG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Soldier_Kaiserpmc_HG.png-898a0b3718d1f1b61c18a78524bee55c.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Soldier_Kaiserpmc_HG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Soldier_Kaiserpmc_HG.png-37e289160a9c9db7ae89850f1b77190a.ctex"]
 
 [params]
 

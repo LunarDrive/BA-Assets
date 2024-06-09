@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://t3fy4xf87j65"
-path="res://.godot/imported/Combat_Icon_Special_EnergyBatteryHalf.png-803592798dd440a2c4c6e81a373a7e05.ctex"
+path="res://.godot/imported/Combat_Icon_Special_EnergyBatteryHalf.png-46ffab1b08f411f17076eae8852c109c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Special_EnergyBatteryHalf.png"
-dest_files=["res://.godot/imported/Combat_Icon_Special_EnergyBatteryHalf.png-803592798dd440a2c4c6e81a373a7e05.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Special_EnergyBatteryHalf.png"
+dest_files=["res://.godot/imported/Combat_Icon_Special_EnergyBatteryHalf.png-46ffab1b08f411f17076eae8852c109c.ctex"]
 
 [params]
 

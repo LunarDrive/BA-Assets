@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cflxr2gtalw0m"
-path="res://.godot/imported/bg_eridutowerinside.jpg-5bf10ead858f8be7a068dca401eb761a.ctex"
+path="res://.godot/imported/bg_eridutowerinside.jpg-1d3492de464f6192a721e930a2536ba8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_eridutowerinside.jpg"
-dest_files=["res://.godot/imported/bg_eridutowerinside.jpg-5bf10ead858f8be7a068dca401eb761a.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_eridutowerinside.jpg"
+dest_files=["res://.godot/imported/bg_eridutowerinside.jpg-1d3492de464f6192a721e930a2536ba8.ctex"]
 
 [params]
 

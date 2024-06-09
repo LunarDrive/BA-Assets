@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtyprq73n0qap"
-path="res://.godot/imported/Student_Portrait_Shigure_Collection.png-d571e298380aaa5ea85a6098c9690b59.ctex"
+path="res://.godot/imported/Student_Portrait_Shigure_Collection.png-b5ed1f1a18d2a8e51a89becfec6e9113.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Shigure_Collection.png"
-dest_files=["res://.godot/imported/Student_Portrait_Shigure_Collection.png-d571e298380aaa5ea85a6098c9690b59.ctex"]
+source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Shigure_Collection.png"
+dest_files=["res://.godot/imported/Student_Portrait_Shigure_Collection.png-b5ed1f1a18d2a8e51a89becfec6e9113.ctex"]
 
 [params]
 

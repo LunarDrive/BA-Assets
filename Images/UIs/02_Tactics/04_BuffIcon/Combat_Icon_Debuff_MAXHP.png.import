@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1hwuipx34gts"
-path="res://.godot/imported/Combat_Icon_Debuff_MAXHP.png-8f7f57536195d366c2bc694cb085d206.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_MAXHP.png-90717769f63c9fc65982c527b669586e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_MAXHP.png-8f7f57536195d366c2bc694cb085d206.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_MAXHP.png-90717769f63c9fc65982c527b669586e.ctex"]
 
 [params]
 

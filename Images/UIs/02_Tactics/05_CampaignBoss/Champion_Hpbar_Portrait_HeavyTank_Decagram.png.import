@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxwvsppxvsudw"
-path="res://.godot/imported/Champion_Hpbar_Portrait_HeavyTank_Decagram.png-11bf1655a468dca526795bf9ef1cd178.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_HeavyTank_Decagram.png-69f4e0444b8b893b51d127d46de45f79.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_HeavyTank_Decagram.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_HeavyTank_Decagram.png-11bf1655a468dca526795bf9ef1cd178.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_HeavyTank_Decagram.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_HeavyTank_Decagram.png-69f4e0444b8b893b51d127d46de45f79.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5qvufstnjvcg"
-path="res://.godot/imported/bg_shanteahouse.jpg-5642895c6ae14ea76f5682ef3fad8ebe.ctex"
+path="res://.godot/imported/bg_shanteahouse.jpg-99432432c882203edf421ee0c6596ce3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_shanteahouse.jpg"
-dest_files=["res://.godot/imported/bg_shanteahouse.jpg-5642895c6ae14ea76f5682ef3fad8ebe.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_shanteahouse.jpg"
+dest_files=["res://.godot/imported/bg_shanteahouse.jpg-99432432c882203edf421ee0c6596ce3.ctex"]
 
 [params]
 

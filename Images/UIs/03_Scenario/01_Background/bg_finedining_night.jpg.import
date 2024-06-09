@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://buidaqxr0i6sl"
-path="res://.godot/imported/bg_finedining_night.jpg-b416286c47ca370e38a6a1bc3dca278a.ctex"
+path="res://.godot/imported/bg_finedining_night.jpg-a50c1df319f3a9fa0823d2dc035099f8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_finedining_night.jpg"
-dest_files=["res://.godot/imported/bg_finedining_night.jpg-b416286c47ca370e38a6a1bc3dca278a.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_finedining_night.jpg"
+dest_files=["res://.godot/imported/bg_finedining_night.jpg-a50c1df319f3a9fa0823d2dc035099f8.ctex"]
 
 [params]
 

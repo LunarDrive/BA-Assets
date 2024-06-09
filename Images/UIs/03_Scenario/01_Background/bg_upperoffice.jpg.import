@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcj67qilu075i"
-path="res://.godot/imported/bg_upperoffice.jpg-e5d8341d695b304f5095d2884f36c198.ctex"
+path="res://.godot/imported/bg_upperoffice.jpg-7c27f4e39df2026825607d1e5ab60f2b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_upperoffice.jpg"
-dest_files=["res://.godot/imported/bg_upperoffice.jpg-e5d8341d695b304f5095d2884f36c198.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_upperoffice.jpg"
+dest_files=["res://.godot/imported/bg_upperoffice.jpg-7c27f4e39df2026825607d1e5ab60f2b.ctex"]
 
 [params]
 

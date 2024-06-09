@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dp83dsbis6pyq"
-path="res://.godot/imported/Information_MemorialLobby_05_Jp.png-028a5fb091235fa5117a74e1aef40764.ctex"
+path="res://.godot/imported/Information_MemorialLobby_05_Jp.png-ddea985d2ae8b129260d63f335487c72.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/28_Information/Information_MemorialLobby_05_Jp.png"
-dest_files=["res://.godot/imported/Information_MemorialLobby_05_Jp.png-028a5fb091235fa5117a74e1aef40764.ctex"]
+source_file="res://assets/Images/UIs/01_Common/28_Information/Information_MemorialLobby_05_Jp.png"
+dest_files=["res://.godot/imported/Information_MemorialLobby_05_Jp.png-ddea985d2ae8b129260d63f335487c72.ctex"]
 
 [params]
 

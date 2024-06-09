@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmpnn0b0mlrn6"
-path="res://.godot/imported/Student_Portrait_Hibiki.png-0ae04f07b4982901de425d72f8695f7c.ctex"
+path="res://.godot/imported/Student_Portrait_Hibiki.png-d69c867ab1736050f90f3968c7936f81.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Hibiki.png"
-dest_files=["res://.godot/imported/Student_Portrait_Hibiki.png-0ae04f07b4982901de425d72f8695f7c.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Hibiki.png"
+dest_files=["res://.godot/imported/Student_Portrait_Hibiki.png-d69c867ab1736050f90f3968c7936f81.ctex"]
 
 [params]
 

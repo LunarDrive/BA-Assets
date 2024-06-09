@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4jinr12b8ife"
-path="res://.godot/imported/event01_ayane.png-197a4a16df3ad080b6075736f6964afe.ctex"
+path="res://.godot/imported/event01_ayane.png-34ac7716d39584ead3a077d2564949d3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_ayane.png"
-dest_files=["res://.godot/imported/event01_ayane.png-197a4a16df3ad080b6075736f6964afe.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_ayane.png"
+dest_files=["res://.godot/imported/event01_ayane.png-34ac7716d39584ead3a077d2564949d3.ctex"]
 
 [params]
 

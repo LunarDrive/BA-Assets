@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4e4m4276dlf8"
-path="res://.godot/imported/Student_Portrait_Kotori_Small.png-4e41ea84fbc13acbe0fca90452d6fc98.ctex"
+path="res://.godot/imported/Student_Portrait_Kotori_Small.png-949e722f78b2a7f818eefdd626fa8b85.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Kotori_Small.png"
-dest_files=["res://.godot/imported/Student_Portrait_Kotori_Small.png-4e41ea84fbc13acbe0fca90452d6fc98.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Kotori_Small.png"
+dest_files=["res://.godot/imported/Student_Portrait_Kotori_Small.png-949e722f78b2a7f818eefdd626fa8b85.ctex"]
 
 [params]
 

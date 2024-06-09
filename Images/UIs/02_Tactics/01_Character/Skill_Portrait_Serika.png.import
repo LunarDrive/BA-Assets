@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dl0aiwuwgjrrt"
-path="res://.godot/imported/Skill_Portrait_Serika.png-1338516f54cd583e0fda6bfe4c49b3b3.ctex"
+path="res://.godot/imported/Skill_Portrait_Serika.png-fbd4cb4bb5b2be71e4a80a8ef9a48948.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Serika.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Serika.png-1338516f54cd583e0fda6bfe4c49b3b3.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Serika.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Serika.png-fbd4cb4bb5b2be71e4a80a8ef9a48948.ctex"]
 
 [params]
 

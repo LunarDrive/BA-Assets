@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4qggmtiyre7u"
-path="res://.godot/imported/Student_Portrait_Hanako_Small.png-9da88872a4e4c42d34d2bb08da17dc9f.ctex"
+path="res://.godot/imported/Student_Portrait_Hanako_Small.png-ab5808f337f921fd76155e5ae40dc918.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Hanako_Small.png"
-dest_files=["res://.godot/imported/Student_Portrait_Hanako_Small.png-9da88872a4e4c42d34d2bb08da17dc9f.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Hanako_Small.png"
+dest_files=["res://.godot/imported/Student_Portrait_Hanako_Small.png-ab5808f337f921fd76155e5ae40dc918.ctex"]
 
 [params]
 

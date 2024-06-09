@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmk32vbnh1isc"
-path="res://.godot/imported/bg_trinityhospital.jpg-da4a4f7b37df4ec22ded0a82d823d3ab.ctex"
+path="res://.godot/imported/bg_trinityhospital.jpg-7ebaf22d73f9a995e55a0d82e5207547.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_trinityhospital.jpg"
-dest_files=["res://.godot/imported/bg_trinityhospital.jpg-da4a4f7b37df4ec22ded0a82d823d3ab.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_trinityhospital.jpg"
+dest_files=["res://.godot/imported/bg_trinityhospital.jpg-7ebaf22d73f9a995e55a0d82e5207547.ctex"]
 
 [params]
 

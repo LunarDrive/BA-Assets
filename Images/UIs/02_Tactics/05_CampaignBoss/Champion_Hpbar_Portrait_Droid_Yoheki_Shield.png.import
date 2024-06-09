@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bc3826bqbtvbk"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Droid_Yoheki_Shield.png-2ecdce180baf295ff760544906754fc5.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Droid_Yoheki_Shield.png-1c6ac508cca5829df9fa2ae622220270.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Droid_Yoheki_Shield.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Droid_Yoheki_Shield.png-2ecdce180baf295ff760544906754fc5.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Droid_Yoheki_Shield.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Droid_Yoheki_Shield.png-1c6ac508cca5829df9fa2ae622220270.ctex"]
 
 [params]
 

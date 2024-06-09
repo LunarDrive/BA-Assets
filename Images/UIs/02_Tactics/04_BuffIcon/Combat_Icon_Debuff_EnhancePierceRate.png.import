@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d327f54nevi0"
-path="res://.godot/imported/Combat_Icon_Debuff_EnhancePierceRate.png-cd5cb2a4e05584074dea9a87ce712b7b.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_EnhancePierceRate.png-670756afe1f458832cffc8e42f23f38c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_EnhancePierceRate.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_EnhancePierceRate.png-cd5cb2a4e05584074dea9a87ce712b7b.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_EnhancePierceRate.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_EnhancePierceRate.png-670756afe1f458832cffc8e42f23f38c.ctex"]
 
 [params]
 

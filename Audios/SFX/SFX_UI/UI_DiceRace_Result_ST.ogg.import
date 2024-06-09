@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://2mo3evt4huhj"
-path="res://.godot/imported/UI_DiceRace_Result_ST.ogg-6f28b338cbd97409a022acf2356bffc6.oggvorbisstr"
+path="res://.godot/imported/UI_DiceRace_Result_ST.ogg-9e733d54d558c72b0f70b4f710f090e6.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_UI/UI_DiceRace_Result_ST.ogg"
-dest_files=["res://.godot/imported/UI_DiceRace_Result_ST.ogg-6f28b338cbd97409a022acf2356bffc6.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_UI/UI_DiceRace_Result_ST.ogg"
+dest_files=["res://.godot/imported/UI_DiceRace_Result_ST.ogg-9e733d54d558c72b0f70b4f710f090e6.oggvorbisstr"]
 
 [params]
 

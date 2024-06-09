@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckrds6n3e3x5o"
-path="res://.godot/imported/bg_ariusbasilica_night.jpg-2738c92a656771ca4764e46ce9c3001a.ctex"
+path="res://.godot/imported/bg_ariusbasilica_night.jpg-dfd8fa7f2c13fdc3eb5902081bbf1e95.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_ariusbasilica_night.jpg"
-dest_files=["res://.godot/imported/bg_ariusbasilica_night.jpg-2738c92a656771ca4764e46ce9c3001a.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_ariusbasilica_night.jpg"
+dest_files=["res://.godot/imported/bg_ariusbasilica_night.jpg-dfd8fa7f2c13fdc3eb5902081bbf1e95.ctex"]
 
 [params]
 

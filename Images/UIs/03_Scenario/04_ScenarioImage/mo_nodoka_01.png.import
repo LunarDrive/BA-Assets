@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xc3n8bq8h8cp"
-path="res://.godot/imported/mo_nodoka_01.png-ff52378f298140450818ac85a4e083e1.ctex"
+path="res://.godot/imported/mo_nodoka_01.png-c88f9e570bb04616052197f7414289c1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/04_ScenarioImage/mo_nodoka_01.png"
-dest_files=["res://.godot/imported/mo_nodoka_01.png-ff52378f298140450818ac85a4e083e1.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/mo_nodoka_01.png"
+dest_files=["res://.godot/imported/mo_nodoka_01.png-c88f9e570bb04616052197f7414289c1.ctex"]
 
 [params]
 

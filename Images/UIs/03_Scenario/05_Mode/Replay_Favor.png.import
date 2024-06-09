@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c63jahx1xs8wr"
-path="res://.godot/imported/Replay_Favor.png-c3f95cbdca84ed2b90bf1b3b2ccb3ca2.ctex"
+path="res://.godot/imported/Replay_Favor.png-0cda29885f8fd3ac74dc84c58d7aae82.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/05_Mode/Replay_Favor.png"
-dest_files=["res://.godot/imported/Replay_Favor.png-c3f95cbdca84ed2b90bf1b3b2ccb3ca2.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/05_Mode/Replay_Favor.png"
+dest_files=["res://.godot/imported/Replay_Favor.png-0cda29885f8fd3ac74dc84c58d7aae82.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://uuumyepbdcmw"
-path="res://.godot/imported/SFX_Emoticon_Motion_Exclaim.wav-ce329b788a72b4e8a3b49ff75cb59316.sample"
+path="res://.godot/imported/SFX_Emoticon_Motion_Exclaim.wav-e9f9d146915b76acca332e107faf87c6.sample"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Exclaim.wav"
-dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Exclaim.wav-ce329b788a72b4e8a3b49ff75cb59316.sample"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Exclaim.wav"
+dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Exclaim.wav-e9f9d146915b76acca332e107faf87c6.sample"]
 
 [params]
 

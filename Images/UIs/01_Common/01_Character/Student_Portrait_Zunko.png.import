@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ce4t1j4ti6pu1"
-path="res://.godot/imported/Student_Portrait_Zunko.png-087619cf4d32f9f3db4d55acb0e99b97.ctex"
+path="res://.godot/imported/Student_Portrait_Zunko.png-0ce8fb5d7a4fbefe1901ccfbd0ad23cb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Zunko.png"
-dest_files=["res://.godot/imported/Student_Portrait_Zunko.png-087619cf4d32f9f3db4d55acb0e99b97.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Zunko.png"
+dest_files=["res://.godot/imported/Student_Portrait_Zunko.png-0ce8fb5d7a4fbefe1901ccfbd0ad23cb.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bf7gnb0jj4xmq"
-path="res://.godot/imported/EnemyInfo_KaitenRanger_Green_HMG.png-3fe667a90e98d491283a97943efa915d.ctex"
+path="res://.godot/imported/EnemyInfo_KaitenRanger_Green_HMG.png-88beeb60fdc1f7f5a79613413f622235.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_KaitenRanger_Green_HMG.png"
-dest_files=["res://.godot/imported/EnemyInfo_KaitenRanger_Green_HMG.png-3fe667a90e98d491283a97943efa915d.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_KaitenRanger_Green_HMG.png"
+dest_files=["res://.godot/imported/EnemyInfo_KaitenRanger_Green_HMG.png-88beeb60fdc1f7f5a79613413f622235.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmclcbeqpusdg"
-path="res://.godot/imported/bg_tatamiroom_night.jpg-bc14a3d483de39bf8bca1943ece21371.ctex"
+path="res://.godot/imported/bg_tatamiroom_night.jpg-7640d2f3d21e4837d4369a68761c3f83.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_tatamiroom_night.jpg"
-dest_files=["res://.godot/imported/bg_tatamiroom_night.jpg-bc14a3d483de39bf8bca1943ece21371.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_tatamiroom_night.jpg"
+dest_files=["res://.godot/imported/bg_tatamiroom_night.jpg-7640d2f3d21e4837d4369a68761c3f83.ctex"]
 
 [params]
 

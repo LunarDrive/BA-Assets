@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctae8y20avefx"
-path="res://.godot/imported/Student_Portrait_Ayane_Robber.png-dfdea96a8e80bf0ddc058f0adcc0dce3.ctex"
+path="res://.godot/imported/Student_Portrait_Ayane_Robber.png-08641131b96f823e3c8b4fc8de0e3dbc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/01_Character/Student_Portrait_Ayane_Robber.png"
-dest_files=["res://.godot/imported/Student_Portrait_Ayane_Robber.png-dfdea96a8e80bf0ddc058f0adcc0dce3.ctex"]
+source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Ayane_Robber.png"
+dest_files=["res://.godot/imported/Student_Portrait_Ayane_Robber.png-08641131b96f823e3c8b4fc8de0e3dbc.ctex"]
 
 [params]
 

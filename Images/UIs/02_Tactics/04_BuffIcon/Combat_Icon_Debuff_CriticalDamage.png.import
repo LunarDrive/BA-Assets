@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7t1jnt8eply3"
-path="res://.godot/imported/Combat_Icon_Debuff_CriticalDamage.png-cfaf7eb7df9fe7b2cace31c899f236ee.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_CriticalDamage.png-5db7bacf7470ddfd87ec6ae37ffe0284.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_CriticalDamage.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_CriticalDamage.png-cfaf7eb7df9fe7b2cace31c899f236ee.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_CriticalDamage.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_CriticalDamage.png-5db7bacf7470ddfd87ec6ae37ffe0284.ctex"]
 
 [params]
 

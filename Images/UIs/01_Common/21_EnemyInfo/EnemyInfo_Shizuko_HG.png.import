@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccwiky66v7q45"
-path="res://.godot/imported/EnemyInfo_Shizuko_HG.png-169084c95af9946eeec03c6321923171.ctex"
+path="res://.godot/imported/EnemyInfo_Shizuko_HG.png-a25cade02ea509d0e50095074891e641.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Shizuko_HG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Shizuko_HG.png-169084c95af9946eeec03c6321923171.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Shizuko_HG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Shizuko_HG.png-a25cade02ea509d0e50095074891e641.ctex"]
 
 [params]
 

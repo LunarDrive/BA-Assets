@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cfb5h0d0t4875"
-path="res://.godot/imported/BGM_TenchikaibyakuShinwa_Short.ogg-299b247f4806918ac4a1275f49b60c9a.oggvorbisstr"
+path="res://.godot/imported/BGM_TenchikaibyakuShinwa_Short.ogg-8b4563884641916e22c034c6268f13ce.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/BGM/BGM_TenchikaibyakuShinwa_Short.ogg"
-dest_files=["res://.godot/imported/BGM_TenchikaibyakuShinwa_Short.ogg-299b247f4806918ac4a1275f49b60c9a.oggvorbisstr"]
+source_file="res://assets/Audios/BGM/BGM_TenchikaibyakuShinwa_Short.ogg"
+dest_files=["res://.godot/imported/BGM_TenchikaibyakuShinwa_Short.ogg-8b4563884641916e22c034c6268f13ce.oggvorbisstr"]
 
 [params]
 

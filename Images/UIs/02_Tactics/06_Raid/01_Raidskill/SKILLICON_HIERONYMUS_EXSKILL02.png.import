@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djtepun1s3p6m"
-path="res://.godot/imported/SKILLICON_HIERONYMUS_EXSKILL02.png-c676cfa0308e317e7f7544ecc4194f26.ctex"
+path="res://.godot/imported/SKILLICON_HIERONYMUS_EXSKILL02.png-0cc585d221eb95ebdf7fa52ece781e90.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_HIERONYMUS_EXSKILL02.png"
-dest_files=["res://.godot/imported/SKILLICON_HIERONYMUS_EXSKILL02.png-c676cfa0308e317e7f7544ecc4194f26.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_HIERONYMUS_EXSKILL02.png"
+dest_files=["res://.godot/imported/SKILLICON_HIERONYMUS_EXSKILL02.png-0cc585d221eb95ebdf7fa52ece781e90.ctex"]
 
 [params]
 

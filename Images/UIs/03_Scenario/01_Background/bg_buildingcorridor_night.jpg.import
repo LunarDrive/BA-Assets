@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bls1lv4d3o5p3"
-path="res://.godot/imported/bg_buildingcorridor_night.jpg-a949ea06236745c1d0df058627827372.ctex"
+path="res://.godot/imported/bg_buildingcorridor_night.jpg-5c7aa67299b021f1d03a762a7048ed6e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_buildingcorridor_night.jpg"
-dest_files=["res://.godot/imported/bg_buildingcorridor_night.jpg-a949ea06236745c1d0df058627827372.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_buildingcorridor_night.jpg"
+dest_files=["res://.godot/imported/bg_buildingcorridor_night.jpg-5c7aa67299b021f1d03a762a7048ed6e.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dkgej6065eetd"
-path="res://.godot/imported/SFX_Common_SMG_CH0069_Random_02.wav-417a191df0b7e9de6c94da5541c6062c.sample"
+path="res://.godot/imported/SFX_Common_SMG_CH0069_Random_02.wav-789f58ddada8845c42960d7c76b693b6.sample"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_Common/SFX_Common_SMG_CH0069_Random_02.wav"
-dest_files=["res://.godot/imported/SFX_Common_SMG_CH0069_Random_02.wav-417a191df0b7e9de6c94da5541c6062c.sample"]
+source_file="res://assets/Audios/SFX/SFX_Common/SFX_Common_SMG_CH0069_Random_02.wav"
+dest_files=["res://.godot/imported/SFX_Common_SMG_CH0069_Random_02.wav-789f58ddada8845c42960d7c76b693b6.sample"]
 
 [params]
 

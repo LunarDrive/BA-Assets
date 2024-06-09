@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dknnmnpx1iurx"
-path="res://.godot/imported/EnemyInfo_Police_Valkyrie_SG.png-5264e3d519dce416c22f0be429cd046d.ctex"
+path="res://.godot/imported/EnemyInfo_Police_Valkyrie_SG.png-26b0997ffce8c801cfc8237d401fdee5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Police_Valkyrie_SG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Police_Valkyrie_SG.png-5264e3d519dce416c22f0be429cd046d.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Police_Valkyrie_SG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Police_Valkyrie_SG.png-26b0997ffce8c801cfc8237d401fdee5.ctex"]
 
 [params]
 

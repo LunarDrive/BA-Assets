@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cj64ivbriakoc"
-path="res://.godot/imported/Special_Operation_Icon_Recollection.png-3a6fb02f45a24a6a7f55e0bb6bfe3c00.ctex"
+path="res://.godot/imported/Special_Operation_Icon_Recollection.png-8a54973fac9d050568140c2bc65e3c47.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/36_SpecialOperation/Special_Operation_Icon_Recollection.png"
-dest_files=["res://.godot/imported/Special_Operation_Icon_Recollection.png-3a6fb02f45a24a6a7f55e0bb6bfe3c00.ctex"]
+source_file="res://assets/Images/UIs/01_Common/36_SpecialOperation/Special_Operation_Icon_Recollection.png"
+dest_files=["res://.godot/imported/Special_Operation_Icon_Recollection.png-8a54973fac9d050568140c2bc65e3c47.ctex"]
 
 [params]
 

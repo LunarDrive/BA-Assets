@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://by1cwafxru3ns"
-path="res://.godot/imported/EnemyInfo_Nonomi_MG.png-f6c4f134e6d23e224b9b258ba7645101.ctex"
+path="res://.godot/imported/EnemyInfo_Nonomi_MG.png-c9bf133afd509146c1152a0e1213dfaf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Nonomi_MG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Nonomi_MG.png-f6c4f134e6d23e224b9b258ba7645101.ctex"]
+source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Nonomi_MG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Nonomi_MG.png-c9bf133afd509146c1152a0e1213dfaf.ctex"]
 
 [params]
 

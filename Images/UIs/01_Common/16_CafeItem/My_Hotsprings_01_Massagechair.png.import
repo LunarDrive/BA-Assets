@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkqx8scshhgxu"
-path="res://.godot/imported/My_Hotsprings_01_Massagechair.png-3c42897d75da903e49f41ef08135871a.ctex"
+path="res://.godot/imported/My_Hotsprings_01_Massagechair.png-1928e2f0776570044cc576772ca18371.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/01_Common/16_CafeItem/My_Hotsprings_01_Massagechair.png"
-dest_files=["res://.godot/imported/My_Hotsprings_01_Massagechair.png-3c42897d75da903e49f41ef08135871a.ctex"]
+source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Hotsprings_01_Massagechair.png"
+dest_files=["res://.godot/imported/My_Hotsprings_01_Massagechair.png-1928e2f0776570044cc576772ca18371.ctex"]
 
 [params]
 

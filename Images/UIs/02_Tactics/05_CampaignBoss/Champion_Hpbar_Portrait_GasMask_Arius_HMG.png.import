@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cw5l2i2imy4cc"
-path="res://.godot/imported/Champion_Hpbar_Portrait_GasMask_Arius_HMG.png-a6cffcf4c7b02b45eabbaaced907abc9.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_GasMask_Arius_HMG.png-efbfd2aa688e930dbce09e78c3a4ede2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_GasMask_Arius_HMG.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_GasMask_Arius_HMG.png-a6cffcf4c7b02b45eabbaaced907abc9.ctex"]
+source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_GasMask_Arius_HMG.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_GasMask_Arius_HMG.png-efbfd2aa688e930dbce09e78c3a4ede2.ctex"]
 
 [params]
 

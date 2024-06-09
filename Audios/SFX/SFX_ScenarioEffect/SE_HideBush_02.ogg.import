@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dierrh1ygwdmo"
-path="res://.godot/imported/SE_HideBush_02.ogg-e487f7143c90f3b08714bbce1a7693e6.oggvorbisstr"
+path="res://.godot/imported/SE_HideBush_02.ogg-939e882ef062a6a5a69cc20b2cbb5179.oggvorbisstr"
 
 [deps]
 
-source_file="res://BA-Assets/Audios/SFX/SFX_ScenarioEffect/SE_HideBush_02.ogg"
-dest_files=["res://.godot/imported/SE_HideBush_02.ogg-e487f7143c90f3b08714bbce1a7693e6.oggvorbisstr"]
+source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_HideBush_02.ogg"
+dest_files=["res://.godot/imported/SE_HideBush_02.ogg-939e882ef062a6a5a69cc20b2cbb5179.oggvorbisstr"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hjnvnrjxciep"
-path="res://.godot/imported/bg_forestroad.jpg-450e6094cfc540ea6996d43c13fc0070.ctex"
+path="res://.godot/imported/bg_forestroad.jpg-61f3f9af8e9128ff2080e2eb72a0efde.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_forestroad.jpg"
-dest_files=["res://.godot/imported/bg_forestroad.jpg-450e6094cfc540ea6996d43c13fc0070.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_forestroad.jpg"
+dest_files=["res://.godot/imported/bg_forestroad.jpg-61f3f9af8e9128ff2080e2eb72a0efde.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ru8f2yjdnhcq"
-path="res://.godot/imported/bg_cs_arona_05.jpg-341fdd696500420492ebf40e235289b6.ctex"
+path="res://.godot/imported/bg_cs_arona_05.jpg-c40e354b7c9bcba6f5f8a700ce04da73.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_cs_arona_05.jpg"
-dest_files=["res://.godot/imported/bg_cs_arona_05.jpg-341fdd696500420492ebf40e235289b6.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_cs_arona_05.jpg"
+dest_files=["res://.godot/imported/bg_cs_arona_05.jpg-c40e354b7c9bcba6f5f8a700ce04da73.ctex"]
 
 [params]
 

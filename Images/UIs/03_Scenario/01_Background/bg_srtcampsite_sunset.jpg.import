@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://creawxooemiwp"
-path="res://.godot/imported/bg_srtcampsite_sunset.jpg-c3039f8ef2b05779f135d9b1637471c6.ctex"
+path="res://.godot/imported/bg_srtcampsite_sunset.jpg-90c8c74add4e882ca4ccdd512594ba11.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BA-Assets/Images/UIs/03_Scenario/01_Background/bg_srtcampsite_sunset.jpg"
-dest_files=["res://.godot/imported/bg_srtcampsite_sunset.jpg-c3039f8ef2b05779f135d9b1637471c6.ctex"]
+source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_srtcampsite_sunset.jpg"
+dest_files=["res://.godot/imported/bg_srtcampsite_sunset.jpg-90c8c74add4e882ca4ccdd512594ba11.ctex"]
 
 [params]
 
