@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://boalijbquupg7"
-path="res://.godot/imported/SFX_Spine_Stun_Bird.ogg-cd5207962a7fd1aef2e5a41a8a783c05.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_Stun_Bird.ogg-6ac9174948bc3533be71acb71c85a412.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Stun_Bird.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_Stun_Bird.ogg-cd5207962a7fd1aef2e5a41a8a783c05.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Stun_Bird.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_Stun_Bird.ogg-6ac9174948bc3533be71acb71c85a412.oggvorbisstr"]
 
 [params]
 

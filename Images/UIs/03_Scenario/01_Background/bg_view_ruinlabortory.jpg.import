@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxsg13rq0d5a0"
-path="res://.godot/imported/bg_view_ruinlabortory.jpg-9d371700338a513f38aa4c0dc9f466f9.ctex"
+path="res://.godot/imported/bg_view_ruinlabortory.jpg-30c9e589363f095ccc3cf2666ab74f2a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_view_ruinlabortory.jpg"
-dest_files=["res://.godot/imported/bg_view_ruinlabortory.jpg-9d371700338a513f38aa4c0dc9f466f9.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_view_ruinlabortory.jpg"
+dest_files=["res://.godot/imported/bg_view_ruinlabortory.jpg-30c9e589363f095ccc3cf2666ab74f2a.ctex"]
 
 [params]
 

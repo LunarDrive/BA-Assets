@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2g0k3uafyblx"
-path="res://.godot/imported/Special_Operation_Tab_BG_03.png-774c548ce2e2dee71af0199a094ea031.ctex"
+path="res://.godot/imported/Special_Operation_Tab_BG_03.png-b1cadefca03b95f3c4ed17e051eb1cd0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/36_SpecialOperation/Special_Operation_Tab_BG_03.png"
-dest_files=["res://.godot/imported/Special_Operation_Tab_BG_03.png-774c548ce2e2dee71af0199a094ea031.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/36_SpecialOperation/Special_Operation_Tab_BG_03.png"
+dest_files=["res://.godot/imported/Special_Operation_Tab_BG_03.png-b1cadefca03b95f3c4ed17e051eb1cd0.ctex"]
 
 [params]
 

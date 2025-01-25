@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyj7rgv0nhf6v"
-path="res://.godot/imported/School_Icon_HYAKKIYAKO.png-8df0a405d25448a141c7a9061114b9e0.ctex"
+path="res://.godot/imported/School_Icon_HYAKKIYAKO.png-1669ef3276c4c5e6bc88b43022def146.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/11_SchoolIcon/School_Icon_HYAKKIYAKO.png"
-dest_files=["res://.godot/imported/School_Icon_HYAKKIYAKO.png-8df0a405d25448a141c7a9061114b9e0.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/11_SchoolIcon/School_Icon_HYAKKIYAKO.png"
+dest_files=["res://.godot/imported/School_Icon_HYAKKIYAKO.png-1669ef3276c4c5e6bc88b43022def146.ctex"]
 
 [params]
 

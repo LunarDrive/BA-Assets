@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2tseujqw6o77"
-path="res://.godot/imported/Combat_Icon_Buff_DamageRatio.png-ad2d9143039a3e84212341d36e75b987.ctex"
+path="res://.godot/imported/Combat_Icon_Buff_DamageRatio.png-b228f46d8860fc05fd213de900543285.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_DamageRatio.png"
-dest_files=["res://.godot/imported/Combat_Icon_Buff_DamageRatio.png-ad2d9143039a3e84212341d36e75b987.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_DamageRatio.png"
+dest_files=["res://.godot/imported/Combat_Icon_Buff_DamageRatio.png-b228f46d8860fc05fd213de900543285.ctex"]
 
 [params]
 

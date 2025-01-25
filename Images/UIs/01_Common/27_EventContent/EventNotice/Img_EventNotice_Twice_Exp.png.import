@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cpd16tfqkuus5"
-path="res://.godot/imported/Img_EventNotice_Twice_Exp.png-4732c18d40b4c0d07d462f0a15d47edf.ctex"
+path="res://.godot/imported/Img_EventNotice_Twice_Exp.png-0b53e7e224eb200f6d260282e861dd31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/27_EventContent/EventNotice/Img_EventNotice_Twice_Exp.png"
-dest_files=["res://.godot/imported/Img_EventNotice_Twice_Exp.png-4732c18d40b4c0d07d462f0a15d47edf.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/27_EventContent/EventNotice/Img_EventNotice_Twice_Exp.png"
+dest_files=["res://.godot/imported/Img_EventNotice_Twice_Exp.png-0b53e7e224eb200f6d260282e861dd31.ctex"]
 
 [params]
 

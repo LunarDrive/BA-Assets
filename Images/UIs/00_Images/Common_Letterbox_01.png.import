@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bt1n318t3ftlq"
-path="res://.godot/imported/Common_Letterbox_01.png-aadf8950a916e525c5ddaad0f35fbf0f.ctex"
+path="res://.godot/imported/Common_Letterbox_01.png-30a22bfe86641c2894af17d61988f0d9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/00_Images/Common_Letterbox_01.png"
-dest_files=["res://.godot/imported/Common_Letterbox_01.png-aadf8950a916e525c5ddaad0f35fbf0f.ctex"]
+source_file="res://assets/BA/Images/UIs/00_Images/Common_Letterbox_01.png"
+dest_files=["res://.godot/imported/Common_Letterbox_01.png-30a22bfe86641c2894af17d61988f0d9.ctex"]
 
 [params]
 

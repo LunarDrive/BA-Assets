@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dj4fw0h3i4575"
-path="res://.godot/imported/SFX_Emoticon_Motion_Tear.ogg-69516a4d12d7605e5030b6d9cfe5dbc0.oggvorbisstr"
+path="res://.godot/imported/SFX_Emoticon_Motion_Tear.ogg-55a50a1608e0daa76a1ccf2085d4f573.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Tear.ogg"
-dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Tear.ogg-69516a4d12d7605e5030b6d9cfe5dbc0.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Tear.ogg"
+dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Tear.ogg-55a50a1608e0daa76a1ccf2085d4f573.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cyhlaaepdmeye"
-path="res://.godot/imported/SFX_Arcade_01.ogg-a8108fe80fa5924735fe1d1c061620ee.oggvorbisstr"
+path="res://.godot/imported/SFX_Arcade_01.ogg-7280e2ae1c021008d5123b0c28a04a4d.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Prop/SFX_Arcade_01.ogg"
-dest_files=["res://.godot/imported/SFX_Arcade_01.ogg-a8108fe80fa5924735fe1d1c061620ee.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Prop/SFX_Arcade_01.ogg"
+dest_files=["res://.godot/imported/SFX_Arcade_01.ogg-7280e2ae1c021008d5123b0c28a04a4d.oggvorbisstr"]
 
 [params]
 

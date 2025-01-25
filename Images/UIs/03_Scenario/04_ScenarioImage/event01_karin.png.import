@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://46vnk3jhvgj"
-path="res://.godot/imported/event01_karin.png-6f3c8d293b516009b297eca16f6e7c04.ctex"
+path="res://.godot/imported/event01_karin.png-dbe260db73f60abaf8b0bbab1e7b6ba3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_karin.png"
-dest_files=["res://.godot/imported/event01_karin.png-6f3c8d293b516009b297eca16f6e7c04.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/04_ScenarioImage/event01_karin.png"
+dest_files=["res://.godot/imported/event01_karin.png-dbe260db73f60abaf8b0bbab1e7b6ba3.ctex"]
 
 [params]
 

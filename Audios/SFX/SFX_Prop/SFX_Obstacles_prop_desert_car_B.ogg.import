@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dtfx2ml15i835"
-path="res://.godot/imported/SFX_Obstacles_prop_desert_car_B.ogg-6b7869acacc5726ce3d11ccdb3fe4894.oggvorbisstr"
+path="res://.godot/imported/SFX_Obstacles_prop_desert_car_B.ogg-90cf92e5aa02ff7dfb23e07a775526e8.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Prop/SFX_Obstacles_prop_desert_car_B.ogg"
-dest_files=["res://.godot/imported/SFX_Obstacles_prop_desert_car_B.ogg-6b7869acacc5726ce3d11ccdb3fe4894.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Prop/SFX_Obstacles_prop_desert_car_B.ogg"
+dest_files=["res://.godot/imported/SFX_Obstacles_prop_desert_car_B.ogg-90cf92e5aa02ff7dfb23e07a775526e8.oggvorbisstr"]
 
 [params]
 

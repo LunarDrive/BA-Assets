@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bjgoo8ob67oqg"
-path="res://.godot/imported/SE_Tampe_01.ogg-c8fee8a1dae9b2df97b49450aabd8264.oggvorbisstr"
+path="res://.godot/imported/SE_Tampe_01.ogg-b79592a8b12c4218aa6148db7ae69dbb.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Tampe_01.ogg"
-dest_files=["res://.godot/imported/SE_Tampe_01.ogg-c8fee8a1dae9b2df97b49450aabd8264.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_Tampe_01.ogg"
+dest_files=["res://.godot/imported/SE_Tampe_01.ogg-b79592a8b12c4218aa6148db7ae69dbb.oggvorbisstr"]
 
 [params]
 

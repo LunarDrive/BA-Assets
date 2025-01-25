@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmq7eei1q3pfm"
-path="res://.godot/imported/Student_Portrait_Hanae_Small.png-a21624fbcb6c0b4d7ee85508cb232e52.ctex"
+path="res://.godot/imported/Student_Portrait_Hanae_Small.png-f9679d7eab4cc748bcd1b41490e9c020.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Hanae_Small.png"
-dest_files=["res://.godot/imported/Student_Portrait_Hanae_Small.png-a21624fbcb6c0b4d7ee85508cb232e52.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/01_Character/Student_Portrait_Hanae_Small.png"
+dest_files=["res://.godot/imported/Student_Portrait_Hanae_Small.png-f9679d7eab4cc748bcd1b41490e9c020.ctex"]
 
 [params]
 

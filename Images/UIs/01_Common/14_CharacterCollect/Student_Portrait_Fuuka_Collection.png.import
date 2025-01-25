@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mewq4yd4s5xr"
-path="res://.godot/imported/Student_Portrait_Fuuka_Collection.png-506b13c2cf6349d28d747b29d4467f6e.ctex"
+path="res://.godot/imported/Student_Portrait_Fuuka_Collection.png-f3a4f79483ba3ed2ada98db5747850d1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Fuuka_Collection.png"
-dest_files=["res://.godot/imported/Student_Portrait_Fuuka_Collection.png-506b13c2cf6349d28d747b29d4467f6e.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Fuuka_Collection.png"
+dest_files=["res://.godot/imported/Student_Portrait_Fuuka_Collection.png-f3a4f79483ba3ed2ada98db5747850d1.ctex"]
 
 [params]
 

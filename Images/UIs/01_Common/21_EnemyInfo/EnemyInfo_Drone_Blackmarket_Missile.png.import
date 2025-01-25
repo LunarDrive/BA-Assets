@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://845lja2c6yop"
-path="res://.godot/imported/EnemyInfo_Drone_Blackmarket_Missile.png-4ded46a8e8a4c793f0fe0f89213a305c.ctex"
+path="res://.godot/imported/EnemyInfo_Drone_Blackmarket_Missile.png-fdc23ac466a22c11b7f62786fcec1ed5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Drone_Blackmarket_Missile.png"
-dest_files=["res://.godot/imported/EnemyInfo_Drone_Blackmarket_Missile.png-4ded46a8e8a4c793f0fe0f89213a305c.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Drone_Blackmarket_Missile.png"
+dest_files=["res://.godot/imported/EnemyInfo_Drone_Blackmarket_Missile.png-fdc23ac466a22c11b7f62786fcec1ed5.ctex"]
 
 [params]
 

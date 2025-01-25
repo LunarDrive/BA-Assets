@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://wmo6tsxfrxoy"
-path="res://.godot/imported/BGM_Mikumikuni.ogg-5f149f1bcfe88728ebe2a7c479b1b84e.oggvorbisstr"
+path="res://.godot/imported/BGM_Mikumikuni.ogg-8305170e2cfec897f5d4a490f5563b79.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/BGM/BGM_Mikumikuni.ogg"
-dest_files=["res://.godot/imported/BGM_Mikumikuni.ogg-5f149f1bcfe88728ebe2a7c479b1b84e.oggvorbisstr"]
+source_file="res://assets/BA/Audios/BGM/BGM_Mikumikuni.ogg"
+dest_files=["res://.godot/imported/BGM_Mikumikuni.ogg-8305170e2cfec897f5d4a490f5563b79.oggvorbisstr"]
 
 [params]
 

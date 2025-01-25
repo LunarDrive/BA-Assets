@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpplv71axoxj3"
-path="res://.godot/imported/Boss_Portrait_Hieronymus_Colour_LobbyBG.png-2d12fa0d68788f2157a419c529988ba3.ctex"
+path="res://.godot/imported/Boss_Portrait_Hieronymus_Colour_LobbyBG.png-33a38e9e0f7a4747798822d9d01d2947.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_LobbyBG.png"
-dest_files=["res://.godot/imported/Boss_Portrait_Hieronymus_Colour_LobbyBG.png-2d12fa0d68788f2157a419c529988ba3.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_LobbyBG.png"
+dest_files=["res://.godot/imported/Boss_Portrait_Hieronymus_Colour_LobbyBG.png-33a38e9e0f7a4747798822d9d01d2947.ctex"]
 
 [params]
 

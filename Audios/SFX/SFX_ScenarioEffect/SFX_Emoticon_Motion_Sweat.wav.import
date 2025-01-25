@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://hvwi1473micn"
-path="res://.godot/imported/SFX_Emoticon_Motion_Sweat.wav-fa631090bdd6eb5c14f3f00e7b56a623.sample"
+path="res://.godot/imported/SFX_Emoticon_Motion_Sweat.wav-4d84a3f6b27e8fef9879dd6fbceec450.sample"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Sweat.wav"
-dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Sweat.wav-fa631090bdd6eb5c14f3f00e7b56a623.sample"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Sweat.wav"
+dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Sweat.wav-4d84a3f6b27e8fef9879dd6fbceec450.sample"]
 
 [params]
 

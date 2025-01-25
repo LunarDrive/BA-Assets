@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6h4jpygmu8e6"
-path="res://.godot/imported/Portrait_Worldboss_FalseSanctum_BossPacel_04.png-e694666d5487bab362a5a994ab22dcad.ctex"
+path="res://.godot/imported/Portrait_Worldboss_FalseSanctum_BossPacel_04.png-3aa91fd4f39bb5b15b501c9788d66487.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/38_WorldRaid/Season_821/Portrait_Worldboss_FalseSanctum_BossPacel_04.png"
-dest_files=["res://.godot/imported/Portrait_Worldboss_FalseSanctum_BossPacel_04.png-e694666d5487bab362a5a994ab22dcad.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/38_WorldRaid/Season_821/Portrait_Worldboss_FalseSanctum_BossPacel_04.png"
+dest_files=["res://.godot/imported/Portrait_Worldboss_FalseSanctum_BossPacel_04.png-3aa91fd4f39bb5b15b501c9788d66487.ctex"]
 
 [params]
 

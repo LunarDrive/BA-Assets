@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b70es8je2eaee"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Tsurugi.png-ae3074cab541e2575c1e8c6bd7fb7450.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Tsurugi.png-04b16ec2d034db0c1b6ec278b2f9cfcc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Tsurugi.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Tsurugi.png-ae3074cab541e2575c1e8c6bd7fb7450.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Tsurugi.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Tsurugi.png-04b16ec2d034db0c1b6ec278b2f9cfcc.ctex"]
 
 [params]
 

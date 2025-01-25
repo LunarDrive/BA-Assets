@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtg2c51odo0ma"
-path="res://.godot/imported/Combat_Icon_Debuff_Cheerleading.png-bcc715037e2c282d3a63987a570f0820.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_Cheerleading.png-051431497f83585a5d887b5b4ae958e0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_Cheerleading.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_Cheerleading.png-bcc715037e2c282d3a63987a570f0820.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_Cheerleading.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_Cheerleading.png-051431497f83585a5d887b5b4ae958e0.ctex"]
 
 [params]
 

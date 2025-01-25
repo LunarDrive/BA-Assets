@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1opekvs0tfkf"
-path="res://.godot/imported/Combat_Icon_Debuff_OppressionResist.png-562c37b836e6cb336e037a3614b0a370.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_OppressionResist.png-ec5b90b7b50fba3f8a1f790200e61465.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_OppressionResist.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_OppressionResist.png-562c37b836e6cb336e037a3614b0a370.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_OppressionResist.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_OppressionResist.png-ec5b90b7b50fba3f8a1f790200e61465.ctex"]
 
 [params]
 

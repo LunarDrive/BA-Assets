@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjpprm6ny2de5"
-path="res://.godot/imported/Event_Vallentine_Chocolate_Shizuko.png-b0eedaa2bcd0ece6a70696f73dce78ea.ctex"
+path="res://.godot/imported/Event_Vallentine_Chocolate_Shizuko.png-8ca2e04a9456daf034703816f8ad4d03.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Event_Vallentine_Chocolate_Shizuko.png"
-dest_files=["res://.godot/imported/Event_Vallentine_Chocolate_Shizuko.png-b0eedaa2bcd0ece6a70696f73dce78ea.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/03_NonEquipment/Event_Vallentine_Chocolate_Shizuko.png"
+dest_files=["res://.godot/imported/Event_Vallentine_Chocolate_Shizuko.png-8ca2e04a9456daf034703816f8ad4d03.ctex"]
 
 [params]
 

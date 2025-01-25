@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://whehhncklle4"
-path="res://.godot/imported/My_Trophy_Goz_Indoor_Bronze.png-60b44188dc87672770a7d9e12106f9d2.ctex"
+path="res://.godot/imported/My_Trophy_Goz_Indoor_Bronze.png-bd7a5d6304bb9eb03feab8ab34c28f19.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Goz_Indoor_Bronze.png"
-dest_files=["res://.godot/imported/My_Trophy_Goz_Indoor_Bronze.png-60b44188dc87672770a7d9e12106f9d2.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/16_CafeItem/My_Trophy_Goz_Indoor_Bronze.png"
+dest_files=["res://.godot/imported/My_Trophy_Goz_Indoor_Bronze.png-bd7a5d6304bb9eb03feab8ab34c28f19.ctex"]
 
 [params]
 

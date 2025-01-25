@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cl0s5bineb68l"
-path="res://.godot/imported/SFX_Public_Ray_Glow.ogg-8711ecd4d0402d311d0b5e14e966ba6b.oggvorbisstr"
+path="res://.godot/imported/SFX_Public_Ray_Glow.ogg-c41086ae53a6da0c88eec73f67c6bf0a.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Public_Ray_Glow.ogg"
-dest_files=["res://.godot/imported/SFX_Public_Ray_Glow.ogg-8711ecd4d0402d311d0b5e14e966ba6b.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Public_Ray_Glow.ogg"
+dest_files=["res://.godot/imported/SFX_Public_Ray_Glow.ogg-c41086ae53a6da0c88eec73f67c6bf0a.oggvorbisstr"]
 
 [params]
 

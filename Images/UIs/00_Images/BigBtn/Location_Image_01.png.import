@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbrkabes1kgaa"
-path="res://.godot/imported/Location_Image_01.png-8f0d6c1a7316accbc369e07144ee55f1.ctex"
+path="res://.godot/imported/Location_Image_01.png-c687008a6aaa259cba6c8b31c9987171.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/00_Images/BigBtn/Location_Image_01.png"
-dest_files=["res://.godot/imported/Location_Image_01.png-8f0d6c1a7316accbc369e07144ee55f1.ctex"]
+source_file="res://assets/BA/Images/UIs/00_Images/BigBtn/Location_Image_01.png"
+dest_files=["res://.godot/imported/Location_Image_01.png-c687008a6aaa259cba6c8b31c9987171.ctex"]
 
 [params]
 

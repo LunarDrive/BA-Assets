@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bauevwd07bl2j"
-path="res://.godot/imported/SE_WaterRun_01.ogg-0f465794892ab63ef2cab57c913ed24b.oggvorbisstr"
+path="res://.godot/imported/SE_WaterRun_01.ogg-f907f2078c460d64ab937a4197970a5f.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_WaterRun_01.ogg"
-dest_files=["res://.godot/imported/SE_WaterRun_01.ogg-0f465794892ab63ef2cab57c913ed24b.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_WaterRun_01.ogg"
+dest_files=["res://.godot/imported/SE_WaterRun_01.ogg-f907f2078c460d64ab937a4197970a5f.oggvorbisstr"]
 
 [params]
 

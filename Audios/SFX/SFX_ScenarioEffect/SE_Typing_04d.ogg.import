@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://citwr6pi6vye3"
-path="res://.godot/imported/SE_Typing_04d.ogg-ab47b43eed443edb699e670a37e2394f.oggvorbisstr"
+path="res://.godot/imported/SE_Typing_04d.ogg-9fd88ab70e0b59329442a683fc9926e2.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Typing_04d.ogg"
-dest_files=["res://.godot/imported/SE_Typing_04d.ogg-ab47b43eed443edb699e670a37e2394f.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_Typing_04d.ogg"
+dest_files=["res://.godot/imported/SE_Typing_04d.ogg-9fd88ab70e0b59329442a683fc9926e2.oggvorbisstr"]
 
 [params]
 

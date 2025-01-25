@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ton2wx57i7m6"
-path="res://.godot/imported/Ingame_Image_Start_Bg.png-83997c4264acbd349a482b40af388c70.ctex"
+path="res://.godot/imported/Ingame_Image_Start_Bg.png-7c8cfd902b96ffb15472bfd1d2cb855d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/00_Images/Ingame_Image_Start_Bg.png"
-dest_files=["res://.godot/imported/Ingame_Image_Start_Bg.png-83997c4264acbd349a482b40af388c70.ctex"]
+source_file="res://assets/BA/Images/UIs/00_Images/Ingame_Image_Start_Bg.png"
+dest_files=["res://.godot/imported/Ingame_Image_Start_Bg.png-7c8cfd902b96ffb15472bfd1d2cb855d.ctex"]
 
 [params]
 

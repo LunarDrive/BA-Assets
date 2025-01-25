@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://l5xg0inetpb6"
-path="res://.godot/imported/StrategyObjectBuff_Attack.png-43f2689965cc98b75d6baa208e81071f.ctex"
+path="res://.godot/imported/StrategyObjectBuff_Attack.png-8375cbea559f6ee8a29d92ff863fc3a1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/25_Campaign/StrategyObjectBuff_Attack.png"
-dest_files=["res://.godot/imported/StrategyObjectBuff_Attack.png-43f2689965cc98b75d6baa208e81071f.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/25_Campaign/StrategyObjectBuff_Attack.png"
+dest_files=["res://.godot/imported/StrategyObjectBuff_Attack.png-8375cbea559f6ee8a29d92ff863fc3a1.ctex"]
 
 [params]
 

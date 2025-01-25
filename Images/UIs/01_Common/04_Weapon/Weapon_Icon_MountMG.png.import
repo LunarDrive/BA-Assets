@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwvjgm4ssqkvo"
-path="res://.godot/imported/Weapon_Icon_MountMG.png-df6160043dfc036dce135902d3bdf408.ctex"
+path="res://.godot/imported/Weapon_Icon_MountMG.png-421954e78fad73624badb83a41b6ef1e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/04_Weapon/Weapon_Icon_MountMG.png"
-dest_files=["res://.godot/imported/Weapon_Icon_MountMG.png-df6160043dfc036dce135902d3bdf408.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/04_Weapon/Weapon_Icon_MountMG.png"
+dest_files=["res://.godot/imported/Weapon_Icon_MountMG.png-421954e78fad73624badb83a41b6ef1e.ctex"]
 
 [params]
 

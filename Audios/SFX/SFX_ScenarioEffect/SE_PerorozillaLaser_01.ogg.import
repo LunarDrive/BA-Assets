@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://h2rx8cnm80qy"
-path="res://.godot/imported/SE_PerorozillaLaser_01.ogg-f0b4a0bbca6225c1587e2e35401a47ad.oggvorbisstr"
+path="res://.godot/imported/SE_PerorozillaLaser_01.ogg-91ae176574ee0ee0b2c4e44e3c40f803.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_PerorozillaLaser_01.ogg"
-dest_files=["res://.godot/imported/SE_PerorozillaLaser_01.ogg-f0b4a0bbca6225c1587e2e35401a47ad.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_PerorozillaLaser_01.ogg"
+dest_files=["res://.godot/imported/SE_PerorozillaLaser_01.ogg-91ae176574ee0ee0b2c4e44e3c40f803.oggvorbisstr"]
 
 [params]
 

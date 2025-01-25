@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b14uhl5lgcecw"
-path="res://.godot/imported/bg_gamedevroom.jpg-9ecd5a53ccb0bb1675653aa49893372e.ctex"
+path="res://.godot/imported/bg_gamedevroom.jpg-93abc8d12982b2be0a96c63b694f295e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_gamedevroom.jpg"
-dest_files=["res://.godot/imported/bg_gamedevroom.jpg-9ecd5a53ccb0bb1675653aa49893372e.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_gamedevroom.jpg"
+dest_files=["res://.godot/imported/bg_gamedevroom.jpg-93abc8d12982b2be0a96c63b694f295e.ctex"]
 
 [params]
 

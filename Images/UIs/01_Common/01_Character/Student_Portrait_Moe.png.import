@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfu7sngiiafgm"
-path="res://.godot/imported/Student_Portrait_Moe.png-74e0c0baf16b651f8133dd4fefd03015.ctex"
+path="res://.godot/imported/Student_Portrait_Moe.png-90cd364d593211a0d1bc7e61c3470af7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Moe.png"
-dest_files=["res://.godot/imported/Student_Portrait_Moe.png-74e0c0baf16b651f8133dd4fefd03015.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/01_Character/Student_Portrait_Moe.png"
+dest_files=["res://.godot/imported/Student_Portrait_Moe.png-90cd364d593211a0d1bc7e61c3470af7.ctex"]
 
 [params]
 

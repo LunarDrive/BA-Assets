@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gb7kvj767a08"
-path="res://.godot/imported/BG_GuideMission_S10.png-345b12e9d5b2f5410e5f3c6d47c90047.ctex"
+path="res://.godot/imported/BG_GuideMission_S10.png-a12fe2f806f1dd383625d0e4bd9dd043.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/29_GuideMission/BG_GuideMission_S10.png"
-dest_files=["res://.godot/imported/BG_GuideMission_S10.png-345b12e9d5b2f5410e5f3c6d47c90047.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/29_GuideMission/BG_GuideMission_S10.png"
+dest_files=["res://.godot/imported/BG_GuideMission_S10.png-a12fe2f806f1dd383625d0e4bd9dd043.ctex"]
 
 [params]
 

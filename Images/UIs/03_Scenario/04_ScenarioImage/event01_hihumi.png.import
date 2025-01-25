@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://v3scil3i8v24"
-path="res://.godot/imported/event01_hihumi.png-b34b2c937687bb6088b9efb844e20d8e.ctex"
+path="res://.godot/imported/event01_hihumi.png-b22a00a3ae7f0cf54bbd46c2147ba6cd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_hihumi.png"
-dest_files=["res://.godot/imported/event01_hihumi.png-b34b2c937687bb6088b9efb844e20d8e.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/04_ScenarioImage/event01_hihumi.png"
+dest_files=["res://.godot/imported/event01_hihumi.png-b22a00a3ae7f0cf54bbd46c2147ba6cd.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7nkt1s30agnv"
-path="res://.godot/imported/bg_studentroom_night.jpg-f547358bc4e3ecd4be1a3133ca84c2cb.ctex"
+path="res://.godot/imported/bg_studentroom_night.jpg-19eac69306f7aa1f1c889e22333f9ef0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_studentroom_night.jpg"
-dest_files=["res://.godot/imported/bg_studentroom_night.jpg-f547358bc4e3ecd4be1a3133ca84c2cb.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_studentroom_night.jpg"
+dest_files=["res://.godot/imported/bg_studentroom_night.jpg-19eac69306f7aa1f1c889e22333f9ef0.ctex"]
 
 [params]
 

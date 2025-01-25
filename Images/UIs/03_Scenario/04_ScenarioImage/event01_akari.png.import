@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bixg1ypmabh3w"
-path="res://.godot/imported/event01_akari.png-0d50780226c78a132f10dcd35234e06f.ctex"
+path="res://.godot/imported/event01_akari.png-9a59182f3355c861ceb7ad6fa9ad3a44.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_akari.png"
-dest_files=["res://.godot/imported/event01_akari.png-0d50780226c78a132f10dcd35234e06f.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/04_ScenarioImage/event01_akari.png"
+dest_files=["res://.godot/imported/event01_akari.png-9a59182f3355c861ceb7ad6fa9ad3a44.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bw6slrguh684m"
-path="res://.godot/imported/Lobbyillust_Icon_Hinata_01.png-cd59ee156ec6d4d6819cd4869326b575.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Hinata_01.png-f15c0f17e5fdff258df115d3d8b75fa1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Hinata_01.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Hinata_01.png-cd59ee156ec6d4d6819cd4869326b575.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Hinata_01.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Hinata_01.png-f15c0f17e5fdff258df115d3d8b75fa1.ctex"]
 
 [params]
 

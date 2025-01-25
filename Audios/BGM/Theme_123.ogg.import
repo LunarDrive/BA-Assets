@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d3ua3ks8uhd66"
-path="res://.godot/imported/Theme_123.ogg-db07c264cd0e55f28ebb1ee3d223d3cd.oggvorbisstr"
+path="res://.godot/imported/Theme_123.ogg-d79c41a1a038e2ce3191b1973f67b7c0.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/BGM/Theme_123.ogg"
-dest_files=["res://.godot/imported/Theme_123.ogg-db07c264cd0e55f28ebb1ee3d223d3cd.oggvorbisstr"]
+source_file="res://assets/BA/Audios/BGM/Theme_123.ogg"
+dest_files=["res://.godot/imported/Theme_123.ogg-d79c41a1a038e2ce3191b1973f67b7c0.oggvorbisstr"]
 
 [params]
 

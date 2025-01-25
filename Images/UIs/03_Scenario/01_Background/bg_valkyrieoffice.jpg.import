@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://21sc6ev483w3"
-path="res://.godot/imported/bg_valkyrieoffice.jpg-54e0887837a71ef138504d935144372c.ctex"
+path="res://.godot/imported/bg_valkyrieoffice.jpg-e7a7c2840991104415bb8d5e2cea3ff8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_valkyrieoffice.jpg"
-dest_files=["res://.godot/imported/bg_valkyrieoffice.jpg-54e0887837a71ef138504d935144372c.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_valkyrieoffice.jpg"
+dest_files=["res://.godot/imported/bg_valkyrieoffice.jpg-e7a7c2840991104415bb8d5e2cea3ff8.ctex"]
 
 [params]
 

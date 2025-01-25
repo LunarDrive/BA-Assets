@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxtagsfx5xa5y"
-path="res://.godot/imported/Event_Main_FortuneGacha_Bg_820.png-801e8bf47457c6ff823960a71a5da937.ctex"
+path="res://.godot/imported/Event_Main_FortuneGacha_Bg_820.png-532ae810978c62fd3fdaacfd237372b3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/27_EventContent/Main_BgImage/Event_Main_FortuneGacha_Bg_820.png"
-dest_files=["res://.godot/imported/Event_Main_FortuneGacha_Bg_820.png-801e8bf47457c6ff823960a71a5da937.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/27_EventContent/Main_BgImage/Event_Main_FortuneGacha_Bg_820.png"
+dest_files=["res://.godot/imported/Event_Main_FortuneGacha_Bg_820.png-532ae810978c62fd3fdaacfd237372b3.ctex"]
 
 [params]
 

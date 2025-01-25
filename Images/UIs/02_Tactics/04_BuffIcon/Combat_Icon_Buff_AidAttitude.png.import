@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jghpx75n1e5r"
-path="res://.godot/imported/Combat_Icon_Buff_AidAttitude.png-fe4b959d184ae79ca7aa38e95d432a53.ctex"
+path="res://.godot/imported/Combat_Icon_Buff_AidAttitude.png-a74175ad9049c6d4d609d5f9e944a79c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_AidAttitude.png"
-dest_files=["res://.godot/imported/Combat_Icon_Buff_AidAttitude.png-fe4b959d184ae79ca7aa38e95d432a53.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_AidAttitude.png"
+dest_files=["res://.godot/imported/Combat_Icon_Buff_AidAttitude.png-a74175ad9049c6d4d609d5f9e944a79c.ctex"]
 
 [params]
 

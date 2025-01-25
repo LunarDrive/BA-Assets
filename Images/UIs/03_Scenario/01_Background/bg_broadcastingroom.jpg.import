@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dj8i1wswrbmb7"
-path="res://.godot/imported/bg_broadcastingroom.jpg-5c328f2b7cf8fc2f8e830ff4ad2ba4de.ctex"
+path="res://.godot/imported/bg_broadcastingroom.jpg-9e48310ec4159a5251f93ad2f12e611c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_broadcastingroom.jpg"
-dest_files=["res://.godot/imported/bg_broadcastingroom.jpg-5c328f2b7cf8fc2f8e830ff4ad2ba4de.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_broadcastingroom.jpg"
+dest_files=["res://.godot/imported/bg_broadcastingroom.jpg-9e48310ec4159a5251f93ad2f12e611c.ctex"]
 
 [params]
 

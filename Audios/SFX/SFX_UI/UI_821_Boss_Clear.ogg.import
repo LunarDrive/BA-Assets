@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dcrapokhot1un"
-path="res://.godot/imported/UI_821_Boss_Clear.ogg-3f703dae314a79762e127e4d77e95099.oggvorbisstr"
+path="res://.godot/imported/UI_821_Boss_Clear.ogg-691d07d20fcf0ae4925d56fa7272e93d.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_UI/UI_821_Boss_Clear.ogg"
-dest_files=["res://.godot/imported/UI_821_Boss_Clear.ogg-3f703dae314a79762e127e4d77e95099.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_UI/UI_821_Boss_Clear.ogg"
+dest_files=["res://.godot/imported/UI_821_Boss_Clear.ogg-691d07d20fcf0ae4925d56fa7272e93d.oggvorbisstr"]
 
 [params]
 

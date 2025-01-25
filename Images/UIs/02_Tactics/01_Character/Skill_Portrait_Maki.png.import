@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://w5vbvtimuqft"
-path="res://.godot/imported/Skill_Portrait_Maki.png-b5341c3c0c41bd6104367a068a19827a.ctex"
+path="res://.godot/imported/Skill_Portrait_Maki.png-ae6f08910c3e33f2b390a865f9a6ac68.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Maki.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Maki.png-b5341c3c0c41bd6104367a068a19827a.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Maki.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Maki.png-ae6f08910c3e33f2b390a865f9a6ac68.ctex"]
 
 [params]
 

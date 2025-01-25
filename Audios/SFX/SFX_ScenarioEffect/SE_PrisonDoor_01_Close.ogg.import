@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c4j2w3hrt5yee"
-path="res://.godot/imported/SE_PrisonDoor_01_Close.ogg-175ffe0a349a316e2a16bae5aa87b18d.oggvorbisstr"
+path="res://.godot/imported/SE_PrisonDoor_01_Close.ogg-2d0b33f5c9bc26dc9947201e9e1d95b9.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_PrisonDoor_01_Close.ogg"
-dest_files=["res://.godot/imported/SE_PrisonDoor_01_Close.ogg-175ffe0a349a316e2a16bae5aa87b18d.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_PrisonDoor_01_Close.ogg"
+dest_files=["res://.godot/imported/SE_PrisonDoor_01_Close.ogg-2d0b33f5c9bc26dc9947201e9e1d95b9.oggvorbisstr"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dieos11kiqpdl"
-path="res://.godot/imported/Lobby_Guide_Banner_S10_kr.png-1b2cc634b897836535d763463013a535.ctex"
+path="res://.godot/imported/Lobby_Guide_Banner_S10_kr.png-bd6cc76757f6a896e5eeb4595bce33d4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/00_Images/Banner/Lobby_Guide_Banner_S10_kr.png"
-dest_files=["res://.godot/imported/Lobby_Guide_Banner_S10_kr.png-1b2cc634b897836535d763463013a535.ctex"]
+source_file="res://assets/BA/Images/UIs/00_Images/Banner/Lobby_Guide_Banner_S10_kr.png"
+dest_files=["res://.godot/imported/Lobby_Guide_Banner_S10_kr.png-bd6cc76757f6a896e5eeb4595bce33d4.ctex"]
 
 [params]
 

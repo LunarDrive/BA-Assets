@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://5l3ebhcosaqx"
-path="res://.godot/imported/SFX_HeavyTank01_Explosion_02.ogg-83b36daf7f39310829d9c118d1050e1f.oggvorbisstr"
+path="res://.godot/imported/SFX_HeavyTank01_Explosion_02.ogg-fbf9ef375d4808c59a1c612abf17bc4a.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Prop/SFX_HeavyTank01_Explosion_02.ogg"
-dest_files=["res://.godot/imported/SFX_HeavyTank01_Explosion_02.ogg-83b36daf7f39310829d9c118d1050e1f.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Prop/SFX_HeavyTank01_Explosion_02.ogg"
+dest_files=["res://.godot/imported/SFX_HeavyTank01_Explosion_02.ogg-fbf9ef375d4808c59a1c612abf17bc4a.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bhb0p6md0eu57"
-path="res://.godot/imported/SFX_Emoticon_Motion_Sad.ogg-73c200f09ac1ec02a7f8cb896b0963e1.oggvorbisstr"
+path="res://.godot/imported/SFX_Emoticon_Motion_Sad.ogg-bf0b2e24d0d62a67948983d0bed20e37.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Sad.ogg"
-dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Sad.ogg-73c200f09ac1ec02a7f8cb896b0963e1.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Sad.ogg"
+dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Sad.ogg-bf0b2e24d0d62a67948983d0bed20e37.oggvorbisstr"]
 
 [params]
 

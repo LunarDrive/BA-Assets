@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cb3g7mh6ww2ar"
-path="res://.godot/imported/SFX_PowerUP.ogg-215830d9f39c2c7248ea53f30cfc7b0d.oggvorbisstr"
+path="res://.godot/imported/SFX_PowerUP.ogg-c474a158727e65bcbfa89968660714cb.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_PowerUP.ogg"
-dest_files=["res://.godot/imported/SFX_PowerUP.ogg-215830d9f39c2c7248ea53f30cfc7b0d.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_PowerUP.ogg"
+dest_files=["res://.godot/imported/SFX_PowerUP.ogg-c474a158727e65bcbfa89968660714cb.oggvorbisstr"]
 
 [params]
 

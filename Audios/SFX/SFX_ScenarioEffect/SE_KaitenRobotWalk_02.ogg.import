@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://byhso615qlg8w"
-path="res://.godot/imported/SE_KaitenRobotWalk_02.ogg-2ea75f6577b3382982f414574737e325.oggvorbisstr"
+path="res://.godot/imported/SE_KaitenRobotWalk_02.ogg-6413c82835f2df342d32d714b98a0237.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_KaitenRobotWalk_02.ogg"
-dest_files=["res://.godot/imported/SE_KaitenRobotWalk_02.ogg-2ea75f6577b3382982f414574737e325.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_KaitenRobotWalk_02.ogg"
+dest_files=["res://.godot/imported/SE_KaitenRobotWalk_02.ogg-6413c82835f2df342d32d714b98a0237.oggvorbisstr"]
 
 [params]
 

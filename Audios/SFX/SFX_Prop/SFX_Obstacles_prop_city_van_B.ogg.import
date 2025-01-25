@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://1wgq6ilrkl32"
-path="res://.godot/imported/SFX_Obstacles_prop_city_van_B.ogg-9d59b36e27e0a954f77826eb96aba979.oggvorbisstr"
+path="res://.godot/imported/SFX_Obstacles_prop_city_van_B.ogg-7ec72c1e5ad92e07a8d1a674b7d86e4d.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Prop/SFX_Obstacles_prop_city_van_B.ogg"
-dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_van_B.ogg-9d59b36e27e0a954f77826eb96aba979.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Prop/SFX_Obstacles_prop_city_van_B.ogg"
+dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_van_B.ogg-7ec72c1e5ad92e07a8d1a674b7d86e4d.oggvorbisstr"]
 
 [params]
 

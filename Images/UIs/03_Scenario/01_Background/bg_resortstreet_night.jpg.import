@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bx5cj0nnqlucb"
-path="res://.godot/imported/bg_resortstreet_night.jpg-951a27e79928047274f3e5eafc854c9f.ctex"
+path="res://.godot/imported/bg_resortstreet_night.jpg-b61e819f1e75b9f6bcb4f493b64c7e96.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_resortstreet_night.jpg"
-dest_files=["res://.godot/imported/bg_resortstreet_night.jpg-951a27e79928047274f3e5eafc854c9f.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_resortstreet_night.jpg"
+dest_files=["res://.godot/imported/bg_resortstreet_night.jpg-b61e819f1e75b9f6bcb4f493b64c7e96.ctex"]
 
 [params]
 

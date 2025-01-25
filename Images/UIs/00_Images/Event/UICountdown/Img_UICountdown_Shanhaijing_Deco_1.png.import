@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckjioonduasse"
-path="res://.godot/imported/Img_UICountdown_Shanhaijing_Deco_1.png-1d4cc35b9942374e5e6c2b4919750bdd.ctex"
+path="res://.godot/imported/Img_UICountdown_Shanhaijing_Deco_1.png-21f0296cd5bd0936f5a9158d6922157d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/00_Images/Event/UICountdown/Img_UICountdown_Shanhaijing_Deco_1.png"
-dest_files=["res://.godot/imported/Img_UICountdown_Shanhaijing_Deco_1.png-1d4cc35b9942374e5e6c2b4919750bdd.ctex"]
+source_file="res://assets/BA/Images/UIs/00_Images/Event/UICountdown/Img_UICountdown_Shanhaijing_Deco_1.png"
+dest_files=["res://.godot/imported/Img_UICountdown_Shanhaijing_Deco_1.png-21f0296cd5bd0936f5a9158d6922157d.ctex"]
 
 [params]
 

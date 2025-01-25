@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bj3bjhb01hjct"
-path="res://.godot/imported/SE_TearPaper_01.ogg-beb463b85de147a394e7823a979ba19b.oggvorbisstr"
+path="res://.godot/imported/SE_TearPaper_01.ogg-9d37941124b115e5d7ce9f3a2e9ca81d.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_TearPaper_01.ogg"
-dest_files=["res://.godot/imported/SE_TearPaper_01.ogg-beb463b85de147a394e7823a979ba19b.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_TearPaper_01.ogg"
+dest_files=["res://.godot/imported/SE_TearPaper_01.ogg-9d37941124b115e5d7ce9f3a2e9ca81d.oggvorbisstr"]
 
 [params]
 

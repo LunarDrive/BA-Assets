@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://yiiyvfwji3su"
-path="res://.godot/imported/SFX_Emoticon_Motion_Think.ogg-f15eac4b4d24789a24c360239f1c7edd.oggvorbisstr"
+path="res://.godot/imported/SFX_Emoticon_Motion_Think.ogg-fe4cfe770ec6853b21084bc8bd0ea7ae.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Think.ogg"
-dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Think.ogg-f15eac4b4d24789a24c360239f1c7edd.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Think.ogg"
+dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Think.ogg-fe4cfe770ec6853b21084bc8bd0ea7ae.oggvorbisstr"]
 
 [params]
 

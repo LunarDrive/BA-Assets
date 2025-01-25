@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvu2dh4spxgfr"
-path="res://.godot/imported/event01_wakamo.png-c608e12ad223ac5df65c3e868d16a7e3.ctex"
+path="res://.godot/imported/event01_wakamo.png-d394754e0511ff4863542fdde91f0765.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_wakamo.png"
-dest_files=["res://.godot/imported/event01_wakamo.png-c608e12ad223ac5df65c3e868d16a7e3.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/04_ScenarioImage/event01_wakamo.png"
+dest_files=["res://.godot/imported/event01_wakamo.png-d394754e0511ff4863542fdde91f0765.ctex"]
 
 [params]
 

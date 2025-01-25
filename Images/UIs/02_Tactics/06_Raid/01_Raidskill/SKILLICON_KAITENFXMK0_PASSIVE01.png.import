@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqarhlccsw815"
-path="res://.godot/imported/SKILLICON_KAITENFXMK0_PASSIVE01.png-a158b5fcc340cdd26d372ef00413ae6f.ctex"
+path="res://.godot/imported/SKILLICON_KAITENFXMK0_PASSIVE01.png-6c160cb8ecdb9be0f4489a8e9610f75c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_KAITENFXMK0_PASSIVE01.png"
-dest_files=["res://.godot/imported/SKILLICON_KAITENFXMK0_PASSIVE01.png-a158b5fcc340cdd26d372ef00413ae6f.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_KAITENFXMK0_PASSIVE01.png"
+dest_files=["res://.godot/imported/SKILLICON_KAITENFXMK0_PASSIVE01.png-6c160cb8ecdb9be0f4489a8e9610f75c.ctex"]
 
 [params]
 

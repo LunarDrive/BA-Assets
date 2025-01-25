@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ddkc0lbcverm"
-path="res://.godot/imported/SE_BusDoor_01.ogg-c8486f258e4a71fb0a9c68a7b300a229.oggvorbisstr"
+path="res://.godot/imported/SE_BusDoor_01.ogg-8801d70e3923f3a26fe2cf44ae7ea161.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_BusDoor_01.ogg"
-dest_files=["res://.godot/imported/SE_BusDoor_01.ogg-c8486f258e4a71fb0a9c68a7b300a229.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_BusDoor_01.ogg"
+dest_files=["res://.godot/imported/SE_BusDoor_01.ogg-8801d70e3923f3a26fe2cf44ae7ea161.oggvorbisstr"]
 
 [params]
 

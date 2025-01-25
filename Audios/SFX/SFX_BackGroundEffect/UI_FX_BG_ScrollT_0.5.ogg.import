@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cndbpaqje7wul"
-path="res://.godot/imported/UI_FX_BG_ScrollT_0.5.ogg-4e0088e799d8598b8ecb73f6e3f53862.oggvorbisstr"
+path="res://.godot/imported/UI_FX_BG_ScrollT_0.5.ogg-600ef11d7dec14da3f101c104d16eb9a.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_ScrollT_0.5.ogg"
-dest_files=["res://.godot/imported/UI_FX_BG_ScrollT_0.5.ogg-4e0088e799d8598b8ecb73f6e3f53862.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_ScrollT_0.5.ogg"
+dest_files=["res://.godot/imported/UI_FX_BG_ScrollT_0.5.ogg-600ef11d7dec14da3f101c104d16eb9a.oggvorbisstr"]
 
 [params]
 

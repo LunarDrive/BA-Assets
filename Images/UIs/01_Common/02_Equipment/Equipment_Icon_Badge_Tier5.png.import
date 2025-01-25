@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cf0elino3buwi"
-path="res://.godot/imported/Equipment_Icon_Badge_Tier5.png-27444a8841e9695868b408a7688bcd54.ctex"
+path="res://.godot/imported/Equipment_Icon_Badge_Tier5.png-a1276f8c702d32ae3c96c738071d0871.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/02_Equipment/Equipment_Icon_Badge_Tier5.png"
-dest_files=["res://.godot/imported/Equipment_Icon_Badge_Tier5.png-27444a8841e9695868b408a7688bcd54.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/02_Equipment/Equipment_Icon_Badge_Tier5.png"
+dest_files=["res://.godot/imported/Equipment_Icon_Badge_Tier5.png-a1276f8c702d32ae3c96c738071d0871.ctex"]
 
 [params]
 

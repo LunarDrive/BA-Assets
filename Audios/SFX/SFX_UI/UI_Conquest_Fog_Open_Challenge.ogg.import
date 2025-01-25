@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://yr107rh7x70v"
-path="res://.godot/imported/UI_Conquest_Fog_Open_Challenge.ogg-50f44880711ff700a9f8f571628e6ce5.oggvorbisstr"
+path="res://.godot/imported/UI_Conquest_Fog_Open_Challenge.ogg-ae95aebd2744656f2de4b13e8cc9a78c.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_UI/UI_Conquest_Fog_Open_Challenge.ogg"
-dest_files=["res://.godot/imported/UI_Conquest_Fog_Open_Challenge.ogg-50f44880711ff700a9f8f571628e6ce5.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_UI/UI_Conquest_Fog_Open_Challenge.ogg"
+dest_files=["res://.godot/imported/UI_Conquest_Fog_Open_Challenge.ogg-ae95aebd2744656f2de4b13e8cc9a78c.oggvorbisstr"]
 
 [params]
 

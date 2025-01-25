@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fhj6rov6thbh"
-path="res://.godot/imported/Special_Operation_Square_Pattern.png-ae44ee96edc3845a27b2d66d2123a779.ctex"
+path="res://.godot/imported/Special_Operation_Square_Pattern.png-bdadb8f73fcc3006978df1767c6b8504.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/36_SpecialOperation/Special_Operation_Square_Pattern.png"
-dest_files=["res://.godot/imported/Special_Operation_Square_Pattern.png-ae44ee96edc3845a27b2d66d2123a779.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/36_SpecialOperation/Special_Operation_Square_Pattern.png"
+dest_files=["res://.godot/imported/Special_Operation_Square_Pattern.png-bdadb8f73fcc3006978df1767c6b8504.ctex"]
 
 [params]
 

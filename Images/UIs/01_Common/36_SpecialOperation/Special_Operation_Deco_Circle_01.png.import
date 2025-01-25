@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cduj47o3hh0k5"
-path="res://.godot/imported/Special_Operation_Deco_Circle_01.png-0c53feadd7bf6d95aace79499bf90dad.ctex"
+path="res://.godot/imported/Special_Operation_Deco_Circle_01.png-806269e87c7875f4c36c85b59ac4e6fb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/36_SpecialOperation/Special_Operation_Deco_Circle_01.png"
-dest_files=["res://.godot/imported/Special_Operation_Deco_Circle_01.png-0c53feadd7bf6d95aace79499bf90dad.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/36_SpecialOperation/Special_Operation_Deco_Circle_01.png"
+dest_files=["res://.godot/imported/Special_Operation_Deco_Circle_01.png-806269e87c7875f4c36c85b59ac4e6fb.ctex"]
 
 [params]
 

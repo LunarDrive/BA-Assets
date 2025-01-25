@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpe68c46u3q83"
-path="res://.godot/imported/EnemyInfo_HeavyTank_Kaiserpmc_Railgun.png-6e5e26d328e0d325306140eed0ee636f.ctex"
+path="res://.godot/imported/EnemyInfo_HeavyTank_Kaiserpmc_Railgun.png-c39d2736b15fb4c20d484c29cafbd493.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_HeavyTank_Kaiserpmc_Railgun.png"
-dest_files=["res://.godot/imported/EnemyInfo_HeavyTank_Kaiserpmc_Railgun.png-6e5e26d328e0d325306140eed0ee636f.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_HeavyTank_Kaiserpmc_Railgun.png"
+dest_files=["res://.godot/imported/EnemyInfo_HeavyTank_Kaiserpmc_Railgun.png-c39d2736b15fb4c20d484c29cafbd493.ctex"]
 
 [params]
 

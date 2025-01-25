@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdlawwiwrlcvf"
-path="res://.godot/imported/Event_Vallentine_Chocolate_Tsubaki.png-ef3f5f6da1d40f76cf9a4c4000473ae5.ctex"
+path="res://.godot/imported/Event_Vallentine_Chocolate_Tsubaki.png-2c9534f7f491111ed646b12fe53dee92.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Event_Vallentine_Chocolate_Tsubaki.png"
-dest_files=["res://.godot/imported/Event_Vallentine_Chocolate_Tsubaki.png-ef3f5f6da1d40f76cf9a4c4000473ae5.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/03_NonEquipment/Event_Vallentine_Chocolate_Tsubaki.png"
+dest_files=["res://.godot/imported/Event_Vallentine_Chocolate_Tsubaki.png-2c9534f7f491111ed646b12fe53dee92.ctex"]
 
 [params]
 

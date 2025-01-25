@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0vgwa5evgs33"
-path="res://.godot/imported/Item_Icon_Material_ExSkill_Abydos_3.png-c03c28575fc594852d5c7ad15b75d79f.ctex"
+path="res://.godot/imported/Item_Icon_Material_ExSkill_Abydos_3.png-d65c278e7a5a05ff196d5bff5c76ab56.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Abydos_3.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_ExSkill_Abydos_3.png-c03c28575fc594852d5c7ad15b75d79f.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Abydos_3.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_ExSkill_Abydos_3.png-d65c278e7a5a05ff196d5bff5c76ab56.ctex"]
 
 [params]
 

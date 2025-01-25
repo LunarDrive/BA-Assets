@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dr5ym3cisuymx"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Asuna.png-8df8a9aeb07155c36fe10a22afac30eb.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Asuna.png-5ad539acd12085bdcb0c205b07b09275.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Asuna.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Asuna.png-8df8a9aeb07155c36fe10a22afac30eb.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Asuna.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Asuna.png-5ad539acd12085bdcb0c205b07b09275.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b42pslwccgsut"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Soldier_Fuuki.png-c71a0e7a78d5a9f6f83716346a0d85fd.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Soldier_Fuuki.png-840d0754f50514902dcf42d38ef7592f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Soldier_Fuuki.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Soldier_Fuuki.png-c71a0e7a78d5a9f6f83716346a0d85fd.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Soldier_Fuuki.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Soldier_Fuuki.png-840d0754f50514902dcf42d38ef7592f.ctex"]
 
 [params]
 

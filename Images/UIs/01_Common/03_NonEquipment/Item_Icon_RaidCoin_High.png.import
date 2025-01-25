@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bp3r6rsc8g73s"
-path="res://.godot/imported/Item_Icon_RaidCoin_High.png-8f0715d949f87708fa533b01c17a7aa5.ctex"
+path="res://.godot/imported/Item_Icon_RaidCoin_High.png-a7d6c501be10de6ca0baac3a241b4bd3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_RaidCoin_High.png"
-dest_files=["res://.godot/imported/Item_Icon_RaidCoin_High.png-8f0715d949f87708fa533b01c17a7aa5.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/03_NonEquipment/Item_Icon_RaidCoin_High.png"
+dest_files=["res://.godot/imported/Item_Icon_RaidCoin_High.png-a7d6c501be10de6ca0baac3a241b4bd3.ctex"]
 
 [params]
 

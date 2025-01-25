@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://do8hekrt2lxle"
-path="res://.godot/imported/Gear_Icon_13007.png-082151ad3eaedd51eb782f21fa7909ce.ctex"
+path="res://.godot/imported/Gear_Icon_13007.png-45e8eda3c6c5d524595c7b568e4df87a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/40_Gear/Gear_Icon_13007.png"
-dest_files=["res://.godot/imported/Gear_Icon_13007.png-082151ad3eaedd51eb782f21fa7909ce.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/40_Gear/Gear_Icon_13007.png"
+dest_files=["res://.godot/imported/Gear_Icon_13007.png-45e8eda3c6c5d524595c7b568e4df87a.ctex"]
 
 [params]
 

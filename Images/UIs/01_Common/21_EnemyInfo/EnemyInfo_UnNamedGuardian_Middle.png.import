@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccxj2q0hi7mmi"
-path="res://.godot/imported/EnemyInfo_UnNamedGuardian_Middle.png-3b1f3aebf638d912415e71b556bb7a4a.ctex"
+path="res://.godot/imported/EnemyInfo_UnNamedGuardian_Middle.png-3108a283efa07a155e4cb6cee0cc2d8d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_UnNamedGuardian_Middle.png"
-dest_files=["res://.godot/imported/EnemyInfo_UnNamedGuardian_Middle.png-3b1f3aebf638d912415e71b556bb7a4a.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_UnNamedGuardian_Middle.png"
+dest_files=["res://.godot/imported/EnemyInfo_UnNamedGuardian_Middle.png-3108a283efa07a155e4cb6cee0cc2d8d.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ioyy3o0v7re1"
-path="res://.godot/imported/SFX_LobbySpine_Hoshino.ogg-77cd1275bf780eecbb424370d6c61f3f.oggvorbisstr"
+path="res://.godot/imported/SFX_LobbySpine_Hoshino.ogg-5d99c12a299f1e2f5d3d7cdc3a88c7e5.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_LobbySpine_Hoshino.ogg"
-dest_files=["res://.godot/imported/SFX_LobbySpine_Hoshino.ogg-77cd1275bf780eecbb424370d6c61f3f.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_LobbySpine_Hoshino.ogg"
+dest_files=["res://.godot/imported/SFX_LobbySpine_Hoshino.ogg-5d99c12a299f1e2f5d3d7cdc3a88c7e5.oggvorbisstr"]
 
 [params]
 

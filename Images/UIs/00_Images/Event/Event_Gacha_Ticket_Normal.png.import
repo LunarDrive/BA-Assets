@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnj8qkx7xjnau"
-path="res://.godot/imported/Event_Gacha_Ticket_Normal.png-e8b6f579e0743347e91e3004f9431ab7.ctex"
+path="res://.godot/imported/Event_Gacha_Ticket_Normal.png-090e1d83ad8c1d21f6e79f1c82812eaf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/00_Images/Event/Event_Gacha_Ticket_Normal.png"
-dest_files=["res://.godot/imported/Event_Gacha_Ticket_Normal.png-e8b6f579e0743347e91e3004f9431ab7.ctex"]
+source_file="res://assets/BA/Images/UIs/00_Images/Event/Event_Gacha_Ticket_Normal.png"
+dest_files=["res://.godot/imported/Event_Gacha_Ticket_Normal.png-090e1d83ad8c1d21f6e79f1c82812eaf.ctex"]
 
 [params]
 

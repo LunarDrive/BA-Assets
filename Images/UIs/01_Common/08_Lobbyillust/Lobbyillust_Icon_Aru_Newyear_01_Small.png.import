@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5bsd8stiollo"
-path="res://.godot/imported/Lobbyillust_Icon_Aru_Newyear_01_Small.png-aac4aa4a3ef748f5cef355a04722b371.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Aru_Newyear_01_Small.png-37b09fb6e4b0671308f3a55fc59073c7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Aru_Newyear_01_Small.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Aru_Newyear_01_Small.png-aac4aa4a3ef748f5cef355a04722b371.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Aru_Newyear_01_Small.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Aru_Newyear_01_Small.png-37b09fb6e4b0671308f3a55fc59073c7.ctex"]
 
 [params]
 

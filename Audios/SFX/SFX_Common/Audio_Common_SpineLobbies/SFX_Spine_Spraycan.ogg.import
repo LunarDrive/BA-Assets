@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://djgf6kwwaomhq"
-path="res://.godot/imported/SFX_Spine_Spraycan.ogg-87306ce07c9743e0fc91da6dd473ed80.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_Spraycan.ogg-7687e4c00c851a89ebcc921f5a02d389.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Spraycan.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_Spraycan.ogg-87306ce07c9743e0fc91da6dd473ed80.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Spraycan.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_Spraycan.ogg-7687e4c00c851a89ebcc921f5a02d389.oggvorbisstr"]
 
 [params]
 

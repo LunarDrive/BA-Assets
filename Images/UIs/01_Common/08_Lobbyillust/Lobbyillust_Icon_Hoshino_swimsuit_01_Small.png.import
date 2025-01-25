@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgmool2mwq3tm"
-path="res://.godot/imported/Lobbyillust_Icon_Hoshino_swimsuit_01_Small.png-c42b4db34a791c58b3ee7cec5c4a9855.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Hoshino_swimsuit_01_Small.png-b0ecf843625837c7c04a3841182b2ea6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Hoshino_swimsuit_01_Small.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Hoshino_swimsuit_01_Small.png-c42b4db34a791c58b3ee7cec5c4a9855.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Hoshino_swimsuit_01_Small.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Hoshino_swimsuit_01_Small.png-b0ecf843625837c7c04a3841182b2ea6.ctex"]
 
 [params]
 

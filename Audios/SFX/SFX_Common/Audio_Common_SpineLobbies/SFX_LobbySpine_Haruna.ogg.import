@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bsoiekw4dmwpt"
-path="res://.godot/imported/SFX_LobbySpine_Haruna.ogg-468e7fc8122f6b6238d20d95cb145034.oggvorbisstr"
+path="res://.godot/imported/SFX_LobbySpine_Haruna.ogg-d30a4b7fe76245d3ccb9ae0e4dee0b0d.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_LobbySpine_Haruna.ogg"
-dest_files=["res://.godot/imported/SFX_LobbySpine_Haruna.ogg-468e7fc8122f6b6238d20d95cb145034.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_LobbySpine_Haruna.ogg"
+dest_files=["res://.godot/imported/SFX_LobbySpine_Haruna.ogg-d30a4b7fe76245d3ccb9ae0e4dee0b0d.oggvorbisstr"]
 
 [params]
 

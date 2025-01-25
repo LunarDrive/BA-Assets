@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b6om7t52jl43p"
-path="res://.godot/imported/SE_Glitch_02.ogg-3497edbde0acca22c256d03403acb869.oggvorbisstr"
+path="res://.godot/imported/SE_Glitch_02.ogg-7513ddb17ef3605d9ef9901939f4a650.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Glitch_02.ogg"
-dest_files=["res://.godot/imported/SE_Glitch_02.ogg-3497edbde0acca22c256d03403acb869.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_Glitch_02.ogg"
+dest_files=["res://.godot/imported/SE_Glitch_02.ogg-7513ddb17ef3605d9ef9901939f4a650.oggvorbisstr"]
 
 [params]
 

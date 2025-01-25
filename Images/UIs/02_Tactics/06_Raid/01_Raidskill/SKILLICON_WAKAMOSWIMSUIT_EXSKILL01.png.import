@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cduddssmu2i7t"
-path="res://.godot/imported/SKILLICON_WAKAMOSWIMSUIT_EXSKILL01.png-64d30b5be86136b0c20c699556d4ef0c.ctex"
+path="res://.godot/imported/SKILLICON_WAKAMOSWIMSUIT_EXSKILL01.png-c828bd5511dbece9a9d4a3789389a5ab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_WAKAMOSWIMSUIT_EXSKILL01.png"
-dest_files=["res://.godot/imported/SKILLICON_WAKAMOSWIMSUIT_EXSKILL01.png-64d30b5be86136b0c20c699556d4ef0c.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_WAKAMOSWIMSUIT_EXSKILL01.png"
+dest_files=["res://.godot/imported/SKILLICON_WAKAMOSWIMSUIT_EXSKILL01.png-c828bd5511dbece9a9d4a3789389a5ab.ctex"]
 
 [params]
 

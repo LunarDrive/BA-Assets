@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://65nr0ajn0w6i"
-path="res://.godot/imported/SE_Rolling_01.ogg-9fafa26b9688289fa480de131fbadf93.oggvorbisstr"
+path="res://.godot/imported/SE_Rolling_01.ogg-9738f6e0f49b89860752417e7573bd2c.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Rolling_01.ogg"
-dest_files=["res://.godot/imported/SE_Rolling_01.ogg-9fafa26b9688289fa480de131fbadf93.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_Rolling_01.ogg"
+dest_files=["res://.godot/imported/SE_Rolling_01.ogg-9738f6e0f49b89860752417e7573bd2c.oggvorbisstr"]
 
 [params]
 

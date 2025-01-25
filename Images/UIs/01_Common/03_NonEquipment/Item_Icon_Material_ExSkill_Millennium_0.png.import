@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://up2neva8dhif"
-path="res://.godot/imported/Item_Icon_Material_ExSkill_Millennium_0.png-011da6c44ad437286b06afb7c74a03c6.ctex"
+path="res://.godot/imported/Item_Icon_Material_ExSkill_Millennium_0.png-35d3e68597d9e6ec629448e1cbc26a93.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Millennium_0.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_ExSkill_Millennium_0.png-011da6c44ad437286b06afb7c74a03c6.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Millennium_0.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_ExSkill_Millennium_0.png-35d3e68597d9e6ec629448e1cbc26a93.ctex"]
 
 [params]
 

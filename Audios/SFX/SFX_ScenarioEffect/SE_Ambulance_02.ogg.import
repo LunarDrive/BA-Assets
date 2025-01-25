@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://whusr6itamg6"
-path="res://.godot/imported/SE_Ambulance_02.ogg-94c3e9c13561f1e67c01a2cfafde2865.oggvorbisstr"
+path="res://.godot/imported/SE_Ambulance_02.ogg-f53fc59b6015fd5e73ed1a1b5625de84.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Ambulance_02.ogg"
-dest_files=["res://.godot/imported/SE_Ambulance_02.ogg-94c3e9c13561f1e67c01a2cfafde2865.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_Ambulance_02.ogg"
+dest_files=["res://.godot/imported/SE_Ambulance_02.ogg-f53fc59b6015fd5e73ed1a1b5625de84.oggvorbisstr"]
 
 [params]
 

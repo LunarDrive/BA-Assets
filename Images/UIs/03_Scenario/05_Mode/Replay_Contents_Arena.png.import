@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cori1q7dy064o"
-path="res://.godot/imported/Replay_Contents_Arena.png-e40bfffd2947d50e80d99c6b1e5ef926.ctex"
+path="res://.godot/imported/Replay_Contents_Arena.png-d5348b29e0d349631c7007eaa25b946b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/05_Mode/Replay_Contents_Arena.png"
-dest_files=["res://.godot/imported/Replay_Contents_Arena.png-e40bfffd2947d50e80d99c6b1e5ef926.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/05_Mode/Replay_Contents_Arena.png"
+dest_files=["res://.godot/imported/Replay_Contents_Arena.png-d5348b29e0d349631c7007eaa25b946b.ctex"]
 
 [params]
 

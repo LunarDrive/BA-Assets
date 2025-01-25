@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://2ncgagciro1v"
-path="res://.godot/imported/SE_Hieronymus_01.ogg-6ef8c9549a3b2dbbece0425ba122d1c2.oggvorbisstr"
+path="res://.godot/imported/SE_Hieronymus_01.ogg-6da4a5668f21ac2381d2295a42e461e7.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Hieronymus_01.ogg"
-dest_files=["res://.godot/imported/SE_Hieronymus_01.ogg-6ef8c9549a3b2dbbece0425ba122d1c2.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_Hieronymus_01.ogg"
+dest_files=["res://.godot/imported/SE_Hieronymus_01.ogg-6da4a5668f21ac2381d2295a42e461e7.oggvorbisstr"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bm0yho31t8xjh"
-path="res://.godot/imported/TutorialFailureImage_WeekDungeon_Blood_jp.png-3631ad6f2ba7310cdc799659837dbf07.ctex"
+path="res://.godot/imported/TutorialFailureImage_WeekDungeon_Blood_jp.png-4270a24937a0b5769543e237aec7dc24.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Blood_jp.png"
-dest_files=["res://.godot/imported/TutorialFailureImage_WeekDungeon_Blood_jp.png-3631ad6f2ba7310cdc799659837dbf07.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Blood_jp.png"
+dest_files=["res://.godot/imported/TutorialFailureImage_WeekDungeon_Blood_jp.png-4270a24937a0b5769543e237aec7dc24.ctex"]
 
 [params]
 

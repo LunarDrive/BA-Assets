@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1d51pvuhyrmj"
-path="res://.godot/imported/Collection_Portrait_Kether.png-8fd9aaefcbe6cfb7dff6a0d42910b10b.ctex"
+path="res://.godot/imported/Collection_Portrait_Kether.png-522aed0ea72bcdda79168000b82285a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/36_SpecialOperation/Portrait/Collection_Portrait_Kether.png"
-dest_files=["res://.godot/imported/Collection_Portrait_Kether.png-8fd9aaefcbe6cfb7dff6a0d42910b10b.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/36_SpecialOperation/Portrait/Collection_Portrait_Kether.png"
+dest_files=["res://.godot/imported/Collection_Portrait_Kether.png-522aed0ea72bcdda79168000b82285a9.ctex"]
 
 [params]
 

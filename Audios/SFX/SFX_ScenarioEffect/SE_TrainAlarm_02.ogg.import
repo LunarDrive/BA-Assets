@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dua8vdywj4dm7"
-path="res://.godot/imported/SE_TrainAlarm_02.ogg-edfbadaae092e7e3cb17a5fd6c30b813.oggvorbisstr"
+path="res://.godot/imported/SE_TrainAlarm_02.ogg-148f7699caed6fb5dc521780f1058b37.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_TrainAlarm_02.ogg"
-dest_files=["res://.godot/imported/SE_TrainAlarm_02.ogg-edfbadaae092e7e3cb17a5fd6c30b813.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_TrainAlarm_02.ogg"
+dest_files=["res://.godot/imported/SE_TrainAlarm_02.ogg-148f7699caed6fb5dc521780f1058b37.oggvorbisstr"]
 
 [params]
 

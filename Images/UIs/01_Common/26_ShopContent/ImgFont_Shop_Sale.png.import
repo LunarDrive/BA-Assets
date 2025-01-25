@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3y0jh0rqndup"
-path="res://.godot/imported/ImgFont_Shop_Sale.png-4f5b1d252f16481ffc164597840f5b8d.ctex"
+path="res://.godot/imported/ImgFont_Shop_Sale.png-9db5b9164e4edf03a5341856f9679f88.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/26_ShopContent/ImgFont_Shop_Sale.png"
-dest_files=["res://.godot/imported/ImgFont_Shop_Sale.png-4f5b1d252f16481ffc164597840f5b8d.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/26_ShopContent/ImgFont_Shop_Sale.png"
+dest_files=["res://.godot/imported/ImgFont_Shop_Sale.png-9db5b9164e4edf03a5341856f9679f88.ctex"]
 
 [params]
 

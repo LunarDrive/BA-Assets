@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2w1bmgtuqgcg"
-path="res://.godot/imported/EnemyInfo_ArmoredCar_Valkyrie_MG.png-d591335eeb3c0075667efabc8f7c22e5.ctex"
+path="res://.godot/imported/EnemyInfo_ArmoredCar_Valkyrie_MG.png-62012dfb9504a799c60ac2673e973d23.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_ArmoredCar_Valkyrie_MG.png"
-dest_files=["res://.godot/imported/EnemyInfo_ArmoredCar_Valkyrie_MG.png-d591335eeb3c0075667efabc8f7c22e5.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_ArmoredCar_Valkyrie_MG.png"
+dest_files=["res://.godot/imported/EnemyInfo_ArmoredCar_Valkyrie_MG.png-62012dfb9504a799c60ac2673e973d23.ctex"]
 
 [params]
 

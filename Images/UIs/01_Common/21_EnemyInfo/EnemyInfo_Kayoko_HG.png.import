@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8l3wrkyi7qwb"
-path="res://.godot/imported/EnemyInfo_Kayoko_HG.png-9314e6283efbdcdd865b81ab2adbfb44.ctex"
+path="res://.godot/imported/EnemyInfo_Kayoko_HG.png-8793ceec7725c5a8fa248cb3d055351a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Kayoko_HG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Kayoko_HG.png-9314e6283efbdcdd865b81ab2adbfb44.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Kayoko_HG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Kayoko_HG.png-8793ceec7725c5a8fa248cb3d055351a.ctex"]
 
 [params]
 

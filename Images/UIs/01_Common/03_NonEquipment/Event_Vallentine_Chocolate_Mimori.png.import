@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfr13742f61ug"
-path="res://.godot/imported/Event_Vallentine_Chocolate_Mimori.png-dcc8bf348d4dcacf5d8c8b91e574f273.ctex"
+path="res://.godot/imported/Event_Vallentine_Chocolate_Mimori.png-204a2c739fe8448091030f988feb7119.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Event_Vallentine_Chocolate_Mimori.png"
-dest_files=["res://.godot/imported/Event_Vallentine_Chocolate_Mimori.png-dcc8bf348d4dcacf5d8c8b91e574f273.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/03_NonEquipment/Event_Vallentine_Chocolate_Mimori.png"
+dest_files=["res://.godot/imported/Event_Vallentine_Chocolate_Mimori.png-204a2c739fe8448091030f988feb7119.ctex"]
 
 [params]
 

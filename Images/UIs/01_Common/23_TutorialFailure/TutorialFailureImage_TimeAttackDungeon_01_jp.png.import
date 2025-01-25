@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5bswu6tdnyrk"
-path="res://.godot/imported/TutorialFailureImage_TimeAttackDungeon_01_jp.png-c5b75a64de5d21ea7b98cb437341a6f6.ctex"
+path="res://.godot/imported/TutorialFailureImage_TimeAttackDungeon_01_jp.png-7038e54a7ca15c53038c8911d2b80a04.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_TimeAttackDungeon_01_jp.png"
-dest_files=["res://.godot/imported/TutorialFailureImage_TimeAttackDungeon_01_jp.png-c5b75a64de5d21ea7b98cb437341a6f6.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_TimeAttackDungeon_01_jp.png"
+dest_files=["res://.godot/imported/TutorialFailureImage_TimeAttackDungeon_01_jp.png-7038e54a7ca15c53038c8911d2b80a04.ctex"]
 
 [params]
 

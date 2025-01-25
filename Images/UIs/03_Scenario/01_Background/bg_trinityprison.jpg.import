@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cog8sce5b3anw"
-path="res://.godot/imported/bg_trinityprison.jpg-14ddb7dd0b82a0bc4d5eaba5a5941082.ctex"
+path="res://.godot/imported/bg_trinityprison.jpg-a67c05f4c9fac4bd9d005089afbed8d3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_trinityprison.jpg"
-dest_files=["res://.godot/imported/bg_trinityprison.jpg-14ddb7dd0b82a0bc4d5eaba5a5941082.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_trinityprison.jpg"
+dest_files=["res://.godot/imported/bg_trinityprison.jpg-a67c05f4c9fac4bd9d005089afbed8d3.ctex"]
 
 [params]
 

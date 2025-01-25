@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://campqdqws66sy"
-path="res://.godot/imported/Skill_Portrait_Marina.png-ed264f5a7466f7956b947240fe07cc61.ctex"
+path="res://.godot/imported/Skill_Portrait_Marina.png-e8fd180f57d89b57f20daf0dc26a8d44.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Marina.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Marina.png-ed264f5a7466f7956b947240fe07cc61.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Marina.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Marina.png-e8fd180f57d89b57f20daf0dc26a8d44.ctex"]
 
 [params]
 

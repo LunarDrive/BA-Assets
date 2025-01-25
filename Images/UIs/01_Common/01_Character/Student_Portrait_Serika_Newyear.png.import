@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1p71k0dqq6ck"
-path="res://.godot/imported/Student_Portrait_Serika_Newyear.png-1a284bfef838120cf6bf916e1b707c1d.ctex"
+path="res://.godot/imported/Student_Portrait_Serika_Newyear.png-2ad4a8b982cebbfe1fdd5ebfb09ea87a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Serika_Newyear.png"
-dest_files=["res://.godot/imported/Student_Portrait_Serika_Newyear.png-1a284bfef838120cf6bf916e1b707c1d.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/01_Character/Student_Portrait_Serika_Newyear.png"
+dest_files=["res://.godot/imported/Student_Portrait_Serika_Newyear.png-2ad4a8b982cebbfe1fdd5ebfb09ea87a.ctex"]
 
 [params]
 

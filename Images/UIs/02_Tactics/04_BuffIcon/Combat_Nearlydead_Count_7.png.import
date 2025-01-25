@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhslp55uhnok1"
-path="res://.godot/imported/Combat_Nearlydead_Count_7.png-806f87a6b328000f912cfa6cfddc699c.ctex"
+path="res://.godot/imported/Combat_Nearlydead_Count_7.png-11ad4e36c974409b0d3ba0185b152a88.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Nearlydead_Count_7.png"
-dest_files=["res://.godot/imported/Combat_Nearlydead_Count_7.png-806f87a6b328000f912cfa6cfddc699c.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/04_BuffIcon/Combat_Nearlydead_Count_7.png"
+dest_files=["res://.godot/imported/Combat_Nearlydead_Count_7.png-11ad4e36c974409b0d3ba0185b152a88.ctex"]
 
 [params]
 

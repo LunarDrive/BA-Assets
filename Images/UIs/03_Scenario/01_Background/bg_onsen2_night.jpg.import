@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djt65x1gri5lm"
-path="res://.godot/imported/bg_onsen2_night.jpg-6077d2ac2a0b94c4b3f26b144cc15680.ctex"
+path="res://.godot/imported/bg_onsen2_night.jpg-8d8c793e475b508e374097dbfe8eeea5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_onsen2_night.jpg"
-dest_files=["res://.godot/imported/bg_onsen2_night.jpg-6077d2ac2a0b94c4b3f26b144cc15680.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_onsen2_night.jpg"
+dest_files=["res://.godot/imported/bg_onsen2_night.jpg-8d8c793e475b508e374097dbfe8eeea5.ctex"]
 
 [params]
 

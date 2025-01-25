@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cy1sp3osqp8fs"
-path="res://.godot/imported/bg_craftchamber.jpg-e315afef0b3f0a0bb5efe19f0cc7e291.ctex"
+path="res://.godot/imported/bg_craftchamber.jpg-08c5b1a292e8e6ef32c1141ceedbbb24.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_craftchamber.jpg"
-dest_files=["res://.godot/imported/bg_craftchamber.jpg-e315afef0b3f0a0bb5efe19f0cc7e291.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_craftchamber.jpg"
+dest_files=["res://.godot/imported/bg_craftchamber.jpg-08c5b1a292e8e6ef32c1141ceedbbb24.ctex"]
 
 [params]
 

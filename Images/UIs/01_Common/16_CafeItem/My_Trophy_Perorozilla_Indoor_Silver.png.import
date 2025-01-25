@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://do2e8jfq82elq"
-path="res://.godot/imported/My_Trophy_Perorozilla_Indoor_Silver.png-9593fac5ad5956b763833bb5a4bade0c.ctex"
+path="res://.godot/imported/My_Trophy_Perorozilla_Indoor_Silver.png-e378f3133bcda0218e495780223d92eb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Perorozilla_Indoor_Silver.png"
-dest_files=["res://.godot/imported/My_Trophy_Perorozilla_Indoor_Silver.png-9593fac5ad5956b763833bb5a4bade0c.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/16_CafeItem/My_Trophy_Perorozilla_Indoor_Silver.png"
+dest_files=["res://.godot/imported/My_Trophy_Perorozilla_Indoor_Silver.png-e378f3133bcda0218e495780223d92eb.ctex"]
 
 [params]
 

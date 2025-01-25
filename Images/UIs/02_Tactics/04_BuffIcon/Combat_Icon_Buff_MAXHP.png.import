@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bc86yxf6ixki2"
-path="res://.godot/imported/Combat_Icon_Buff_MAXHP.png-95ab0103238e5c6daa261986856062de.ctex"
+path="res://.godot/imported/Combat_Icon_Buff_MAXHP.png-95cca666aa895bfe0cf2fc33887e4efb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP.png"
-dest_files=["res://.godot/imported/Combat_Icon_Buff_MAXHP.png-95ab0103238e5c6daa261986856062de.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP.png"
+dest_files=["res://.godot/imported/Combat_Icon_Buff_MAXHP.png-95cca666aa895bfe0cf2fc33887e4efb.ctex"]
 
 [params]
 

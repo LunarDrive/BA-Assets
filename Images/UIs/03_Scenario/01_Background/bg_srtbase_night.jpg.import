@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://w8l4aj28hhck"
-path="res://.godot/imported/bg_srtbase_night.jpg-d4a99800a1930f1ce917b3222dda82ab.ctex"
+path="res://.godot/imported/bg_srtbase_night.jpg-89638c62a5a29fb5bee0ddf3cd7acf46.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_srtbase_night.jpg"
-dest_files=["res://.godot/imported/bg_srtbase_night.jpg-d4a99800a1930f1ce917b3222dda82ab.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_srtbase_night.jpg"
+dest_files=["res://.godot/imported/bg_srtbase_night.jpg-89638c62a5a29fb5bee0ddf3cd7acf46.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bxbe88168ynqa"
-path="res://.godot/imported/UI_FX_BG_Town_L.ogg-b20fd4150f4150bb22eeeee1e2a31061.oggvorbisstr"
+path="res://.godot/imported/UI_FX_BG_Town_L.ogg-bf3db2c7f321ce8fa42accf688eb2d9e.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Town_L.ogg"
-dest_files=["res://.godot/imported/UI_FX_BG_Town_L.ogg-b20fd4150f4150bb22eeeee1e2a31061.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Town_L.ogg"
+dest_files=["res://.godot/imported/UI_FX_BG_Town_L.ogg-bf3db2c7f321ce8fa42accf688eb2d9e.oggvorbisstr"]
 
 [params]
 

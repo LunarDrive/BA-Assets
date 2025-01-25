@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq7jl1apahgpi"
-path="res://.godot/imported/Student_Portrait_Nonomi_Robber.png-3681486ec5ba54f88619005710aaaf72.ctex"
+path="res://.godot/imported/Student_Portrait_Nonomi_Robber.png-09260eff4cff0c1a04b51a3c4d40cabe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Nonomi_Robber.png"
-dest_files=["res://.godot/imported/Student_Portrait_Nonomi_Robber.png-3681486ec5ba54f88619005710aaaf72.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/01_Character/Student_Portrait_Nonomi_Robber.png"
+dest_files=["res://.godot/imported/Student_Portrait_Nonomi_Robber.png-09260eff4cff0c1a04b51a3c4d40cabe.ctex"]
 
 [params]
 

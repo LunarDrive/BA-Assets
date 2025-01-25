@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dctc7malalu7h"
-path="res://.godot/imported/UI_Fade.ogg-c6cd6fea43aa5925bdf8978692ab9516.oggvorbisstr"
+path="res://.godot/imported/UI_Fade.ogg-782c20c3307bee1c9e3069e6a97b0b58.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_UI/UI_Fade.ogg"
-dest_files=["res://.godot/imported/UI_Fade.ogg-c6cd6fea43aa5925bdf8978692ab9516.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_UI/UI_Fade.ogg"
+dest_files=["res://.godot/imported/UI_Fade.ogg-782c20c3307bee1c9e3069e6a97b0b58.oggvorbisstr"]
 
 [params]
 

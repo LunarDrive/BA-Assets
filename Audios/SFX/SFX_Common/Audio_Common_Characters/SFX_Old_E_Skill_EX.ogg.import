@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://nvx8xe32wn1r"
-path="res://.godot/imported/SFX_Old_E_Skill_EX.ogg-40589909b2049594878f805a9ec22136.oggvorbisstr"
+path="res://.godot/imported/SFX_Old_E_Skill_EX.ogg-9bcde03b85f82439cfb7bbee68c18b70.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Old_E_Skill_EX.ogg"
-dest_files=["res://.godot/imported/SFX_Old_E_Skill_EX.ogg-40589909b2049594878f805a9ec22136.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Old_E_Skill_EX.ogg"
+dest_files=["res://.godot/imported/SFX_Old_E_Skill_EX.ogg-9bcde03b85f82439cfb7bbee68c18b70.oggvorbisstr"]
 
 [params]
 

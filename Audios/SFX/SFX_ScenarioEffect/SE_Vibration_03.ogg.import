@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://hggu0b765tfw"
-path="res://.godot/imported/SE_Vibration_03.ogg-90f0962e55d1b0592a7bd0ecb8d4c23e.oggvorbisstr"
+path="res://.godot/imported/SE_Vibration_03.ogg-6d3e9b25a541313c9b7efe4b60ab7bb5.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Vibration_03.ogg"
-dest_files=["res://.godot/imported/SE_Vibration_03.ogg-90f0962e55d1b0592a7bd0ecb8d4c23e.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_Vibration_03.ogg"
+dest_files=["res://.godot/imported/SE_Vibration_03.ogg-6d3e9b25a541313c9b7efe4b60ab7bb5.oggvorbisstr"]
 
 [params]
 

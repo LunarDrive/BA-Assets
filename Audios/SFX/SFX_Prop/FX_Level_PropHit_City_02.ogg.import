@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://s7nld37xtix4"
-path="res://.godot/imported/FX_Level_PropHit_City_02.ogg-53c068075f881f902ad2094573b4412a.oggvorbisstr"
+path="res://.godot/imported/FX_Level_PropHit_City_02.ogg-4603bd49351c9efd0e51f6b0625a3267.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Prop/FX_Level_PropHit_City_02.ogg"
-dest_files=["res://.godot/imported/FX_Level_PropHit_City_02.ogg-53c068075f881f902ad2094573b4412a.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Prop/FX_Level_PropHit_City_02.ogg"
+dest_files=["res://.godot/imported/FX_Level_PropHit_City_02.ogg-4603bd49351c9efd0e51f6b0625a3267.oggvorbisstr"]
 
 [params]
 

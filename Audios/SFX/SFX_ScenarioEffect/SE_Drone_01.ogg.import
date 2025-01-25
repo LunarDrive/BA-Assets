@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dbccmhknw0ks3"
-path="res://.godot/imported/SE_Drone_01.ogg-cbb75bce2722fc5a1c01152427c2bd96.oggvorbisstr"
+path="res://.godot/imported/SE_Drone_01.ogg-c4eb75f9e1b5a7707b94382b720df8a9.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Drone_01.ogg"
-dest_files=["res://.godot/imported/SE_Drone_01.ogg-cbb75bce2722fc5a1c01152427c2bd96.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_Drone_01.ogg"
+dest_files=["res://.godot/imported/SE_Drone_01.ogg-c4eb75f9e1b5a7707b94382b720df8a9.oggvorbisstr"]
 
 [params]
 

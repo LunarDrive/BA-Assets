@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cauyncurexnhy"
-path="res://.godot/imported/UI_FX_BG_Urban_River_L.ogg-d0a55f35e6d5611f5c628da7f42be5df.oggvorbisstr"
+path="res://.godot/imported/UI_FX_BG_Urban_River_L.ogg-3ea4ae52de9fee5ac637098f097ed09e.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Urban_River_L.ogg"
-dest_files=["res://.godot/imported/UI_FX_BG_Urban_River_L.ogg-d0a55f35e6d5611f5c628da7f42be5df.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Urban_River_L.ogg"
+dest_files=["res://.godot/imported/UI_FX_BG_Urban_River_L.ogg-3ea4ae52de9fee5ac637098f097ed09e.oggvorbisstr"]
 
 [params]
 

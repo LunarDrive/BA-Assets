@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://m16cd2yvhgsv"
-path="res://.godot/imported/Arena_Map_Indoor_01.png-b98a2ba548b54fc602af4f7edef40e8f.ctex"
+path="res://.godot/imported/Arena_Map_Indoor_01.png-aeb17e1d30c9067ee789f2ff4695517a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/18_PVPArena/Arena_Map_Indoor_01.png"
-dest_files=["res://.godot/imported/Arena_Map_Indoor_01.png-b98a2ba548b54fc602af4f7edef40e8f.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/18_PVPArena/Arena_Map_Indoor_01.png"
+dest_files=["res://.godot/imported/Arena_Map_Indoor_01.png-aeb17e1d30c9067ee789f2ff4695517a.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dg6s6qqmluvtj"
-path="res://.godot/imported/Champion_Hpbar_Portrait_KumabotPapa_Slumpia_SG.png-24593332e0c62536510dfa21a1a0622d.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_KumabotPapa_Slumpia_SG.png-11a5b5066731b4b1c3e152af453e1acb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_KumabotPapa_Slumpia_SG.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_KumabotPapa_Slumpia_SG.png-24593332e0c62536510dfa21a1a0622d.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_KumabotPapa_Slumpia_SG.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_KumabotPapa_Slumpia_SG.png-11a5b5066731b4b1c3e152af453e1acb.ctex"]
 
 [params]
 

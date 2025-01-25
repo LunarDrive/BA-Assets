@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6716kxku261e"
-path="res://.godot/imported/Combat_Icon_Debuff_Chill.png-4bf11748402e1f239dd59c8b3b39d666.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_Chill.png-ff9a84c57cb96c6879e9b6aa879cf3f1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_Chill.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_Chill.png-4bf11748402e1f239dd59c8b3b39d666.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_Chill.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_Chill.png-ff9a84c57cb96c6879e9b6aa879cf3f1.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bw6q6d4gcrb5g"
-path="res://.godot/imported/My_Poolparty_01_B_Parasol.png-856044ce852fee7246dde867982132e7.ctex"
+path="res://.godot/imported/My_Poolparty_01_B_Parasol.png-152e42f316e7a36d37b24781106023fa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Poolparty_01_B_Parasol.png"
-dest_files=["res://.godot/imported/My_Poolparty_01_B_Parasol.png-856044ce852fee7246dde867982132e7.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/16_CafeItem/My_Poolparty_01_B_Parasol.png"
+dest_files=["res://.godot/imported/My_Poolparty_01_B_Parasol.png-152e42f316e7a36d37b24781106023fa.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ctdvm1wqxrebq"
-path="res://.godot/imported/SE_WipingGlasses_02.ogg-fb42eacefb7dfd1460cb9981b038b82c.oggvorbisstr"
+path="res://.godot/imported/SE_WipingGlasses_02.ogg-8028a10d2fb59559a14be6a3c0b1d44a.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_WipingGlasses_02.ogg"
-dest_files=["res://.godot/imported/SE_WipingGlasses_02.ogg-fb42eacefb7dfd1460cb9981b038b82c.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_WipingGlasses_02.ogg"
+dest_files=["res://.godot/imported/SE_WipingGlasses_02.ogg-8028a10d2fb59559a14be6a3c0b1d44a.oggvorbisstr"]
 
 [params]
 

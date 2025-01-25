@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cc67o071hnn14"
-path="res://.godot/imported/bg_interrogationroom.jpg-9b6ab8efc1b271afad55812ba710c802.ctex"
+path="res://.godot/imported/bg_interrogationroom.jpg-4b75c1805b1f5e28b1dc817c39a69ca8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_interrogationroom.jpg"
-dest_files=["res://.godot/imported/bg_interrogationroom.jpg-9b6ab8efc1b271afad55812ba710c802.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_interrogationroom.jpg"
+dest_files=["res://.godot/imported/bg_interrogationroom.jpg-4b75c1805b1f5e28b1dc817c39a69ca8.ctex"]
 
 [params]
 

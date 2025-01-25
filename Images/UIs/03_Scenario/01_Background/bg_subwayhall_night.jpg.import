@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgyr3f15ggdcs"
-path="res://.godot/imported/bg_subwayhall_night.jpg-5880fb2b07e7736ede6e058c2d5e65ea.ctex"
+path="res://.godot/imported/bg_subwayhall_night.jpg-d7e784ff4b3ab8d44f52821fbbc028a8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_subwayhall_night.jpg"
-dest_files=["res://.godot/imported/bg_subwayhall_night.jpg-5880fb2b07e7736ede6e058c2d5e65ea.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_subwayhall_night.jpg"
+dest_files=["res://.godot/imported/bg_subwayhall_night.jpg-d7e784ff4b3ab8d44f52821fbbc028a8.ctex"]
 
 [params]
 

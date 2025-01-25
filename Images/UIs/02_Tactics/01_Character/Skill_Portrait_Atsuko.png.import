@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmuaval5squ8p"
-path="res://.godot/imported/Skill_Portrait_Atsuko.png-37a30dabf60f9ea4764aa6e3dc7043f7.ctex"
+path="res://.godot/imported/Skill_Portrait_Atsuko.png-4b266008f79ef141e5d270e11f558a55.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Atsuko.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Atsuko.png-37a30dabf60f9ea4764aa6e3dc7043f7.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Atsuko.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Atsuko.png-4b266008f79ef141e5d270e11f558a55.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0brv5880inbw"
-path="res://.godot/imported/bg_trinitystreet.jpg-51ac9d8a4271ef2b623004164e5ce263.ctex"
+path="res://.godot/imported/bg_trinitystreet.jpg-0ebe825409078c8b7ff2a5c72a36b712.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_trinitystreet.jpg"
-dest_files=["res://.godot/imported/bg_trinitystreet.jpg-51ac9d8a4271ef2b623004164e5ce263.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_trinitystreet.jpg"
+dest_files=["res://.godot/imported/bg_trinitystreet.jpg-0ebe825409078c8b7ff2a5c72a36b712.ctex"]
 
 [params]
 

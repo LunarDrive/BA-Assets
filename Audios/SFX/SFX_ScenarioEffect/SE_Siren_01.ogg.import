@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bniyqtfwr37yj"
-path="res://.godot/imported/SE_Siren_01.ogg-5b287adce123aaf3de61856d503192e3.oggvorbisstr"
+path="res://.godot/imported/SE_Siren_01.ogg-f579a0b1803b1a2f7cd3faf871b3474c.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Siren_01.ogg"
-dest_files=["res://.godot/imported/SE_Siren_01.ogg-5b287adce123aaf3de61856d503192e3.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_Siren_01.ogg"
+dest_files=["res://.godot/imported/SE_Siren_01.ogg-f579a0b1803b1a2f7cd3faf871b3474c.oggvorbisstr"]
 
 [params]
 

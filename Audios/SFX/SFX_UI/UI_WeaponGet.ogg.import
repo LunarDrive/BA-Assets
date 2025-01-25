@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dkjk04yan462m"
-path="res://.godot/imported/UI_WeaponGet.ogg-ef064bead1d2bd6f42683af5b83e2f45.oggvorbisstr"
+path="res://.godot/imported/UI_WeaponGet.ogg-54942a31d95050c49bd9ad175e58dbcf.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_UI/UI_WeaponGet.ogg"
-dest_files=["res://.godot/imported/UI_WeaponGet.ogg-ef064bead1d2bd6f42683af5b83e2f45.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_UI/UI_WeaponGet.ogg"
+dest_files=["res://.godot/imported/UI_WeaponGet.ogg-54942a31d95050c49bd9ad175e58dbcf.oggvorbisstr"]
 
 [params]
 

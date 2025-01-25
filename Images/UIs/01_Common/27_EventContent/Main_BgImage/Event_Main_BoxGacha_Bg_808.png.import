@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d7ko0002vd2g"
-path="res://.godot/imported/Event_Main_BoxGacha_Bg_808.png-965351cba1d95ac2f5d8e6d2c065bd56.ctex"
+path="res://.godot/imported/Event_Main_BoxGacha_Bg_808.png-4e5961499e01306600944ccb5b0817d7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/27_EventContent/Main_BgImage/Event_Main_BoxGacha_Bg_808.png"
-dest_files=["res://.godot/imported/Event_Main_BoxGacha_Bg_808.png-965351cba1d95ac2f5d8e6d2c065bd56.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/27_EventContent/Main_BgImage/Event_Main_BoxGacha_Bg_808.png"
+dest_files=["res://.godot/imported/Event_Main_BoxGacha_Bg_808.png-4e5961499e01306600944ccb5b0817d7.ctex"]
 
 [params]
 

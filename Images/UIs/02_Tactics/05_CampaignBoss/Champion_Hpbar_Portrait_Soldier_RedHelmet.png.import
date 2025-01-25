@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://catqs1rmbg2pq"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Soldier_RedHelmet.png-9cea435f3881a2c55db2baf650559079.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Soldier_RedHelmet.png-1a21a66b43c21fef6b77112752c0492d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Soldier_RedHelmet.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Soldier_RedHelmet.png-9cea435f3881a2c55db2baf650559079.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Soldier_RedHelmet.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Soldier_RedHelmet.png-1a21a66b43c21fef6b77112752c0492d.ctex"]
 
 [params]
 

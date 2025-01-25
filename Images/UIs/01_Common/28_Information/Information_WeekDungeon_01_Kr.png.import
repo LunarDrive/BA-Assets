@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://f0gou440i4v1"
-path="res://.godot/imported/Information_WeekDungeon_01_Kr.png-3521de1a19a865b0e3d7c9b9a4ab646f.ctex"
+path="res://.godot/imported/Information_WeekDungeon_01_Kr.png-6818399054aab8e574c236a6c692e27e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/28_Information/Information_WeekDungeon_01_Kr.png"
-dest_files=["res://.godot/imported/Information_WeekDungeon_01_Kr.png-3521de1a19a865b0e3d7c9b9a4ab646f.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/28_Information/Information_WeekDungeon_01_Kr.png"
+dest_files=["res://.godot/imported/Information_WeekDungeon_01_Kr.png-6818399054aab8e574c236a6c692e27e.ctex"]
 
 [params]
 

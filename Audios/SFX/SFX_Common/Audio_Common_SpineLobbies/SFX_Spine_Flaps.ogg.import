@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://djybpturunacf"
-path="res://.godot/imported/SFX_Spine_Flaps.ogg-270803b26d4a6fc38692c09a2d80457b.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_Flaps.ogg-e46930d9655f71e0c31de4d4f69e6937.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Flaps.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_Flaps.ogg-270803b26d4a6fc38692c09a2d80457b.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Flaps.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_Flaps.ogg-e46930d9655f71e0c31de4d4f69e6937.oggvorbisstr"]
 
 [params]
 

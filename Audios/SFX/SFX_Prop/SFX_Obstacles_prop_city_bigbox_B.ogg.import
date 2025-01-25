@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dydh4uuxls8uk"
-path="res://.godot/imported/SFX_Obstacles_prop_city_bigbox_B.ogg-c3941ee3cadfa3f307f446e26c4beeaf.oggvorbisstr"
+path="res://.godot/imported/SFX_Obstacles_prop_city_bigbox_B.ogg-ae73250dd53a35af1d3d9879f431c302.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Prop/SFX_Obstacles_prop_city_bigbox_B.ogg"
-dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_bigbox_B.ogg-c3941ee3cadfa3f307f446e26c4beeaf.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Prop/SFX_Obstacles_prop_city_bigbox_B.ogg"
+dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_bigbox_B.ogg-ae73250dd53a35af1d3d9879f431c302.oggvorbisstr"]
 
 [params]
 

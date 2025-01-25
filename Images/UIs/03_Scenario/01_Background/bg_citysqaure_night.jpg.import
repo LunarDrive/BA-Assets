@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cb3kdts3q4vpl"
-path="res://.godot/imported/bg_citysqaure_night.jpg-789070eace3f2e64fd50596f844a9f99.ctex"
+path="res://.godot/imported/bg_citysqaure_night.jpg-6eda9bb3b62f0b00c66c28ada321f555.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_citysqaure_night.jpg"
-dest_files=["res://.godot/imported/bg_citysqaure_night.jpg-789070eace3f2e64fd50596f844a9f99.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_citysqaure_night.jpg"
+dest_files=["res://.godot/imported/bg_citysqaure_night.jpg-6eda9bb3b62f0b00c66c28ada321f555.ctex"]
 
 [params]
 

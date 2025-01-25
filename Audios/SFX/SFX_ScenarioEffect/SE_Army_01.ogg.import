@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cqaq3mwo04j83"
-path="res://.godot/imported/SE_Army_01.ogg-efc96fbbbfbb0fc999b98187fd4d071d.oggvorbisstr"
+path="res://.godot/imported/SE_Army_01.ogg-eb4eac0e939765804c9b767253a73dc8.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Army_01.ogg"
-dest_files=["res://.godot/imported/SE_Army_01.ogg-efc96fbbbfbb0fc999b98187fd4d071d.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_Army_01.ogg"
+dest_files=["res://.godot/imported/SE_Army_01.ogg-eb4eac0e939765804c9b767253a73dc8.oggvorbisstr"]
 
 [params]
 

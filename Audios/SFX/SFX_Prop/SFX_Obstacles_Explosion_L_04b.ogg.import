@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d3gqwinbqft0y"
-path="res://.godot/imported/SFX_Obstacles_Explosion_L_04b.ogg-1849f0ceee9f1624bd6290a24d0793ad.oggvorbisstr"
+path="res://.godot/imported/SFX_Obstacles_Explosion_L_04b.ogg-b31de51b21e69cfe01de26a4e9ff98ad.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Prop/SFX_Obstacles_Explosion_L_04b.ogg"
-dest_files=["res://.godot/imported/SFX_Obstacles_Explosion_L_04b.ogg-1849f0ceee9f1624bd6290a24d0793ad.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Prop/SFX_Obstacles_Explosion_L_04b.ogg"
+dest_files=["res://.godot/imported/SFX_Obstacles_Explosion_L_04b.ogg-b31de51b21e69cfe01de26a4e9ff98ad.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b18efapxfdnaj"
-path="res://.godot/imported/SFX_Spine_CH0137_Eat_Bite_02.ogg-5f6b3a384bf870133ce7b300cdd9ba0b.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_CH0137_Eat_Bite_02.ogg-61eb70af5a38805d6f935ed1fe9ee5ab.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_CH0137_Eat_Bite_02.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_CH0137_Eat_Bite_02.ogg-5f6b3a384bf870133ce7b300cdd9ba0b.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_CH0137_Eat_Bite_02.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_CH0137_Eat_Bite_02.ogg-61eb70af5a38805d6f935ed1fe9ee5ab.oggvorbisstr"]
 
 [params]
 

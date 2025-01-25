@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckmua6y6gbrbb"
-path="res://.godot/imported/WeekDungeon_Image_ChaserC.png-2cd0035b6e9a4fac6f4fe9d0a42fd25b.ctex"
+path="res://.godot/imported/WeekDungeon_Image_ChaserC.png-9dd0e9f342d56bd1a05d52a75988d8af.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/17_WeekDungeon/WeekDungeon_Image_ChaserC.png"
-dest_files=["res://.godot/imported/WeekDungeon_Image_ChaserC.png-2cd0035b6e9a4fac6f4fe9d0a42fd25b.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/17_WeekDungeon/WeekDungeon_Image_ChaserC.png"
+dest_files=["res://.godot/imported/WeekDungeon_Image_ChaserC.png-9dd0e9f342d56bd1a05d52a75988d8af.ctex"]
 
 [params]
 

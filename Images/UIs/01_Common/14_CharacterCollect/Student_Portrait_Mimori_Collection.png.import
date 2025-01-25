@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwc4g8tihuj30"
-path="res://.godot/imported/Student_Portrait_Mimori_Collection.png-e81a96f0bda4b3971fe08aa66f9d17d5.ctex"
+path="res://.godot/imported/Student_Portrait_Mimori_Collection.png-92b366585d4818d5f73053e818dbf5cd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Mimori_Collection.png"
-dest_files=["res://.godot/imported/Student_Portrait_Mimori_Collection.png-e81a96f0bda4b3971fe08aa66f9d17d5.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/14_CharacterCollect/Student_Portrait_Mimori_Collection.png"
+dest_files=["res://.godot/imported/Student_Portrait_Mimori_Collection.png-92b366585d4818d5f73053e818dbf5cd.ctex"]
 
 [params]
 

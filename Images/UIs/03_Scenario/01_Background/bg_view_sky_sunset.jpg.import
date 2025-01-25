@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cm0wfgtc23usr"
-path="res://.godot/imported/bg_view_sky_sunset.jpg-f6c4c87a5b20999dd867ad7d6cc8635f.ctex"
+path="res://.godot/imported/bg_view_sky_sunset.jpg-db86418736f07f6197bc12307db7b1cc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_view_sky_sunset.jpg"
-dest_files=["res://.godot/imported/bg_view_sky_sunset.jpg-f6c4c87a5b20999dd867ad7d6cc8635f.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_view_sky_sunset.jpg"
+dest_files=["res://.godot/imported/bg_view_sky_sunset.jpg-db86418736f07f6197bc12307db7b1cc.ctex"]
 
 [params]
 

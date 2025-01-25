@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8wdefe0em4n1"
-path="res://.godot/imported/bg_rivercitydowntown.jpg-207d2fd644c73342afac82e1d7766cc4.ctex"
+path="res://.godot/imported/bg_rivercitydowntown.jpg-55cffb9b0b59d46c8076667ac345ec6f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_rivercitydowntown.jpg"
-dest_files=["res://.godot/imported/bg_rivercitydowntown.jpg-207d2fd644c73342afac82e1d7766cc4.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_rivercitydowntown.jpg"
+dest_files=["res://.godot/imported/bg_rivercitydowntown.jpg-55cffb9b0b59d46c8076667ac345ec6f.ctex"]
 
 [params]
 

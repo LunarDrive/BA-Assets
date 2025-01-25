@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://djimomuv3xk23"
-path="res://.godot/imported/SE_BroomSweep_03.ogg-5e2325871294d56e0b59a97de3a279a4.oggvorbisstr"
+path="res://.godot/imported/SE_BroomSweep_03.ogg-bc625b6600429b12bfa0eac0f65c38c7.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_BroomSweep_03.ogg"
-dest_files=["res://.godot/imported/SE_BroomSweep_03.ogg-5e2325871294d56e0b59a97de3a279a4.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_BroomSweep_03.ogg"
+dest_files=["res://.godot/imported/SE_BroomSweep_03.ogg-bc625b6600429b12bfa0eac0f65c38c7.oggvorbisstr"]
 
 [params]
 

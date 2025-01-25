@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://03vs8jdvtix0"
-path="res://.godot/imported/SE_VendingMachine_04.ogg-3eca45cee188733d34e92ab97d057894.oggvorbisstr"
+path="res://.godot/imported/SE_VendingMachine_04.ogg-0ce481e0a7ec7a2e688cd89a93e820e9.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_VendingMachine_04.ogg"
-dest_files=["res://.godot/imported/SE_VendingMachine_04.ogg-3eca45cee188733d34e92ab97d057894.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_VendingMachine_04.ogg"
+dest_files=["res://.godot/imported/SE_VendingMachine_04.ogg-0ce481e0a7ec7a2e688cd89a93e820e9.oggvorbisstr"]
 
 [params]
 

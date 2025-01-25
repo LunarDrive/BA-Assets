@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddm8e86u7xujy"
-path="res://.godot/imported/Item_Icon_Material_Rocket_0.png-7c91486840dc24b581af3db96e5318fc.ctex"
+path="res://.godot/imported/Item_Icon_Material_Rocket_0.png-f05a12d5f32e999d2093871c4b7df812.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Rocket_0.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_Rocket_0.png-7c91486840dc24b581af3db96e5318fc.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Rocket_0.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_Rocket_0.png-f05a12d5f32e999d2093871c4b7df812.ctex"]
 
 [params]
 

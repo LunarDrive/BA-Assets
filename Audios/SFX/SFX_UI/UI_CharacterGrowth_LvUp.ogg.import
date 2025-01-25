@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cdhneh31f1ds3"
-path="res://.godot/imported/UI_CharacterGrowth_LvUp.ogg-e0fd3f03883dc09a8456a408bb350dac.oggvorbisstr"
+path="res://.godot/imported/UI_CharacterGrowth_LvUp.ogg-20344a4a3b2bf5a7a13dda54e3578299.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_UI/UI_CharacterGrowth_LvUp.ogg"
-dest_files=["res://.godot/imported/UI_CharacterGrowth_LvUp.ogg-e0fd3f03883dc09a8456a408bb350dac.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_UI/UI_CharacterGrowth_LvUp.ogg"
+dest_files=["res://.godot/imported/UI_CharacterGrowth_LvUp.ogg-20344a4a3b2bf5a7a13dda54e3578299.oggvorbisstr"]
 
 [params]
 

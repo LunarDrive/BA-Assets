@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bfsy54n385dgs"
-path="res://.godot/imported/UI_Node_Craft2_Complete.ogg-5295fc19071008985320f9ed804bd15a.oggvorbisstr"
+path="res://.godot/imported/UI_Node_Craft2_Complete.ogg-18257aa5db4fd8ad62e8b4f2c5ba0e3f.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_UI/UI_Node_Craft2_Complete.ogg"
-dest_files=["res://.godot/imported/UI_Node_Craft2_Complete.ogg-5295fc19071008985320f9ed804bd15a.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_UI/UI_Node_Craft2_Complete.ogg"
+dest_files=["res://.godot/imported/UI_Node_Craft2_Complete.ogg-18257aa5db4fd8ad62e8b4f2c5ba0e3f.oggvorbisstr"]
 
 [params]
 

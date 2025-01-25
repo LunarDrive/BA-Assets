@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cbirl0inmc6l8"
-path="res://.godot/imported/SE_Dog_04b.ogg-975af9e76fafa7bb71228225fcc40ab0.oggvorbisstr"
+path="res://.godot/imported/SE_Dog_04b.ogg-c7db67a51b775de5680369c86df6d7de.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Dog_04b.ogg"
-dest_files=["res://.godot/imported/SE_Dog_04b.ogg-975af9e76fafa7bb71228225fcc40ab0.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_Dog_04b.ogg"
+dest_files=["res://.godot/imported/SE_Dog_04b.ogg-c7db67a51b775de5680369c86df6d7de.oggvorbisstr"]
 
 [params]
 

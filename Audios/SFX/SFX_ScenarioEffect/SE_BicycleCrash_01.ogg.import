@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://baj3g4fe087um"
-path="res://.godot/imported/SE_BicycleCrash_01.ogg-6c58522c39b278ce624c016e5c02eb38.oggvorbisstr"
+path="res://.godot/imported/SE_BicycleCrash_01.ogg-c5fe1742b6d8cf26cea75cfdddb3812e.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_BicycleCrash_01.ogg"
-dest_files=["res://.godot/imported/SE_BicycleCrash_01.ogg-6c58522c39b278ce624c016e5c02eb38.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_BicycleCrash_01.ogg"
+dest_files=["res://.godot/imported/SE_BicycleCrash_01.ogg-c5fe1742b6d8cf26cea75cfdddb3812e.oggvorbisstr"]
 
 [params]
 

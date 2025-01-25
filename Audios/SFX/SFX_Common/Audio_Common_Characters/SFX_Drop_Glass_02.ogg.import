@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://scgl8wvl5a3n"
-path="res://.godot/imported/SFX_Drop_Glass_02.ogg-24d867c3f90b6b710541ad4515a58444.oggvorbisstr"
+path="res://.godot/imported/SFX_Drop_Glass_02.ogg-d5736c6b7d3d51586bd368a3f417e573.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Drop_Glass_02.ogg"
-dest_files=["res://.godot/imported/SFX_Drop_Glass_02.ogg-24d867c3f90b6b710541ad4515a58444.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Drop_Glass_02.ogg"
+dest_files=["res://.godot/imported/SFX_Drop_Glass_02.ogg-d5736c6b7d3d51586bd368a3f417e573.oggvorbisstr"]
 
 [params]
 

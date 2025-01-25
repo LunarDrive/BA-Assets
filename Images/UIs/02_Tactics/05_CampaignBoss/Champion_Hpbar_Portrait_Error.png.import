@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vy7v5u4rkiyx"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Error.png-27ed37b8e84d83c88aa89071b88bba79.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Error.png-302b3502650afa9d10702d18edd538a8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Error.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Error.png-27ed37b8e84d83c88aa89071b88bba79.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Error.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Error.png-302b3502650afa9d10702d18edd538a8.ctex"]
 
 [params]
 

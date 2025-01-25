@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cg8avalpfvrto"
-path="res://.godot/imported/event01_misaki.png-032971feb60c7ae55a3690000c12adac.ctex"
+path="res://.godot/imported/event01_misaki.png-455d4c1bfe2ddc6ad1ede23ee587de7c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_misaki.png"
-dest_files=["res://.godot/imported/event01_misaki.png-032971feb60c7ae55a3690000c12adac.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/04_ScenarioImage/event01_misaki.png"
+dest_files=["res://.godot/imported/event01_misaki.png-455d4c1bfe2ddc6ad1ede23ee587de7c.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bxcqeuol26qm2"
-path="res://.godot/imported/UI_CharacterGrowth_ThreeShin.ogg-b400a074294262da008678968cbd58f5.oggvorbisstr"
+path="res://.godot/imported/UI_CharacterGrowth_ThreeShin.ogg-fabfc5dab5be4857cd7133637122518d.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_UI/UI_CharacterGrowth_ThreeShin.ogg"
-dest_files=["res://.godot/imported/UI_CharacterGrowth_ThreeShin.ogg-b400a074294262da008678968cbd58f5.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_UI/UI_CharacterGrowth_ThreeShin.ogg"
+dest_files=["res://.godot/imported/UI_CharacterGrowth_ThreeShin.ogg-fabfc5dab5be4857cd7133637122518d.oggvorbisstr"]
 
 [params]
 

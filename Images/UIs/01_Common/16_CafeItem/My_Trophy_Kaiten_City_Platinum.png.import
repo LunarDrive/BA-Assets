@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bx2ibus0dy41c"
-path="res://.godot/imported/My_Trophy_Kaiten_City_Platinum.png-59a5c96812b3d6ffbbe0262394aa0fdc.ctex"
+path="res://.godot/imported/My_Trophy_Kaiten_City_Platinum.png-52e756518b940b6df44e132695ea3e4f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Trophy_Kaiten_City_Platinum.png"
-dest_files=["res://.godot/imported/My_Trophy_Kaiten_City_Platinum.png-59a5c96812b3d6ffbbe0262394aa0fdc.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/16_CafeItem/My_Trophy_Kaiten_City_Platinum.png"
+dest_files=["res://.godot/imported/My_Trophy_Kaiten_City_Platinum.png-52e756518b940b6df44e132695ea3e4f.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dueu45ojhob6"
-path="res://.godot/imported/SE_MomoTalk_01.ogg-0a003c6e31a3fc22043bd57bd6a75e35.oggvorbisstr"
+path="res://.godot/imported/SE_MomoTalk_01.ogg-2846d4922032b796b4d90314f2680eb2.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_MomoTalk_01.ogg"
-dest_files=["res://.godot/imported/SE_MomoTalk_01.ogg-0a003c6e31a3fc22043bd57bd6a75e35.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_MomoTalk_01.ogg"
+dest_files=["res://.godot/imported/SE_MomoTalk_01.ogg-2846d4922032b796b4d90314f2680eb2.oggvorbisstr"]
 
 [params]
 

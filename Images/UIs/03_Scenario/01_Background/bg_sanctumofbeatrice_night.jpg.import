@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddpmmx2od44a5"
-path="res://.godot/imported/bg_sanctumofbeatrice_night.jpg-5875dac1737c1314208dd241eb460b22.ctex"
+path="res://.godot/imported/bg_sanctumofbeatrice_night.jpg-2f16b8001d6a2f1b77f67b75e94b6c3a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_sanctumofbeatrice_night.jpg"
-dest_files=["res://.godot/imported/bg_sanctumofbeatrice_night.jpg-5875dac1737c1314208dd241eb460b22.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_sanctumofbeatrice_night.jpg"
+dest_files=["res://.godot/imported/bg_sanctumofbeatrice_night.jpg-2f16b8001d6a2f1b77f67b75e94b6c3a.ctex"]
 
 [params]
 

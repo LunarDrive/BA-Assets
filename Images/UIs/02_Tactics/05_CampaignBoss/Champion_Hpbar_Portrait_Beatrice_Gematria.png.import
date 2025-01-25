@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://docdtw8igdmwl"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Beatrice_Gematria.png-436f586b91dc600b64fe81ffd573fae8.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Beatrice_Gematria.png-eab7acdcd828a691cefeabdf8ff397a8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Beatrice_Gematria.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Beatrice_Gematria.png-436f586b91dc600b64fe81ffd573fae8.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Beatrice_Gematria.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Beatrice_Gematria.png-eab7acdcd828a691cefeabdf8ff397a8.ctex"]
 
 [params]
 

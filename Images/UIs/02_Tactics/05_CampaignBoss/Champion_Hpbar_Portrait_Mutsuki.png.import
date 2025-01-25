@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgy0y211iautc"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Mutsuki.png-9ac6050562c6e66ea73d7056e91b60ae.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Mutsuki.png-a561663aa7c0247f6b9574baff341427.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Mutsuki.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Mutsuki.png-9ac6050562c6e66ea73d7056e91b60ae.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Mutsuki.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Mutsuki.png-a561663aa7c0247f6b9574baff341427.ctex"]
 
 [params]
 

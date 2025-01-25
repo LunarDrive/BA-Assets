@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbmn4e1rdgu32"
-path="res://.godot/imported/Skill_Portrait_Yuzu.png-efd68949ca2b094497539ecdf59e33ff.ctex"
+path="res://.godot/imported/Skill_Portrait_Yuzu.png-0d61db94ee5af3ef071fb45ee322beeb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Yuzu.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Yuzu.png-efd68949ca2b094497539ecdf59e33ff.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Yuzu.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Yuzu.png-0d61db94ee5af3ef071fb45ee322beeb.ctex"]
 
 [params]
 

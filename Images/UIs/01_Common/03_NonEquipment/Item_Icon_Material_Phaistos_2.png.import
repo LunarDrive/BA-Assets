@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsu3fyehsjkq5"
-path="res://.godot/imported/Item_Icon_Material_Phaistos_2.png-173baddc4ee9a3842f77f97fcd2edf75.ctex"
+path="res://.godot/imported/Item_Icon_Material_Phaistos_2.png-0f27faf87cc3d0b43d555d27220a867f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Phaistos_2.png"
-dest_files=["res://.godot/imported/Item_Icon_Material_Phaistos_2.png-173baddc4ee9a3842f77f97fcd2edf75.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/03_NonEquipment/Item_Icon_Material_Phaistos_2.png"
+dest_files=["res://.godot/imported/Item_Icon_Material_Phaistos_2.png-0f27faf87cc3d0b43d555d27220a867f.ctex"]
 
 [params]
 

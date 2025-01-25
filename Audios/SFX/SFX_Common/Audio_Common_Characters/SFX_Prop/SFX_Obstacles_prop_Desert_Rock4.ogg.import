@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://jv8ug0k4mmr8"
-path="res://.godot/imported/SFX_Obstacles_prop_Desert_Rock4.ogg-5ad2217bbad4f24b80739dfabe4d10b2.oggvorbisstr"
+path="res://.godot/imported/SFX_Obstacles_prop_Desert_Rock4.ogg-c9b6fb69b7fc74fade452a1c6cd951b9.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Prop/SFX_Obstacles_prop_Desert_Rock4.ogg"
-dest_files=["res://.godot/imported/SFX_Obstacles_prop_Desert_Rock4.ogg-5ad2217bbad4f24b80739dfabe4d10b2.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Prop/SFX_Obstacles_prop_Desert_Rock4.ogg"
+dest_files=["res://.godot/imported/SFX_Obstacles_prop_Desert_Rock4.ogg-c9b6fb69b7fc74fade452a1c6cd951b9.oggvorbisstr"]
 
 [params]
 

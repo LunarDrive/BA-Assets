@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqnsrtjfnrh7s"
-path="res://.godot/imported/NPC_Portrait_Arius_GL1.png-6ac6303904496b08f5d0016e5e2d7ff1.ctex"
+path="res://.godot/imported/NPC_Portrait_Arius_GL1.png-f454d8e39a2c450b042828d806100d15.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Arius_GL1.png"
-dest_files=["res://.godot/imported/NPC_Portrait_Arius_GL1.png-6ac6303904496b08f5d0016e5e2d7ff1.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/01_Character/NPC_Portrait_Arius_GL1.png"
+dest_files=["res://.godot/imported/NPC_Portrait_Arius_GL1.png-f454d8e39a2c450b042828d806100d15.ctex"]
 
 [params]
 

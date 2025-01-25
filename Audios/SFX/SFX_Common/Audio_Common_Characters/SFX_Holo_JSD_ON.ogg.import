@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bik347qko2swj"
-path="res://.godot/imported/SFX_Holo_JSD_ON.ogg-014745d8b3b274b32067fb38e40701b2.oggvorbisstr"
+path="res://.godot/imported/SFX_Holo_JSD_ON.ogg-78b3032698b6e934ea200648d94c86ac.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Holo_JSD_ON.ogg"
-dest_files=["res://.godot/imported/SFX_Holo_JSD_ON.ogg-014745d8b3b274b32067fb38e40701b2.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Holo_JSD_ON.ogg"
+dest_files=["res://.godot/imported/SFX_Holo_JSD_ON.ogg-78b3032698b6e934ea200648d94c86ac.oggvorbisstr"]
 
 [params]
 

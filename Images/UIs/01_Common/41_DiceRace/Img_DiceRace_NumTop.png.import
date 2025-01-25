@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddog0058ekunl"
-path="res://.godot/imported/Img_DiceRace_NumTop.png-e0ff3f5e1a8a7c07ea2651464edbd0d8.ctex"
+path="res://.godot/imported/Img_DiceRace_NumTop.png-4058a4a1a9e506069d73f3965f51623f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/41_DiceRace/Img_DiceRace_NumTop.png"
-dest_files=["res://.godot/imported/Img_DiceRace_NumTop.png-e0ff3f5e1a8a7c07ea2651464edbd0d8.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/41_DiceRace/Img_DiceRace_NumTop.png"
+dest_files=["res://.godot/imported/Img_DiceRace_NumTop.png-4058a4a1a9e506069d73f3965f51623f.ctex"]
 
 [params]
 

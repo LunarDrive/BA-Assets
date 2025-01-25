@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://b72qjfugnrmqj"
-path="res://.godot/imported/SFX_Emoticon_Motion_Chat.wav-7590ae5cfb41babd9c390ad892cdadd5.sample"
+path="res://.godot/imported/SFX_Emoticon_Motion_Chat.wav-282d960d41a2e9188d94b0b4c287f085.sample"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Chat.wav"
-dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Chat.wav-7590ae5cfb41babd9c390ad892cdadd5.sample"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SFX_Emoticon_Motion_Chat.wav"
+dest_files=["res://.godot/imported/SFX_Emoticon_Motion_Chat.wav-282d960d41a2e9188d94b0b4c287f085.sample"]
 
 [params]
 

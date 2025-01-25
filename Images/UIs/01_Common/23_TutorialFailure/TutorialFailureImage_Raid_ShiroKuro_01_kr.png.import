@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://nvetdfrclmin"
-path="res://.godot/imported/TutorialFailureImage_Raid_ShiroKuro_01_kr.png-4c29bb3865042ca884fa00c6f31622e6.ctex"
+path="res://.godot/imported/TutorialFailureImage_Raid_ShiroKuro_01_kr.png-5368e9dc7974689892baed6cb3ac40e4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_kr.png"
-dest_files=["res://.godot/imported/TutorialFailureImage_Raid_ShiroKuro_01_kr.png-4c29bb3865042ca884fa00c6f31622e6.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_kr.png"
+dest_files=["res://.godot/imported/TutorialFailureImage_Raid_ShiroKuro_01_kr.png-5368e9dc7974689892baed6cb3ac40e4.ctex"]
 
 [params]
 

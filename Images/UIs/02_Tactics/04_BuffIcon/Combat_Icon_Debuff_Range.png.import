@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://beyd5rq6kve1r"
-path="res://.godot/imported/Combat_Icon_Debuff_Range.png-8ef1ff6e5af2f6e94e2fa8b0d9c2be8b.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_Range.png-89bb7d7de99a77183e290f1b5a4529ab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_Range.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_Range.png-8ef1ff6e5af2f6e94e2fa8b0d9c2be8b.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_Range.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_Range.png-89bb7d7de99a77183e290f1b5a4529ab.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctuxrccmdy7jk"
-path="res://.godot/imported/My_Military_01_Carpet_01.png-11b1b6127ce76f16228f196e8ae5e64e.ctex"
+path="res://.godot/imported/My_Military_01_Carpet_01.png-5ef96bd0cbcd0f9f582ab72f5954f16b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Military_01_Carpet_01.png"
-dest_files=["res://.godot/imported/My_Military_01_Carpet_01.png-11b1b6127ce76f16228f196e8ae5e64e.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/16_CafeItem/My_Military_01_Carpet_01.png"
+dest_files=["res://.godot/imported/My_Military_01_Carpet_01.png-5ef96bd0cbcd0f9f582ab72f5954f16b.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://o0ki3b44yavv"
-path="res://.godot/imported/UI_CharacterGrowth_LimitBreak_New_Star.ogg-74aafe6927530559c2ec25d62cab50ba.oggvorbisstr"
+path="res://.godot/imported/UI_CharacterGrowth_LimitBreak_New_Star.ogg-a308e7ded061ba785bdae9744f43e99e.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_UI/UI_CharacterGrowth_LimitBreak_New_Star.ogg"
-dest_files=["res://.godot/imported/UI_CharacterGrowth_LimitBreak_New_Star.ogg-74aafe6927530559c2ec25d62cab50ba.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_UI/UI_CharacterGrowth_LimitBreak_New_Star.ogg"
+dest_files=["res://.godot/imported/UI_CharacterGrowth_LimitBreak_New_Star.ogg-a308e7ded061ba785bdae9744f43e99e.oggvorbisstr"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dh57bqepvelo2"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Drone_Decagram_Missile.png-0a314dde0b7e61a818c77b1f98cbf292.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Drone_Decagram_Missile.png-f3931de03477b748cd9de0316d20b0a5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Drone_Decagram_Missile.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Drone_Decagram_Missile.png-0a314dde0b7e61a818c77b1f98cbf292.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Drone_Decagram_Missile.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Drone_Decagram_Missile.png-f3931de03477b748cd9de0316d20b0a5.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bp0gjvjaea5i7"
-path="res://.godot/imported/bg_ariusstreet.jpg-eaceea79cfd14c026a37a72292f22e4f.ctex"
+path="res://.godot/imported/bg_ariusstreet.jpg-b2ebe183c10b43420070ca04abd9da42.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_ariusstreet.jpg"
-dest_files=["res://.godot/imported/bg_ariusstreet.jpg-eaceea79cfd14c026a37a72292f22e4f.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_ariusstreet.jpg"
+dest_files=["res://.godot/imported/bg_ariusstreet.jpg-b2ebe183c10b43420070ca04abd9da42.ctex"]
 
 [params]
 

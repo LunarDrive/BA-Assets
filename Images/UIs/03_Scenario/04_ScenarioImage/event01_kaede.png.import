@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu4tp2lyeciyi"
-path="res://.godot/imported/event01_kaede.png-f490dacc607f4302edec70348ca4ddd4.ctex"
+path="res://.godot/imported/event01_kaede.png-3e56dd754b9d7320f6ad69fc729ed219.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_kaede.png"
-dest_files=["res://.godot/imported/event01_kaede.png-f490dacc607f4302edec70348ca4ddd4.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/04_ScenarioImage/event01_kaede.png"
+dest_files=["res://.godot/imported/event01_kaede.png-3e56dd754b9d7320f6ad69fc729ed219.ctex"]
 
 [params]
 

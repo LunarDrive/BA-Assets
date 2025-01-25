@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4xxflwefwipm"
-path="res://.godot/imported/Combat_Icon_CC_Fear.png-57c6b7ceef681c25e9e9e55201430467.ctex"
+path="res://.godot/imported/Combat_Icon_CC_Fear.png-be3211867581b13138810d34bf09149e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_CC_Fear.png"
-dest_files=["res://.godot/imported/Combat_Icon_CC_Fear.png-57c6b7ceef681c25e9e9e55201430467.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_CC_Fear.png"
+dest_files=["res://.godot/imported/Combat_Icon_CC_Fear.png-be3211867581b13138810d34bf09149e.ctex"]
 
 [params]
 

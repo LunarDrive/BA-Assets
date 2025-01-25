@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://mx4s2c8klnl"
-path="res://.godot/imported/SE_SchoolBell_04.ogg-64024637270440d547805c4f17e2472f.oggvorbisstr"
+path="res://.godot/imported/SE_SchoolBell_04.ogg-62b2a673616318507e1a7da383c8a2dc.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_SchoolBell_04.ogg"
-dest_files=["res://.godot/imported/SE_SchoolBell_04.ogg-64024637270440d547805c4f17e2472f.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_SchoolBell_04.ogg"
+dest_files=["res://.godot/imported/SE_SchoolBell_04.ogg-62b2a673616318507e1a7da383c8a2dc.oggvorbisstr"]
 
 [params]
 

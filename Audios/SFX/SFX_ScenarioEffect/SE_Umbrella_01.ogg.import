@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dody4tu1aim48"
-path="res://.godot/imported/SE_Umbrella_01.ogg-4495de6f7d3a40bd463ebb04feea35d8.oggvorbisstr"
+path="res://.godot/imported/SE_Umbrella_01.ogg-58e554e3c7e117eb81d3a6e478da7904.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Umbrella_01.ogg"
-dest_files=["res://.godot/imported/SE_Umbrella_01.ogg-4495de6f7d3a40bd463ebb04feea35d8.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_Umbrella_01.ogg"
+dest_files=["res://.godot/imported/SE_Umbrella_01.ogg-58e554e3c7e117eb81d3a6e478da7904.oggvorbisstr"]
 
 [params]
 

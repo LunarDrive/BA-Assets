@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://do3u54mcuhwav"
-path="res://.godot/imported/Arena_Map_Street_02.png-54cd3480b3e186445c376a7cf234b651.ctex"
+path="res://.godot/imported/Arena_Map_Street_02.png-64a7c36b73db4523e58180ee2954e460.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/18_PVPArena/Arena_Map_Street_02.png"
-dest_files=["res://.godot/imported/Arena_Map_Street_02.png-54cd3480b3e186445c376a7cf234b651.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/18_PVPArena/Arena_Map_Street_02.png"
+dest_files=["res://.godot/imported/Arena_Map_Street_02.png-64a7c36b73db4523e58180ee2954e460.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cypc51jykmdcv"
-path="res://.godot/imported/bg_gehennacampus_night.jpg-4a417e806df9b6c4e3bb90e2fddb14ff.ctex"
+path="res://.godot/imported/bg_gehennacampus_night.jpg-caf6de971e07a422900509f16774bdf4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_gehennacampus_night.jpg"
-dest_files=["res://.godot/imported/bg_gehennacampus_night.jpg-4a417e806df9b6c4e3bb90e2fddb14ff.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_gehennacampus_night.jpg"
+dest_files=["res://.godot/imported/bg_gehennacampus_night.jpg-caf6de971e07a422900509f16774bdf4.ctex"]
 
 [params]
 

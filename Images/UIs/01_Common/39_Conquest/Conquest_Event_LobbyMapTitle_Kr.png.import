@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cw0pn03lqigyk"
-path="res://.godot/imported/Conquest_Event_LobbyMapTitle_Kr.png-4008a146a7e29fbf09a10a712d1c7404.ctex"
+path="res://.godot/imported/Conquest_Event_LobbyMapTitle_Kr.png-3e8700dd2a2be5fd0604dbab7262d802.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/39_Conquest/Conquest_Event_LobbyMapTitle_Kr.png"
-dest_files=["res://.godot/imported/Conquest_Event_LobbyMapTitle_Kr.png-4008a146a7e29fbf09a10a712d1c7404.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/39_Conquest/Conquest_Event_LobbyMapTitle_Kr.png"
+dest_files=["res://.godot/imported/Conquest_Event_LobbyMapTitle_Kr.png-3e8700dd2a2be5fd0604dbab7262d802.ctex"]
 
 [params]
 

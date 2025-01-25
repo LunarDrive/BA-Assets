@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctc8i5o0h537v"
-path="res://.godot/imported/bg_ruincity.jpg-d98c6e58a84c8255610484af080edf6b.ctex"
+path="res://.godot/imported/bg_ruincity.jpg-9e4d73c0e0031dea3d927f6501cfe080.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_ruincity.jpg"
-dest_files=["res://.godot/imported/bg_ruincity.jpg-d98c6e58a84c8255610484af080edf6b.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_ruincity.jpg"
+dest_files=["res://.godot/imported/bg_ruincity.jpg-9e4d73c0e0031dea3d927f6501cfe080.ctex"]
 
 [params]
 

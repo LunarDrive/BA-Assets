@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c14c7ws8l8bdi"
-path="res://.godot/imported/SKILLICON_HOD_EXSKILL01.png-360d637f74e0268085a3d94ddde401b9.ctex"
+path="res://.godot/imported/SKILLICON_HOD_EXSKILL01.png-b026aab373c85a6c70094afa4db71cff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_HOD_EXSKILL01.png"
-dest_files=["res://.godot/imported/SKILLICON_HOD_EXSKILL01.png-360d637f74e0268085a3d94ddde401b9.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_HOD_EXSKILL01.png"
+dest_files=["res://.godot/imported/SKILLICON_HOD_EXSKILL01.png-b026aab373c85a6c70094afa4db71cff.ctex"]
 
 [params]
 

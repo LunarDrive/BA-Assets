@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcl84hy4omw0k"
-path="res://.godot/imported/Information_SchoolDungeon_02_Jp.png-1d63c34f97aa777b7394136f5eb95ab4.ctex"
+path="res://.godot/imported/Information_SchoolDungeon_02_Jp.png-477b637de802c0560bf6aee0403b92ea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/28_Information/Information_SchoolDungeon_02_Jp.png"
-dest_files=["res://.godot/imported/Information_SchoolDungeon_02_Jp.png-1d63c34f97aa777b7394136f5eb95ab4.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/28_Information/Information_SchoolDungeon_02_Jp.png"
+dest_files=["res://.godot/imported/Information_SchoolDungeon_02_Jp.png-477b637de802c0560bf6aee0403b92ea.ctex"]
 
 [params]
 

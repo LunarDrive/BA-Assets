@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d3k4whmbs40r6"
-path="res://.godot/imported/SE_EatNoodle_02.ogg-7cad929940d7f40cef4bf30d4500891d.oggvorbisstr"
+path="res://.godot/imported/SE_EatNoodle_02.ogg-1c6d02340dd8c4faa19fa222c5537a0b.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_EatNoodle_02.ogg"
-dest_files=["res://.godot/imported/SE_EatNoodle_02.ogg-7cad929940d7f40cef4bf30d4500891d.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_EatNoodle_02.ogg"
+dest_files=["res://.godot/imported/SE_EatNoodle_02.ogg-1c6d02340dd8c4faa19fa222c5537a0b.oggvorbisstr"]
 
 [params]
 

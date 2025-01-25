@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bf7anq63rdljt"
-path="res://.godot/imported/SE_StrongWind_01.ogg-0ecc169ca8512c0d8b7bc40e392ff781.oggvorbisstr"
+path="res://.godot/imported/SE_StrongWind_01.ogg-089c52795e7cecdb1c8d47fb0f698324.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_StrongWind_01.ogg"
-dest_files=["res://.godot/imported/SE_StrongWind_01.ogg-0ecc169ca8512c0d8b7bc40e392ff781.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_StrongWind_01.ogg"
+dest_files=["res://.godot/imported/SE_StrongWind_01.ogg-089c52795e7cecdb1c8d47fb0f698324.oggvorbisstr"]
 
 [params]
 

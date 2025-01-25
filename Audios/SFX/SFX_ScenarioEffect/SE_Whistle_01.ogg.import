@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://diafmaxqsp2cy"
-path="res://.godot/imported/SE_Whistle_01.ogg-95cc5b524619c737768521abb363e3d5.oggvorbisstr"
+path="res://.godot/imported/SE_Whistle_01.ogg-31192d3331ecae06344a6f2319fbc6f3.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Whistle_01.ogg"
-dest_files=["res://.godot/imported/SE_Whistle_01.ogg-95cc5b524619c737768521abb363e3d5.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_Whistle_01.ogg"
+dest_files=["res://.godot/imported/SE_Whistle_01.ogg-31192d3331ecae06344a6f2319fbc6f3.oggvorbisstr"]
 
 [params]
 

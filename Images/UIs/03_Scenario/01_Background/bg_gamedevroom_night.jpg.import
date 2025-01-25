@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7wxtgii1capq"
-path="res://.godot/imported/bg_gamedevroom_night.jpg-43c0542dfefbb955daaf680339c0ec03.ctex"
+path="res://.godot/imported/bg_gamedevroom_night.jpg-104b2a61327e84c991205baf7a2c766d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_gamedevroom_night.jpg"
-dest_files=["res://.godot/imported/bg_gamedevroom_night.jpg-43c0542dfefbb955daaf680339c0ec03.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_gamedevroom_night.jpg"
+dest_files=["res://.godot/imported/bg_gamedevroom_night.jpg-104b2a61327e84c991205baf7a2c766d.ctex"]
 
 [params]
 

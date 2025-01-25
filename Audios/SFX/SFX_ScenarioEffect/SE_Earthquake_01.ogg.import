@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://blbmgna7irodn"
-path="res://.godot/imported/SE_Earthquake_01.ogg-35a1ef8bad445553d5625e999664e550.oggvorbisstr"
+path="res://.godot/imported/SE_Earthquake_01.ogg-e8784ca8e2befe9c680de255332f4144.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Earthquake_01.ogg"
-dest_files=["res://.godot/imported/SE_Earthquake_01.ogg-35a1ef8bad445553d5625e999664e550.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_Earthquake_01.ogg"
+dest_files=["res://.godot/imported/SE_Earthquake_01.ogg-e8784ca8e2befe9c680de255332f4144.oggvorbisstr"]
 
 [params]
 

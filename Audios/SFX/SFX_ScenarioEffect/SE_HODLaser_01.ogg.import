@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dp3bt152k6858"
-path="res://.godot/imported/SE_HODLaser_01.ogg-a28d4b320f5fd06f94e55b29bedd24d9.oggvorbisstr"
+path="res://.godot/imported/SE_HODLaser_01.ogg-2e140cbbd41810ad2dc5b8a418011726.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_HODLaser_01.ogg"
-dest_files=["res://.godot/imported/SE_HODLaser_01.ogg-a28d4b320f5fd06f94e55b29bedd24d9.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_HODLaser_01.ogg"
+dest_files=["res://.godot/imported/SE_HODLaser_01.ogg-2e140cbbd41810ad2dc5b8a418011726.oggvorbisstr"]
 
 [params]
 

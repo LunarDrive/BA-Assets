@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bcj1271gf3qpj"
-path="res://.godot/imported/My_Autumnsports_01_Ballrack.png-ff7f42c0640cd5485c4305b3d6bee010.ctex"
+path="res://.godot/imported/My_Autumnsports_01_Ballrack.png-7dcb5a3093df6b1d2750dc73328e547f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Autumnsports_01_Ballrack.png"
-dest_files=["res://.godot/imported/My_Autumnsports_01_Ballrack.png-ff7f42c0640cd5485c4305b3d6bee010.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/16_CafeItem/My_Autumnsports_01_Ballrack.png"
+dest_files=["res://.godot/imported/My_Autumnsports_01_Ballrack.png-7dcb5a3093df6b1d2750dc73328e547f.ctex"]
 
 [params]
 

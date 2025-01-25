@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnob5qxmjlyn1"
-path="res://.godot/imported/Combat_Icon_Debuff_Bleed.png-8916ee6e2ef805a0f49d7b085a2de70f.ctex"
+path="res://.godot/imported/Combat_Icon_Debuff_Bleed.png-27ddb1a1d10b531557408f7e847ae777.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_Bleed.png"
-dest_files=["res://.godot/imported/Combat_Icon_Debuff_Bleed.png-8916ee6e2ef805a0f49d7b085a2de70f.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_Bleed.png"
+dest_files=["res://.godot/imported/Combat_Icon_Debuff_Bleed.png-27ddb1a1d10b531557408f7e847ae777.ctex"]
 
 [params]
 

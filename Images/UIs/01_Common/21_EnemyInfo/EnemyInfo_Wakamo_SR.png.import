@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdljxpsenb5gl"
-path="res://.godot/imported/EnemyInfo_Wakamo_SR.png-a7a1346942a71cad16a84d98d565059b.ctex"
+path="res://.godot/imported/EnemyInfo_Wakamo_SR.png-64d83cefa29d1de661a51e6d159a5de3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Wakamo_SR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Wakamo_SR.png-a7a1346942a71cad16a84d98d565059b.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Wakamo_SR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Wakamo_SR.png-64d83cefa29d1de661a51e6d159a5de3.ctex"]
 
 [params]
 

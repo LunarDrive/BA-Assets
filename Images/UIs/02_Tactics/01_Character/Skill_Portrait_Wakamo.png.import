@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c22mmi7pf3fd0"
-path="res://.godot/imported/Skill_Portrait_Wakamo.png-f390586f5e1cc852071a331c9640f50b.ctex"
+path="res://.godot/imported/Skill_Portrait_Wakamo.png-2caafbe85e499665c1ea9fd8475fb920.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Wakamo.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Wakamo.png-f390586f5e1cc852071a331c9640f50b.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Wakamo.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Wakamo.png-2caafbe85e499665c1ea9fd8475fb920.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxlaorivcxle5"
-path="res://.godot/imported/UINote_Guide.png-2f1674b7915d3a9d3dbf6d44634e0363.ctex"
+path="res://.godot/imported/UINote_Guide.png-9d14a3267c69ccae4995d7ecfebab9b8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/34_MiniGame/Rhythm01/UINote_Guide.png"
-dest_files=["res://.godot/imported/UINote_Guide.png-2f1674b7915d3a9d3dbf6d44634e0363.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/34_MiniGame/Rhythm01/UINote_Guide.png"
+dest_files=["res://.godot/imported/UINote_Guide.png-9d14a3267c69ccae4995d7ecfebab9b8.ctex"]
 
 [params]
 

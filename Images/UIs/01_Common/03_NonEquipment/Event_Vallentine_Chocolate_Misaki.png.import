@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://by113sk2mrldt"
-path="res://.godot/imported/Event_Vallentine_Chocolate_Misaki.png-b62f3e768f9dec6e4fa9fc774b8e3495.ctex"
+path="res://.godot/imported/Event_Vallentine_Chocolate_Misaki.png-b53f2d01390607a3e2b7b7c48ad7e9d8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/03_NonEquipment/Event_Vallentine_Chocolate_Misaki.png"
-dest_files=["res://.godot/imported/Event_Vallentine_Chocolate_Misaki.png-b62f3e768f9dec6e4fa9fc774b8e3495.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/03_NonEquipment/Event_Vallentine_Chocolate_Misaki.png"
+dest_files=["res://.godot/imported/Event_Vallentine_Chocolate_Misaki.png-b53f2d01390607a3e2b7b7c48ad7e9d8.ctex"]
 
 [params]
 

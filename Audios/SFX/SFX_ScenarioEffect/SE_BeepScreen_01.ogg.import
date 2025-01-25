@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://br4nxa52olaln"
-path="res://.godot/imported/SE_BeepScreen_01.ogg-54f771926d600b6ef58305b92ec86a8d.oggvorbisstr"
+path="res://.godot/imported/SE_BeepScreen_01.ogg-1a50fbb332b30a09ae8f9ed50c388651.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_BeepScreen_01.ogg"
-dest_files=["res://.godot/imported/SE_BeepScreen_01.ogg-54f771926d600b6ef58305b92ec86a8d.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_BeepScreen_01.ogg"
+dest_files=["res://.godot/imported/SE_BeepScreen_01.ogg-1a50fbb332b30a09ae8f9ed50c388651.oggvorbisstr"]
 
 [params]
 

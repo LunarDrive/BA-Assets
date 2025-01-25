@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b03mtone3csws"
-path="res://.godot/imported/mo_yuuka_01.png-f09a3307a259db39e681618745d0d0a4.ctex"
+path="res://.godot/imported/mo_yuuka_01.png-422b3c94522ef632dc9abad4803eb62c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/mo_yuuka_01.png"
-dest_files=["res://.godot/imported/mo_yuuka_01.png-f09a3307a259db39e681618745d0d0a4.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/04_ScenarioImage/mo_yuuka_01.png"
+dest_files=["res://.godot/imported/mo_yuuka_01.png-422b3c94522ef632dc9abad4803eb62c.ctex"]
 
 [params]
 

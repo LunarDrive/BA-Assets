@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ncscj2v5s27g"
-path="res://.godot/imported/Gacha_SubInfo_2.png-fa16c37fe597496eca34c32bac9fd9de.ctex"
+path="res://.godot/imported/Gacha_SubInfo_2.png-dd2cc89c906f894d29c4c49e9798252a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/00_Images/Gacha/Gacha_SubInfo_2.png"
-dest_files=["res://.godot/imported/Gacha_SubInfo_2.png-fa16c37fe597496eca34c32bac9fd9de.ctex"]
+source_file="res://assets/BA/Images/UIs/00_Images/Gacha/Gacha_SubInfo_2.png"
+dest_files=["res://.godot/imported/Gacha_SubInfo_2.png-dd2cc89c906f894d29c4c49e9798252a.ctex"]
 
 [params]
 

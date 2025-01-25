@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dxxk0nfqlg1gh"
-path="res://.godot/imported/SE_HoshinoShield_01.ogg-cf972b00b313856f4c0a515126063ad8.oggvorbisstr"
+path="res://.godot/imported/SE_HoshinoShield_01.ogg-fe3663b25ed8255ce00f840aaeb2e358.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_HoshinoShield_01.ogg"
-dest_files=["res://.godot/imported/SE_HoshinoShield_01.ogg-cf972b00b313856f4c0a515126063ad8.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_HoshinoShield_01.ogg"
+dest_files=["res://.godot/imported/SE_HoshinoShield_01.ogg-fe3663b25ed8255ce00f840aaeb2e358.oggvorbisstr"]
 
 [params]
 

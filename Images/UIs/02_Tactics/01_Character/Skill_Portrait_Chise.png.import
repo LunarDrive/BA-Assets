@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckvh4ixc042e5"
-path="res://.godot/imported/Skill_Portrait_Chise.png-1f20715829c7abd88573530cb0001820.ctex"
+path="res://.godot/imported/Skill_Portrait_Chise.png-d37e0fc39640504050f57e05fd032c56.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Chise.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Chise.png-1f20715829c7abd88573530cb0001820.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Chise.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Chise.png-d37e0fc39640504050f57e05fd032c56.ctex"]
 
 [params]
 

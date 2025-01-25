@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ce2wq3ts1cmx"
-path="res://.godot/imported/SKILLICON_UTAHA_EXSKILL.png-b33425d1dec897f890938ffec12e0d08.ctex"
+path="res://.godot/imported/SKILLICON_UTAHA_EXSKILL.png-8e5796ae26bbc1ecf51805dcc28a6b95.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/02_SkillIcon/SKILLICON_UTAHA_EXSKILL.png"
-dest_files=["res://.godot/imported/SKILLICON_UTAHA_EXSKILL.png-b33425d1dec897f890938ffec12e0d08.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/02_SkillIcon/SKILLICON_UTAHA_EXSKILL.png"
+dest_files=["res://.godot/imported/SKILLICON_UTAHA_EXSKILL.png-8e5796ae26bbc1ecf51805dcc28a6b95.ctex"]
 
 [params]
 

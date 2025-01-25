@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddgnqfhlybl5k"
-path="res://.godot/imported/Imgfont_UICountdown_2nd_Seminar_Kr.png-d346996f14034f029ce594067225577a.ctex"
+path="res://.godot/imported/Imgfont_UICountdown_2nd_Seminar_Kr.png-d4dbde9b5c8d97eb1e4211304f65927f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/00_Images/Event/UICountdown_2nd/Imgfont_UICountdown_2nd_Seminar_Kr.png"
-dest_files=["res://.godot/imported/Imgfont_UICountdown_2nd_Seminar_Kr.png-d346996f14034f029ce594067225577a.ctex"]
+source_file="res://assets/BA/Images/UIs/00_Images/Event/UICountdown_2nd/Imgfont_UICountdown_2nd_Seminar_Kr.png"
+dest_files=["res://.godot/imported/Imgfont_UICountdown_2nd_Seminar_Kr.png-d4dbde9b5c8d97eb1e4211304f65927f.ctex"]
 
 [params]
 

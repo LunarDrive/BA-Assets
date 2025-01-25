@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5s6ll313fl7c"
-path="res://.godot/imported/EnemyInfo_Droid_Blackmarket_SMG.png-4fbf617b48244c1b7ae2aa3511930174.ctex"
+path="res://.godot/imported/EnemyInfo_Droid_Blackmarket_SMG.png-45a6421c066b8798587ea94ab9533b99.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Droid_Blackmarket_SMG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Droid_Blackmarket_SMG.png-4fbf617b48244c1b7ae2aa3511930174.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Droid_Blackmarket_SMG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Droid_Blackmarket_SMG.png-45a6421c066b8798587ea94ab9533b99.ctex"]
 
 [params]
 

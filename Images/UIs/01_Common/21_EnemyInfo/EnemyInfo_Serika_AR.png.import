@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pfdmm0jyrucd"
-path="res://.godot/imported/EnemyInfo_Serika_AR.png-d4036b9373dc208eba029b92de17074e.ctex"
+path="res://.godot/imported/EnemyInfo_Serika_AR.png-da5cb9c813864cb9431e055c358341a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Serika_AR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Serika_AR.png-d4036b9373dc208eba029b92de17074e.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Serika_AR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Serika_AR.png-da5cb9c813864cb9431e055c358341a9.ctex"]
 
 [params]
 

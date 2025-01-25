@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://jeuin2freimw"
-path="res://.godot/imported/SFX_Common_SMG_CH0069_Random_01.wav-1f7522d45778202d07c5a2a8a761f4b7.sample"
+path="res://.godot/imported/SFX_Common_SMG_CH0069_Random_01.wav-ef447dcc6800f0b5adae22bc32c4d851.sample"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/SFX_Common_SMG_CH0069_Random_01.wav"
-dest_files=["res://.godot/imported/SFX_Common_SMG_CH0069_Random_01.wav-1f7522d45778202d07c5a2a8a761f4b7.sample"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/SFX_Common_SMG_CH0069_Random_01.wav"
+dest_files=["res://.godot/imported/SFX_Common_SMG_CH0069_Random_01.wav-ef447dcc6800f0b5adae22bc32c4d851.sample"]
 
 [params]
 

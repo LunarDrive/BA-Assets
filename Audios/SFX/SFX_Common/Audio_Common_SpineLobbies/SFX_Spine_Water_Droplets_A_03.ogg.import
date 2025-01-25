@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dj7uyn3cx8yiv"
-path="res://.godot/imported/SFX_Spine_Water_Droplets_A_03.ogg-51e358f4db53377d3238c4b470b5ee3b.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_Water_Droplets_A_03.ogg-5f499b12892dd37d892195aa19ee4d72.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Water_Droplets_A_03.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_Water_Droplets_A_03.ogg-51e358f4db53377d3238c4b470b5ee3b.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Water_Droplets_A_03.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_Water_Droplets_A_03.ogg-5f499b12892dd37d892195aa19ee4d72.oggvorbisstr"]
 
 [params]
 

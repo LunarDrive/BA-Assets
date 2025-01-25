@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://brllryeaog76a"
-path="res://.godot/imported/SE_Ratchet_01.ogg-9ac184395845bfb81d650d8e89eb7c0c.oggvorbisstr"
+path="res://.godot/imported/SE_Ratchet_01.ogg-00b8409da133d468066b59f7fd45bcb4.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Ratchet_01.ogg"
-dest_files=["res://.godot/imported/SE_Ratchet_01.ogg-9ac184395845bfb81d650d8e89eb7c0c.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_Ratchet_01.ogg"
+dest_files=["res://.godot/imported/SE_Ratchet_01.ogg-00b8409da133d468066b59f7fd45bcb4.oggvorbisstr"]
 
 [params]
 

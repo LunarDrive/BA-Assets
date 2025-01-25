@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b66tlkdtc75f7"
-path="res://.godot/imported/EnemyInfo_Yukata_StreetGhostes_MG.png-fc83b56f04c33a1c2e00e1eb4698ae29.ctex"
+path="res://.godot/imported/EnemyInfo_Yukata_StreetGhostes_MG.png-1ccf6c8e5b5bf2032ce92adbaa25f0d6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Yukata_StreetGhostes_MG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Yukata_StreetGhostes_MG.png-fc83b56f04c33a1c2e00e1eb4698ae29.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Yukata_StreetGhostes_MG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Yukata_StreetGhostes_MG.png-1ccf6c8e5b5bf2032ce92adbaa25f0d6.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7vid4dijkmuy"
-path="res://.godot/imported/bg_park_night.jpg-212efcd06b3981fe41ea74be6db9f4f8.ctex"
+path="res://.godot/imported/bg_park_night.jpg-07d9ffb23ad461b0d04ef1c1d7f9dfc3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_park_night.jpg"
-dest_files=["res://.godot/imported/bg_park_night.jpg-212efcd06b3981fe41ea74be6db9f4f8.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_park_night.jpg"
+dest_files=["res://.godot/imported/bg_park_night.jpg-07d9ffb23ad461b0d04ef1c1d7f9dfc3.ctex"]
 
 [params]
 

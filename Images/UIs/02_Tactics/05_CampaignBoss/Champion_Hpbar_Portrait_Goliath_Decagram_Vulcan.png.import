@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://baa3y40a1xaxo"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Goliath_Decagram_Vulcan.png-33a072a5d5d691fd0f03051ba0a6572c.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Goliath_Decagram_Vulcan.png-c6228d4625f91e2a33ff4a4dfc02ee5b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Goliath_Decagram_Vulcan.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Goliath_Decagram_Vulcan.png-33a072a5d5d691fd0f03051ba0a6572c.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Goliath_Decagram_Vulcan.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Goliath_Decagram_Vulcan.png-c6228d4625f91e2a33ff4a4dfc02ee5b.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cwj3rx1nr6v8f"
-path="res://.godot/imported/SE_DragChair_01.ogg-7eaec1be0c90a153c3b087dd888de942.oggvorbisstr"
+path="res://.godot/imported/SE_DragChair_01.ogg-f3f228bd1a63f8b7bcbd724a3a5f40d0.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_DragChair_01.ogg"
-dest_files=["res://.godot/imported/SE_DragChair_01.ogg-7eaec1be0c90a153c3b087dd888de942.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_DragChair_01.ogg"
+dest_files=["res://.godot/imported/SE_DragChair_01.ogg-f3f228bd1a63f8b7bcbd724a3a5f40d0.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c2d01rtbbihjb"
-path="res://.godot/imported/UI_Conquest_CompleteEffect.ogg-324cf48daebea80fc9d1d35a3892a615.oggvorbisstr"
+path="res://.godot/imported/UI_Conquest_CompleteEffect.ogg-a88a03e3a5b6abc0782b80b738494f55.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_UI/UI_Conquest_CompleteEffect.ogg"
-dest_files=["res://.godot/imported/UI_Conquest_CompleteEffect.ogg-324cf48daebea80fc9d1d35a3892a615.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_UI/UI_Conquest_CompleteEffect.ogg"
+dest_files=["res://.godot/imported/UI_Conquest_CompleteEffect.ogg-a88a03e3a5b6abc0782b80b738494f55.oggvorbisstr"]
 
 [params]
 

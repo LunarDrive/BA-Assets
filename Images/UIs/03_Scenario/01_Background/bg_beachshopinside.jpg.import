@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dyqsw4svj1or5"
-path="res://.godot/imported/bg_beachshopinside.jpg-c4cf1ba8d0bbf16548ec186750a654f1.ctex"
+path="res://.godot/imported/bg_beachshopinside.jpg-a0360a9848c83497a0a2f58c9e7cecb3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_beachshopinside.jpg"
-dest_files=["res://.godot/imported/bg_beachshopinside.jpg-c4cf1ba8d0bbf16548ec186750a654f1.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_beachshopinside.jpg"
+dest_files=["res://.godot/imported/bg_beachshopinside.jpg-a0360a9848c83497a0a2f58c9e7cecb3.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ciucvrtlttb4x"
-path="res://.godot/imported/Lobbyillust_Icon_Shiroko_01.png-0b88074bd978e3fde6f4e6a00906bd45.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Shiroko_01.png-2c1c6972269011cf08c71173e783f4ea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Shiroko_01.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Shiroko_01.png-0b88074bd978e3fde6f4e6a00906bd45.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Shiroko_01.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Shiroko_01.png-2c1c6972269011cf08c71173e783f4ea.ctex"]
 
 [params]
 

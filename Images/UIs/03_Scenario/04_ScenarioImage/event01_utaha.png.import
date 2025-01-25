@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brsqxcfh4gpnk"
-path="res://.godot/imported/event01_utaha.png-7cb56f68329fa748cdce134293d82d14.ctex"
+path="res://.godot/imported/event01_utaha.png-6958f0578123313a8928df7e2f009cb6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_utaha.png"
-dest_files=["res://.godot/imported/event01_utaha.png-7cb56f68329fa748cdce134293d82d14.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/04_ScenarioImage/event01_utaha.png"
+dest_files=["res://.godot/imported/event01_utaha.png-6958f0578123313a8928df7e2f009cb6.ctex"]
 
 [params]
 

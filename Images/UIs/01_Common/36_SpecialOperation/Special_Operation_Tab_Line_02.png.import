@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://crocbbav15m3m"
-path="res://.godot/imported/Special_Operation_Tab_Line_02.png-b72f25cecb2d41ed8b5abebed3292151.ctex"
+path="res://.godot/imported/Special_Operation_Tab_Line_02.png-1fe4d82bbeef622e3b3ff7a4e21c6928.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/36_SpecialOperation/Special_Operation_Tab_Line_02.png"
-dest_files=["res://.godot/imported/Special_Operation_Tab_Line_02.png-b72f25cecb2d41ed8b5abebed3292151.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/36_SpecialOperation/Special_Operation_Tab_Line_02.png"
+dest_files=["res://.godot/imported/Special_Operation_Tab_Line_02.png-1fe4d82bbeef622e3b3ff7a4e21c6928.ctex"]
 
 [params]
 

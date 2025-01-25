@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gfwv445sowsk"
-path="res://.godot/imported/NPC_Portrait_Rin_Collection.png-11bd0055b2f9d977544463e261bd0807.ctex"
+path="res://.godot/imported/NPC_Portrait_Rin_Collection.png-4ace84e2df0fce89199d6038048ae67e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/NPC_Portrait_Rin_Collection.png"
-dest_files=["res://.godot/imported/NPC_Portrait_Rin_Collection.png-11bd0055b2f9d977544463e261bd0807.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/14_CharacterCollect/NPC_Portrait_Rin_Collection.png"
+dest_files=["res://.godot/imported/NPC_Portrait_Rin_Collection.png-4ace84e2df0fce89199d6038048ae67e.ctex"]
 
 [params]
 

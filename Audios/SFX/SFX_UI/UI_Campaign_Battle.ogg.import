@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://3wilf35eu2sm"
-path="res://.godot/imported/UI_Campaign_Battle.ogg-e9393803fb20b5135039536436e13e96.oggvorbisstr"
+path="res://.godot/imported/UI_Campaign_Battle.ogg-178deac7755474a2b1caae7736458018.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_UI/UI_Campaign_Battle.ogg"
-dest_files=["res://.godot/imported/UI_Campaign_Battle.ogg-e9393803fb20b5135039536436e13e96.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_UI/UI_Campaign_Battle.ogg"
+dest_files=["res://.godot/imported/UI_Campaign_Battle.ogg-178deac7755474a2b1caae7736458018.oggvorbisstr"]
 
 [params]
 

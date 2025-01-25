@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkm5blqtea2sc"
-path="res://.godot/imported/My_Chocolatecafe_01_P_Sofa.png-c165551e23f3aaffd170c55cced94f3a.ctex"
+path="res://.godot/imported/My_Chocolatecafe_01_P_Sofa.png-5b9286cb2e6358ec56f566363364fde0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Chocolatecafe_01_P_Sofa.png"
-dest_files=["res://.godot/imported/My_Chocolatecafe_01_P_Sofa.png-c165551e23f3aaffd170c55cced94f3a.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/16_CafeItem/My_Chocolatecafe_01_P_Sofa.png"
+dest_files=["res://.godot/imported/My_Chocolatecafe_01_P_Sofa.png-5b9286cb2e6358ec56f566363364fde0.ctex"]
 
 [params]
 

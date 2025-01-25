@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cew830s0f3n5b"
-path="res://.godot/imported/event01_maki.png-d488af5ccafd731bd039ea7e55253608.ctex"
+path="res://.godot/imported/event01_maki.png-243fd95c04e175f46ff272c683a88653.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_maki.png"
-dest_files=["res://.godot/imported/event01_maki.png-d488af5ccafd731bd039ea7e55253608.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/04_ScenarioImage/event01_maki.png"
+dest_files=["res://.godot/imported/event01_maki.png-243fd95c04e175f46ff272c683a88653.ctex"]
 
 [params]
 

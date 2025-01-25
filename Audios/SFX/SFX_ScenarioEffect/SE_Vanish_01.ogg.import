@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dffcf8vmg0d3p"
-path="res://.godot/imported/SE_Vanish_01.ogg-de35c8daa6f4f67d55afd5bfd24537af.oggvorbisstr"
+path="res://.godot/imported/SE_Vanish_01.ogg-82c4613ab18e0af300de80b992fc6187.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Vanish_01.ogg"
-dest_files=["res://.godot/imported/SE_Vanish_01.ogg-de35c8daa6f4f67d55afd5bfd24537af.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_Vanish_01.ogg"
+dest_files=["res://.godot/imported/SE_Vanish_01.ogg-82c4613ab18e0af300de80b992fc6187.oggvorbisstr"]
 
 [params]
 

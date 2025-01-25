@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b8l7lkv1kl7u"
-path="res://.godot/imported/SE_EatMagic_01.ogg-dfc5ff5714460cac74c05573364b3bd1.oggvorbisstr"
+path="res://.godot/imported/SE_EatMagic_01.ogg-d93273cc310a13c38721c23e1fc41dfa.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_EatMagic_01.ogg"
-dest_files=["res://.godot/imported/SE_EatMagic_01.ogg-dfc5ff5714460cac74c05573364b3bd1.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_EatMagic_01.ogg"
+dest_files=["res://.godot/imported/SE_EatMagic_01.ogg-d93273cc310a13c38721c23e1fc41dfa.oggvorbisstr"]
 
 [params]
 

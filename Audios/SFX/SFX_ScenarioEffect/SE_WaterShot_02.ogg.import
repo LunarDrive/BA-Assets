@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bbwpb7ncjr3kn"
-path="res://.godot/imported/SE_WaterShot_02.ogg-656c68e1b2752b3f9f0c32fef3e9b139.oggvorbisstr"
+path="res://.godot/imported/SE_WaterShot_02.ogg-113144e39ba3a014db327a4d104d59e2.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_WaterShot_02.ogg"
-dest_files=["res://.godot/imported/SE_WaterShot_02.ogg-656c68e1b2752b3f9f0c32fef3e9b139.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_WaterShot_02.ogg"
+dest_files=["res://.godot/imported/SE_WaterShot_02.ogg-113144e39ba3a014db327a4d104d59e2.oggvorbisstr"]
 
 [params]
 

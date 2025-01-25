@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1suvnk61fktj"
-path="res://.godot/imported/Special_Operation_Deco_Light.png-aa9f27bdfd91f41eafac36e5a55d684f.ctex"
+path="res://.godot/imported/Special_Operation_Deco_Light.png-bfcdc789130ab2f569bc943c2010ddd5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/36_SpecialOperation/Special_Operation_Deco_Light.png"
-dest_files=["res://.godot/imported/Special_Operation_Deco_Light.png-aa9f27bdfd91f41eafac36e5a55d684f.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/36_SpecialOperation/Special_Operation_Deco_Light.png"
+dest_files=["res://.godot/imported/Special_Operation_Deco_Light.png-bfcdc789130ab2f569bc943c2010ddd5.ctex"]
 
 [params]
 

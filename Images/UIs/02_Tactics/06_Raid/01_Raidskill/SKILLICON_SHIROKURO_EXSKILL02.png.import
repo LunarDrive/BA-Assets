@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpbheawlvgvhr"
-path="res://.godot/imported/SKILLICON_SHIROKURO_EXSKILL02.png-c944926030c1fa633277d418f7835ce1.ctex"
+path="res://.godot/imported/SKILLICON_SHIROKURO_EXSKILL02.png-b8a0e5a191536cc6cc60a44f137da920.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_SHIROKURO_EXSKILL02.png"
-dest_files=["res://.godot/imported/SKILLICON_SHIROKURO_EXSKILL02.png-c944926030c1fa633277d418f7835ce1.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/06_Raid/01_Raidskill/SKILLICON_SHIROKURO_EXSKILL02.png"
+dest_files=["res://.godot/imported/SKILLICON_SHIROKURO_EXSKILL02.png-b8a0e5a191536cc6cc60a44f137da920.ctex"]
 
 [params]
 

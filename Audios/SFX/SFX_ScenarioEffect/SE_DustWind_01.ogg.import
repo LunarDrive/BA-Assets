@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b3rvdxlgtdgjq"
-path="res://.godot/imported/SE_DustWind_01.ogg-ec90c80d1bd4caa69783aa93bb967ced.oggvorbisstr"
+path="res://.godot/imported/SE_DustWind_01.ogg-184512b290fa9f12bc97ab82937599bd.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_DustWind_01.ogg"
-dest_files=["res://.godot/imported/SE_DustWind_01.ogg-ec90c80d1bd4caa69783aa93bb967ced.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_DustWind_01.ogg"
+dest_files=["res://.godot/imported/SE_DustWind_01.ogg-184512b290fa9f12bc97ab82937599bd.oggvorbisstr"]
 
 [params]
 

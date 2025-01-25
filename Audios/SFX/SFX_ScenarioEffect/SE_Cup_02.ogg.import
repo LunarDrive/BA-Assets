@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dnyjqpgbpn8bc"
-path="res://.godot/imported/SE_Cup_02.ogg-3e772adfd0c1572e0cd61631cb67f484.oggvorbisstr"
+path="res://.godot/imported/SE_Cup_02.ogg-134eb202b173e17a8456faf2c4e404ec.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_Cup_02.ogg"
-dest_files=["res://.godot/imported/SE_Cup_02.ogg-3e772adfd0c1572e0cd61631cb67f484.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_Cup_02.ogg"
+dest_files=["res://.godot/imported/SE_Cup_02.ogg-134eb202b173e17a8456faf2c4e404ec.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://coj1dastwat8"
-path="res://.godot/imported/SFX_Spine_HandCuff_01.ogg-0f2aba1d94a423d7785e307c672f242e.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_HandCuff_01.ogg-3a0e974a7d5c1999de121307455cbd57.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_HandCuff_01.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_HandCuff_01.ogg-0f2aba1d94a423d7785e307c672f242e.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_HandCuff_01.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_HandCuff_01.ogg-3a0e974a7d5c1999de121307455cbd57.oggvorbisstr"]
 
 [params]
 

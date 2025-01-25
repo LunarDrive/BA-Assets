@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cc4lbx55mnxug"
-path="res://.godot/imported/SFX_Lobby_Shiroko.ogg-969363a6964a7e7c9f4ae4cfef7cb814.oggvorbisstr"
+path="res://.godot/imported/SFX_Lobby_Shiroko.ogg-ca0127bb36ea0d5ce1e32895bfe440a6.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Lobby_Shiroko.ogg"
-dest_files=["res://.godot/imported/SFX_Lobby_Shiroko.ogg-969363a6964a7e7c9f4ae4cfef7cb814.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Lobby_Shiroko.ogg"
+dest_files=["res://.godot/imported/SFX_Lobby_Shiroko.ogg-ca0127bb36ea0d5ce1e32895bfe440a6.oggvorbisstr"]
 
 [params]
 

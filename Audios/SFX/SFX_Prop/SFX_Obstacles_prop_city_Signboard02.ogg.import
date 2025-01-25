@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b51frdbkchq5e"
-path="res://.godot/imported/SFX_Obstacles_prop_city_Signboard02.ogg-71df7a95085ca88363e1278d58b45735.oggvorbisstr"
+path="res://.godot/imported/SFX_Obstacles_prop_city_Signboard02.ogg-22cad1dafed29d3bfed650993f3407e6.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Prop/SFX_Obstacles_prop_city_Signboard02.ogg"
-dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_Signboard02.ogg-71df7a95085ca88363e1278d58b45735.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Prop/SFX_Obstacles_prop_city_Signboard02.ogg"
+dest_files=["res://.godot/imported/SFX_Obstacles_prop_city_Signboard02.ogg-22cad1dafed29d3bfed650993f3407e6.oggvorbisstr"]
 
 [params]
 

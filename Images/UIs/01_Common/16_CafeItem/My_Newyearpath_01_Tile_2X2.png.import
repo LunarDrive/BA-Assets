@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4q5dnaeqfc2i"
-path="res://.godot/imported/My_Newyearpath_01_Tile_2X2.png-836f14ec11416ae69b4545a68b84f2b4.ctex"
+path="res://.godot/imported/My_Newyearpath_01_Tile_2X2.png-5c0566beb2db429eb4bd09bd6cdac5a4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/16_CafeItem/My_Newyearpath_01_Tile_2X2.png"
-dest_files=["res://.godot/imported/My_Newyearpath_01_Tile_2X2.png-836f14ec11416ae69b4545a68b84f2b4.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/16_CafeItem/My_Newyearpath_01_Tile_2X2.png"
+dest_files=["res://.godot/imported/My_Newyearpath_01_Tile_2X2.png-5c0566beb2db429eb4bd09bd6cdac5a4.ctex"]
 
 [params]
 

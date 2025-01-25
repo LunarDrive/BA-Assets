@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7ih6nf0j343u"
-path="res://.godot/imported/EnemyInfo_Usagibot_Slumpia_AR.png-581d1ece4a0d40cdc53ca51f5447234c.ctex"
+path="res://.godot/imported/EnemyInfo_Usagibot_Slumpia_AR.png-c60075191f51dc2e38511b250a8de74d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Usagibot_Slumpia_AR.png"
-dest_files=["res://.godot/imported/EnemyInfo_Usagibot_Slumpia_AR.png-581d1ece4a0d40cdc53ca51f5447234c.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Usagibot_Slumpia_AR.png"
+dest_files=["res://.godot/imported/EnemyInfo_Usagibot_Slumpia_AR.png-c60075191f51dc2e38511b250a8de74d.ctex"]
 
 [params]
 

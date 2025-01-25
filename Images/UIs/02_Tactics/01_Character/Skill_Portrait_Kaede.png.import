@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1jfxiiqkvwti"
-path="res://.godot/imported/Skill_Portrait_Kaede.png-ae28e270042d0a7c3e91972b6b408c1c.ctex"
+path="res://.godot/imported/Skill_Portrait_Kaede.png-81a1f40c6221d4ad478dfc6cab14aa54.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Kaede.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Kaede.png-ae28e270042d0a7c3e91972b6b408c1c.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Kaede.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Kaede.png-81a1f40c6221d4ad478dfc6cab14aa54.ctex"]
 
 [params]
 

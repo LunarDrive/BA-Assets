@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://fldocftxnoi6"
-path="res://.godot/imported/SE_TearDoll_01.ogg-64abfc572f27d694b795bd51baba23e4.oggvorbisstr"
+path="res://.godot/imported/SE_TearDoll_01.ogg-e7e8361693c89b67e0129b318d67b4bb.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_TearDoll_01.ogg"
-dest_files=["res://.godot/imported/SE_TearDoll_01.ogg-64abfc572f27d694b795bd51baba23e4.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_TearDoll_01.ogg"
+dest_files=["res://.godot/imported/SE_TearDoll_01.ogg-e7e8361693c89b67e0129b318d67b4bb.oggvorbisstr"]
 
 [params]
 

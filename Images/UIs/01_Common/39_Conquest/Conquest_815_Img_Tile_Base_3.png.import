@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpmyq8umyawka"
-path="res://.godot/imported/Conquest_815_Img_Tile_Base_3.png-6dbd9d89d47c61d089b831f7583a45bd.ctex"
+path="res://.godot/imported/Conquest_815_Img_Tile_Base_3.png-244fdaddffddebc6c52f8c32349de652.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/39_Conquest/Conquest_815_Img_Tile_Base_3.png"
-dest_files=["res://.godot/imported/Conquest_815_Img_Tile_Base_3.png-6dbd9d89d47c61d089b831f7583a45bd.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/39_Conquest/Conquest_815_Img_Tile_Base_3.png"
+dest_files=["res://.godot/imported/Conquest_815_Img_Tile_Base_3.png-244fdaddffddebc6c52f8c32349de652.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://5gsq3cupcdp5"
-path="res://.godot/imported/UI_Rank_ST_01.ogg-dc6b7c9ff22f09e05fbcd68091423011.oggvorbisstr"
+path="res://.godot/imported/UI_Rank_ST_01.ogg-9f0502fecd0435e2192a91cd97036b3d.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_UI/UI_Rank_ST_01.ogg"
-dest_files=["res://.godot/imported/UI_Rank_ST_01.ogg-dc6b7c9ff22f09e05fbcd68091423011.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_UI/UI_Rank_ST_01.ogg"
+dest_files=["res://.godot/imported/UI_Rank_ST_01.ogg-9f0502fecd0435e2192a91cd97036b3d.oggvorbisstr"]
 
 [params]
 

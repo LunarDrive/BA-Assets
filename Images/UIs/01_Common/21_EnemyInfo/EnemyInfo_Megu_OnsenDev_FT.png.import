@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyc05njhnidbj"
-path="res://.godot/imported/EnemyInfo_Megu_OnsenDev_FT.png-ebbef8e06255d4a7bdcf708aeb686d18.ctex"
+path="res://.godot/imported/EnemyInfo_Megu_OnsenDev_FT.png-f30e546bde8d28476f6d643e6eb0a060.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Megu_OnsenDev_FT.png"
-dest_files=["res://.godot/imported/EnemyInfo_Megu_OnsenDev_FT.png-ebbef8e06255d4a7bdcf708aeb686d18.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Megu_OnsenDev_FT.png"
+dest_files=["res://.godot/imported/EnemyInfo_Megu_OnsenDev_FT.png-f30e546bde8d28476f6d643e6eb0a060.ctex"]
 
 [params]
 

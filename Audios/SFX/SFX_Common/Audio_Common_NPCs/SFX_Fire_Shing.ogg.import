@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ctppm4a86fudv"
-path="res://.godot/imported/SFX_Fire_Shing.ogg-2abad86502d9131c0755c2193cf8fd71.oggvorbisstr"
+path="res://.godot/imported/SFX_Fire_Shing.ogg-acee648e5d5e360d88ede3c027a06d3f.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_NPCs/SFX_Fire_Shing.ogg"
-dest_files=["res://.godot/imported/SFX_Fire_Shing.ogg-2abad86502d9131c0755c2193cf8fd71.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_NPCs/SFX_Fire_Shing.ogg"
+dest_files=["res://.godot/imported/SFX_Fire_Shing.ogg-acee648e5d5e360d88ede3c027a06d3f.oggvorbisstr"]
 
 [params]
 

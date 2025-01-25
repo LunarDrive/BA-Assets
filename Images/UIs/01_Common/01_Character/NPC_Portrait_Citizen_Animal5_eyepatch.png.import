@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cvm064hr1rxo0"
-path="res://.godot/imported/NPC_Portrait_Citizen_Animal5_eyepatch.png-e787fca6ae07b327234f3eada6062442.ctex"
+path="res://.godot/imported/NPC_Portrait_Citizen_Animal5_eyepatch.png-918a9d16315a5fbe69cc6bc490147b5e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal5_eyepatch.png"
-dest_files=["res://.godot/imported/NPC_Portrait_Citizen_Animal5_eyepatch.png-e787fca6ae07b327234f3eada6062442.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal5_eyepatch.png"
+dest_files=["res://.godot/imported/NPC_Portrait_Citizen_Animal5_eyepatch.png-918a9d16315a5fbe69cc6bc490147b5e.ctex"]
 
 [params]
 

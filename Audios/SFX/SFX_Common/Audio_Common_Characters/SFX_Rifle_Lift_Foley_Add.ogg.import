@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c7b8j7d4ve458"
-path="res://.godot/imported/SFX_Rifle_Lift_Foley_Add.ogg-162ce24c90e27496bafa06b77c2a220b.oggvorbisstr"
+path="res://.godot/imported/SFX_Rifle_Lift_Foley_Add.ogg-20a98bdf1c0b9772dffda89705db0dd6.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Rifle_Lift_Foley_Add.ogg"
-dest_files=["res://.godot/imported/SFX_Rifle_Lift_Foley_Add.ogg-162ce24c90e27496bafa06b77c2a220b.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Rifle_Lift_Foley_Add.ogg"
+dest_files=["res://.godot/imported/SFX_Rifle_Lift_Foley_Add.ogg-20a98bdf1c0b9772dffda89705db0dd6.oggvorbisstr"]
 
 [params]
 

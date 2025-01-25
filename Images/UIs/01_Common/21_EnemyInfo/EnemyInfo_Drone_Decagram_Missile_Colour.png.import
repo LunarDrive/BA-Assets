@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddea81rwjmpd"
-path="res://.godot/imported/EnemyInfo_Drone_Decagram_Missile_Colour.png-c6f636b85207a429ab40849a94a978af.ctex"
+path="res://.godot/imported/EnemyInfo_Drone_Decagram_Missile_Colour.png-79e1a4a302f2ad92eb41fcffe3b23d67.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Drone_Decagram_Missile_Colour.png"
-dest_files=["res://.godot/imported/EnemyInfo_Drone_Decagram_Missile_Colour.png-c6f636b85207a429ab40849a94a978af.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Drone_Decagram_Missile_Colour.png"
+dest_files=["res://.godot/imported/EnemyInfo_Drone_Decagram_Missile_Colour.png-79e1a4a302f2ad92eb41fcffe3b23d67.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5fuem44uw7xe"
-path="res://.godot/imported/Imgfont_UICountdown_Trinity_School.png-4df4b8b158fb05d361d70c9a95e255ce.ctex"
+path="res://.godot/imported/Imgfont_UICountdown_Trinity_School.png-b4a0cd2e9b4fb4b5d175bd3e90db00e1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/00_Images/Event/UICountdown/Imgfont_UICountdown_Trinity_School.png"
-dest_files=["res://.godot/imported/Imgfont_UICountdown_Trinity_School.png-4df4b8b158fb05d361d70c9a95e255ce.ctex"]
+source_file="res://assets/BA/Images/UIs/00_Images/Event/UICountdown/Imgfont_UICountdown_Trinity_School.png"
+dest_files=["res://.godot/imported/Imgfont_UICountdown_Trinity_School.png-b4a0cd2e9b4fb4b5d175bd3e90db00e1.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cas730yfpjkrv"
-path="res://.godot/imported/EnemyInfo_Ambrosius_Communio.png-af1d843071fefa8ae684be8a8a5e89b4.ctex"
+path="res://.godot/imported/EnemyInfo_Ambrosius_Communio.png-e22a32eed954943819f0055a9ca5d2eb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Ambrosius_Communio.png"
-dest_files=["res://.godot/imported/EnemyInfo_Ambrosius_Communio.png-af1d843071fefa8ae684be8a8a5e89b4.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Ambrosius_Communio.png"
+dest_files=["res://.godot/imported/EnemyInfo_Ambrosius_Communio.png-e22a32eed954943819f0055a9ca5d2eb.ctex"]
 
 [params]
 

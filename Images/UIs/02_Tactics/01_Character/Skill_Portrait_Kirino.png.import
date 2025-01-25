@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pfu1p6ga26f2"
-path="res://.godot/imported/Skill_Portrait_Kirino.png-a88d5b677e96d6ce05334f56317008df.ctex"
+path="res://.godot/imported/Skill_Portrait_Kirino.png-33fb76c19a04f36af9b1fa95cf5f6b89.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Kirino.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Kirino.png-a88d5b677e96d6ce05334f56317008df.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Kirino.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Kirino.png-33fb76c19a04f36af9b1fa95cf5f6b89.ctex"]
 
 [params]
 

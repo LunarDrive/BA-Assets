@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1jnq04u2khcb"
-path="res://.godot/imported/bg_swimmingterrace.jpg-5008d19cdf8044d036380e7051e85430.ctex"
+path="res://.godot/imported/bg_swimmingterrace.jpg-0040744f778c3e8083796f3569038a69.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_swimmingterrace.jpg"
-dest_files=["res://.godot/imported/bg_swimmingterrace.jpg-5008d19cdf8044d036380e7051e85430.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_swimmingterrace.jpg"
+dest_files=["res://.godot/imported/bg_swimmingterrace.jpg-0040744f778c3e8083796f3569038a69.ctex"]
 
 [params]
 

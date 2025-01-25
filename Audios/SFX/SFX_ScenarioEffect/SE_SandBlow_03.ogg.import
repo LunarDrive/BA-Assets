@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dqddh4hqg4lvb"
-path="res://.godot/imported/SE_SandBlow_03.ogg-097ccb04f175904772174297511424a2.oggvorbisstr"
+path="res://.godot/imported/SE_SandBlow_03.ogg-a0ef62f51e922aeeaa4169a05774404f.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_ScenarioEffect/SE_SandBlow_03.ogg"
-dest_files=["res://.godot/imported/SE_SandBlow_03.ogg-097ccb04f175904772174297511424a2.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_ScenarioEffect/SE_SandBlow_03.ogg"
+dest_files=["res://.godot/imported/SE_SandBlow_03.ogg-a0ef62f51e922aeeaa4169a05774404f.oggvorbisstr"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cufjas42emlsp"
-path="res://.godot/imported/Skill_Portrait_Mutsuki.png-8bbc25b54fd3b6d293910db2ed3868f7.ctex"
+path="res://.godot/imported/Skill_Portrait_Mutsuki.png-380e0f59f81473a2e249a75ee7b455ac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Mutsuki.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Mutsuki.png-8bbc25b54fd3b6d293910db2ed3868f7.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Mutsuki.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Mutsuki.png-380e0f59f81473a2e249a75ee7b455ac.ctex"]
 
 [params]
 

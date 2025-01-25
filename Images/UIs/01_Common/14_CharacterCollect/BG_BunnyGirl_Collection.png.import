@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ssoyt1m3enim"
-path="res://.godot/imported/BG_BunnyGirl_Collection.png-5392549dfda440219ac62f85a5a620ea.ctex"
+path="res://.godot/imported/BG_BunnyGirl_Collection.png-5b9c8bfed0c26d665e5b8d36f04cd367.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/14_CharacterCollect/BG_BunnyGirl_Collection.png"
-dest_files=["res://.godot/imported/BG_BunnyGirl_Collection.png-5392549dfda440219ac62f85a5a620ea.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/14_CharacterCollect/BG_BunnyGirl_Collection.png"
+dest_files=["res://.godot/imported/BG_BunnyGirl_Collection.png-5b9c8bfed0c26d665e5b8d36f04cd367.ctex"]
 
 [params]
 

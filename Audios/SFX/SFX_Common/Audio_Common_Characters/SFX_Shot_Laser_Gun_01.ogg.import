@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dt6r3uvpqh4oe"
-path="res://.godot/imported/SFX_Shot_Laser_Gun_01.ogg-040a5b4d745027a4e56f8e322c1daeef.oggvorbisstr"
+path="res://.godot/imported/SFX_Shot_Laser_Gun_01.ogg-8f9b25f8c3d3f0162823892b514b8fa1.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Shot_Laser_Gun_01.ogg"
-dest_files=["res://.godot/imported/SFX_Shot_Laser_Gun_01.ogg-040a5b4d745027a4e56f8e322c1daeef.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_Characters/SFX_Shot_Laser_Gun_01.ogg"
+dest_files=["res://.godot/imported/SFX_Shot_Laser_Gun_01.ogg-8f9b25f8c3d3f0162823892b514b8fa1.oggvorbisstr"]
 
 [params]
 

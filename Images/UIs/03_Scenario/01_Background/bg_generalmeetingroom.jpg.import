@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://diak4lnhxqvp"
-path="res://.godot/imported/bg_generalmeetingroom.jpg-434d69b651c5bf957a6387f5ae97d46e.ctex"
+path="res://.godot/imported/bg_generalmeetingroom.jpg-ce920d53b832d4fd0ad64db06dfb8a6f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_generalmeetingroom.jpg"
-dest_files=["res://.godot/imported/bg_generalmeetingroom.jpg-434d69b651c5bf957a6387f5ae97d46e.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_generalmeetingroom.jpg"
+dest_files=["res://.godot/imported/bg_generalmeetingroom.jpg-ce920d53b832d4fd0ad64db06dfb8a6f.ctex"]
 
 [params]
 

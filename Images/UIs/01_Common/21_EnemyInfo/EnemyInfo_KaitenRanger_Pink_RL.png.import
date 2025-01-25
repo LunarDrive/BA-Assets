@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://io82xd2ffbjp"
-path="res://.godot/imported/EnemyInfo_KaitenRanger_Pink_RL.png-3866763b9d3bfdd17bd169f8f5cec84e.ctex"
+path="res://.godot/imported/EnemyInfo_KaitenRanger_Pink_RL.png-5335f5e16e6261f007dfa77c4058166a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_KaitenRanger_Pink_RL.png"
-dest_files=["res://.godot/imported/EnemyInfo_KaitenRanger_Pink_RL.png-3866763b9d3bfdd17bd169f8f5cec84e.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_KaitenRanger_Pink_RL.png"
+dest_files=["res://.godot/imported/EnemyInfo_KaitenRanger_Pink_RL.png-5335f5e16e6261f007dfa77c4058166a.ctex"]
 
 [params]
 

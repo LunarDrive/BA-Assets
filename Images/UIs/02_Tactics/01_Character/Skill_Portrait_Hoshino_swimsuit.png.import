@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6oijespq6idk"
-path="res://.godot/imported/Skill_Portrait_Hoshino_swimsuit.png-6dc5167fef921a9bb198e00e4b5bf3a2.ctex"
+path="res://.godot/imported/Skill_Portrait_Hoshino_swimsuit.png-2df39baa1fcfe3e9b3f6aa6788916f90.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Hoshino_swimsuit.png"
-dest_files=["res://.godot/imported/Skill_Portrait_Hoshino_swimsuit.png-6dc5167fef921a9bb198e00e4b5bf3a2.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/01_Character/Skill_Portrait_Hoshino_swimsuit.png"
+dest_files=["res://.godot/imported/Skill_Portrait_Hoshino_swimsuit.png-2df39baa1fcfe3e9b3f6aa6788916f90.ctex"]
 
 [params]
 

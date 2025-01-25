@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d31udtxopifrt"
-path="res://.godot/imported/UI_FX_BG_Rattle.ogg-1e01f5ab5992c28ed81e5a08797677f4.oggvorbisstr"
+path="res://.godot/imported/UI_FX_BG_Rattle.ogg-bb95096595f02f26d29c24b67dc27448.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Rattle.ogg"
-dest_files=["res://.godot/imported/UI_FX_BG_Rattle.ogg-1e01f5ab5992c28ed81e5a08797677f4.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_BackGroundEffect/UI_FX_BG_Rattle.ogg"
+dest_files=["res://.godot/imported/UI_FX_BG_Rattle.ogg-bb95096595f02f26d29c24b67dc27448.oggvorbisstr"]
 
 [params]
 

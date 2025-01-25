@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8kmtcwnf30up"
-path="res://.godot/imported/event01_mari.png-51a6eea62c6b7be40e9fb510f593ded6.ctex"
+path="res://.godot/imported/event01_mari.png-54a48cb4a199abff0eab8e02705f6bd2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/04_ScenarioImage/event01_mari.png"
-dest_files=["res://.godot/imported/event01_mari.png-51a6eea62c6b7be40e9fb510f593ded6.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/04_ScenarioImage/event01_mari.png"
+dest_files=["res://.godot/imported/event01_mari.png-54a48cb4a199abff0eab8e02705f6bd2.ctex"]
 
 [params]
 

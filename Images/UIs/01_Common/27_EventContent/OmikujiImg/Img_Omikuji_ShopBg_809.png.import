@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bb5c5qk1g5ycn"
-path="res://.godot/imported/Img_Omikuji_ShopBg_809.png-5a8583162fa5ed3e9b355ad4e4b0f5d3.ctex"
+path="res://.godot/imported/Img_Omikuji_ShopBg_809.png-2c7007ff33f799ceb21302c8ae2142f3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/27_EventContent/OmikujiImg/Img_Omikuji_ShopBg_809.png"
-dest_files=["res://.godot/imported/Img_Omikuji_ShopBg_809.png-5a8583162fa5ed3e9b355ad4e4b0f5d3.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/27_EventContent/OmikujiImg/Img_Omikuji_ShopBg_809.png"
+dest_files=["res://.godot/imported/Img_Omikuji_ShopBg_809.png-2c7007ff33f799ceb21302c8ae2142f3.ctex"]
 
 [params]
 

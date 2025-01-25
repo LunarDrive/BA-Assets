@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://du6xocwiveo4e"
-path="res://.godot/imported/bg_park_erode.jpg-e7e0cb649d2cef2fb513e4162691101b.ctex"
+path="res://.godot/imported/bg_park_erode.jpg-99417e6a18eccff207a17e1804ad3b7d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_park_erode.jpg"
-dest_files=["res://.godot/imported/bg_park_erode.jpg-e7e0cb649d2cef2fb513e4162691101b.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_park_erode.jpg"
+dest_files=["res://.godot/imported/bg_park_erode.jpg-99417e6a18eccff207a17e1804ad3b7d.ctex"]
 
 [params]
 

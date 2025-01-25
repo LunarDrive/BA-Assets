@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xk7edp7m5pyk"
-path="res://.godot/imported/bg_cherinooffice2_night.jpg-6a06de2be7b805d6ff402363b91a97b1.ctex"
+path="res://.godot/imported/bg_cherinooffice2_night.jpg-284d225ee957873ec3f69a99035c7a46.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/03_Scenario/01_Background/bg_cherinooffice2_night.jpg"
-dest_files=["res://.godot/imported/bg_cherinooffice2_night.jpg-6a06de2be7b805d6ff402363b91a97b1.ctex"]
+source_file="res://assets/BA/Images/UIs/03_Scenario/01_Background/bg_cherinooffice2_night.jpg"
+dest_files=["res://.godot/imported/bg_cherinooffice2_night.jpg-284d225ee957873ec3f69a99035c7a46.ctex"]
 
 [params]
 

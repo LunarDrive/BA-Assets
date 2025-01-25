@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://diiak5rsfdmcf"
-path="res://.godot/imported/EnemyInfo_Droid_Decagram_SMG.png-e49e0f7cfaa9001ad1b08e75c89a8b2e.ctex"
+path="res://.godot/imported/EnemyInfo_Droid_Decagram_SMG.png-6c47d90c3e13d30f948f4eb1170a9dd6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Droid_Decagram_SMG.png"
-dest_files=["res://.godot/imported/EnemyInfo_Droid_Decagram_SMG.png-e49e0f7cfaa9001ad1b08e75c89a8b2e.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/21_EnemyInfo/EnemyInfo_Droid_Decagram_SMG.png"
+dest_files=["res://.godot/imported/EnemyInfo_Droid_Decagram_SMG.png-6c47d90c3e13d30f948f4eb1170a9dd6.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d21v5iatk8l2c"
-path="res://.godot/imported/Student_Portrait_Kazusa_Small.png-b1718f64f7e531249d615dc8eebb2d1a.ctex"
+path="res://.godot/imported/Student_Portrait_Kazusa_Small.png-70b7fab39e30f6e8daaca77c3256f66b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/01_Character/Student_Portrait_Kazusa_Small.png"
-dest_files=["res://.godot/imported/Student_Portrait_Kazusa_Small.png-b1718f64f7e531249d615dc8eebb2d1a.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/01_Character/Student_Portrait_Kazusa_Small.png"
+dest_files=["res://.godot/imported/Student_Portrait_Kazusa_Small.png-70b7fab39e30f6e8daaca77c3256f66b.ctex"]
 
 [params]
 

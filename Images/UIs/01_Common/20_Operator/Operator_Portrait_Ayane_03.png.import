@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bacg546p4w80r"
-path="res://.godot/imported/Operator_Portrait_Ayane_03.png-ea2ea279f0bf3c4c0bea9d1a52c52a38.ctex"
+path="res://.godot/imported/Operator_Portrait_Ayane_03.png-6f6c98caad68d43677376f76c9625d74.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/20_Operator/Operator_Portrait_Ayane_03.png"
-dest_files=["res://.godot/imported/Operator_Portrait_Ayane_03.png-ea2ea279f0bf3c4c0bea9d1a52c52a38.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/20_Operator/Operator_Portrait_Ayane_03.png"
+dest_files=["res://.godot/imported/Operator_Portrait_Ayane_03.png-6f6c98caad68d43677376f76c9625d74.ctex"]
 
 [params]
 

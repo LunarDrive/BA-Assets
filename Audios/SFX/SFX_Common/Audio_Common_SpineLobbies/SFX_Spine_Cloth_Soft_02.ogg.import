@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bavuui8sl41m5"
-path="res://.godot/imported/SFX_Spine_Cloth_Soft_02.ogg-771ecfc58e3909761d1a0d919324a1f2.oggvorbisstr"
+path="res://.godot/imported/SFX_Spine_Cloth_Soft_02.ogg-05497d009fe2fdb013633c77a473a336.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Cloth_Soft_02.ogg"
-dest_files=["res://.godot/imported/SFX_Spine_Cloth_Soft_02.ogg-771ecfc58e3909761d1a0d919324a1f2.oggvorbisstr"]
+source_file="res://assets/BA/Audios/SFX/SFX_Common/Audio_Common_SpineLobbies/SFX_Spine_Cloth_Soft_02.ogg"
+dest_files=["res://.godot/imported/SFX_Spine_Cloth_Soft_02.ogg-05497d009fe2fdb013633c77a473a336.oggvorbisstr"]
 
 [params]
 

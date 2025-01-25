@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8jly8oel81h3"
-path="res://.godot/imported/Champion_Hpbar_Portrait_Cherino.png-83e4aa3de57635665e50817c18e12998.ctex"
+path="res://.godot/imported/Champion_Hpbar_Portrait_Cherino.png-67303d1d9efd71a6faea760897e2c883.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Cherino.png"
-dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Cherino.png-83e4aa3de57635665e50817c18e12998.ctex"]
+source_file="res://assets/BA/Images/UIs/02_Tactics/05_CampaignBoss/Champion_Hpbar_Portrait_Cherino.png"
+dest_files=["res://.godot/imported/Champion_Hpbar_Portrait_Cherino.png-67303d1d9efd71a6faea760897e2c883.ctex"]
 
 [params]
 

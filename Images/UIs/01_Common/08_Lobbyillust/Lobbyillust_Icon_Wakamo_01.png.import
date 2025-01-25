@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dt3c0ij08u2hb"
-path="res://.godot/imported/Lobbyillust_Icon_Wakamo_01.png-fb872998bd174bef6b241ba0c60ccc68.ctex"
+path="res://.godot/imported/Lobbyillust_Icon_Wakamo_01.png-c5d63e04a9d10b4f90ef7c5c3ff941cc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Wakamo_01.png"
-dest_files=["res://.godot/imported/Lobbyillust_Icon_Wakamo_01.png-fb872998bd174bef6b241ba0c60ccc68.ctex"]
+source_file="res://assets/BA/Images/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Wakamo_01.png"
+dest_files=["res://.godot/imported/Lobbyillust_Icon_Wakamo_01.png-c5d63e04a9d10b4f90ef7c5c3ff941cc.ctex"]
 
 [params]
 
